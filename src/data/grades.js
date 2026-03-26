@@ -1,0 +1,42 @@
+export const grades = [
+  {
+    id: 1,
+    name: 'Lớp 1',
+    emoji: '🌱',
+    color: '#FF6B6B',
+    bgGradient: 'linear-gradient(135deg, #FF6B6B, #FF8E8E)',
+    description: 'Những bước đầu tiên',
+  },
+  {
+    id: 2,
+    name: 'Lớp 2',
+    emoji: '🌻',
+    color: '#FF9F43',
+    bgGradient: 'linear-gradient(135deg, #FF9F43, #FFBE76)',
+    description: 'Khám phá con số',
+  },
+  {
+    id: 3,
+    name: 'Lớp 3',
+    emoji: '🚀',
+    color: '#54A0FF',
+    bgGradient: 'linear-gradient(135deg, #54A0FF, #74B9FF)',
+    description: 'Bay cao hơn nào!',
+  },
+  {
+    id: 4,
+    name: 'Lớp 4',
+    emoji: '⚡',
+    color: '#5F27CD',
+    bgGradient: 'linear-gradient(135deg, #5F27CD, #8854D0)',
+    description: 'Toán học nâng cao',
+  },
+  {
+    id: 5,
+    name: 'Lớp 5',
+    emoji: '🏆',
+    color: '#00B894',
+    bgGradient: 'linear-gradient(135deg, #00B894, #00CEC9)',
+    description: 'Nhà toán học nhí',
+  },
+];
