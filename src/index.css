@@ -205,7 +205,7 @@ body::after {
 
 .problem-illustration {
   background: #F0F4FF; padding: 20px; border-radius: var(--radius-md);
-  font-family: monospace; white-space: pre; text-align: center; font-size: 1.3rem; margin: 16px 0; color: #5F27CD; line-height: 1.3; border: 2px dashed #54A0FF;
+  font-family: monospace; white-space: pre; text-align: left; font-size: 1.3rem; margin: 16px auto; color: #5F27CD; line-height: 1.3; border: 2px dashed #54A0FF; width: fit-content; max-width: 100%; overflow-x: auto;
 }
 
 /* ============ GRADE CARDS ============ */
@@ -722,6 +722,347 @@ body::after {
   to { opacity: 0; visibility: hidden; }
 }
 
+/* ============ INTERACTIVE TOOLS ============ */
+.tools-container {
+  margin-top: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.tool-header {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.btn-tool {
+  background: white;
+  border: 2px solid var(--clr-border);
+  border-radius: var(--radius-md);
+  padding: 10px 16px;
+  font-weight: 800;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: var(--transition);
+  font-family: 'Nunito', sans-serif;
+  color: var(--clr-text);
+}
+.btn-tool:hover { transform: translateY(-2px); border-color: var(--clr-accent); }
+.btn-tool.active { background: var(--clr-accent); color: white; border-color: var(--clr-accent); }
+
+/* Drawing Board Enhanced */
+.drawing-tools-bar {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  padding: 8px 12px;
+  background: #34495e;
+  border-radius: 0 0 12px 12px;
+  gap: 8px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.drawing-tools-bar::-webkit-scrollbar { display: none; }
+
+.tool-group {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.btn-tool-mini {
+  padding: 6px 10px;
+  font-size: 0.8rem;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-weight: 700;
+  font-family: inherit;
+}
+
+.btn-tool-mini.active {
+  background: var(--clr-accent);
+  color: white;
+  border-color: var(--clr-accent);
+}
+
+.color-dot-mini {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 2px solid rgba(0,0,0,0.1);
+}
+
+.color-dot-mini.active {
+  transform: scale(1.2);
+  border-color: white;
+}
+
+.tool-panel {
+  background: white;
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  box-shadow: var(--shadow-md);
+  border: 2px solid var(--clr-border);
+  animation: slideIn 0.3s ease;
+}
+
+@keyframes slideIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* --- Stick Tool --- */
+.stick-workspace {
+  background: #FEF9E7;
+  border-radius: var(--radius-md);
+  padding: 20px;
+  min-height: 200px;
+  border: 2px dashed #F1C40F;
+  margin-bottom: 16px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 20px;
+}
+
+.stick-bundle-area {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  padding-right: 15px;
+  border-right: 2px solid #F1C40F44;
+  min-height: 100px;
+}
+
+.stick-single-area {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding-left: 5px;
+}
+
+.stick-bundle {
+  position: relative;
+  width: 50px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: popIn 0.3s ease;
+}
+
+.bundle-stick-art {
+  width: 40px;
+  height: 70px;
+  background: #E67E22;
+  border-radius: 6px;
+  border: 2px solid #D35400;
+  position: relative;
+  box-shadow: 2px 2px 0 rgba(0,0,0,0.1);
+}
+.bundle-stick-art::before {
+  content: '10';
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  color: white; font-weight: 900; font-size: 1.2rem;
+}
+.bundle-stick-art::after {
+  content: '';
+  position: absolute;
+  top: 50%; left: -5px; right: -5px;
+  height: 8px; background: #E74C3C;
+  border-radius: 4px; transform: translateY(-50%);
+}
+
+.stick-single {
+  width: 10px;
+  height: 70px;
+  background: #F39C12;
+  border-radius: 5px;
+  border: 1px solid #E67E22;
+  box-shadow: 1px 1px 0 rgba(0,0,0,0.1);
+  transform: rotate(2deg);
+  animation: popIn 0.2s ease;
+}
+
+.stick-controls {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+/* --- Drawing Board Refined --- */
+.drawing-layout {
+  display: grid;
+  grid-template-columns: 35px 1fr;
+  grid-template-rows: 35px 1fr auto;
+  background: #34495e;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.ruler-corner { background: #2c3e50; }
+
+.ruler-x {
+  background: #2c3e50;
+  height: 35px;
+  position: relative;
+  overflow: hidden;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.ruler-y {
+  background: #2c3e50;
+  width: 35px;
+  position: relative;
+  overflow: hidden;
+  border-right: 1px solid rgba(255,255,255,0.1);
+}
+
+.ruler-mark {
+  position: absolute;
+  color: #95a5a6;
+  font-size: 0.75rem;
+  font-weight: 800;
+  pointer-events: none;
+}
+
+.ruler-x .ruler-mark { 
+  top: 0; 
+  height: 100%;
+  border-left: 1px solid rgba(255,255,255,0.3);
+  padding-left: 4px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.ruler-y .ruler-mark { 
+  left: 0; 
+  width: 100%;
+  border-top: 1px solid rgba(255,255,255,0.3);
+  padding-top: 4px;
+}
+
+.drawing-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.canvas-wrapper {
+  background: #2D3436;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  cursor: crosshair;
+  position: relative;
+  touch-action: none;
+}
+
+.canvas-grid {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background-image: 
+    linear-gradient(rgba(255,255,255,0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,0.05) 1px, transparent 1px);
+  background-size: 20px 20px;
+}
+
+/* Clock Tool */
+.clock-face {
+  width: 220px;
+  height: 220px;
+  border: 8px solid #34495e;
+  border-radius: 50%;
+  position: relative;
+  background: white;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  user-select: none;
+  touch-action: none;
+}
+
+.clock-center {
+  width: 14px;
+  height: 14px;
+  background: #e74c3c;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+}
+
+.clock-number {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  color: #2c3e50;
+  pointer-events: none;
+  font-family: inherit;
+  font-size: 1.1rem;
+  top: 50%;
+  left: 50%;
+}
+
+.clock-hand {
+  position: absolute;
+  bottom: 50%;
+  left: 50%;
+  transform-origin: bottom center;
+  border-radius: 10px;
+  cursor: grab;
+  z-index: 5;
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.clock-face.dragging .clock-hand {
+  transition: none !important;
+}
+
+.clock-hand:active {
+  cursor: grabbing;
+}
+
+.hand-hour {
+  width: 8px;
+  height: 60px;
+  background: #2c3e50;
+  margin-left: -4px;
+}
+
+.hand-minute {
+  width: 5px;
+  height: 90px;
+  background: #3498db;
+  margin-left: -2.5px;
+}
+
+.digital-time {
+  font-family: 'Courier New', monospace;
+  font-size: 2.2rem;
+  background: #2c3e50;
+  color: #2ecc71;
+  padding: 10px 25px;
+  border-radius: 12px;
+  box-shadow: inset 0 4px 8px rgba(0,0,0,0.5);
+  font-weight: 900;
+}
+
 /* ============ RESPONSIVE ============ */
 @media (max-width: 600px) {
   .main-content { padding: 20px 14px; }
@@ -737,3 +1078,113 @@ body::after {
 @media (max-width: 360px) {
   .grade-grid { grid-template-columns: 1fr 1fr; }
 }
+
+/* ============ GEOMETRY SVG ============ */
+.figure-container {
+  background: white;
+  border: 2px solid var(--clr-border);
+  border-radius: var(--radius-md);
+  padding: 20px;
+  margin: 16px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: radial-gradient(var(--clr-border) 1px, transparent 1px);
+  background-size: 20px 20px;
+  box-shadow: inset 0 0 15px rgba(0,0,0,0.02);
+}
+
+.geometry-svg {
+  max-width: 100%;
+  height: auto;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));
+}
+
+.geometry-svg text {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 800;
+  pointer-events: none;
+}
+
+/* ============ STICK TOOL ENHANCEMENTS ============ */
+.stick-workspace {
+  background: #fdfdfd;
+  border: 4px solid #f0f0f0;
+  border-radius: 16px;
+  padding: 20px;
+  min-height: 120px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.bundle-stick-art {
+  width: 14px;
+  height: 50px;
+  background: #d35400;
+  border-radius: 3px;
+  position: relative;
+  box-shadow: 2px 2px 0 rgba(0,0,0,0.1);
+}
+
+.bundle-stick-art::after {
+  content: '';
+  position: absolute;
+  top: 15px; left: -2px; right: -2px; height: 4px;
+  background: #f1c40f;
+  border-radius: 2px;
+}
+
+/* ============ DRAWING BOARD GRID ============ */
+.canvas-grid {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  pointer-events: none;
+  opacity: 0.3;
+}
+
+.ruler-mark {
+  position: absolute;
+  font-size: 10px;
+  color: rgba(255,255,255,0.5);
+  font-weight: 800;
+}
+
+.tool-group {
+  border-right: 1px solid rgba(255,255,255,0.2);
+  padding-right: 12px;
+  margin-right: 4px;
+}
+.tool-group:last-child { border-right: none; }
+
+.geometric-polygon {
+  cursor: pointer;
+  transition: all 0.3s ease;
+  stroke-linejoin: round;
+  paint-order: stroke;
+}
+
+.geometric-polygon:hover {
+  fill: rgba(84, 160, 255, 0.2) !important;
+  stroke: var(--clr-accent) !important;
+  stroke-width: 4 !important;
+}
+
+.geometric-polygon.active {
+  filter: url(#shadow);
+  animation: pulsePolygon 2s infinite;
+}
+
+@keyframes pulsePolygon {
+  0% { opacity: 0.8; }
+  50% { opacity: 1; }
+  100% { opacity: 0.8; }
+}
+
+.vertex-label {
+  text-shadow: 0 0 4px white;
+  pointer-events: none;
+  user-select: none;
+}
+
+
