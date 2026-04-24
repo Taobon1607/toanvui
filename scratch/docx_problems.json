@@ -1,0 +1,3225 @@
+{
+  "g7-congnghe-1": {
+    "id": "g7-congnghe-1",
+    "topicId": "g7-congnghe",
+    "question": "Phơi đáy ao khoảng bao nhiêu ngày thì tiến hành lấy nước vào ao?",
+    "choices": [
+      "1 - 2 ngày.",
+      "3 - 5 ngày.",
+      "6 - 8 ngày.",
+      "10 ngày trở lên."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-2": {
+    "id": "g7-congnghe-2",
+    "topicId": "g7-congnghe",
+    "question": "Ưu điểm của chăn nuôi nông hộ là:\nA.Chi phí đầu tư chuồng trại thấp.B.Chi phí đầu tư chuồng trại cao.\nC.Năng suất chăn nuôi cao.D.Biện pháp xử lý chất thải tốt.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-congnghe-3": {
+    "id": "g7-congnghe-3",
+    "topicId": "g7-congnghe",
+    "question": "Cá chép làm giống không cần đảm bảo yêu cầu nào?",
+    "choices": [
+      "Đồng đều.",
+      "Khỏe mạnh.",
+      "Đắt tiền.",
+      "Không mang mầm bệnh."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-4": {
+    "id": "g7-congnghe-4",
+    "topicId": "g7-congnghe",
+    "question": "Trong nuôi cá thương phẩm, hằng ngày nên cho cá ăn hai lần vào thời gian nào sau đây?",
+    "choices": [
+      "6- 7 giờ sáng và 1- 2 giờ chiều.",
+      "7- 8 giờ sáng và 2 - 3 giờ chiều.",
+      "9- 10 giờ sáng và 4 - 5 giờ chiều.",
+      "8- 9 giờ sáng và 3 - 4 giờ chiều."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-5": {
+    "id": "g7-congnghe-5",
+    "topicId": "g7-congnghe",
+    "question": "Nếu thấy vật nuôi có biểu hiện bị dị ứng (phản ứng thuốc) sau khi tiêm vaccine thì phải?\nA.Tiêm vaccine trị bệnh cho vật nuôi.\nB.Tiếp tục theo dõi.\nC.Dùng thuốc chống dị ứng hoặc báo cho cán bộ thú y đến giải quyết kịp thời.\nD.Cho vật nuôi vận động mạnh để tạo ra miễn dịch.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-congnghe-6": {
+    "id": "g7-congnghe-6",
+    "topicId": "g7-congnghe",
+    "question": "Bệnh nào dưới đây có thể phát triển thành dịch?\nC.Bệnh ghẻ.D.Bệnh tả lợn châu Phi.",
+    "choices": [
+      "Bệnh viêm dạ dày.B.Bệnh giun đũa ở gà."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-7": {
+    "id": "g7-congnghe-7",
+    "topicId": "g7-congnghe",
+    "question": "Có mấy hình thức thu hoạch cá?\nA.1.B.2C.3D.4",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-congnghe-8": {
+    "id": "g7-congnghe-8",
+    "topicId": "g7-congnghe",
+    "question": "Hình thức “thu tỉa” cá nuôi trong ao được áp dụng trong trường hợp nào?",
+    "choices": [
+      "Khi cá lớn và mật độ nuôi dày.",
+      "Khi cá lớn.",
+      "Khi cá nuôi trong ao đạt kích cỡ thương phẩm.",
+      "Mật độ nuôi dày."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-9": {
+    "id": "g7-congnghe-9",
+    "topicId": "g7-congnghe",
+    "question": "Nếu nhiệt độ trong chuồng úm thích hợp với nhu cầu của cơ thể thì gà con sẽ có biểu hiện nào sau đây?\nA.Chụm lại thành đám ở dưới đèn úm.\nB.Tản ra, tránh xa đèn úm.\nC.Phân bố đều trên sàn, ăn uống và đi lại bình thường.\nD.Chụm lại một phía trong quây.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-congnghe-10": {
+    "id": "g7-congnghe-10",
+    "topicId": "g7-congnghe",
+    "question": "Bệnh nào dưới đây do kí sinh trùng gây ra?",
+    "choices": [
+      "Bệnh giun, sán.",
+      "Bệnh cảm lạnh.",
+      "Bệnh gà rù.",
+      "Bệnh lở mồm, long móng."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-11": {
+    "id": "g7-congnghe-11",
+    "topicId": "g7-congnghe",
+    "question": "Loài động vật nào sau đây không phải là động vật thủy sản?\nA.Tôm đồng.B.Cá ngừ.C.Lợn rừng.D.Ốc hương.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-congnghe-12": {
+    "id": "g7-congnghe-12",
+    "topicId": "g7-congnghe",
+    "question": "Nhóm loài thủy sản nào sau đây có giá trị kinh tế cao ?\nA.Tôm hùm, cá song.B.Cá tra, cá ba sa.C.Tôm thẻ, cá tra.D.Hàu, cua biển.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-congnghe-13": {
+    "id": "g7-congnghe-13",
+    "topicId": "g7-congnghe",
+    "question": "Trong nhóm các vật nuôi dưới đây nhóm nào là gia súc?\nA.Ngan, vịt, ngỗng.B.Trâu, bò, ngựa.C.Trâu, lợn, gà.D.Dê, gà, vịt.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-congnghe-14": {
+    "id": "g7-congnghe-14",
+    "topicId": "g7-congnghe",
+    "question": "Thời gian mang thai của Lợn cái sinh sản khoảng bao nhiêu ngày?\nA.Khoảng 108 – 112 ngày.B.Khoảng 100 – 107 ngày.C.Khoảng 95 – 100 ngày.D.Khoảng 113 – 115 ngày.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-congnghe-15": {
+    "id": "g7-congnghe-15",
+    "topicId": "g7-congnghe",
+    "question": "Khi gà có các biểu hiện “bỏ ăn, hay nằm, sã cánh, ngoẹo cổ, diều nhão, uống nhiều nước, chảy nước dãi, phân trắng” là có khả năng gà bị bệnh nào sau đây?\nA.Bệnh tiêu chảy.B.Bệnh nhiễm trùng.C.Bệnh dịch tả.D.Bệnh cúm gà.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-congnghe-16": {
+    "id": "g7-congnghe-16",
+    "topicId": "g7-congnghe",
+    "question": "Nguyên nhân gây ra bệnh gà rù (Newcastle) ở gà do:\nA.Môi trường nóng hay lạnh quá.B.Virut.C.Suy dinh dưỡng.D.Vi khuẩn.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-congnghe-17": {
+    "id": "g7-congnghe-17",
+    "topicId": "g7-congnghe",
+    "question": "Chăm sóc gà cần chia làm mấy giai đoạn?\nA.2.B.4C.1.D.3.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-congnghe-18": {
+    "id": "g7-congnghe-18",
+    "topicId": "g7-congnghe",
+    "question": "Khi dùng thuốc trị bệnh cho gà, cần đảm bảo mấy nguyên tắc?\nA.1.B.3.C.4.D.2.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-congnghe-19": {
+    "id": "g7-congnghe-19",
+    "topicId": "g7-congnghe",
+    "question": "Vùng biển Việt Nam có trữ lượng nguồn hải sản phong phú với bao nhiêu loài có giá trị kinh tế cao?",
+    "choices": [
+      "100 loài.",
+      "120 loài.",
+      "110 loài.",
+      "130 loài."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-20": {
+    "id": "g7-congnghe-20",
+    "topicId": "g7-congnghe",
+    "question": "Hình thức khai thác thuỷ sản nào sau đây là đúng quy định?\nC.Khai thác trong mùa sinh sản.D.Sử dụng lưới có kích cỡ mắt lưới cho phép.",
+    "choices": [
+      "Sử dụng thuốc nổ.",
+      "Sử dụng kích điện."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-21": {
+    "id": "g7-congnghe-21",
+    "topicId": "g7-congnghe",
+    "question": "Những phát biểu nào sau đây là đúng để khai thác và bảo vệ nguồn lợi thuỷ sản hiệu quả?\n1. Cần thiết lập các khu bảo tồn biển, bảo vệ, phục hồi các hệ sinh thái.\n2. Hạn chế đánh bắt ở khu vực gần bờ, đặc biệt là vào mùa tôm, cá sinh sản.\n3. Khai thác tối đa các loài thuỷ sản quý hiếm.\n4. Nghiêm cấm đánh bắt thuỷ sản bằng những phương tiện có tính chất huỷ diệt.\n5. Bảo vệ môi trường biển và sông, hồ, nơi sinh sống của các loài thuỷ sản.\n6. Cần có kế hoạch thả các loại thuỷ sản quý hiếm vào các ao, hồ tự nhiên.",
+    "choices": [
+      "A.1, 2, 4, 5, 6.B.1, 2, 4, 5.",
+      "2, 3, 4, 6.D.1, 3, 5, 7."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-22": {
+    "id": "g7-congnghe-22",
+    "topicId": "g7-congnghe",
+    "question": "Ý nào sau đâykhông phảilà vai trò của thuỷ sản.\nA.Cung cấp nguồn nguyên liệu cho xuất khẩu.\nB.Cung cấp nguồn thực phẩm có hàm lượng dinh dưỡng cao cho con người.\nC.Cung cấp thức ăn cho chăn nuôi.\nD.Cung cấp lương thực cho con người.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-congnghe-23": {
+    "id": "g7-congnghe-23",
+    "topicId": "g7-congnghe",
+    "question": "Quá trình chăm sóc gia súc cái sinh sản trải qua mấy giai đoạn?",
+    "choices": [
+      "2 giai đoạn.",
+      "3 giai đoạn.",
+      "4 giai đoạn.",
+      "5 giai đoạn."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-24": {
+    "id": "g7-congnghe-24",
+    "topicId": "g7-congnghe",
+    "question": "Vaccine là gì?",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-congnghe-25": {
+    "id": "g7-congnghe-25",
+    "topicId": "g7-congnghe",
+    "question": "Trong các nhóm thức ăn sau đây, sử dụng nhóm thức ăn nào cho gà là đảm bảo đủ chất dinh dưỡng?",
+    "choices": [
+      "Ngô, bột cá, rau xanh, khô dầu lạc, cám gạo.",
+      "Gạo, thóc, ngô, khoai lang, bột cá.",
+      "Rau muống, cơm nguội, ngô, thóc, rau bắp cải.",
+      "Bột ngô, rau xanh, cám gạo, cơm nguội, khoai lang."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-26": {
+    "id": "g7-congnghe-26",
+    "topicId": "g7-congnghe",
+    "question": "Người ta thường phòng trị bệnh cho cá bằng cách nào sau đây?",
+    "choices": [
+      "Tiêm thuốc cho cá.",
+      "Trộn thuốc vào thức ăn của cá.",
+      "Bôi thuốc cho cá.",
+      "Cho cá uống thuốc."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-27": {
+    "id": "g7-congnghe-27",
+    "topicId": "g7-congnghe",
+    "question": "Vào mùa hè, nên thả cá giống vào ao nuôi vào thời điểm nào trong ngày là tốt nhất?",
+    "choices": [
+      "Buổi sáng sớm hoặc buổi trưa.",
+      "Buổi trưa hoặc buổi chiều mát.",
+      "Buổi chiều mát hoặc buổi tối.",
+      "Buổi sáng sớm, buổi chiều mát hoặc buổi tối."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-28": {
+    "id": "g7-congnghe-28",
+    "topicId": "g7-congnghe",
+    "question": "Thả cá giống vào ao theo cách nào sau đây là đúng?",
+    "choices": [
+      "Buộc chặt và ngâm túi đựng cá giống trong ao từ 15 phút đến 20 phút trước khi thả.",
+      "Đổ cả túi cá xuống ao cùng lúc.",
+      "Thả từ từ, nhẹ nhàng, tránh sây sát.",
+      "Bắt từng con cá giống thả xuống ao."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-29": {
+    "id": "g7-congnghe-29",
+    "topicId": "g7-congnghe",
+    "question": "Khi lấy nước mới vào ao nuôi cá cần chú ý vấn đề nào sau đây?",
+    "choices": [
+      "Lọc nước qua túi lưới để tránh không cho cá tạp vào ao.",
+      "Khử trùng nước trước khi lấy nước vào ao.",
+      "Lọc nước qua túi lưới nhằm tránh không cho các vi sinh vật gây bệnh vào ao.",
+      "Sử dụng 50% nước cũ và 50% nước mới."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-30": {
+    "id": "g7-congnghe-30",
+    "topicId": "g7-congnghe",
+    "question": "Rắc vôi bột vào đáy ao, phơi ao có tác dụng gì?",
+    "choices": [
+      "Cải tạo độ mặn cho nước ao.",
+      "Tạo độ trong cho nước ao.",
+      "Tiêu diệt các mầm bệnh có trong đáy ao.",
+      "Tăng lượng vi sinh vật trong đáy ao để làm thức ăn cho cá."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-31": {
+    "id": "g7-congnghe-31",
+    "topicId": "g7-congnghe",
+    "question": "Tại sao trong công đoạn chuẩn bị cá giống lại yêu câu cá đồng đều về kích cỡ?",
+    "choices": [
+      "Để cá trong đàn cạnh tranh nhau thức ăn.",
+      "Tránh tình trạng cá lớn nuốt cá bé.",
+      "Hi vọng nhanh được thu hoạch.",
+      "Để tiết kiệm thức ăn và công chăm sóc."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-32": {
+    "id": "g7-congnghe-32",
+    "topicId": "g7-congnghe",
+    "question": "Loài thủy sản nào dưới đây có giá trị xuất khẩu cao?",
+    "choices": [
+      "Cá rô phi.",
+      "Cá chép.",
+      "Cá basa.",
+      "Cá mè."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-33": {
+    "id": "g7-congnghe-33",
+    "topicId": "g7-congnghe",
+    "question": "Đâu là giống chó cảnh được nuôi trong gia đình?",
+    "choices": [
+      "Chó Alaska.",
+      "Chó sói.",
+      "Chó săn.",
+      "Chó hoang."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-34": {
+    "id": "g7-congnghe-34",
+    "topicId": "g7-congnghe",
+    "question": "Không cần chi phí nào dưới đây để nuôi một số giống mèo cảnh?",
+    "choices": [
+      "Giống.",
+      "Thức ăn.",
+      "Phòng, trị bệnh.",
+      "Đi du lịch."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-35": {
+    "id": "g7-congnghe-35",
+    "topicId": "g7-congnghe",
+    "question": "Sản phẩm nào sau đây không được chế biến từ thủy sản?\nPHẦN II: TỰ LUẬN",
+    "choices": [
+      "Ruốc cá hồi.",
+      "Xúc xích thịt heo.",
+      "Cá thu đóng hộp.",
+      "Tôm nõn."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-congnghe-36": {
+    "id": "g7-congnghe-36",
+    "topicId": "g7-congnghe",
+    "question": "So sánh sự khác biệt giữa phương thức chăn nuôi nông hộ và chăn nuôi trang trại? Theo em phương thức chăn nuôi nào phát triển hơn trong tương lai?",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-congnghe-37": {
+    "id": "g7-congnghe-37",
+    "topicId": "g7-congnghe",
+    "question": "Em hiểu như thế nào về câu nói “Phòng bệnh hơn chữa bệnh” ở vật nuôi?",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-congnghe-38": {
+    "id": "g7-congnghe-38",
+    "topicId": "g7-congnghe",
+    "question": "Em hãy cho biết vai trò của thuỷ sản và các biện pháp để bảo vệ môi trường nuôi thuỷ sản?",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-congnghe-39": {
+    "id": "g7-congnghe-39",
+    "topicId": "g7-congnghe",
+    "question": "Kể tên các loại ao nuôi cá mà em biết? Nêu quy trình các bước chuẩn bị ao nuôi cá và cá giống?",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-congnghe-40": {
+    "id": "g7-congnghe-40",
+    "topicId": "g7-congnghe",
+    "question": "Nhà bạn H chuẩn bị nuôi cá rô phi, để kiểm tra nhiệt độ, độ trong của nước ao nuôi cá thì bố bạn H cần tiến hành đo nhiệt độ, độ trong như thế nào?",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-congnghe-41": {
+    "id": "g7-congnghe-41",
+    "topicId": "g7-congnghe",
+    "question": "Là học sinh em cần phải làm gì để bảo vệ môi trường nuôi thủy sản?",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-gdcd-1": {
+    "id": "g7-gdcd-1",
+    "topicId": "g7-gdcd",
+    "question": "Nội dung nào dưới đây không phải là biểu hiện của căng thẳng?",
+    "choices": [
+      "Thường xuyên đau đầu, đau cơ bắp, chóng mặt…",
+      "Cảm thấy chán nản, lo lắng, khó chịu, buồn bã…",
+      "Dễ nổi cáu, bực bội hoặc nóng tính.",
+      "Tinh thần phấn chấn, vui tươi."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-2": {
+    "id": "g7-gdcd-2",
+    "topicId": "g7-gdcd",
+    "question": "Nội dung nào dưới đây không phải là biểu hiện của căng thẳng?",
+    "choices": [
+      "Thường xuyên đau đầu, đau cơ bắp, chóng mặt…",
+      "Cảm thấy chán nản, lo lắng, khó chịu, buồn bã…",
+      "Dễ nổi cáu, bực bội hoặc nóng tính.",
+      "Vui mừng phấn khởi vì đạt giải cao."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-3": {
+    "id": "g7-gdcd-3",
+    "topicId": "g7-gdcd",
+    "question": "Nguyên nhân khách quan dẫn đến bạo lực học đường là do",
+    "choices": [
+      "sự phát triển kinh tế xã hội.",
+      "quá trình hội nhập quốc tế.",
+      "mong muốn khẳng định cái tôi.",
+      "tác động từ các trò chơi bạo lực."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-4": {
+    "id": "g7-gdcd-4",
+    "topicId": "g7-gdcd",
+    "question": "Một trong những biểu hiện của bạo lực học đường là người bị bạo lực có thể bị",
+    "choices": [
+      "nhận xét.",
+      "chia sẻ.",
+      "ca ngợi.",
+      "đánh đập."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-5": {
+    "id": "g7-gdcd-5",
+    "topicId": "g7-gdcd",
+    "question": "Khi đối diện với các hành vi bạo lực học đường, học sinh không thực hiện hành vi nào dưới đây",
+    "choices": [
+      "Nhanh chóng rời khỏi vị trí.",
+      "Tìm cách thoát khỏi tình huống nguy hiểm.",
+      "Kịp thời nhờ sự giúp đỡ của người khác.",
+      "Gọi bạn bè đến đánh lại."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-6": {
+    "id": "g7-gdcd-6",
+    "topicId": "g7-gdcd",
+    "question": "Hành vi nào dưới đây biểu hiện cho tệ nạn xã hội?",
+    "choices": [
+      "Học sinh hút thuốc.",
+      "Đi chới công viên với bố mẹ.",
+      "Học hành chăm chỉ.",
+      "Nghe lời thầy cô."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-7": {
+    "id": "g7-gdcd-7",
+    "topicId": "g7-gdcd",
+    "question": "Em tán thành với ý kiến nào sau đây?",
+    "choices": [
+      "Dùng thử ma túy một lần thì cũng không sao.",
+      "Hút thuốc lá không có hại vì đó không phải là ma túy.",
+      "Thấy người buôn bán ma túy nên lờ đi, coi như không biết.",
+      "Tệ nạn xã hội là con đường dẫn đến tội ác."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-8": {
+    "id": "g7-gdcd-8",
+    "topicId": "g7-gdcd",
+    "question": "Theo quy định của pháp luật, hành vi nào dưới đây không bị cấm?",
+    "choices": [
+      "Nghiện, hút chất ma túy.",
+      "Học sinh hút thuốc là điện tử.",
+      "Vận chuyển, tàng trữ chất cấm.",
+      "Tuyên truyền đẩy lùi tệ nạn ma túy."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-9": {
+    "id": "g7-gdcd-9",
+    "topicId": "g7-gdcd",
+    "question": "Là học sinh em cần làm gì để chống tệ nạn xã hội?",
+    "choices": [
+      "Tuyên truyền mọi người xung quanh",
+      "Tự ý giải quyết sự việc.",
+      "Cổ vũ ủng hộ đánh bạc.",
+      "Bao che đối tượng nghiện hút"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-10": {
+    "id": "g7-gdcd-10",
+    "topicId": "g7-gdcd",
+    "question": "Hành động nào dưới đây thể hiện quyền và nghĩa vụ của cha mẹ đối với con cái là",
+    "choices": [
+      "ép buộc con làm theo ý mình.",
+      "ép con nghỉ học để đi làm kiếm tiền.",
+      "không coi trọng ý kiến của con.",
+      "nuôi dạy, bảo vệ và tôn trọng con."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-11": {
+    "id": "g7-gdcd-11",
+    "topicId": "g7-gdcd",
+    "question": "Quyền và nghĩa vụ của công dân trong gia đình được thể hiện rõ nhất trong văn bản pháp luật nào dưới đây?",
+    "choices": [
+      "Luật trẻ em.",
+      "Luật lao động.",
+      "Luật tố tụng hình sự.",
+      "Luật Hôn nhân và gia đình."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-12": {
+    "id": "g7-gdcd-12",
+    "topicId": "g7-gdcd",
+    "question": "Luật Hôn nhân và Gia đình năm 2014 nghiêm cấm hành vi nào dưới đây giữa con cái với cha mẹ?",
+    "choices": [
+      "Yêu quý, kính trọng, biết ơn cha mẹ.",
+      "Chăm sóc và phụng dưỡng cha mẹ.",
+      "Ngược đãi và xúc phạm cha mẹ.",
+      "Giúp đỡ cha mẹ những công việc gia đình."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-13": {
+    "id": "g7-gdcd-13",
+    "topicId": "g7-gdcd",
+    "question": "“Thường xuyên đau đầu, chóng mặt, dễ nổi cáu, bực bội hoặc nóng tính…” đó là những biểu hiện của",
+    "choices": [
+      "căng thẳng.",
+      "kiên trì học tập.",
+      "giữ chữ tín.",
+      "bạo lực học đường."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-14": {
+    "id": "g7-gdcd-14",
+    "topicId": "g7-gdcd",
+    "question": "“Thường xuyên lo âu sợ sệt, tâm lý bất an…” đó là những biểu hiện của",
+    "choices": [
+      "căng thẳng.",
+      "kiên trì học tập.",
+      "giữ chữ tín.",
+      "bạo lực học đường."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-15": {
+    "id": "g7-gdcd-15",
+    "topicId": "g7-gdcd",
+    "question": "Nguyên nhân chủ quan quan của bạo lực học đường là do",
+    "choices": [
+      "sự phát triển kinh tế xã hội.",
+      "quá trình hội nhập quốc tế.",
+      "mong muốn khẳng định cái tôi.",
+      "sự phát triển của tâm lí lứa tuổi."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-16": {
+    "id": "g7-gdcd-16",
+    "topicId": "g7-gdcd",
+    "question": "Để không xảy ra bạo lực học đường, học sinh cần thực hiện tốt việc nào dưới đây",
+    "choices": [
+      "Giữ kín mọi chuyện, không chia sẻ cùng ai.",
+      "Cố gắng giải quyết mâu thuẫn.",
+      "Tìm cách nói xấu những bạn kia với giáo viên.",
+      "Mặc kệ, không làm gì cả."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-17": {
+    "id": "g7-gdcd-17",
+    "topicId": "g7-gdcd",
+    "question": "Khi bị bạo lực học đường, chúng ta không nên sử dụng sự trợ giúp nào dưới đây",
+    "choices": [
+      "Người thân, gia đình.",
+      "Các thầy cô giáo, nhà trường.",
+      "Cơ quan chính quyền chức năng.",
+      "Thuê con đồ để trả thù."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-18": {
+    "id": "g7-gdcd-18",
+    "topicId": "g7-gdcd",
+    "question": "Em tán thành với ý kiến nào sau đây?",
+    "choices": [
+      "Dùng thử ma túy một lần thì cũng không sao.",
+      "Hút thuốc lá không có hại vì đó không phải là ma túy.",
+      "Thấy người buôn bán ma túy nên lờ đi, coi như không biết.",
+      "Tệ nạn xã hội là con đường dẫn đến tội ác."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-19": {
+    "id": "g7-gdcd-19",
+    "topicId": "g7-gdcd",
+    "question": "Những tệ nạn xã hội nào sau đây được coi là con đường ngắn nhất làm lây lan HIV/AIDS?",
+    "choices": [
+      "Cờ bạc.",
+      "Ma túy và mại dâm.",
+      "Rượu chè.",
+      "Thuốc lá."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-20": {
+    "id": "g7-gdcd-20",
+    "topicId": "g7-gdcd",
+    "question": "Trong công tác phòng chống tệ nạn xã hội, hành vi nào dưới đây là hành vi vi phạm pháp luật?",
+    "choices": [
+      "Học sinh hút thuốc điện tử.",
+      "Tuyên truyền tác hại thuốc lá.",
+      "Vẽ tranh cổ động tác hại thuốc lá.",
+      "Thi tìm hiểu về tác hại của thuốc lá."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-21": {
+    "id": "g7-gdcd-21",
+    "topicId": "g7-gdcd",
+    "question": "Em sẽ làm gì khi thấy bạn mình đang giúp một người vận chuyển chất ma túy?",
+    "choices": [
+      "Báo cáo cơ quan chức năng.",
+      "Lờ đi coi như không biết",
+      "Mặc kệ không quan tâm.",
+      "Nói với các bạn khác."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-22": {
+    "id": "g7-gdcd-22",
+    "topicId": "g7-gdcd",
+    "question": "Hành vi nào dưới đây thực hiện đúng quyền và nghĩa vụ của con đối với cha mẹ?",
+    "choices": [
+      "Không giúp đỡ cha mẹ làm việc nhà",
+      "Làm theo lời cha mẹ bất kể đúng hay sai",
+      "Chỉ chăm sóc khi cha mẹ già, yếu",
+      "Kính trọng, yêu thương cha mẹ."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-23": {
+    "id": "g7-gdcd-23",
+    "topicId": "g7-gdcd",
+    "question": "Trong mối quan hệ giữa cha mẹ với con cái, cha mẹ có quyền và nghĩa vụ",
+    "choices": [
+      "phân biệt đối xử giữa các con.",
+      "nuôi dạy con thành công dân tốt.",
+      "ép buộc con làm điều trái pháp luật.",
+      "ép buộc con làm điều trái đạo đức."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-24": {
+    "id": "g7-gdcd-24",
+    "topicId": "g7-gdcd",
+    "question": "Đối với các hành vi ngược đãi, xúc phạm cha mẹ, ông bà chúng ta cần phải làm gì?\nIII. TỰ LUẬN",
+    "choices": [
+      "Lên án.",
+      "Bắt chước.",
+      "Làm theo.",
+      "Mặc kệ."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-gdcd-25": {
+    "id": "g7-gdcd-25",
+    "topicId": "g7-gdcd",
+    "question": "Tệ nạn xã hội là gì, hãy nêu những nguyên nhân dẫn đến tệ nạn xã hội. Hãy kể tên một số loại tệ nạn xã hội phổ biến.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-gdcd-26": {
+    "id": "g7-gdcd-26",
+    "topicId": "g7-gdcd",
+    "question": "Em hãy xử lí tình huống dưới đây\n“ Xem quảng cáo trên mạng xã hội, cô K biết được ở một huyện miền núi có một ông thầy cúng có thể cúng để điều trị cắt cơn cho người nghiện ma túy. Theo như quảng cáo thì ông thầy này đã giúp cho rất nhiều người hết nghiện ma tuý bằng việc cúng bái. Cô K phân vân không biết có nên đưa cậu con trai đang nghiện ma tuý đến để điều trị hay không”.\nTình huống trên đề cập đến tệ nạn xã hội nào?  Theo em, thầy cúng có thể chữa nghiện ma tuý không?. Em có lời khuyên gì cho cô K?",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-gdcd-27": {
+    "id": "g7-gdcd-27",
+    "topicId": "g7-gdcd",
+    "question": "Em hãy xử lí tình huống dưới đây:\n“Giờ ra chơi, một nhóm bạn nam lớp 7D thường tụ tập chơi bài. Lúc đầu, các bạn chỉ chơi cho vui, ai thua thì bị phạt búng tai hoặc nhảy lò cò. Một lần, N đề nghị: “Chơi thế này chán lắm, hay là chúng mình chơi ăn tiền đi cho thích\". M vội can ngăn: “Không được đâu, chơi ăn tiền là đánh bạc, là vi phạm pháp luật, không cẩn thận chúng mình sa vào tệ nạn xã hội đấy!”. N đáp: “Ôi dào, mình chơi có 1.000 đồng, 2.000 đồng, số tiền nhỏ sao mà vi phạm pháp luật được. Cậu cứ nói quá!”.\nTình huống trên đề cập đến tệ nạn xã hội nào Em đồng ý với ý kiến của N hay M trong tình huống trên? Vì sao? Nếu là bạn cùng lớp với N và M, em sẽ ứng xử như thế nào?",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-lichsu-1": {
+    "id": "g7-lichsu-1",
+    "topicId": "g7-lichsu",
+    "question": "",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-lichsu-2": {
+    "id": "g7-lichsu-2",
+    "topicId": "g7-lichsu",
+    "question": "- Đặc điểm dân cư – xã hội Trung và Nam Mỹ.\n( các đặc điểm về dân cư, chủng tộc, đô thị hóa, văn hóa)\n- Phương thức con người khai thác, sử dụng và bảo vệ thiên nhiên.\n- Khai thác sử dụng và bảo vệ rừng A- ma-dôn\n( Vai trò, đặc điểm, vấn đề khai thác và sử dụng rừng A- Ma-dôn)\n- Kĩ năng đọc, hiểu lược đồ dân đô thị và một số đô thị ( hình 1 trang 153 )\n- Kĩ năng phân tích bảng số liệu, rút ra nhận xét",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-lichsu-3": {
+    "id": "g7-lichsu-3",
+    "topicId": "g7-lichsu",
+    "question": "PHÂN MÔN LỊCH SỬ",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-lichsu-4": {
+    "id": "g7-lichsu-4",
+    "topicId": "g7-lichsu",
+    "question": ", Bài 10, Bài 11, Bài 12, Bài 13: xem lại đề cương giữa học kì II. Bài 14: Ba lần kháng chiến chống quân xâm lược Mông – Nguyên",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-lichsu-5": {
+    "id": "g7-lichsu-5",
+    "topicId": "g7-lichsu",
+    "question": "Nước Đại Ngu thời Hồ (1400 - 1407)",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-lichsu-6": {
+    "id": "g7-lichsu-6",
+    "topicId": "g7-lichsu",
+    "question": "Khởi nghĩa Lam Sơn (1418 – 1427)\nTRẮC NGHIỆM",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-lichsu-7": {
+    "id": "g7-lichsu-7",
+    "topicId": "g7-lichsu",
+    "question": "Sự phân hóa tự nhiên theo chiều cao ở Trung và Nam Mỹ thể hiện rõ rệt nhất ở đâu?",
+    "choices": [
+      "Các sơn nguyên phía Đông.",
+      "Đồng bằng ở giữa.",
+      "Dãy núi An-đét.",
+      "Phía Nam Nam Mĩ."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-8": {
+    "id": "g7-lichsu-8",
+    "topicId": "g7-lichsu",
+    "question": "Càng lên cao thiên nhiên của dãy núi An-đét càng thay đổi phụ thuộc vào sự thay đổi của yếu tố nào?",
+    "choices": [
+      "Hướng địa hình.",
+      "Độ cao địa hình.",
+      "Nhiệt độ.",
+      "Nhiệt độ và độ ẩm."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-9": {
+    "id": "g7-lichsu-9",
+    "topicId": "g7-lichsu",
+    "question": "Người Anh-điêng ở Trung và Nam Mỹ thuộc chủng tộc nào?",
+    "choices": [
+      "Nê-grô-it.",
+      "Môn-gô -lô- it.",
+      "Ơ-rô-pê-ô-it.",
+      "Người lai."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-10": {
+    "id": "g7-lichsu-10",
+    "topicId": "g7-lichsu",
+    "question": "Người châu Âu đến Trung và Nam Mỹ chủ yếu đến từ những nước nào?",
+    "choices": [
+      "Tây Ban Nha và Bồ Đào Nha.",
+      "Đức và I-ta-li-a.",
+      "Thụy điển và Bỉ.",
+      "Anh và Pháp."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-11": {
+    "id": "g7-lichsu-11",
+    "topicId": "g7-lichsu",
+    "question": "Tốc độ đô thị hóa nhanh ở Trung và Nam Mĩ không để lại hậu quả nào?",
+    "choices": [
+      "Thất nghiệp.",
+      "Ô nhiễm môi trường.",
+      "Tệ nạn xã hội, tội phạm.",
+      "Văn hóa đa dạng"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-12": {
+    "id": "g7-lichsu-12",
+    "topicId": "g7-lichsu",
+    "question": "Lễ hội hóa trang ( lễ hội Các-na-van) là nét văn hóa đặc sắc của quốc gia nào",
+    "choices": [
+      "Pê-ru",
+      "Bra-xin",
+      "Vê-nê-xu-ê-la.",
+      "Chi-lê"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-13": {
+    "id": "g7-lichsu-13",
+    "topicId": "g7-lichsu",
+    "question": "Những ngôn ngữ nào được sử dụng nhiều ở Trung và Nam Mỹ?",
+    "choices": [
+      "Tiếng Anh và Pháp.",
+      "Tiếng Anh và Tây Ban Nha.",
+      "Tiếng Nga và Anh.",
+      "Tiếng Tây Ban Nha và Bồ Đào Nha."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-14": {
+    "id": "g7-lichsu-14",
+    "topicId": "g7-lichsu",
+    "question": "Sinh vật rừng A-ma-dôn rất phong phú nguyên nhân do đâu?",
+    "choices": [
+      "Khí hậu nóng ẩm.",
+      "Diện tích rộng lớn.",
+      "Sông ngòi dày đặc.",
+      "Địa hình bằng phẳng."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-15": {
+    "id": "g7-lichsu-15",
+    "topicId": "g7-lichsu",
+    "question": "Phần lớn diện tích rừng Amazon thuộc địa phận quốc gia nào?",
+    "choices": [
+      "B- ra-xinB. Cô-lôm-bia",
+      "Mê-hi-cô",
+      "Ác-hen-ti-na"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-16": {
+    "id": "g7-lichsu-16",
+    "topicId": "g7-lichsu",
+    "question": "Rừng A- ma -dôn không có vai trò nào sau đây?",
+    "choices": [
+      "là lá phổi xanh của trái đất",
+      "Nguồn dự trữ sinh học quý giá",
+      "Giúp điều hòa khí hậuD. Cung cấp sản lượng gỗ cho toàn thế giới"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-17": {
+    "id": "g7-lichsu-17",
+    "topicId": "g7-lichsu",
+    "question": "Đâu không phải một nền văn hoá cổ ở Trung và Nam Mỹ?",
+    "choices": [
+      "Maya",
+      "Inca",
+      "Lưỡng Hà",
+      "Aztec"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-18": {
+    "id": "g7-lichsu-18",
+    "topicId": "g7-lichsu",
+    "question": "Quá trình đô thị hóa của Trung và Nam Mỹ có đặc điểm nào sau đây?",
+    "choices": [
+      "A.Chậm nhất thế giới",
+      "Diễn ra sớm, tốc độ chậm",
+      "Trình độ đô thị hóa còn thấp",
+      "Đô thị hóa nhanh nhất thế giới"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-19": {
+    "id": "g7-lichsu-19",
+    "topicId": "g7-lichsu",
+    "question": "Vì sao khu vực Trung và Nam Mỹ còn được gọi là “châu Mỹ La-tinh”?",
+    "choices": [
+      "Vì La-tinh là một nét văn hoá truyền thống của khu vực này.",
+      "Vì đây là quy ước của các nước Tây Ban Nha và Bồ Đào Nha đặt cho khu vực này khi đến đây xâm chiếm.",
+      "Vì trước đây, phần lớn khu vực này từng là thuộc địa của Tây Ban Nha và Bồ Đào Nha, mà ngôn ngữ của hai nước này lại thuộc ngữ hệ La-tinh.",
+      "Tất cả các đáp án trên."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-20": {
+    "id": "g7-lichsu-20",
+    "topicId": "g7-lichsu",
+    "question": "Đường chí tuyến Nam chạy qua nơi nào sau đây ở châu Đại Dương?",
+    "choices": [
+      "Chuỗi đảo Mi-crô-nê-di.",
+      "Quần đảo Niu Di-len.",
+      "Chuỗi đảo Mê-la-nê-di.",
+      "Lục địa Ô-xtrây-li-a."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-21": {
+    "id": "g7-lichsu-21",
+    "topicId": "g7-lichsu",
+    "question": "Nhận định nào sau đây không đúng về vị trí lục địa  địa Ô-xtrây-li-a?",
+    "choices": [
+      "Nằm phía Nam Bán cầu",
+      "Phía tây nam của Thái Bình Dương",
+      "Hầu hết diện tích thuộc đới ôn hòa.",
+      "Có đường chí tuyến Nam chạy qua"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-22": {
+    "id": "g7-lichsu-22",
+    "topicId": "g7-lichsu",
+    "question": "Lục địa Ô-xtrây-li-a tiếp giáp với những đại dương nào?",
+    "choices": [
+      "Đại Tây Dương và Bắc Băng Dương",
+      "Thái Bình Dương và Nam Đại Dương",
+      "Ấn Độ Dương và Thái Bình DươngD.Ấn Độ Dương và Đại Tây Dương"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-23": {
+    "id": "g7-lichsu-23",
+    "topicId": "g7-lichsu",
+    "question": "Vùng đảo châu Đại Dương nằm ở đâu?",
+    "choices": [
+      "Trung tâm Thái Bình Dương.",
+      "Trung tâm Đại Tây Dương.",
+      "Trung tâm Ấn Độ Dương.",
+      "Trung tâm Bắc Băng Dương."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-24": {
+    "id": "g7-lichsu-24",
+    "topicId": "g7-lichsu",
+    "question": "Đặc điểm nào sau đây không đúng về dãy Trường Sơn Ô-xtrây-li-a?",
+    "choices": [
+      "Cao trung bình 800-1000m",
+      "Sườn đông dốc, sườn Tây thoải",
+      "Bề mặt là hoang mạc cát, hoang mạc đá.",
+      "Là nơi tập trung nhiều khoáng sản nhiên liệu"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-25": {
+    "id": "g7-lichsu-25",
+    "topicId": "g7-lichsu",
+    "question": "Sơn nguyên tây Ô-xtrây-li-a có đặc điểm như thế nào?",
+    "choices": [
+      "Là các hoang mạc cát, hoang mạc đá, cao nguyên và núi thấp.",
+      "Là các cao nguyên rộng lớn, đất đai màu mỡ.",
+      "Là các sườn dốc, xen lẫn đồng bằng cát và đụn cát.",
+      "Là các hoang mạc cát xen lẫn cao nguyên và hẻm vực."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-26": {
+    "id": "g7-lichsu-26",
+    "topicId": "g7-lichsu",
+    "question": "Khu vực nào ở Ô-xtrây-li-a có lượng mưa cao nhất?",
+    "choices": [
+      "Dải bờ biển hẹp ở phía Bắc.",
+      "Sườn tây của dãy Trường Sơn Ô-xtrây-li-a.",
+      "Dải đất hẹp phía nam lục địa.",
+      "Phía nam của đảo Ta-xma-ni-a."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-27": {
+    "id": "g7-lichsu-27",
+    "topicId": "g7-lichsu",
+    "question": "Khu vực trung tâm lục địa Ô-xtrây-li-a có khí hậu?",
+    "choices": [
+      "Mát mẻ.",
+      "Nóng, ẩm, mưa nhiều.",
+      "Nhiệt đới khô và cận nhiệt lục địa.",
+      "Điều hòa, mưa nhiều."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-28": {
+    "id": "g7-lichsu-28",
+    "topicId": "g7-lichsu",
+    "question": "Sườn đông dãy Trường Sơn Ô-xtrây-li-a có khí hậu",
+    "choices": [
+      "cận nhiệt đới, mùa nhiều.",
+      "cận xích đạo, nóng ẩm.",
+      "nhiệt đới ẩm, mưa nhiều.",
+      "nhiệt đới lục địa, ít mưa"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-29": {
+    "id": "g7-lichsu-29",
+    "topicId": "g7-lichsu",
+    "question": "Dải đất hẹp phái Nam lục địa  có khí hậu",
+    "choices": [
+      "xích đạo",
+      "cận xích đạo",
+      "nhiệt đớiD. cận nhiệt đới"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-30": {
+    "id": "g7-lichsu-30",
+    "topicId": "g7-lichsu",
+    "question": "Dải bờ biển hẹp phái Bắc lục địa Ô-xtrây-li-a có khí hậu",
+    "choices": [
+      "xích đạoB. cận xích đạoC. nhiệt đới",
+      "ôn đới"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-31": {
+    "id": "g7-lichsu-31",
+    "topicId": "g7-lichsu",
+    "question": "Loài thực vật bản địa nổi bật của lục địa Ô-xtrây-li-a là",
+    "choices": [
+      "thông",
+      "hoa anh đào",
+      "bạch đànD. địa y"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-32": {
+    "id": "g7-lichsu-32",
+    "topicId": "g7-lichsu",
+    "question": "Bộ chính sử đầu tiên của Đại Việt được biên soạn dưới thời Trần là",
+    "choices": [
+      "Đại Nam thực lục.",
+      "Đại Việt sử kí toàn thư.",
+      "Đại Việt sử kí.",
+      "Việt Nam sử lược."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-33": {
+    "id": "g7-lichsu-33",
+    "topicId": "g7-lichsu",
+    "question": "Nội dung nào sau đây không phản ánh đúng chính sách của nhà Trần đối với giáo dục?",
+    "choices": [
+      "Quốc Tử Giám được mở rộng để đào tạo con em quý tộc, quan lại.",
+      "Nhiều trường tư được khuyến khích thành lập.",
+      "Các kì thi Nho học được tổ chức quy củ.",
+      "Dựng bia Tiến sĩ ở Văn Miếu."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-34": {
+    "id": "g7-lichsu-34",
+    "topicId": "g7-lichsu",
+    "question": "Khi Mông Cổ cho sứ giả đến đưa thư đe dọa và dụ hàng vua Trần thái độ của vua Trần như thế nào?",
+    "choices": [
+      "Trả lại thư ngay",
+      "Bắt giam vào ngục",
+      "Tỏ thái độ giảng hòa",
+      "Chém đầu sứ giả ngay tại chỗ"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-35": {
+    "id": "g7-lichsu-35",
+    "topicId": "g7-lichsu",
+    "question": "Trong cuộc kháng chiến chống quân Mông Cổ lần thứ nhất, trước thế giặc mạnh, nhà Trần đã rút khỏi Thăng Long về vùng nào?",
+    "choices": [
+      "Thiên Trường",
+      "Thiên Mạc",
+      "Vạn Kiếp",
+      "Long Hưng"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-36": {
+    "id": "g7-lichsu-36",
+    "topicId": "g7-lichsu",
+    "question": "Trận phản công nào của quân dân nhà Trần đã đánh bại cuộc xâm lược Đại Việt lần thứ nhất của quân Mông Cổ?",
+    "choices": [
+      "Tây Kết",
+      "Chương Dương",
+      "Đông Bộ Đầu",
+      "Hàm Tử"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-37": {
+    "id": "g7-lichsu-37",
+    "topicId": "g7-lichsu",
+    "question": "Nhà Trần khi thực hiện kế sách \"vườn không nhà trống\"khôngnhằm mục đích nào sau đây?",
+    "choices": [
+      "Tránh sức mạnh ban đầu của quân Mông Cổ",
+      "Khoét sâu vào điểm yếu của quân Mông Cổ",
+      "Củng cố lực lượng chờ phản công",
+      "Đánh nhanh thắng nhanh"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-38": {
+    "id": "g7-lichsu-38",
+    "topicId": "g7-lichsu",
+    "question": "“Đầu thần chưa rơi xuống xin bệ hạ đừng lo”. Đó là câu nói của ai?",
+    "choices": [
+      "Trần Quốc Tuấn",
+      "Trần Bình Trọng",
+      "Trần Quốc Toản",
+      "Trần Thủ Độ"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-39": {
+    "id": "g7-lichsu-39",
+    "topicId": "g7-lichsu",
+    "question": "Câu nói “Nếu bệ hạ muốn hàng giặc thì trước hãy chém đầu thần rồi hãy hàng” là của",
+    "choices": [
+      "Trần Quốc ToảnB. Trần Thủ ĐộC. Trần Quang KhảiD. Trần Quốc Tuấn"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-40": {
+    "id": "g7-lichsu-40",
+    "topicId": "g7-lichsu",
+    "question": "Địa danh nào gắn liền với những chiến công hiển hách của quân dân nhà Trần trong cuộc kháng chiến lần thứ hai chống quân xâm lược Nguyên?",
+    "choices": [
+      "Bình Than, Đông Bộ Đầu, Vạn Kiếp.",
+      "Tây Kết, Hàm Tử, Chương Dương.",
+      "Thiên Trường, Thăng Long.",
+      "Bạch Đằng."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-41": {
+    "id": "g7-lichsu-41",
+    "topicId": "g7-lichsu",
+    "question": "Trong cuộc kháng chiến chống quân Nguyên lần thứ hai, ai là người tự giương cao lá cờ: “Phá cường địch, báo hoàng ân”?",
+    "choices": [
+      "Trần Quốc Tuấn.",
+      "Phạm Ngũ Lão.",
+      "Trần Khánh Dư.",
+      "Trần Quốc Toản."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-42": {
+    "id": "g7-lichsu-42",
+    "topicId": "g7-lichsu",
+    "question": "Vào cuối tháng 1 - 1285, 50 vạn quân Nguyên do ai chỉ huy tràn vào xâm lược Đại Việt?",
+    "choices": [
+      "Thoát Hoan.",
+      "Hốt Tất Liệt.",
+      "Ô Mã Nhi.",
+      "Toa Đô."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-43": {
+    "id": "g7-lichsu-43",
+    "topicId": "g7-lichsu",
+    "question": "Chủ trương đánh giặc nào được nhà Trần thực hiện trong cả ba lần kháng chiến chống quân Mông – Nguyên.",
+    "choices": [
+      "Tiêu diệt đoàn thuyền lương của giặc.",
+      "Chặn đánh ngay từ khi quân giặc vừa tiến vào nước ta.",
+      "Thực hiện “vườn không nhà trống”",
+      "Kiên quyết giữ Thăng Long, đào chiến lũy để chống giặc."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-44": {
+    "id": "g7-lichsu-44",
+    "topicId": "g7-lichsu",
+    "question": "Trước nguy cơ nhà Nguyên đang lăm le xâm lược Đại Việt lần thứ hai, Trần Quốc Tuấn đã soạn Hịch Tướng sĩ để",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-lichsu-45": {
+    "id": "g7-lichsu-45",
+    "topicId": "g7-lichsu",
+    "question": "Thắng lợi trong cuộc kháng chiến chống quân xâm lược Mông – Nguyên của nhà Trần đã góp phần xây đắp nên truyền thống quân sự gì?",
+    "choices": [
+      "Tập hợp đông đảo nhân dân đấu tranh.",
+      "Tránh chỗ mạnh, đánh vào chỗ yếu.",
+      "Nước nhỏ chống lại kẻ thù mạnh hơn nhiều lần.",
+      "Buộc địch chuyển từ chủ động sang bị động."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-46": {
+    "id": "g7-lichsu-46",
+    "topicId": "g7-lichsu",
+    "question": "Liên hệ với kiến thức đã học và cho biết thế kỉ X đến thế kỉ XIV, triều đại nào tồn tại lâu nhất ở nước ta?",
+    "choices": [
+      "Triều Tiền Lê.",
+      "Triều Lý.",
+      "Triều Trần.",
+      "Triều Hồ."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-47": {
+    "id": "g7-lichsu-47",
+    "topicId": "g7-lichsu",
+    "question": "Năm 1283, hơn 10 vạn quân Nguyên cùng 300 chuếc thuyền do ai chỉ huy xâm lược Cham-pa?",
+    "choices": [
+      "Thoát Hoan",
+      "Ô Mã Nhi",
+      "Toa Đô",
+      "Hốt Tất Liệt"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-48": {
+    "id": "g7-lichsu-48",
+    "topicId": "g7-lichsu",
+    "question": "Vì sao Hồ Quý Ly lại tiến hành cải cách toàn diện đất nước?",
+    "choices": [
+      "Muốn xoá bỏ mọi chính sách của nhà Trần.",
+      "Muốn gây thanh thế cho mình.",
+      "Xã hội Đại Việt lâm vào một cuộc khủng hoảng sâu sắc, tình hình rối ren, nhân dân bất bình.",
+      "Muốn biến Đại Việt trở thành nước hùng mạnh nhất khu vực thời bấy giờ."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-49": {
+    "id": "g7-lichsu-49",
+    "topicId": "g7-lichsu",
+    "question": "Vào cuối thế kỉ XIV, nhà Trần",
+    "choices": [
+      "rơi vào tình trạng khủng hoảng, suy yếu.",
+      "bước vào thời kì phát triển đỉnh cao.",
+      "được thành lập.",
+      "bước đầu phát triển."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-50": {
+    "id": "g7-lichsu-50",
+    "topicId": "g7-lichsu",
+    "question": "Nguyên nhân quan trọng nhấtkhiến cho cuộc kháng chiến chống quân xâm lược Minh của nhà Hồ (1406 – 1407) thất bại là gì?",
+    "choices": [
+      "Nhà Hồ không có tướng lĩnh tài giỏi.",
+      "Quân Minh có ưu thế hơn về lực lượng, vũ khí.",
+      "Nhà Hồ không có đường lối kháng chiến đúng đắn.",
+      "Nhà Hồ không xây dựng được khối đoàn kết dân tộc"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-51": {
+    "id": "g7-lichsu-51",
+    "topicId": "g7-lichsu",
+    "question": "Chính sách về ruộng đất được ban hành dưới thời Hồ Qúy Ly nhằm hạn chế số lượng ruộng đất của chủ đất được gọi là gì?",
+    "choices": [
+      "Quân điền.",
+      "Lộc điền.",
+      "Hạn điền",
+      "Phú điền."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-52": {
+    "id": "g7-lichsu-52",
+    "topicId": "g7-lichsu",
+    "question": "Ai đã dâng sớ yêu cầu vua Trần Dụ Tông chém đầu 7 tên nịnh thần?",
+    "choices": [
+      "Nguyễn Phi Khanh",
+      "Trần Quốc Tuấn.",
+      "Trần Thủ Độ",
+      "Chu Văn An."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-53": {
+    "id": "g7-lichsu-53",
+    "topicId": "g7-lichsu",
+    "question": "Công trình nào được xây dựng từ cuối thế kỉ XIV, là điển hình cho nghệ thuật xây thành Việt Nam và được UNESCO công nhận là Di sản văn hóa thế giới vào năm 2011?",
+    "choices": [
+      "Chùa Một Cột.",
+      "Thành nhà Hồ.",
+      "Kinh thành Huế.",
+      "Hoàng thành Thăng Long."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-54": {
+    "id": "g7-lichsu-54",
+    "topicId": "g7-lichsu",
+    "question": "Năm 1418, Lê Lợi dựng cờ khởi nghĩa ở",
+    "choices": [
+      "Tây Đô (Thanh Hóa).",
+      "Lam Kinh (Thanh Hóa).",
+      "Lam Sơn (Thanh Hóa).",
+      "Lũng Nhai (Thanh Hóa)."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-55": {
+    "id": "g7-lichsu-55",
+    "topicId": "g7-lichsu",
+    "question": "Vào mùa hè năm 1423, Lê Lợi đã đề nghị tạm hoà với quân Minh vì",
+    "choices": [
+      "muốn tranh thủ thời gian hòa hoãn để xây dựng lực lượng"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-56": {
+    "id": "g7-lichsu-56",
+    "topicId": "g7-lichsu",
+    "question": "Năm 1424, Nguyễn Chích đề nghị nghĩa quân Lam Sơn tạm rời núi rừng Thanh Hóa, chuyển quân\nII. TỰ LUẬN",
+    "choices": [
+      "ra Bắc.",
+      "vào Nghệ An.",
+      "vào miền",
+      "lên núi Chí Linh."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-lichsu-57": {
+    "id": "g7-lichsu-57",
+    "topicId": "g7-lichsu",
+    "question": "Trình bày sự khác biệt khí hậu giữa sườn Đông và sườn Tây dãy Trường Sơn Ô-xtrây-li-a?. giải thích tại sao đại bộ phận diện tích lục địa Ô-xtrây-li-a có khí hậu khô hạn?",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-lichsu-58": {
+    "id": "g7-lichsu-58",
+    "topicId": "g7-lichsu",
+    "question": "Cho Bảng số liệu sau\nDIỆN TÍCH RỪNG A-MA-DÔN Ở BRA-XIN GIAI ĐOẠN 1970-2019\nNăm\n1970\n1990\n2000\n2010\n2019\nDiện tích ( triệu km2)\n4,0\n3,79\n3,6\n3,43\n3,39\na. Nhận xét sự thay đổi diện tích rừng A-ma-dôn  của Bra-xin trong giai đoạn trên.\nb. Nêu vai trò rừng A-ma-dôn, nguyên nhân của sự thay đổi diện tích rừng? Chỉ ra một số biện pháp bảo vệ rừng a-ma dôn?",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-lichsu-59": {
+    "id": "g7-lichsu-59",
+    "topicId": "g7-lichsu",
+    "question": "Kể tên những trận đánh tiêu biểu của quân, dân nhà Trần trong ba lần kháng chiến chống quân Mông-Nguyên. Cách đánh giặc của nhà Trần trong cuộc kháng chiến lần  thứ Ba có gì giống và khác so với lần thứ  hai?",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-lichsu-60": {
+    "id": "g7-lichsu-60",
+    "topicId": "g7-lichsu",
+    "question": "Nguyên nhân thắng lợi và ý nghĩa lịch sử của 3 lần kháng chiến chống quân xâm lược Mông–Nguyên của nhà Trần. Cuộc kháng chiến đã đề lại những bài học quý giá nào cho công cuộc xây dựng và bảo vệ tổ quốc hiện nay?",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-lichsu-61": {
+    "id": "g7-lichsu-61",
+    "topicId": "g7-lichsu",
+    "question": "Đường lối kháng chiến của nhà Hồ chống quân Minh có gì khác so với đường lối kháng chiến của nhà Trần trong ba lần kháng chiến chống quân Mông- Nguyên?\nHết",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-1": {
+    "id": "g7-tin-1",
+    "topicId": "g7-tin",
+    "question": "Khi em định dạng kiểu dữ liệu ngày tháng có dạng dd/mm/yyyy thì kết quả hiển thị ngày tháng năm nào dưới đây là đúng?\nA.16/03/2025.B.03/16/2025.C.03/16/25.D.16/03/25",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-2": {
+    "id": "g7-tin-2",
+    "topicId": "g7-tin",
+    "question": "Trong cửa sổ Format Cells, để định dạng kiểu dữ liệu số em chọn lệnh nào?\nA.Number.B.Percentage.C.Date.D.Text.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-3": {
+    "id": "g7-tin-3",
+    "topicId": "g7-tin",
+    "question": "Cho sơ đồ khối như sau mô tả thuật toán?\nA.Thuật toán tìm kiếm tên khác hàng.B.Thuật toán tìm kiếm địa chỉ khách hàng.\nC.Thuật toán tìm kiếm tên học sinh.D.Thuật toán tìm kiếm địa chỉ học sinh.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [
+      "/images/g7_exams/img_31524f55.png"
+    ],
+    "type": "essay"
+  },
+  "g7-tin-4": {
+    "id": "g7-tin-4",
+    "topicId": "g7-tin",
+    "question": "Phát biểu nào sau đây làsai?\nA.Cột mới được chèn vào bên trái cột em chọn.\nB.Hàng mới được chèn vào bên trên hàng em chọn.\nC.Em không thể hiển thị lại các hàng, cột đã ẩn.\nD.Có thể chọn nhiều hàng, cột để xóa.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-5": {
+    "id": "g7-tin-5",
+    "topicId": "g7-tin",
+    "question": "Khi lựa chọn hình ảnh nên căn cứ vào yếu tố nào?\nA.Phù hợp với nội dung.B.Hình ảnh phải đẹp\nC.Có tính thẩm mĩ và phù hợp với nội dung\t.D.Có tính thẩm mĩ",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-6": {
+    "id": "g7-tin-6",
+    "topicId": "g7-tin",
+    "question": "Thao tác nháy chuột vào tên trang tính, kéo thả chuột sang trái, phải dùng để làm gì?",
+    "choices": [
+      "Tạo trang tính mới.",
+      "Chèn thêm trang tính.",
+      "Di chuyển trang tính.",
+      "Sao chép trang tính."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-7": {
+    "id": "g7-tin-7",
+    "topicId": "g7-tin",
+    "question": "Trong cửa sổ Format Cells, để thay đổi màu sắc cho đường kẻ ta chọn.",
+    "choices": [
+      "Color.",
+      "Style.",
+      "Presets.",
+      "Border."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-8": {
+    "id": "g7-tin-8",
+    "topicId": "g7-tin",
+    "question": "Lựa chọn Outline trong cửa sổ Format Cells dùng để làm gì?",
+    "choices": [
+      "Không kẻ khung.",
+      "Kẻ khung bên ngoài.",
+      "Kẻ đường viền ô.",
+      "Chọn kiểu đường kẻ"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-9": {
+    "id": "g7-tin-9",
+    "topicId": "g7-tin",
+    "question": "Phần mềm trình chiếu có hiệu ứng động, hiệu ứng chuyển trang làm cho nội dung trình bày:\nA.Đẹp.B.Sinh động và hấp dẫn.C.Rõ ràng.D.Đầy đủ.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-10": {
+    "id": "g7-tin-10",
+    "topicId": "g7-tin",
+    "question": "Một bài trình chiếu thường có bao nhiêu trang chiếu?\nA.1.B.3.C.10.D.Nhiều",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-11": {
+    "id": "g7-tin-11",
+    "topicId": "g7-tin",
+    "question": "Thuật toán tìm kiếm tuần tự thực hiện công việc gì?\nA.Lưu trữ dữ liệu.B.Sắp xếp dữ liệu theo chiều tăng dần.\nC.Xử lí dữ liệu.D.Tìm kiếm dữ liệu cho trước trong một danh sách đã cho.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-12": {
+    "id": "g7-tin-12",
+    "topicId": "g7-tin",
+    "question": "Đối với tiêu đề bài trình chiếu thì em nên chọn cỡ chữ?\nA.Từ 20 đến 30.B.Từ 30 đến 40.C.Từ 40 đến 50.D.Từ 50 đến 60",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-13": {
+    "id": "g7-tin-13",
+    "topicId": "g7-tin",
+    "question": "Trong tìm kiếm tuần tự thì có mấy điều kiện cần kiểm tra để dừng vòng lặp?\nA.1B.2C.3D.Không",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-14": {
+    "id": "g7-tin-14",
+    "topicId": "g7-tin",
+    "question": "Giả sử ô tính A1; A2; A3; A4; A5 chứa các dữ liệu lần lượt là: “ Hà Nội”, “ Nam Định”,“ TP Hồ Chí Minh”, 2022; 2023. Tại ô tính A6, ta nhập =COUNT(A1:A5) kết quả sẽ là:\nA.2.B.3.C.5.D.#VALUE!.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-15": {
+    "id": "g7-tin-15",
+    "topicId": "g7-tin",
+    "question": "Cho bảng số liệu thi đua hàng tuần của khối 7 như hình sau:\nĐể tính tổng điểm tại ô tính H3, công thức nào dưới đây cho kết quả đúng?\nA.=SUM(C3:G3).B.=SUM(C3:G3, G3).\nC.=SUM(C3, D3, E3, F3, G3).D.=C3+D3+E3+F3+G3.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [
+      "/images/g7_exams/img_21221e7b.png"
+    ],
+    "type": "essay"
+  },
+  "g7-tin-16": {
+    "id": "g7-tin-16",
+    "topicId": "g7-tin",
+    "question": "Màu chữ trên trang chiếu cần phải như thế nào?\nA.Tương đương với màu nền.B.Tương phản với màu nền.\nC.Sử dụng nhiều màu chữ cho đẹp.D.Sử dụng một màu duy nhất.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-17": {
+    "id": "g7-tin-17",
+    "topicId": "g7-tin",
+    "question": "Có thể đổi tên một trang tính bằng cách nào sau đây?\nA.Nháy nút chuột trái vào tên trang tính rồi nhập tên mới.\nB.Nháy đúp nút chuột trái vào tên trang tính rồi nhập tên mới.\nC.Chọn lệnh File/Save As.\nD.Nháy nút phải chuột vào tên trang tính rồi nhập tên trang tính mới.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-18": {
+    "id": "g7-tin-18",
+    "topicId": "g7-tin",
+    "question": "Phương án nào sau đây làsaiđể thêm một trang tính vào bảng tính?\nA.Nháy chuột vào nútphía dưới trang tính.\nB.Chọn nút phải chuột lên tên trang tính và chọn Insert/Worksheet.\nC.Trong thẻ Insert chọn lệnh Pictures.\nD.Trong thẻ Home, chọn lệnh Insert/Worksheet trong nhóm lệnh Cells.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [
+      "/images/g7_exams/img_afc686b4.png"
+    ],
+    "type": "essay"
+  },
+  "g7-tin-19": {
+    "id": "g7-tin-19",
+    "topicId": "g7-tin",
+    "question": "Để tìm kiếm một số trong dãy số bằng thuật toán tìm kiếm tuần tự, ta thực hiện:\nA.Lấy ngẫu nhiên một số trong dãy số để so sánh với số cần tìm.\nB.So sánh lần lượt từ số đầu tiên trong dãy số với số cần tìm.\nC.Sắp xếp dãy số theo thứ tự tăng dần.\nD.So sánh số cần tìm với số ở giữa dãy số.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-20": {
+    "id": "g7-tin-20",
+    "topicId": "g7-tin",
+    "question": "Mô tả thuật toán tìm kiếm nhị phân bằng ngôn ngữ tự nhiên gồm có mấy bước?\nA.2.B.3.C.4.D.5.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-21": {
+    "id": "g7-tin-21",
+    "topicId": "g7-tin",
+    "question": "Khi so sánh giá trị cần tìm với giá trị của vị trí giữa, nếu giá trị cần tìm nhỏ hơn giá trị giữa thì:\nA.Tìm trong nửa đầu của danh sách.\nB.Tìm trong nửa sau của danh sách.\nC.Dừng lại.\nD.Tìm trong nửa đầu hoặc nửa sau của danh sách.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-22": {
+    "id": "g7-tin-22",
+    "topicId": "g7-tin",
+    "question": "Thuật toán tìm kiếm tuần tự một số trong dãy số A dừng khi nào?\nA.Nếu tìm thấy giá trị cần tìm trong dãy A.\nB.Nếu tìm đến giá trị cuối trong dãy số mà không tìm thấy giá trị cần tìm.\nC.Nếu tìm thấy giá trị cần tìm trong dãy A hoặc nếu tìm đến giá trị cuối trong dãy số mà không tìm thấy giá trị cần tìm.\nD.Đáp án khác",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-23": {
+    "id": "g7-tin-23",
+    "topicId": "g7-tin",
+    "question": "Cho danh sách tên khách hàng với các vị trí như hình dưới đây:\n1\n2\n3\n4\n5\n6\n7\n8\n9\nAnh\nBách\nDũng\nGiang\nHoa\nLan\nMai\nNguyệt\nUyên\nĐể tìm khách hàng có tên là “Dũng”trong danh sách theo thuật toán tìm kiếm lần lượt thì tại bước 1 sẽ xét tại vị trí nào?\nA.Vị trí 5.B.Vị trí 4.C.Vị trí 1D.Vị trí 3",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-24": {
+    "id": "g7-tin-24",
+    "topicId": "g7-tin",
+    "question": "Để thực hiện lệnh in ta dùng tổ hợp phím tắt nào dưới đây?\nA.Ctrl + EB.Ctrl + GC.Ctrl + PD.Ctrl + H",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-25": {
+    "id": "g7-tin-25",
+    "topicId": "g7-tin",
+    "question": "Để thiết lập các thông số đường viền, kẻ khung em chọn thẻ nào trong hộp thoại Format Cells?",
+    "choices": [
+      "Number.",
+      "Fill\t.",
+      "Border.",
+      "Header."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-26": {
+    "id": "g7-tin-26",
+    "topicId": "g7-tin",
+    "question": "Phần mềm nào là phần mềm trình chiếu?",
+    "choices": [
+      "Microsoft Word.",
+      "Mozilla Firefox.",
+      "Microsoft Excel.",
+      "Microsoft PowerPoint."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-27": {
+    "id": "g7-tin-27",
+    "topicId": "g7-tin",
+    "question": "Đâu là nhận định đúng?\nA.Trang chiếu chỉ hiển thị được văn bản.\nB.Trang chiếu có thể hiển thị văn bản, hình ảnh, âm thanh, video, biểu đồ.\nC.Trang chiếu chỉ hiển thị được hình ảnh.\nD.Trang chiếu chỉ hiển thị được âm thanh.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-28": {
+    "id": "g7-tin-28",
+    "topicId": "g7-tin",
+    "question": "Điều kiện dừng trong thuật toán tìm kiếm nhị phân là gì?\nA.Khi tìm đến giá trị cuối cùng trong danh sách.\nB.Khi chưa tìm thấy.\nC.Khi chưa tìm thấy và chưa hết danh sách.\nD.Khi đã tìm thấy hoặc khi đã hết danh sách.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-29": {
+    "id": "g7-tin-29",
+    "topicId": "g7-tin",
+    "question": "Trong mô tả thuật toán tìm kiếm tuần tự bằng ngôn ngữ tự nhiên thì bước “Trả lời Tìm thấy và chỉ ra vị trí phần tử tìm được; Kết thúc” là bước thứ mấy của thuật toán?\nA.Bước 2.B.Bước 3C.Bước 4.D.Bước 5",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-30": {
+    "id": "g7-tin-30",
+    "topicId": "g7-tin",
+    "question": "Vị trí giữa của vùng tìm kiếm trong thuật toán tìm kiếm nhị phân bằng phần nguyên của\nA.vị trí cuối – vị trí đầu +1.B.(vị trí cuối + vị trí đầu)/2.\nC.(vị trí cuối - vị trí đầu)/2.D.vị trí cuối + vị trí đầu -1.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-31": {
+    "id": "g7-tin-31",
+    "topicId": "g7-tin",
+    "question": "Cách để tạo thêm trang chiếu mới trong bài trình chiếu?",
+    "choices": [
+      "Desigh/New Slide.",
+      "Home/New Slide.",
+      "Insert/New Slide.",
+      "File/New Slide."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-32": {
+    "id": "g7-tin-32",
+    "topicId": "g7-tin",
+    "question": "Có mấy nhóm hiệu ứng động trong phần mềm PowerPoint?",
+    "choices": [
+      "1.",
+      "2.",
+      "3.",
+      "4."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-33": {
+    "id": "g7-tin-33",
+    "topicId": "g7-tin",
+    "question": "Trong PowerPoint, em mở thẻ nào để định dạng văn bản?",
+    "choices": [
+      "Home.",
+      "Insert.",
+      "Design.",
+      "View."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-34": {
+    "id": "g7-tin-34",
+    "topicId": "g7-tin",
+    "question": "Dải lệnh nào cung cấp hiệu ứng cho đối tượng trên trang chiếu?\nA.HomeB.Animations.C.InsertD.Design",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-35": {
+    "id": "g7-tin-35",
+    "topicId": "g7-tin",
+    "question": "Trong PowerPoint, sau khi chọn hình ảnh, em mở thẻ nào để định dạng hình ảnh?",
+    "choices": [
+      "Home.B.Format.",
+      "Design.",
+      "View."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-36": {
+    "id": "g7-tin-36",
+    "topicId": "g7-tin",
+    "question": "Phát biểu nào sau đây làsai?",
+    "choices": [
+      "Hình ảnh minh họa làm cho bài trình chiếu ấn tượng hơn.",
+      "Nên chọn hình ảnh phù hợp với chủ đề của bài trình chiếu.",
+      "Màu sắc, họa tiết trên hình ảnh không cần trùng khớp với chủ đề.",
+      "Hình ảnh minh họa cần có tính thẩm mĩ."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-37": {
+    "id": "g7-tin-37",
+    "topicId": "g7-tin",
+    "question": "Sắp xếp lại trình tự các bước chèn và xử lí hình ảnh cho đúng:\na) Chọn tệp ảnh, nháy chuột chọn lệnh Insert.\nb) Chọn trang, vị trí trong trang cần chèn hình ảnh.\nc) Chọn Insert/Pictures để mở hộp thoại Insert Picture.\nd) Sử dụng các công cụ định dạng cho hình ảnh để được hình ảnh như ý.",
+    "choices": [
+      "a) → d) → b) → c).",
+      "c) → d) → a) → b).",
+      "a) → c) → b) → d).",
+      "b) → c) → a) → d)."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-38": {
+    "id": "g7-tin-38",
+    "topicId": "g7-tin",
+    "question": "Trong trang chiếu thì thông tin trực quan là gì?\nA.Văn bản.B.Hình ảnh.\nC.Văn bản, hình ảnh.D.Văn bản, hình ảnh, âm thanh.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-39": {
+    "id": "g7-tin-39",
+    "topicId": "g7-tin",
+    "question": "Em hãy sắp xếp lại các bước thực hiện tạo hiệu ứng cho đối tượng sao cho đúng.\na) Thay đổi thứ tự.\t   \t\t\t \tb) Chọn thẻ Animatinons.\nc) Chọn cách xuất hiện, thời lượng …\t\td) Chọn hiệu ứng.\ne) Xem trước\t\t\t\t\tf) Chọn đối tượng.",
+    "choices": [
+      "e → b → d → c → a → f.",
+      "f → b → a→ c → d → e.",
+      "c → b → d → f → a → e.",
+      "f → b → d → c → a → e."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-40": {
+    "id": "g7-tin-40",
+    "topicId": "g7-tin",
+    "question": "Tại mỗi bước lặp, thuật toán tìm kiếm nhị phân sẽ:\nA.Thu hẹp danh sách tìm kiếm chỉ còn một nửa.\nB.Danh sách sẽ được sắp xếp lại.\nC.Các phần tử trong danh sách sẽ giảm một nửa.\nD.Đáp án khác.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-41": {
+    "id": "g7-tin-41",
+    "topicId": "g7-tin",
+    "question": "Nút lệnh nào dùng để trình chiếu trong phần mềm trình chiếu?\nA.B.C.D.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [
+      "/images/g7_exams/img_88a74ca5.png",
+      "/images/g7_exams/img_d787caad.png",
+      "/images/g7_exams/img_151215b0.png",
+      "/images/g7_exams/img_daf560ac.png"
+    ],
+    "type": "essay"
+  },
+  "g7-tin-42": {
+    "id": "g7-tin-42",
+    "topicId": "g7-tin",
+    "question": "Trong các phương án dưới đây, đâu là địa chỉ của một khối trong phần mềm bảng tính?",
+    "choices": [
+      "A2:7ª",
+      "A2-A7",
+      "A2;A7",
+      "A2:A7"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-43": {
+    "id": "g7-tin-43",
+    "topicId": "g7-tin",
+    "question": "Công thức được nhập vào bảng tính với mục đích gì?",
+    "choices": [
+      "Căn chỉnh hàng cho đẹp.",
+      "Tính toán.",
+      "Thuận tiện khi nhập dữ liệu.",
+      "Sao chép một ô."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-44": {
+    "id": "g7-tin-44",
+    "topicId": "g7-tin",
+    "question": "Công thức khi nhập vào ô tính sẽ căn như thế nào?",
+    "choices": [
+      "Luôn căn trái.",
+      "Luôn căn giữa.",
+      "Luôn căn phải.",
+      "Tùy thuộc vào kết quả tính toán của công thức là số, văn bản hay ngày tháng."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-45": {
+    "id": "g7-tin-45",
+    "topicId": "g7-tin",
+    "question": "Vị trí giao của một hàng và một cột trong phần mềm bảng tính gọi là gì?",
+    "choices": [
+      "Ô tính.",
+      "Trang tính.",
+      "Hộp địa chỉ.",
+      "Bảng tính."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-46": {
+    "id": "g7-tin-46",
+    "topicId": "g7-tin",
+    "question": "Hàm được nhập như thế nào?",
+    "choices": [
+      "<tên hàm>(<các tham số>)",
+      "=<các tham số>(<tên hàm>)",
+      "=<tên hàm>(<các tham số>)",
+      "=tên hàm, các tham số"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-47": {
+    "id": "g7-tin-47",
+    "topicId": "g7-tin",
+    "question": "Công thức nào sau đây tự động tính toán?",
+    "choices": [
+      "=3,14*(15+45)",
+      "=B5+C5+E5",
+      "=13+14+15",
+      "=30+19*2"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-48": {
+    "id": "g7-tin-48",
+    "topicId": "g7-tin",
+    "question": "Trong phần mềm powerpoint 2016, để di chuyển một hình ảnh được chọn xuống lớp dưới cùng ta thực hiện như sau:\nBước 1: Nháy chuột phải lên hình ảnh\nBước 2: Chọn Order sau đó chọn lệnh",
+    "choices": [
+      "Bring Forward.",
+      "Send to Back.",
+      "Bring to Front.",
+      "Send Backward."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-49": {
+    "id": "g7-tin-49",
+    "topicId": "g7-tin",
+    "question": "Để sử dụng các mẫu có sẵn trong bài trình chiếu em chọn dải lệnh nào dưới đây?",
+    "choices": [
+      "Home",
+      "Design",
+      "Insert",
+      "Transitions"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": []
+  },
+  "g7-tin-50": {
+    "id": "g7-tin-50",
+    "topicId": "g7-tin",
+    "question": "Để chọn hiệu ứng đường di chuyển cho đối tượng được chọn, em chọn nhóm hiệu ứng nào dưới đây?\nII. TỰ LUẬN.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-51": {
+    "id": "g7-tin-51",
+    "topicId": "g7-tin",
+    "question": "Em hãy viết các bước thực hiện thuật toán tìm kiếm nhị phân để tìm tên bạn “Hòa” trong danh sách như hình sau:",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [
+      "/images/g7_exams/img_48779189.jpeg"
+    ],
+    "type": "essay"
+  },
+  "g7-tin-52": {
+    "id": "g7-tin-52",
+    "topicId": "g7-tin",
+    "question": "Cho danh sách tên các nước sau đây:\nThailand, Vietnam, Laos, Canada, China, Japan, Korea, Singapore, France.\na) Em hãy sắp xếp danh sách tên các nước theo thứ tự trong bảng chữ cái.\nb) Em hãy liệt kê các bước tìm kiếm tên nước “Japan” trong danh sách đã sắp xếp theo thuật toán tìm kiếm nhị phân.",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-53": {
+    "id": "g7-tin-53",
+    "topicId": "g7-tin",
+    "question": "Để tạo một bài trình chiếu đẹp mắt, em cần lưu ý những điều gì?",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-54": {
+    "id": "g7-tin-54",
+    "topicId": "g7-tin",
+    "question": "Em hãy nêu các bước theo thứ tự để nhập hàm trực tiếp vào ô tính?",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-55": {
+    "id": "g7-tin-55",
+    "topicId": "g7-tin",
+    "question": "Em hãy trình bày tên, cách viết và ý nghĩa của 5 hàm thông dụng trong phần mềm bảng tính?",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  },
+  "g7-tin-56": {
+    "id": "g7-tin-56",
+    "topicId": "g7-tin",
+    "question": "Em hãy cho biết, mỗi hàm sau cho kết quả như thế nào?",
+    "choices": [],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ],
+    "images": [],
+    "type": "essay"
+  }
+}

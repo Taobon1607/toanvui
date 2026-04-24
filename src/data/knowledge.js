@@ -161,4 +161,34 @@ export const knowledge = {
     definition: 'Tam giác là đa giác có 3 đỉnh và 3 cạnh. Tổng 3 góc trong một tam giác luôn bằng 180°.',
     example: 'Tam giác đều có 3 cạnh bằng nhau và 3 góc đều bằng 60°.',
   },
+  'khi-hiem': {
+    term: 'Khí Hiếm',
+    emoji: '🎈',
+    definition: 'Khí hiếm là nhóm các nguyên tố hóa học không màu, không mùi và rất ít khi tham gia phản ứng hóa học vì có lớp electron ngoài cùng bền vững.',
+    example: 'Helium (He), Neon (Ne), Argon (Ar) là các khí hiếm.',
+  },
+  'tu-truong': {
+    term: 'Từ Trường',
+    emoji: '🧲',
+    definition: 'Từ trường là môi trường xung quanh nam châm hoặc dòng điện, có khả năng tác dụng lực từ lên kim nam châm đặt trong nó.',
+    example: 'Trái Đất có từ trường giúp kim la bàn luôn chỉ hướng Bắc - Nam.',
+  },
+  'nam-cham-dien': {
+    term: 'Nam Châm Điện',
+    emoji: '🔌',
+    definition: 'Nam châm điện là dụng cụ tạo ra từ trường nhờ dòng điện chạy qua cuộn dây. Từ tính của nó có thể thay đổi bằng cách thay đổi dòng điện.',
+    example: 'Cần cẩu điện dùng nam châm điện cực lớn để nhấc các khối sắt nặng.',
+  },
+  'khoa-hoc-vien-tuong': {
+    term: 'Khoa Học Viễn Tưởng',
+    emoji: '🛸',
+    definition: 'Loại truyện viết về thế giới tương lai dựa trên các giả thuyết khoa học li kì, công nghệ siêu hiện đại hoặc thám hiểm không gian/đại dương.',
+    example: 'Tiểu thuyết "Hai vạn dặm dưới đáy biển" của Jules Verne.',
+  },
+  'truyen-ngu-ngon': {
+    term: 'Truyện Ngụ Ngôn',
+    emoji: '🦊',
+    definition: 'Truyện ngắn dùng con vật, đồ vật để ngụ ý nói về chuyện người, nhằm đưa ra những bài học đạo đức hoặc kinh nghiệm sống sâu sắc.',
+    example: 'Truyện "Rùa và Thỏ", "Ếch ngồi đáy giếng".',
+  },
 };

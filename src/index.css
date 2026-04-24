@@ -805,6 +805,18 @@ body::after {
   border-color: white;
 }
 
+.solution-illustration {
+  margin: 15px 0;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.solution-illustration svg {
+  max-width: 100%;
+  height: auto;
+}
+
 .tool-panel {
   background: white;
   border-radius: var(--radius-lg);

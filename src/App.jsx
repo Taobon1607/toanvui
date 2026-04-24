@@ -523,36 +523,85 @@ function GradeSelector({ onSelect }) {
   );
 }
 
-function TopicList({ grade, onSelect, onBack, onHome }) {
-  const topicList = topics[grade.id] || [];
+function TopicList({ grade, subject, onSelectSubject, onSelect, onBack, onHome }) {
+  const allTopics = topics[grade.id] || [];
+  const subjects = [...new Set(allTopics.filter(t => t.subject).map(t => t.subject))];
+  
+  const displayTopics = subject 
+    ? allTopics.filter(t => t.subject === subject)
+    : (subjects.length > 0 ? [] : allTopics);
+
   return (
     <div>
       <div className="breadcrumb">
         <div className="breadcrumb-item" onClick={onHome}>🏠 Trang chủ</div>
         <span className="breadcrumb-sep">›</span>
-        <div className="breadcrumb-item active" style={{ background: grade.color, borderColor: grade.color, color: 'white' }}>
+        <div 
+          className={`breadcrumb-item ${!subject ? 'active' : ''}`} 
+          onClick={() => onSelectSubject(null)}
+          style={!subject ? { background: grade.color, borderColor: grade.color, color: 'white' } : {}}
+        >
           {grade.emoji} {grade.name}
         </div>
+        {subject && (
+          <>
+            <span className="breadcrumb-sep">›</span>
+            <div className="breadcrumb-item active" style={{ background: grade.color, borderColor: grade.color, color: 'white' }}>
+              {subject}
+            </div>
+          </>
+        )}
       </div>
+
       <div className="page-title">
-        <h2>{grade.emoji} Chủ Đề {grade.name}</h2>
-        <p>Chọn một chủ đề bạn muốn luyện tập hôm nay!</p>
+        <h2>{grade.emoji} {subject || `Chủ Đề ${grade.name}`}</h2>
+        <p>{subject ? `Khám phá các chuyên đề ${subject}!` : 'Chọn một môn học hoặc chủ đề bạn muốn luyện tập hôm nay!'}</p>
       </div>
-      <div className="topic-grid">
-        {topicList.map(t => (
-          <div
-            key={t.id}
-            className="topic-card"
-            style={{ '--topic-color': t.color }}
-            onClick={() => onSelect(t)}
-          >
-            <span className="topic-emoji">{t.emoji}</span>
-            <div className="topic-name">{t.name}</div>
-            <div className="topic-count">{t.problemIds.length} bài tập</div>
-            <div className="topic-dot" />
-          </div>
-        ))}
-      </div>
+
+      {subjects.length > 0 && !subject ? (
+        <div className="grade-grid">
+          {subjects.map(s => {
+            // Lấy emoji và màu từ chủ đề đầu tiên trong môn học này
+            const firstTopic = allTopics.find(t => t.subject === s);
+            return (
+              <div
+                key={s}
+                className="grade-card"
+                style={{ background: `linear-gradient(135deg, ${firstTopic?.color || '#3498db'}, #2c3e50)` }}
+                onClick={() => onSelectSubject(s)}
+              >
+                <span className="grade-emoji">{firstTopic?.emoji || '📚'}</span>
+                <span className="grade-name">{s}</span>
+                <span className="grade-desc">{allTopics.filter(t => t.subject === s).length} chuyên đề</span>
+              </div>
+            );
+          })}
+        </div>
+      ) : (
+        <div className="topic-grid">
+          {displayTopics.map(t => (
+            <div
+              key={t.id}
+              className="topic-card"
+              style={{ '--topic-color': t.color }}
+              onClick={() => onSelect(t)}
+            >
+              <span className="topic-emoji">{t.emoji}</span>
+              <div className="topic-name">{t.name}</div>
+              <div className="topic-count">{t.problemIds.length} bài tập</div>
+              <div className="topic-dot" />
+            </div>
+          ))}
+        </div>
+      )}
+      
+      {(subject || subjects.length === 0) && (
+        <div style={{ marginTop: '30px', textAlign: 'center' }}>
+          <button className="btn-story" onClick={onBack} style={{ background: '#ecf0f1', color: '#2c3e50' }}>
+            ⬅️ Quay lại
+          </button>
+        </div>
+      )}
     </div>
   );
 }
@@ -728,6 +777,14 @@ function QuizPage({ grade, topic, onBack, onHome, onAddStars }) {
           </div>
           <p className="question-text">{current.question}</p>
           
+          {current.images && current.images.length > 0 && (
+            <div className="problem-images">
+              {current.images.map((imgSrc, idx) => (
+                <img key={idx} src={imgSrc} alt={`Minh họa ${idx + 1}`} style={{ maxWidth: '100%', borderRadius: '8px', marginTop: '10px' }} />
+              ))}
+            </div>
+          )}
+          
           {current.figure && <SVGFigure figure={current.figure} />}
           
           {current.illustration && (
@@ -776,18 +833,29 @@ function QuizPage({ grade, topic, onBack, onHome, onAddStars }) {
         </div>
 
         <div className="choices-grid">
-          {current.choices.map((c, i) => {
-            let cls = 'choice-btn';
-            if (selected !== null) {
-              if (i === current.answer) cls += ' correct';
-              else if (i === selected && i !== current.answer) cls += ' wrong';
-            }
-            return (
-              <button key={i} className={cls} onClick={() => handleChoice(i)} disabled={selected !== null}>
-                {c}
-              </button>
-            );
-          })}
+          {current.type === 'essay' ? (
+            <button 
+              className={`choice-btn ${selected !== null ? 'correct' : ''}`} 
+              onClick={() => handleChoice(0)} 
+              disabled={selected !== null}
+              style={{ gridColumn: '1 / -1' }}
+            >
+              📝 Xem lời giải chi tiết
+            </button>
+          ) : (
+            current.choices.map((c, i) => {
+              let cls = 'choice-btn';
+              if (selected !== null) {
+                if (i === current.answer) cls += ' correct';
+                else if (i === selected && i !== current.answer) cls += ' wrong';
+              }
+              return (
+                <button key={i} className={cls} onClick={() => handleChoice(i)} disabled={selected !== null}>
+                  {c}
+                </button>
+              );
+            })
+          )}
         </div>
 
         {selected !== null && (
@@ -795,6 +863,13 @@ function QuizPage({ grade, topic, onBack, onHome, onAddStars }) {
             <div className="solution-title">
               {selected === current.answer ? '🌟 Chính xác! Xem giải thích:' : '💡 Chưa đúng! Đây là cách giải:'}
             </div>
+            
+            {current.solutionIllustration && (
+              <div className="solution-illustration">
+                {current.solutionIllustration}
+              </div>
+            )}
+
             <ul className="step-list">
               {current.steps.map((s, i) => (
                 <li key={i} className="step-item">
@@ -859,6 +934,7 @@ export default function App() {
   const [view, setView] = useState('home');
   const [grade, setGrade] = useState(null);
   const [topic, setTopic] = useState(null);
+  const [subject, setSubject] = useState(null);
   const [stars, setStars] = useState(() => {
     try { return parseInt(localStorage.getItem('toanvui-stars') || '0'); } catch { return 0; }
   });
@@ -898,9 +974,14 @@ export default function App() {
         {view === 'topics' && grade && (
           <TopicList
             grade={grade}
+            subject={subject}
+            onSelectSubject={s => setSubject(s)}
             onSelect={t => { setTopic(t); setView('quiz'); }}
-            onBack={() => setView('home')}
-            onHome={() => setView('home')}
+            onBack={() => {
+              if (subject) setSubject(null);
+              else setView('home');
+            }}
+            onHome={() => { setSubject(null); setView('home'); }}
           />
         )}
         {view === 'quiz' && grade && topic && (
