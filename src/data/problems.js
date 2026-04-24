@@ -13662,5142 +13662,6 @@ export const problems = {
     "images": [],
     "type": "essay"
   },
-  "g7-lichsu-1": {
-    "id": "g7-lichsu-1",
-    "topicId": "g7-lichsu",
-    "question": "",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-lichsu-2": {
-    "id": "g7-lichsu-2",
-    "topicId": "g7-lichsu",
-    "question": "- Đặc điểm dân cư – xã hội Trung và Nam Mỹ.\n( các đặc điểm về dân cư, chủng tộc, đô thị hóa, văn hóa)\n- Phương thức con người khai thác, sử dụng và bảo vệ thiên nhiên.\n- Khai thác sử dụng và bảo vệ rừng A- ma-dôn\n( Vai trò, đặc điểm, vấn đề khai thác và sử dụng rừng A- Ma-dôn)\n- Kĩ năng đọc, hiểu lược đồ dân đô thị và một số đô thị ( hình 1 trang 153 )\n- Kĩ năng phân tích bảng số liệu, rút ra nhận xét",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-lichsu-3": {
-    "id": "g7-lichsu-3",
-    "topicId": "g7-lichsu",
-    "question": "PHÂN MÔN LỊCH SỬ",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-lichsu-4": {
-    "id": "g7-lichsu-4",
-    "topicId": "g7-lichsu",
-    "question": ", Bài 10, Bài 11, Bài 12, Bài 13: xem lại đề cương giữa học kì II. Bài 14: Ba lần kháng chiến chống quân xâm lược Mông – Nguyên",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-lichsu-5": {
-    "id": "g7-lichsu-5",
-    "topicId": "g7-lichsu",
-    "question": "Nước Đại Ngu thời Hồ (1400 - 1407)",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-lichsu-6": {
-    "id": "g7-lichsu-6",
-    "topicId": "g7-lichsu",
-    "question": "Khởi nghĩa Lam Sơn (1418 – 1427)\nTRẮC NGHIỆM",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-lichsu-7": {
-    "id": "g7-lichsu-7",
-    "topicId": "g7-lichsu",
-    "question": "Sự phân hóa tự nhiên theo chiều cao ở Trung và Nam Mỹ thể hiện rõ rệt nhất ở đâu?",
-    "choices": [
-      "Các sơn nguyên phía Đông.",
-      "Đồng bằng ở giữa.",
-      "Dãy núi An-đét.",
-      "Phía Nam Nam Mĩ."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-8": {
-    "id": "g7-lichsu-8",
-    "topicId": "g7-lichsu",
-    "question": "Càng lên cao thiên nhiên của dãy núi An-đét càng thay đổi phụ thuộc vào sự thay đổi của yếu tố nào?",
-    "choices": [
-      "Hướng địa hình.",
-      "Độ cao địa hình.",
-      "Nhiệt độ.",
-      "Nhiệt độ và độ ẩm."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-9": {
-    "id": "g7-lichsu-9",
-    "topicId": "g7-lichsu",
-    "question": "Người Anh-điêng ở Trung và Nam Mỹ thuộc chủng tộc nào?",
-    "choices": [
-      "Nê-grô-it.",
-      "Môn-gô -lô- it.",
-      "Ơ-rô-pê-ô-it.",
-      "Người lai."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-10": {
-    "id": "g7-lichsu-10",
-    "topicId": "g7-lichsu",
-    "question": "Người châu Âu đến Trung và Nam Mỹ chủ yếu đến từ những nước nào?",
-    "choices": [
-      "Tây Ban Nha và Bồ Đào Nha.",
-      "Đức và I-ta-li-a.",
-      "Thụy điển và Bỉ.",
-      "Anh và Pháp."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-11": {
-    "id": "g7-lichsu-11",
-    "topicId": "g7-lichsu",
-    "question": "Tốc độ đô thị hóa nhanh ở Trung và Nam Mĩ không để lại hậu quả nào?",
-    "choices": [
-      "Thất nghiệp.",
-      "Ô nhiễm môi trường.",
-      "Tệ nạn xã hội, tội phạm.",
-      "Văn hóa đa dạng"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-12": {
-    "id": "g7-lichsu-12",
-    "topicId": "g7-lichsu",
-    "question": "Lễ hội hóa trang ( lễ hội Các-na-van) là nét văn hóa đặc sắc của quốc gia nào",
-    "choices": [
-      "Pê-ru",
-      "Bra-xin",
-      "Vê-nê-xu-ê-la.",
-      "Chi-lê"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-13": {
-    "id": "g7-lichsu-13",
-    "topicId": "g7-lichsu",
-    "question": "Những ngôn ngữ nào được sử dụng nhiều ở Trung và Nam Mỹ?",
-    "choices": [
-      "Tiếng Anh và Pháp.",
-      "Tiếng Anh và Tây Ban Nha.",
-      "Tiếng Nga và Anh.",
-      "Tiếng Tây Ban Nha và Bồ Đào Nha."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-14": {
-    "id": "g7-lichsu-14",
-    "topicId": "g7-lichsu",
-    "question": "Sinh vật rừng A-ma-dôn rất phong phú nguyên nhân do đâu?",
-    "choices": [
-      "Khí hậu nóng ẩm.",
-      "Diện tích rộng lớn.",
-      "Sông ngòi dày đặc.",
-      "Địa hình bằng phẳng."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-15": {
-    "id": "g7-lichsu-15",
-    "topicId": "g7-lichsu",
-    "question": "Phần lớn diện tích rừng Amazon thuộc địa phận quốc gia nào?",
-    "choices": [
-      "B- ra-xinB. Cô-lôm-bia",
-      "Mê-hi-cô",
-      "Ác-hen-ti-na"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-16": {
-    "id": "g7-lichsu-16",
-    "topicId": "g7-lichsu",
-    "question": "Rừng A- ma -dôn không có vai trò nào sau đây?",
-    "choices": [
-      "là lá phổi xanh của trái đất",
-      "Nguồn dự trữ sinh học quý giá",
-      "Giúp điều hòa khí hậuD. Cung cấp sản lượng gỗ cho toàn thế giới"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-17": {
-    "id": "g7-lichsu-17",
-    "topicId": "g7-lichsu",
-    "question": "Đâu không phải một nền văn hoá cổ ở Trung và Nam Mỹ?",
-    "choices": [
-      "Maya",
-      "Inca",
-      "Lưỡng Hà",
-      "Aztec"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-18": {
-    "id": "g7-lichsu-18",
-    "topicId": "g7-lichsu",
-    "question": "Quá trình đô thị hóa của Trung và Nam Mỹ có đặc điểm nào sau đây?",
-    "choices": [
-      "A.Chậm nhất thế giới",
-      "Diễn ra sớm, tốc độ chậm",
-      "Trình độ đô thị hóa còn thấp",
-      "Đô thị hóa nhanh nhất thế giới"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-19": {
-    "id": "g7-lichsu-19",
-    "topicId": "g7-lichsu",
-    "question": "Vì sao khu vực Trung và Nam Mỹ còn được gọi là “châu Mỹ La-tinh”?",
-    "choices": [
-      "Vì La-tinh là một nét văn hoá truyền thống của khu vực này.",
-      "Vì đây là quy ước của các nước Tây Ban Nha và Bồ Đào Nha đặt cho khu vực này khi đến đây xâm chiếm.",
-      "Vì trước đây, phần lớn khu vực này từng là thuộc địa của Tây Ban Nha và Bồ Đào Nha, mà ngôn ngữ của hai nước này lại thuộc ngữ hệ La-tinh.",
-      "Tất cả các đáp án trên."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-20": {
-    "id": "g7-lichsu-20",
-    "topicId": "g7-lichsu",
-    "question": "Đường chí tuyến Nam chạy qua nơi nào sau đây ở châu Đại Dương?",
-    "choices": [
-      "Chuỗi đảo Mi-crô-nê-di.",
-      "Quần đảo Niu Di-len.",
-      "Chuỗi đảo Mê-la-nê-di.",
-      "Lục địa Ô-xtrây-li-a."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-21": {
-    "id": "g7-lichsu-21",
-    "topicId": "g7-lichsu",
-    "question": "Nhận định nào sau đây không đúng về vị trí lục địa  địa Ô-xtrây-li-a?",
-    "choices": [
-      "Nằm phía Nam Bán cầu",
-      "Phía tây nam của Thái Bình Dương",
-      "Hầu hết diện tích thuộc đới ôn hòa.",
-      "Có đường chí tuyến Nam chạy qua"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-22": {
-    "id": "g7-lichsu-22",
-    "topicId": "g7-lichsu",
-    "question": "Lục địa Ô-xtrây-li-a tiếp giáp với những đại dương nào?",
-    "choices": [
-      "Đại Tây Dương và Bắc Băng Dương",
-      "Thái Bình Dương và Nam Đại Dương",
-      "Ấn Độ Dương và Thái Bình DươngD.Ấn Độ Dương và Đại Tây Dương"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-23": {
-    "id": "g7-lichsu-23",
-    "topicId": "g7-lichsu",
-    "question": "Vùng đảo châu Đại Dương nằm ở đâu?",
-    "choices": [
-      "Trung tâm Thái Bình Dương.",
-      "Trung tâm Đại Tây Dương.",
-      "Trung tâm Ấn Độ Dương.",
-      "Trung tâm Bắc Băng Dương."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-24": {
-    "id": "g7-lichsu-24",
-    "topicId": "g7-lichsu",
-    "question": "Đặc điểm nào sau đây không đúng về dãy Trường Sơn Ô-xtrây-li-a?",
-    "choices": [
-      "Cao trung bình 800-1000m",
-      "Sườn đông dốc, sườn Tây thoải",
-      "Bề mặt là hoang mạc cát, hoang mạc đá.",
-      "Là nơi tập trung nhiều khoáng sản nhiên liệu"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-25": {
-    "id": "g7-lichsu-25",
-    "topicId": "g7-lichsu",
-    "question": "Sơn nguyên tây Ô-xtrây-li-a có đặc điểm như thế nào?",
-    "choices": [
-      "Là các hoang mạc cát, hoang mạc đá, cao nguyên và núi thấp.",
-      "Là các cao nguyên rộng lớn, đất đai màu mỡ.",
-      "Là các sườn dốc, xen lẫn đồng bằng cát và đụn cát.",
-      "Là các hoang mạc cát xen lẫn cao nguyên và hẻm vực."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-26": {
-    "id": "g7-lichsu-26",
-    "topicId": "g7-lichsu",
-    "question": "Khu vực nào ở Ô-xtrây-li-a có lượng mưa cao nhất?",
-    "choices": [
-      "Dải bờ biển hẹp ở phía Bắc.",
-      "Sườn tây của dãy Trường Sơn Ô-xtrây-li-a.",
-      "Dải đất hẹp phía nam lục địa.",
-      "Phía nam của đảo Ta-xma-ni-a."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-27": {
-    "id": "g7-lichsu-27",
-    "topicId": "g7-lichsu",
-    "question": "Khu vực trung tâm lục địa Ô-xtrây-li-a có khí hậu?",
-    "choices": [
-      "Mát mẻ.",
-      "Nóng, ẩm, mưa nhiều.",
-      "Nhiệt đới khô và cận nhiệt lục địa.",
-      "Điều hòa, mưa nhiều."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-28": {
-    "id": "g7-lichsu-28",
-    "topicId": "g7-lichsu",
-    "question": "Sườn đông dãy Trường Sơn Ô-xtrây-li-a có khí hậu",
-    "choices": [
-      "cận nhiệt đới, mùa nhiều.",
-      "cận xích đạo, nóng ẩm.",
-      "nhiệt đới ẩm, mưa nhiều.",
-      "nhiệt đới lục địa, ít mưa"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-29": {
-    "id": "g7-lichsu-29",
-    "topicId": "g7-lichsu",
-    "question": "Dải đất hẹp phái Nam lục địa  có khí hậu",
-    "choices": [
-      "xích đạo",
-      "cận xích đạo",
-      "nhiệt đớiD. cận nhiệt đới"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-30": {
-    "id": "g7-lichsu-30",
-    "topicId": "g7-lichsu",
-    "question": "Dải bờ biển hẹp phái Bắc lục địa Ô-xtrây-li-a có khí hậu",
-    "choices": [
-      "xích đạoB. cận xích đạoC. nhiệt đới",
-      "ôn đới"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-31": {
-    "id": "g7-lichsu-31",
-    "topicId": "g7-lichsu",
-    "question": "Loài thực vật bản địa nổi bật của lục địa Ô-xtrây-li-a là",
-    "choices": [
-      "thông",
-      "hoa anh đào",
-      "bạch đànD. địa y"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-32": {
-    "id": "g7-lichsu-32",
-    "topicId": "g7-lichsu",
-    "question": "Bộ chính sử đầu tiên của Đại Việt được biên soạn dưới thời Trần là",
-    "choices": [
-      "Đại Nam thực lục.",
-      "Đại Việt sử kí toàn thư.",
-      "Đại Việt sử kí.",
-      "Việt Nam sử lược."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-33": {
-    "id": "g7-lichsu-33",
-    "topicId": "g7-lichsu",
-    "question": "Nội dung nào sau đây không phản ánh đúng chính sách của nhà Trần đối với giáo dục?",
-    "choices": [
-      "Quốc Tử Giám được mở rộng để đào tạo con em quý tộc, quan lại.",
-      "Nhiều trường tư được khuyến khích thành lập.",
-      "Các kì thi Nho học được tổ chức quy củ.",
-      "Dựng bia Tiến sĩ ở Văn Miếu."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-34": {
-    "id": "g7-lichsu-34",
-    "topicId": "g7-lichsu",
-    "question": "Khi Mông Cổ cho sứ giả đến đưa thư đe dọa và dụ hàng vua Trần thái độ của vua Trần như thế nào?",
-    "choices": [
-      "Trả lại thư ngay",
-      "Bắt giam vào ngục",
-      "Tỏ thái độ giảng hòa",
-      "Chém đầu sứ giả ngay tại chỗ"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-35": {
-    "id": "g7-lichsu-35",
-    "topicId": "g7-lichsu",
-    "question": "Trong cuộc kháng chiến chống quân Mông Cổ lần thứ nhất, trước thế giặc mạnh, nhà Trần đã rút khỏi Thăng Long về vùng nào?",
-    "choices": [
-      "Thiên Trường",
-      "Thiên Mạc",
-      "Vạn Kiếp",
-      "Long Hưng"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-36": {
-    "id": "g7-lichsu-36",
-    "topicId": "g7-lichsu",
-    "question": "Trận phản công nào của quân dân nhà Trần đã đánh bại cuộc xâm lược Đại Việt lần thứ nhất của quân Mông Cổ?",
-    "choices": [
-      "Tây Kết",
-      "Chương Dương",
-      "Đông Bộ Đầu",
-      "Hàm Tử"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-37": {
-    "id": "g7-lichsu-37",
-    "topicId": "g7-lichsu",
-    "question": "Nhà Trần khi thực hiện kế sách \"vườn không nhà trống\"khôngnhằm mục đích nào sau đây?",
-    "choices": [
-      "Tránh sức mạnh ban đầu của quân Mông Cổ",
-      "Khoét sâu vào điểm yếu của quân Mông Cổ",
-      "Củng cố lực lượng chờ phản công",
-      "Đánh nhanh thắng nhanh"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-38": {
-    "id": "g7-lichsu-38",
-    "topicId": "g7-lichsu",
-    "question": "“Đầu thần chưa rơi xuống xin bệ hạ đừng lo”. Đó là câu nói của ai?",
-    "choices": [
-      "Trần Quốc Tuấn",
-      "Trần Bình Trọng",
-      "Trần Quốc Toản",
-      "Trần Thủ Độ"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-39": {
-    "id": "g7-lichsu-39",
-    "topicId": "g7-lichsu",
-    "question": "Câu nói “Nếu bệ hạ muốn hàng giặc thì trước hãy chém đầu thần rồi hãy hàng” là của",
-    "choices": [
-      "Trần Quốc ToảnB. Trần Thủ ĐộC. Trần Quang KhảiD. Trần Quốc Tuấn"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-40": {
-    "id": "g7-lichsu-40",
-    "topicId": "g7-lichsu",
-    "question": "Địa danh nào gắn liền với những chiến công hiển hách của quân dân nhà Trần trong cuộc kháng chiến lần thứ hai chống quân xâm lược Nguyên?",
-    "choices": [
-      "Bình Than, Đông Bộ Đầu, Vạn Kiếp.",
-      "Tây Kết, Hàm Tử, Chương Dương.",
-      "Thiên Trường, Thăng Long.",
-      "Bạch Đằng."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-41": {
-    "id": "g7-lichsu-41",
-    "topicId": "g7-lichsu",
-    "question": "Trong cuộc kháng chiến chống quân Nguyên lần thứ hai, ai là người tự giương cao lá cờ: “Phá cường địch, báo hoàng ân”?",
-    "choices": [
-      "Trần Quốc Tuấn.",
-      "Phạm Ngũ Lão.",
-      "Trần Khánh Dư.",
-      "Trần Quốc Toản."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-42": {
-    "id": "g7-lichsu-42",
-    "topicId": "g7-lichsu",
-    "question": "Vào cuối tháng 1 - 1285, 50 vạn quân Nguyên do ai chỉ huy tràn vào xâm lược Đại Việt?",
-    "choices": [
-      "Thoát Hoan.",
-      "Hốt Tất Liệt.",
-      "Ô Mã Nhi.",
-      "Toa Đô."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-43": {
-    "id": "g7-lichsu-43",
-    "topicId": "g7-lichsu",
-    "question": "Chủ trương đánh giặc nào được nhà Trần thực hiện trong cả ba lần kháng chiến chống quân Mông – Nguyên.",
-    "choices": [
-      "Tiêu diệt đoàn thuyền lương của giặc.",
-      "Chặn đánh ngay từ khi quân giặc vừa tiến vào nước ta.",
-      "Thực hiện “vườn không nhà trống”",
-      "Kiên quyết giữ Thăng Long, đào chiến lũy để chống giặc."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-44": {
-    "id": "g7-lichsu-44",
-    "topicId": "g7-lichsu",
-    "question": "Trước nguy cơ nhà Nguyên đang lăm le xâm lược Đại Việt lần thứ hai, Trần Quốc Tuấn đã soạn Hịch Tướng sĩ để",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-lichsu-45": {
-    "id": "g7-lichsu-45",
-    "topicId": "g7-lichsu",
-    "question": "Thắng lợi trong cuộc kháng chiến chống quân xâm lược Mông – Nguyên của nhà Trần đã góp phần xây đắp nên truyền thống quân sự gì?",
-    "choices": [
-      "Tập hợp đông đảo nhân dân đấu tranh.",
-      "Tránh chỗ mạnh, đánh vào chỗ yếu.",
-      "Nước nhỏ chống lại kẻ thù mạnh hơn nhiều lần.",
-      "Buộc địch chuyển từ chủ động sang bị động."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-46": {
-    "id": "g7-lichsu-46",
-    "topicId": "g7-lichsu",
-    "question": "Liên hệ với kiến thức đã học và cho biết thế kỉ X đến thế kỉ XIV, triều đại nào tồn tại lâu nhất ở nước ta?",
-    "choices": [
-      "Triều Tiền Lê.",
-      "Triều Lý.",
-      "Triều Trần.",
-      "Triều Hồ."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-47": {
-    "id": "g7-lichsu-47",
-    "topicId": "g7-lichsu",
-    "question": "Năm 1283, hơn 10 vạn quân Nguyên cùng 300 chuếc thuyền do ai chỉ huy xâm lược Cham-pa?",
-    "choices": [
-      "Thoát Hoan",
-      "Ô Mã Nhi",
-      "Toa Đô",
-      "Hốt Tất Liệt"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-48": {
-    "id": "g7-lichsu-48",
-    "topicId": "g7-lichsu",
-    "question": "Vì sao Hồ Quý Ly lại tiến hành cải cách toàn diện đất nước?",
-    "choices": [
-      "Muốn xoá bỏ mọi chính sách của nhà Trần.",
-      "Muốn gây thanh thế cho mình.",
-      "Xã hội Đại Việt lâm vào một cuộc khủng hoảng sâu sắc, tình hình rối ren, nhân dân bất bình.",
-      "Muốn biến Đại Việt trở thành nước hùng mạnh nhất khu vực thời bấy giờ."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-49": {
-    "id": "g7-lichsu-49",
-    "topicId": "g7-lichsu",
-    "question": "Vào cuối thế kỉ XIV, nhà Trần",
-    "choices": [
-      "rơi vào tình trạng khủng hoảng, suy yếu.",
-      "bước vào thời kì phát triển đỉnh cao.",
-      "được thành lập.",
-      "bước đầu phát triển."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-50": {
-    "id": "g7-lichsu-50",
-    "topicId": "g7-lichsu",
-    "question": "Nguyên nhân quan trọng nhấtkhiến cho cuộc kháng chiến chống quân xâm lược Minh của nhà Hồ (1406 – 1407) thất bại là gì?",
-    "choices": [
-      "Nhà Hồ không có tướng lĩnh tài giỏi.",
-      "Quân Minh có ưu thế hơn về lực lượng, vũ khí.",
-      "Nhà Hồ không có đường lối kháng chiến đúng đắn.",
-      "Nhà Hồ không xây dựng được khối đoàn kết dân tộc"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-51": {
-    "id": "g7-lichsu-51",
-    "topicId": "g7-lichsu",
-    "question": "Chính sách về ruộng đất được ban hành dưới thời Hồ Qúy Ly nhằm hạn chế số lượng ruộng đất của chủ đất được gọi là gì?",
-    "choices": [
-      "Quân điền.",
-      "Lộc điền.",
-      "Hạn điền",
-      "Phú điền."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-52": {
-    "id": "g7-lichsu-52",
-    "topicId": "g7-lichsu",
-    "question": "Ai đã dâng sớ yêu cầu vua Trần Dụ Tông chém đầu 7 tên nịnh thần?",
-    "choices": [
-      "Nguyễn Phi Khanh",
-      "Trần Quốc Tuấn.",
-      "Trần Thủ Độ",
-      "Chu Văn An."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-53": {
-    "id": "g7-lichsu-53",
-    "topicId": "g7-lichsu",
-    "question": "Công trình nào được xây dựng từ cuối thế kỉ XIV, là điển hình cho nghệ thuật xây thành Việt Nam và được UNESCO công nhận là Di sản văn hóa thế giới vào năm 2011?",
-    "choices": [
-      "Chùa Một Cột.",
-      "Thành nhà Hồ.",
-      "Kinh thành Huế.",
-      "Hoàng thành Thăng Long."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-54": {
-    "id": "g7-lichsu-54",
-    "topicId": "g7-lichsu",
-    "question": "Năm 1418, Lê Lợi dựng cờ khởi nghĩa ở",
-    "choices": [
-      "Tây Đô (Thanh Hóa).",
-      "Lam Kinh (Thanh Hóa).",
-      "Lam Sơn (Thanh Hóa).",
-      "Lũng Nhai (Thanh Hóa)."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-55": {
-    "id": "g7-lichsu-55",
-    "topicId": "g7-lichsu",
-    "question": "Vào mùa hè năm 1423, Lê Lợi đã đề nghị tạm hoà với quân Minh vì",
-    "choices": [
-      "muốn tranh thủ thời gian hòa hoãn để xây dựng lực lượng"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-56": {
-    "id": "g7-lichsu-56",
-    "topicId": "g7-lichsu",
-    "question": "Năm 1424, Nguyễn Chích đề nghị nghĩa quân Lam Sơn tạm rời núi rừng Thanh Hóa, chuyển quân\nII. TỰ LUẬN",
-    "choices": [
-      "ra Bắc.",
-      "vào Nghệ An.",
-      "vào miền",
-      "lên núi Chí Linh."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-lichsu-57": {
-    "id": "g7-lichsu-57",
-    "topicId": "g7-lichsu",
-    "question": "Trình bày sự khác biệt khí hậu giữa sườn Đông và sườn Tây dãy Trường Sơn Ô-xtrây-li-a?. giải thích tại sao đại bộ phận diện tích lục địa Ô-xtrây-li-a có khí hậu khô hạn?",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-lichsu-58": {
-    "id": "g7-lichsu-58",
-    "topicId": "g7-lichsu",
-    "question": "Cho Bảng số liệu sau\nDIỆN TÍCH RỪNG A-MA-DÔN Ở BRA-XIN GIAI ĐOẠN 1970-2019\nNăm\n1970\n1990\n2000\n2010\n2019\nDiện tích ( triệu km2)\n4,0\n3,79\n3,6\n3,43\n3,39\na. Nhận xét sự thay đổi diện tích rừng A-ma-dôn  của Bra-xin trong giai đoạn trên.\nb. Nêu vai trò rừng A-ma-dôn, nguyên nhân của sự thay đổi diện tích rừng? Chỉ ra một số biện pháp bảo vệ rừng a-ma dôn?",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-lichsu-59": {
-    "id": "g7-lichsu-59",
-    "topicId": "g7-lichsu",
-    "question": "Kể tên những trận đánh tiêu biểu của quân, dân nhà Trần trong ba lần kháng chiến chống quân Mông-Nguyên. Cách đánh giặc của nhà Trần trong cuộc kháng chiến lần  thứ Ba có gì giống và khác so với lần thứ  hai?",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-lichsu-60": {
-    "id": "g7-lichsu-60",
-    "topicId": "g7-lichsu",
-    "question": "Nguyên nhân thắng lợi và ý nghĩa lịch sử của 3 lần kháng chiến chống quân xâm lược Mông–Nguyên của nhà Trần. Cuộc kháng chiến đã đề lại những bài học quý giá nào cho công cuộc xây dựng và bảo vệ tổ quốc hiện nay?",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-lichsu-61": {
-    "id": "g7-lichsu-61",
-    "topicId": "g7-lichsu",
-    "question": "Đường lối kháng chiến của nhà Hồ chống quân Minh có gì khác so với đường lối kháng chiến của nhà Trần trong ba lần kháng chiến chống quân Mông- Nguyên?\nHết",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-1": {
-    "id": "g7-tin-1",
-    "topicId": "g7-tin",
-    "question": "Khi em định dạng kiểu dữ liệu ngày tháng có dạng dd/mm/yyyy thì kết quả hiển thị ngày tháng năm nào dưới đây là đúng?\nA.16/03/2025.B.03/16/2025.C.03/16/25.D.16/03/25",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-2": {
-    "id": "g7-tin-2",
-    "topicId": "g7-tin",
-    "question": "Trong cửa sổ Format Cells, để định dạng kiểu dữ liệu số em chọn lệnh nào?\nA.Number.B.Percentage.C.Date.D.Text.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-3": {
-    "id": "g7-tin-3",
-    "topicId": "g7-tin",
-    "question": "Cho sơ đồ khối như sau mô tả thuật toán?\nA.Thuật toán tìm kiếm tên khác hàng.B.Thuật toán tìm kiếm địa chỉ khách hàng.\nC.Thuật toán tìm kiếm tên học sinh.D.Thuật toán tìm kiếm địa chỉ học sinh.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [
-      "/images/g7_exams/img_31524f55.png"
-    ],
-    "type": "essay"
-  },
-  "g7-tin-4": {
-    "id": "g7-tin-4",
-    "topicId": "g7-tin",
-    "question": "Phát biểu nào sau đây làsai?\nA.Cột mới được chèn vào bên trái cột em chọn.\nB.Hàng mới được chèn vào bên trên hàng em chọn.\nC.Em không thể hiển thị lại các hàng, cột đã ẩn.\nD.Có thể chọn nhiều hàng, cột để xóa.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-5": {
-    "id": "g7-tin-5",
-    "topicId": "g7-tin",
-    "question": "Khi lựa chọn hình ảnh nên căn cứ vào yếu tố nào?\nA.Phù hợp với nội dung.B.Hình ảnh phải đẹp\nC.Có tính thẩm mĩ và phù hợp với nội dung\t.D.Có tính thẩm mĩ",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-6": {
-    "id": "g7-tin-6",
-    "topicId": "g7-tin",
-    "question": "Thao tác nháy chuột vào tên trang tính, kéo thả chuột sang trái, phải dùng để làm gì?",
-    "choices": [
-      "Tạo trang tính mới.",
-      "Chèn thêm trang tính.",
-      "Di chuyển trang tính.",
-      "Sao chép trang tính."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-7": {
-    "id": "g7-tin-7",
-    "topicId": "g7-tin",
-    "question": "Trong cửa sổ Format Cells, để thay đổi màu sắc cho đường kẻ ta chọn.",
-    "choices": [
-      "Color.",
-      "Style.",
-      "Presets.",
-      "Border."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-8": {
-    "id": "g7-tin-8",
-    "topicId": "g7-tin",
-    "question": "Lựa chọn Outline trong cửa sổ Format Cells dùng để làm gì?",
-    "choices": [
-      "Không kẻ khung.",
-      "Kẻ khung bên ngoài.",
-      "Kẻ đường viền ô.",
-      "Chọn kiểu đường kẻ"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-9": {
-    "id": "g7-tin-9",
-    "topicId": "g7-tin",
-    "question": "Phần mềm trình chiếu có hiệu ứng động, hiệu ứng chuyển trang làm cho nội dung trình bày:\nA.Đẹp.B.Sinh động và hấp dẫn.C.Rõ ràng.D.Đầy đủ.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-10": {
-    "id": "g7-tin-10",
-    "topicId": "g7-tin",
-    "question": "Một bài trình chiếu thường có bao nhiêu trang chiếu?\nA.1.B.3.C.10.D.Nhiều",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-11": {
-    "id": "g7-tin-11",
-    "topicId": "g7-tin",
-    "question": "Thuật toán tìm kiếm tuần tự thực hiện công việc gì?\nA.Lưu trữ dữ liệu.B.Sắp xếp dữ liệu theo chiều tăng dần.\nC.Xử lí dữ liệu.D.Tìm kiếm dữ liệu cho trước trong một danh sách đã cho.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-12": {
-    "id": "g7-tin-12",
-    "topicId": "g7-tin",
-    "question": "Đối với tiêu đề bài trình chiếu thì em nên chọn cỡ chữ?\nA.Từ 20 đến 30.B.Từ 30 đến 40.C.Từ 40 đến 50.D.Từ 50 đến 60",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-13": {
-    "id": "g7-tin-13",
-    "topicId": "g7-tin",
-    "question": "Trong tìm kiếm tuần tự thì có mấy điều kiện cần kiểm tra để dừng vòng lặp?\nA.1B.2C.3D.Không",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-14": {
-    "id": "g7-tin-14",
-    "topicId": "g7-tin",
-    "question": "Giả sử ô tính A1; A2; A3; A4; A5 chứa các dữ liệu lần lượt là: “ Hà Nội”, “ Nam Định”,“ TP Hồ Chí Minh”, 2022; 2023. Tại ô tính A6, ta nhập =COUNT(A1:A5) kết quả sẽ là:\nA.2.B.3.C.5.D.#VALUE!.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-15": {
-    "id": "g7-tin-15",
-    "topicId": "g7-tin",
-    "question": "Cho bảng số liệu thi đua hàng tuần của khối 7 như hình sau:\nĐể tính tổng điểm tại ô tính H3, công thức nào dưới đây cho kết quả đúng?\nA.=SUM(C3:G3).B.=SUM(C3:G3, G3).\nC.=SUM(C3, D3, E3, F3, G3).D.=C3+D3+E3+F3+G3.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [
-      "/images/g7_exams/img_21221e7b.png"
-    ],
-    "type": "essay"
-  },
-  "g7-tin-16": {
-    "id": "g7-tin-16",
-    "topicId": "g7-tin",
-    "question": "Màu chữ trên trang chiếu cần phải như thế nào?\nA.Tương đương với màu nền.B.Tương phản với màu nền.\nC.Sử dụng nhiều màu chữ cho đẹp.D.Sử dụng một màu duy nhất.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-17": {
-    "id": "g7-tin-17",
-    "topicId": "g7-tin",
-    "question": "Có thể đổi tên một trang tính bằng cách nào sau đây?\nA.Nháy nút chuột trái vào tên trang tính rồi nhập tên mới.\nB.Nháy đúp nút chuột trái vào tên trang tính rồi nhập tên mới.\nC.Chọn lệnh File/Save As.\nD.Nháy nút phải chuột vào tên trang tính rồi nhập tên trang tính mới.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-18": {
-    "id": "g7-tin-18",
-    "topicId": "g7-tin",
-    "question": "Phương án nào sau đây làsaiđể thêm một trang tính vào bảng tính?\nA.Nháy chuột vào nútphía dưới trang tính.\nB.Chọn nút phải chuột lên tên trang tính và chọn Insert/Worksheet.\nC.Trong thẻ Insert chọn lệnh Pictures.\nD.Trong thẻ Home, chọn lệnh Insert/Worksheet trong nhóm lệnh Cells.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [
-      "/images/g7_exams/img_afc686b4.png"
-    ],
-    "type": "essay"
-  },
-  "g7-tin-19": {
-    "id": "g7-tin-19",
-    "topicId": "g7-tin",
-    "question": "Để tìm kiếm một số trong dãy số bằng thuật toán tìm kiếm tuần tự, ta thực hiện:\nA.Lấy ngẫu nhiên một số trong dãy số để so sánh với số cần tìm.\nB.So sánh lần lượt từ số đầu tiên trong dãy số với số cần tìm.\nC.Sắp xếp dãy số theo thứ tự tăng dần.\nD.So sánh số cần tìm với số ở giữa dãy số.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-20": {
-    "id": "g7-tin-20",
-    "topicId": "g7-tin",
-    "question": "Mô tả thuật toán tìm kiếm nhị phân bằng ngôn ngữ tự nhiên gồm có mấy bước?\nA.2.B.3.C.4.D.5.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-21": {
-    "id": "g7-tin-21",
-    "topicId": "g7-tin",
-    "question": "Khi so sánh giá trị cần tìm với giá trị của vị trí giữa, nếu giá trị cần tìm nhỏ hơn giá trị giữa thì:\nA.Tìm trong nửa đầu của danh sách.\nB.Tìm trong nửa sau của danh sách.\nC.Dừng lại.\nD.Tìm trong nửa đầu hoặc nửa sau của danh sách.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-22": {
-    "id": "g7-tin-22",
-    "topicId": "g7-tin",
-    "question": "Thuật toán tìm kiếm tuần tự một số trong dãy số A dừng khi nào?\nA.Nếu tìm thấy giá trị cần tìm trong dãy A.\nB.Nếu tìm đến giá trị cuối trong dãy số mà không tìm thấy giá trị cần tìm.\nC.Nếu tìm thấy giá trị cần tìm trong dãy A hoặc nếu tìm đến giá trị cuối trong dãy số mà không tìm thấy giá trị cần tìm.\nD.Đáp án khác",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-23": {
-    "id": "g7-tin-23",
-    "topicId": "g7-tin",
-    "question": "Cho danh sách tên khách hàng với các vị trí như hình dưới đây:\n1\n2\n3\n4\n5\n6\n7\n8\n9\nAnh\nBách\nDũng\nGiang\nHoa\nLan\nMai\nNguyệt\nUyên\nĐể tìm khách hàng có tên là “Dũng”trong danh sách theo thuật toán tìm kiếm lần lượt thì tại bước 1 sẽ xét tại vị trí nào?\nA.Vị trí 5.B.Vị trí 4.C.Vị trí 1D.Vị trí 3",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-24": {
-    "id": "g7-tin-24",
-    "topicId": "g7-tin",
-    "question": "Để thực hiện lệnh in ta dùng tổ hợp phím tắt nào dưới đây?\nA.Ctrl + EB.Ctrl + GC.Ctrl + PD.Ctrl + H",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-25": {
-    "id": "g7-tin-25",
-    "topicId": "g7-tin",
-    "question": "Để thiết lập các thông số đường viền, kẻ khung em chọn thẻ nào trong hộp thoại Format Cells?",
-    "choices": [
-      "Number.",
-      "Fill\t.",
-      "Border.",
-      "Header."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-26": {
-    "id": "g7-tin-26",
-    "topicId": "g7-tin",
-    "question": "Phần mềm nào là phần mềm trình chiếu?",
-    "choices": [
-      "Microsoft Word.",
-      "Mozilla Firefox.",
-      "Microsoft Excel.",
-      "Microsoft PowerPoint."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-27": {
-    "id": "g7-tin-27",
-    "topicId": "g7-tin",
-    "question": "Đâu là nhận định đúng?\nA.Trang chiếu chỉ hiển thị được văn bản.\nB.Trang chiếu có thể hiển thị văn bản, hình ảnh, âm thanh, video, biểu đồ.\nC.Trang chiếu chỉ hiển thị được hình ảnh.\nD.Trang chiếu chỉ hiển thị được âm thanh.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-28": {
-    "id": "g7-tin-28",
-    "topicId": "g7-tin",
-    "question": "Điều kiện dừng trong thuật toán tìm kiếm nhị phân là gì?\nA.Khi tìm đến giá trị cuối cùng trong danh sách.\nB.Khi chưa tìm thấy.\nC.Khi chưa tìm thấy và chưa hết danh sách.\nD.Khi đã tìm thấy hoặc khi đã hết danh sách.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-29": {
-    "id": "g7-tin-29",
-    "topicId": "g7-tin",
-    "question": "Trong mô tả thuật toán tìm kiếm tuần tự bằng ngôn ngữ tự nhiên thì bước “Trả lời Tìm thấy và chỉ ra vị trí phần tử tìm được; Kết thúc” là bước thứ mấy của thuật toán?\nA.Bước 2.B.Bước 3C.Bước 4.D.Bước 5",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-30": {
-    "id": "g7-tin-30",
-    "topicId": "g7-tin",
-    "question": "Vị trí giữa của vùng tìm kiếm trong thuật toán tìm kiếm nhị phân bằng phần nguyên của\nA.vị trí cuối – vị trí đầu +1.B.(vị trí cuối + vị trí đầu)/2.\nC.(vị trí cuối - vị trí đầu)/2.D.vị trí cuối + vị trí đầu -1.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-31": {
-    "id": "g7-tin-31",
-    "topicId": "g7-tin",
-    "question": "Cách để tạo thêm trang chiếu mới trong bài trình chiếu?",
-    "choices": [
-      "Desigh/New Slide.",
-      "Home/New Slide.",
-      "Insert/New Slide.",
-      "File/New Slide."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-32": {
-    "id": "g7-tin-32",
-    "topicId": "g7-tin",
-    "question": "Có mấy nhóm hiệu ứng động trong phần mềm PowerPoint?",
-    "choices": [
-      "1.",
-      "2.",
-      "3.",
-      "4."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-33": {
-    "id": "g7-tin-33",
-    "topicId": "g7-tin",
-    "question": "Trong PowerPoint, em mở thẻ nào để định dạng văn bản?",
-    "choices": [
-      "Home.",
-      "Insert.",
-      "Design.",
-      "View."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-34": {
-    "id": "g7-tin-34",
-    "topicId": "g7-tin",
-    "question": "Dải lệnh nào cung cấp hiệu ứng cho đối tượng trên trang chiếu?\nA.HomeB.Animations.C.InsertD.Design",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-35": {
-    "id": "g7-tin-35",
-    "topicId": "g7-tin",
-    "question": "Trong PowerPoint, sau khi chọn hình ảnh, em mở thẻ nào để định dạng hình ảnh?",
-    "choices": [
-      "Home.B.Format.",
-      "Design.",
-      "View."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-36": {
-    "id": "g7-tin-36",
-    "topicId": "g7-tin",
-    "question": "Phát biểu nào sau đây làsai?",
-    "choices": [
-      "Hình ảnh minh họa làm cho bài trình chiếu ấn tượng hơn.",
-      "Nên chọn hình ảnh phù hợp với chủ đề của bài trình chiếu.",
-      "Màu sắc, họa tiết trên hình ảnh không cần trùng khớp với chủ đề.",
-      "Hình ảnh minh họa cần có tính thẩm mĩ."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-37": {
-    "id": "g7-tin-37",
-    "topicId": "g7-tin",
-    "question": "Sắp xếp lại trình tự các bước chèn và xử lí hình ảnh cho đúng:\na) Chọn tệp ảnh, nháy chuột chọn lệnh Insert.\nb) Chọn trang, vị trí trong trang cần chèn hình ảnh.\nc) Chọn Insert/Pictures để mở hộp thoại Insert Picture.\nd) Sử dụng các công cụ định dạng cho hình ảnh để được hình ảnh như ý.",
-    "choices": [
-      "a) → d) → b) → c).",
-      "c) → d) → a) → b).",
-      "a) → c) → b) → d).",
-      "b) → c) → a) → d)."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-38": {
-    "id": "g7-tin-38",
-    "topicId": "g7-tin",
-    "question": "Trong trang chiếu thì thông tin trực quan là gì?\nA.Văn bản.B.Hình ảnh.\nC.Văn bản, hình ảnh.D.Văn bản, hình ảnh, âm thanh.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-39": {
-    "id": "g7-tin-39",
-    "topicId": "g7-tin",
-    "question": "Em hãy sắp xếp lại các bước thực hiện tạo hiệu ứng cho đối tượng sao cho đúng.\na) Thay đổi thứ tự.\t   \t\t\t \tb) Chọn thẻ Animatinons.\nc) Chọn cách xuất hiện, thời lượng …\t\td) Chọn hiệu ứng.\ne) Xem trước\t\t\t\t\tf) Chọn đối tượng.",
-    "choices": [
-      "e → b → d → c → a → f.",
-      "f → b → a→ c → d → e.",
-      "c → b → d → f → a → e.",
-      "f → b → d → c → a → e."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-40": {
-    "id": "g7-tin-40",
-    "topicId": "g7-tin",
-    "question": "Tại mỗi bước lặp, thuật toán tìm kiếm nhị phân sẽ:\nA.Thu hẹp danh sách tìm kiếm chỉ còn một nửa.\nB.Danh sách sẽ được sắp xếp lại.\nC.Các phần tử trong danh sách sẽ giảm một nửa.\nD.Đáp án khác.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-41": {
-    "id": "g7-tin-41",
-    "topicId": "g7-tin",
-    "question": "Nút lệnh nào dùng để trình chiếu trong phần mềm trình chiếu?\nA.B.C.D.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [
-      "/images/g7_exams/img_88a74ca5.png",
-      "/images/g7_exams/img_d787caad.png",
-      "/images/g7_exams/img_151215b0.png",
-      "/images/g7_exams/img_daf560ac.png"
-    ],
-    "type": "essay"
-  },
-  "g7-tin-42": {
-    "id": "g7-tin-42",
-    "topicId": "g7-tin",
-    "question": "Trong các phương án dưới đây, đâu là địa chỉ của một khối trong phần mềm bảng tính?",
-    "choices": [
-      "A2:7ª",
-      "A2-A7",
-      "A2;A7",
-      "A2:A7"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-43": {
-    "id": "g7-tin-43",
-    "topicId": "g7-tin",
-    "question": "Công thức được nhập vào bảng tính với mục đích gì?",
-    "choices": [
-      "Căn chỉnh hàng cho đẹp.",
-      "Tính toán.",
-      "Thuận tiện khi nhập dữ liệu.",
-      "Sao chép một ô."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-44": {
-    "id": "g7-tin-44",
-    "topicId": "g7-tin",
-    "question": "Công thức khi nhập vào ô tính sẽ căn như thế nào?",
-    "choices": [
-      "Luôn căn trái.",
-      "Luôn căn giữa.",
-      "Luôn căn phải.",
-      "Tùy thuộc vào kết quả tính toán của công thức là số, văn bản hay ngày tháng."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-45": {
-    "id": "g7-tin-45",
-    "topicId": "g7-tin",
-    "question": "Vị trí giao của một hàng và một cột trong phần mềm bảng tính gọi là gì?",
-    "choices": [
-      "Ô tính.",
-      "Trang tính.",
-      "Hộp địa chỉ.",
-      "Bảng tính."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-46": {
-    "id": "g7-tin-46",
-    "topicId": "g7-tin",
-    "question": "Hàm được nhập như thế nào?",
-    "choices": [
-      "<tên hàm>(<các tham số>)",
-      "=<các tham số>(<tên hàm>)",
-      "=<tên hàm>(<các tham số>)",
-      "=tên hàm, các tham số"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-47": {
-    "id": "g7-tin-47",
-    "topicId": "g7-tin",
-    "question": "Công thức nào sau đây tự động tính toán?",
-    "choices": [
-      "=3,14*(15+45)",
-      "=B5+C5+E5",
-      "=13+14+15",
-      "=30+19*2"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-48": {
-    "id": "g7-tin-48",
-    "topicId": "g7-tin",
-    "question": "Trong phần mềm powerpoint 2016, để di chuyển một hình ảnh được chọn xuống lớp dưới cùng ta thực hiện như sau:\nBước 1: Nháy chuột phải lên hình ảnh\nBước 2: Chọn Order sau đó chọn lệnh",
-    "choices": [
-      "Bring Forward.",
-      "Send to Back.",
-      "Bring to Front.",
-      "Send Backward."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-49": {
-    "id": "g7-tin-49",
-    "topicId": "g7-tin",
-    "question": "Để sử dụng các mẫu có sẵn trong bài trình chiếu em chọn dải lệnh nào dưới đây?",
-    "choices": [
-      "Home",
-      "Design",
-      "Insert",
-      "Transitions"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": []
-  },
-  "g7-tin-50": {
-    "id": "g7-tin-50",
-    "topicId": "g7-tin",
-    "question": "Để chọn hiệu ứng đường di chuyển cho đối tượng được chọn, em chọn nhóm hiệu ứng nào dưới đây?\nII. TỰ LUẬN.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-51": {
-    "id": "g7-tin-51",
-    "topicId": "g7-tin",
-    "question": "Em hãy viết các bước thực hiện thuật toán tìm kiếm nhị phân để tìm tên bạn “Hòa” trong danh sách như hình sau:",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [
-      "/images/g7_exams/img_48779189.jpeg"
-    ],
-    "type": "essay"
-  },
-  "g7-tin-52": {
-    "id": "g7-tin-52",
-    "topicId": "g7-tin",
-    "question": "Cho danh sách tên các nước sau đây:\nThailand, Vietnam, Laos, Canada, China, Japan, Korea, Singapore, France.\na) Em hãy sắp xếp danh sách tên các nước theo thứ tự trong bảng chữ cái.\nb) Em hãy liệt kê các bước tìm kiếm tên nước “Japan” trong danh sách đã sắp xếp theo thuật toán tìm kiếm nhị phân.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-53": {
-    "id": "g7-tin-53",
-    "topicId": "g7-tin",
-    "question": "Để tạo một bài trình chiếu đẹp mắt, em cần lưu ý những điều gì?",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-54": {
-    "id": "g7-tin-54",
-    "topicId": "g7-tin",
-    "question": "Em hãy nêu các bước theo thứ tự để nhập hàm trực tiếp vào ô tính?",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-55": {
-    "id": "g7-tin-55",
-    "topicId": "g7-tin",
-    "question": "Em hãy trình bày tên, cách viết và ý nghĩa của 5 hàm thông dụng trong phần mềm bảng tính?",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-tin-56": {
-    "id": "g7-tin-56",
-    "topicId": "g7-tin",
-    "question": "Em hãy cho biết, mỗi hàm sau cho kết quả như thế nào?",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-1": {
-    "id": "g7-english-1",
-    "topicId": "g7-english",
-    "question": "I. VOCABULARY (From Unit 7 to Unit 12-A closer look 2)\n1. Traffic",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-2": {
-    "id": "g7-english-2",
-    "topicId": "g7-english",
-    "question": "I. VOCABULARY (From Unit 7 to Unit 12-A closer look 2)\n2. Films",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-3": {
-    "id": "g7-english-3",
-    "topicId": "g7-english",
-    "question": "I. VOCABULARY (From Unit 7 to Unit 12-A closer look 2)\n3. Festival around the world",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-4": {
-    "id": "g7-english-4",
-    "topicId": "g7-english",
-    "question": "I. VOCABULARY (From Unit 7 to Unit 12-A closer look 2)\n4. Energy sources",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-5": {
-    "id": "g7-english-5",
-    "topicId": "g7-english",
-    "question": "I. VOCABULARY (From Unit 7 to Unit 12-A closer look 2)\n5. Travelling in the future",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-6": {
-    "id": "g7-english-6",
-    "topicId": "g7-english",
-    "question": "I. VOCABULARY (From Unit 7 to Unit 12-A closer look 2)\n6. English-speaking countries",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-1-2": {
-    "id": "g7-english-1-2",
-    "topicId": "g7-english",
-    "question": "II. GRAMMAR POINTS\n1. It indicating distance and How far / How",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-2-2": {
-    "id": "g7-english-2-2",
-    "topicId": "g7-english",
-    "question": "II. GRAMMAR POINTS\n2. should / shouldn't",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-3-2": {
-    "id": "g7-english-3-2",
-    "topicId": "g7-english",
-    "question": "II. GRAMMAR POINTS\n3. connectors: although / though and however",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-4-2": {
-    "id": "g7-english-4-2",
-    "topicId": "g7-english",
-    "question": "II. GRAMMAR POINTS\n4. Yes/No question",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-5-2": {
-    "id": "g7-english-5-2",
-    "topicId": "g7-english",
-    "question": "II. GRAMMAR POINTS\n5. The present continuous",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-6-2": {
-    "id": "g7-english-6-2",
-    "topicId": "g7-english",
-    "question": "II. GRAMMAR POINTS\n6. The simple future tense with \"will\"",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-7": {
-    "id": "g7-english-7",
-    "topicId": "g7-english",
-    "question": "II. GRAMMAR POINTS\n7. Possessive pronouns",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-8": {
-    "id": "g7-english-8",
-    "topicId": "g7-english",
-    "question": "II. GRAMMAR POINTS\n8. Articles: a / an / the\nPRACTICE",
-    "choices": [
-      "PHONETICS"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-1-3": {
-    "id": "g7-english-1-3",
-    "topicId": "g7-english",
-    "question": "I. Choose the word whose underlined part is pronounced differently from the others.\n1.",
-    "choices": [
-      "year",
-      "wear",
-      "appear",
-      "hear"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-2-3": {
-    "id": "g7-english-2-3",
-    "topicId": "g7-english",
-    "question": "I. Choose the word whose underlined part is pronounced differently from the others.\n2.",
-    "choices": [
-      "natural",
-      "poverty",
-      "question",
-      "future"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-3-3": {
-    "id": "g7-english-3-3",
-    "topicId": "g7-english",
-    "question": "I. Choose the word whose underlined part is pronounced differently from the others.\n3.",
-    "choices": [
-      "transport",
-      "passenger",
-      "station",
-      "traffic"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-4-3": {
-    "id": "g7-english-4-3",
-    "topicId": "g7-english",
-    "question": "I. Choose the word whose underlined part is pronounced differently from the others.\n4.",
-    "choices": [
-      "limit",
-      "line",
-      "light",
-      "like"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-5-3": {
-    "id": "g7-english-5-3",
-    "topicId": "g7-english",
-    "question": "I. Choose the word whose underlined part is pronounced differently from the others.\n5.",
-    "choices": [
-      "deer",
-      "meet",
-      "atmosphere",
-      "volunteer"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-6-3": {
-    "id": "g7-english-6-3",
-    "topicId": "g7-english",
-    "question": "I. Choose the word whose underlined part is pronounced differently from the others.\n6.",
-    "choices": [
-      "painted",
-      "parked",
-      "watched",
-      "stopped"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-7-2": {
-    "id": "g7-english-7-2",
-    "topicId": "g7-english",
-    "question": "II. Choose the word that has the main stress placed differently from the others.\n7.",
-    "choices": [
-      "turkey",
-      "boring",
-      "joyful",
-      "donate"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-8-2": {
-    "id": "g7-english-8-2",
-    "topicId": "g7-english",
-    "question": "II. Choose the word that has the main stress placed differently from the others.\n8.",
-    "choices": [
-      "easily",
-      "beautiful",
-      "expensive",
-      "energy"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-9": {
-    "id": "g7-english-9",
-    "topicId": "g7-english",
-    "question": "II. Choose the word that has the main stress placed differently from the others.\n9.",
-    "choices": [
-      "costumes",
-      "enjoy",
-      "begin",
-      "appear"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-10": {
-    "id": "g7-english-10",
-    "topicId": "g7-english",
-    "question": "II. Choose the word that has the main stress placed differently from the others.\n10.",
-    "choices": [
-      "government",
-      "travelling",
-      "dangerous",
-      "polluting"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-11": {
-    "id": "g7-english-11",
-    "topicId": "g7-english",
-    "question": "II. Choose the word that has the main stress placed differently from the others.\n11.",
-    "choices": [
-      "violent",
-      "decorate",
-      "comedy",
-      "director",
-      "GRAMMAR & VOCABULARY"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-1-4": {
-    "id": "g7-english-1-4",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n1. Coal is a(n) __________ energy source.",
-    "choices": [
-      "renewable",
-      "non-renewable",
-      "expensive",
-      "good for the environment"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-2-4": {
-    "id": "g7-english-2-4",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n2. Cyclists need to obey the traffic __________ by not carrying more than one passenger.",
-    "choices": [
-      "rules",
-      "jams",
-      "lights",
-      "All are correct"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-3-4": {
-    "id": "g7-english-3-4",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n3. Several governments try to\nthe use of fossil fuels.",
-    "choices": [
-      "reduce",
-      "increase",
-      "waste",
-      "save"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-4-4": {
-    "id": "g7-english-4-4",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n4. A teleporter is __________, so it doesn't cause pollution.",
-    "choices": [
-      "limited",
-      "fast",
-      "available",
-      "eco-friendly"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-5-4": {
-    "id": "g7-english-5-4",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n5. A solowheel runs __________ electricity, so it is safe for the environment.",
-    "choices": [
-      "out",
-      "in",
-      "on",
-      "by"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-6-4": {
-    "id": "g7-english-6-4",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n6. I have ____ list of countries and territories where English is ____ official language.",
-    "choices": [
-      "the - a",
-      "a - an",
-      "a - the",
-      "an – an"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-7-3": {
-    "id": "g7-english-7-3",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n7. They expect zero-emission fuel cell buses to become a ______ of transport.",
-    "choices": [
-      "means",
-      "measure",
-      "instrument",
-      "channel"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-8-3": {
-    "id": "g7-english-8-3",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n8. He is driving his car too fast, but he is not wearing his……………..",
-    "choices": [
-      "seatbelt",
-      "helmet",
-      "hat",
-      "coat"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-9-2": {
-    "id": "g7-english-9-2",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n9. Jim wanted to ______ the boat alone, but his parents didn't agree.",
-    "choices": [
-      "let",
-      "travel",
-      "get",
-      "sail"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-10-2": {
-    "id": "g7-english-10-2",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n10. Your bike is a normal one, but ________ is a sports bike.",
-    "choices": [
-      "she",
-      "her",
-      "herself",
-      "hers"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-11-2": {
-    "id": "g7-english-11-2",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n11. Children should avoid ______ foods such as hamburger and snacks.",
-    "choices": [
-      "unhealthy",
-      "nutritious",
-      "uncooked",
-      "fresh"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-12": {
-    "id": "g7-english-12",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n12. Look! The boys ___ football in the park.",
-    "choices": [
-      "play",
-      "are playing",
-      "played",
-      "have played"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-13": {
-    "id": "g7-english-13",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n13. - How about going to the cinema tonight? - ____________",
-    "choices": [
-      "No, thanks.",
-      "It was a big disappointment.",
-      "That’s too bad.",
-      "That’s a great idea!"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-14": {
-    "id": "g7-english-14",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n14. _______ rulers are here. _______  are there.",
-    "choices": [
-      "Theirs – Ours",
-      "Their – Our",
-      "Theirs – Our",
-      "Their – Ours"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-15": {
-    "id": "g7-english-15",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n15. Recycling means to reuse something. The more we ______, the less energy is needed.",
-    "choices": [
-      "recycle",
-      "build",
-      "repair",
-      "reuse"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-16": {
-    "id": "g7-english-16",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n16. ______ is it from your house to the nearest bus stop? – \"About 50 meters.\"",
-    "choices": [
-      "How far",
-      "How long",
-      "How often",
-      "How much"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-17": {
-    "id": "g7-english-17",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n17. An: Do you think we will travel by flying car in the future?\nBen: ______",
-    "choices": [
-      "We certainly will.",
-      "Wow... I didn't know that",
-      "Amazing",
-      "Sounds great!"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-18": {
-    "id": "g7-english-18",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n18. Peter goes to school ______ foot everyday.",
-    "choices": [
-      "on",
-      "by",
-      "in",
-      "over"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-19": {
-    "id": "g7-english-19",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n19. We couldn't stop laughing when seeing this ______.",
-    "choices": [
-      "horror film",
-      "comedy",
-      "fantasy",
-      "action film"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-20": {
-    "id": "g7-english-20",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n20. The film is too ______ with a lot of fighting and killing scene.",
-    "choices": [
-      "funny",
-      "violent",
-      "interesting",
-      "romantic"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-21": {
-    "id": "g7-english-21",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n21. The fans of the film filled the cinemas ______ the show time was inconvenient.",
-    "choices": [
-      "though",
-      "so",
-      "however",
-      "and"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-22": {
-    "id": "g7-english-22",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n22. Nancy is on the way and she ______ in about half an hour.",
-    "choices": [
-      "arrives",
-      "arrived",
-      "are arriving",
-      "will arrive"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-23": {
-    "id": "g7-english-23",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n23. There is ______ area on Planet Mars which NASA has named Glasgow.",
-    "choices": [
-      "a",
-      "an",
-      "the",
-      "Ø"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-24": {
-    "id": "g7-english-24",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n24. Yesterday you probably brought my book home instead of ______.",
-    "choices": [
-      "yours",
-      "your",
-      "your book",
-      "mine"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-25": {
-    "id": "g7-english-25",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n25. Angelina and Robert ______ to each other right now.",
-    "choices": [
-      "don't talk",
-      "aren't talking",
-      "won't talk",
-      "didn't talk"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-26": {
-    "id": "g7-english-26",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n26. At present, my city ______a station for skyTrans.",
-    "choices": [
-      "is building",
-      "will build",
-      "build",
-      "built"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-27": {
-    "id": "g7-english-27",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n27. _________ is a type of vehicle that can take off, fly, and land like an airplane but can also drive\non roads.",
-    "choices": [
-      "Hyperloop",
-      "Teleporter",
-      "Flying car",
-      "Bullet train"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-28": {
-    "id": "g7-english-28",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n28. We _______ probably travel to the Moon in twenty years.",
-    "choices": [
-      "do",
-      "did",
-      "are",
-      "will"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-29": {
-    "id": "g7-english-29",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n29. There ______ over 10 million sheep but just 3 million people in Wales.",
-    "choices": [
-      "was",
-      "were",
-      "is",
-      "are"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-30": {
-    "id": "g7-english-30",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n30. A non- renewable source of energy can be used to power machinery, but it also _________the\nenvironment.",
-    "choices": [
-      "cleans",
-      "pollutes",
-      "helps",
-      "protects"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-31": {
-    "id": "g7-english-31",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n31. Canada and ______ USA share ______ longest international border in ______ world.",
-    "choices": [
-      "the - the - a",
-      "the - a - the",
-      "the - the - the",
-      "the - the - a"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-32": {
-    "id": "g7-english-32",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n32. The city has a ten-minute long ______ display on New Year's Eve.",
-    "choices": [
-      "fireworks",
-      "costumes",
-      "feast",
-      "parade"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-33": {
-    "id": "g7-english-33",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n33. ______ you buy a birthday present for Brian next Sunday?",
-    "choices": [
-      "Are",
-      "Will",
-      "Did",
-      "Do"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-34": {
-    "id": "g7-english-34",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n34. People need to find some other means of ______ to deal with traffic jams.",
-    "choices": [
-      "transport",
-      "vehicle",
-      "travelling",
-      "living"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-35": {
-    "id": "g7-english-35",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n35. The play was so boring. ____________, Lan saw it from beginning to end.",
-    "choices": [
-      "Therefore",
-      "Despite",
-      "However",
-      "Although"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-36": {
-    "id": "g7-english-36",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n36. Dogs love to play with a ball, and it is a favourite activity of ______.",
-    "choices": [
-      "their",
-      "theirs",
-      "its",
-      "it"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-37": {
-    "id": "g7-english-37",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n37. Because vehicles using fossil fuels cause pollution, scientists want to find a cheaper and\n___________ replacement.",
-    "choices": [
-      "inconvenient",
-      "dangerous",
-      "polluted",
-      "eco-friendly"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-38": {
-    "id": "g7-english-38",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n38. ______ easy for them to build another metro system?",
-    "choices": [
-      "Be will it",
-      "Be it will",
-      "It will be",
-      "Will it be"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-39": {
-    "id": "g7-english-39",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n39. Your idea is good, but not as good as ______.",
-    "choices": [
-      "ours",
-      "our",
-      "we",
-      "us"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-40": {
-    "id": "g7-english-40",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n40. Do you think that ______ pleasant to ride a solowheel in bad weather?",
-    "choices": [
-      "it won't be",
-      "will it be not",
-      "will it not be",
-      "won't it be"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-41": {
-    "id": "g7-english-41",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n41. I think future planes ______ like the UFOs.",
-    "choices": [
-      "look",
-      "looks",
-      "will look",
-      "are looking"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-42": {
-    "id": "g7-english-42",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n42. John talks to Ann, and he suggests going to the cinema.\nJohn: “Would you like to go to the cinema this weekend?”  - Ann: “ ____________________”",
-    "choices": [
-      "I don’t care.",
-      "Ok. You did it!",
-      "Great! I can’t wait.",
-      "Sorry. I don’t like."
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-43": {
-    "id": "g7-english-43",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n43. The distance between France and England is ______ 34 kilometers.",
-    "choices": [
-      "of",
-      "about",
-      "for",
-      "in"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-44": {
-    "id": "g7-english-44",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n44. _________ is anyone who uses a road, such as a pedestrian or motorist.",
-    "choices": [
-      "Passenger",
-      "Driver",
-      "Road user",
-      "Cyclist"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-45": {
-    "id": "g7-english-45",
-    "topicId": "g7-english",
-    "question": "I. Choose the best answer A, B, C or D to complete the sentence.\n45. You __________ bring fireworks to the festival, as it is strictly prohibited.\nfollowing questions.\n*  46. Our family planned to watch a movie together last night. We were looking forward to it, but\n______.\na. We decided to tell stories instead.\nb. The power went out just before the movie started\nc. Everyone was disappointed because we couldn't watch the movie.",
-    "choices": [
-      "should",
-      "must",
-      "shouldn't",
-      "mustn’t",
-      "a-c-b",
-      "c-a-b",
-      "b-a-c",
-      "a-b-c"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D. (strictly prohibited → mustn't)",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-47": {
-    "id": "g7-english-47",
-    "topicId": "g7-english",
-    "question": "II. Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the\n47. Choose the sentence that can end the text in question 46.\n* 48.  A local high school recently introduced a new computer course. It is popular among students.\n_____.\na. The course teaches students about coding and digital design.\nb. Many students have signed up for the course\nc. The school added the course to prepare students for future jobs in technology.",
-    "choices": [
-      "Finally, the power came back and we watched the movie",
-      "We spent the evening telling stories and had a great time",
-      "The power never came back, so we all went to bed early.",
-      "The movie was postponed to another day.",
-      "a-c-b",
-      "c-a-b",
-      "b-a-c",
-      "c-b-a"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C. (Power never came back)",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-49": {
-    "id": "g7-english-49",
-    "topicId": "g7-english",
-    "question": "II. Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the\n49. Choose the sentence that can end the text (in Question 48) most suitably.\neach of the numbered blanks\nThere is now increasing concern about the world’s energy (50)_________, particularly about those\ninvolving fossil (51) _________. In less (52)_________ a hundred years we shall probably use up all\nthe present energy of oil and gas. The world’s coal reserves should last longer, (53)_______ once used,\nthese cannot be (54)________. It is important, therefore, that we should develop such alternative\nsources of energy as solar energy as (55)________ as water and wind power, classed as renewable\nenergy.",
-    "choices": [
-      "The course has received good feedback from students and teachers",
-      "Some students have started working on their tech projects",
-      "The school is considering adding more technology-related courses",
-      "There were some issues with the course schedule at first."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A. (good feedback)",
-        "highlight": null
-      }
-    ],
-    "images": [
-      "/images/g7_exams/img_113c2957.jpeg"
-    ],
-    "type": "mcq"
-  },
-  "g7-english-50": {
-    "id": "g7-english-50",
-    "topicId": "g7-english",
-    "question": "III. Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits\n50.",
-    "choices": [
-      "possessions",
-      "resources",
-      "goods",
-      "materials"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B. (resources)",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-51": {
-    "id": "g7-english-51",
-    "topicId": "g7-english",
-    "question": "III. Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits\n51.",
-    "choices": [
-      "fuels",
-      "powers",
-      "forms",
-      "energies"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A. (fuels)",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-52": {
-    "id": "g7-english-52",
-    "topicId": "g7-english",
-    "question": "III. Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits\n52.",
-    "choices": [
-      "in",
-      "more",
-      "of",
-      "than"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D. (than)",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-53": {
-    "id": "g7-english-53",
-    "topicId": "g7-english",
-    "question": "III. Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits\n53.",
-    "choices": [
-      "although",
-      "but",
-      "so",
-      "and"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B. (but)",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-54": {
-    "id": "g7-english-54",
-    "topicId": "g7-english",
-    "question": "III. Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits\n54.",
-    "choices": [
-      "updated",
-      "repeated",
-      "renewed",
-      "produced"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C. (renewed)",
-        "highlight": null
-      }
-    ],
-    "images": [
-      "/images/g7_exams/img_1c76b777.jpeg"
-    ],
-    "type": "mcq"
-  },
-  "g7-english-55": {
-    "id": "g7-english-55",
-    "topicId": "g7-english",
-    "question": "III. Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits\n55.\nindicate the correct answer to each of the following questions.",
-    "choices": [
-      "good",
-      "well",
-      "fast",
-      "soon"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B. (well)",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-56": {
-    "id": "g7-english-56",
-    "topicId": "g7-english",
-    "question": "IV. Read the following sign or notice and mark the letter A, B, C or D on your answer sheet to\n56. What does this sign mean? _______",
-    "choices": [
-      "You mustn’t wear shoes into this place.",
-      "You can wear shoes into this place.",
-      "You have to take your shoes into this place.",
-      "You don’t have to wear shoes into this place."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [
-      "/images/g7_exams/img_97017f60.png"
-    ],
-    "type": "mcq"
-  },
-  "g7-english-57": {
-    "id": "g7-english-57",
-    "topicId": "g7-english",
-    "question": "IV. Read the following sign or notice and mark the letter A, B, C or D on your answer sheet to\n57. What does the sign say?",
-    "choices": [
-      "You shouldn’t speak to anyone in this area.",
-      "You don’t have to raise yoyur voice in this area.",
-      "You must be quiet in this area.",
-      "You mustn’t play in this area."
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-58": {
-    "id": "g7-english-58",
-    "topicId": "g7-english",
-    "question": "IV. Read the following sign or notice and mark the letter A, B, C or D on your answer sheet to\n58. What does the notice say?",
-    "choices": [
-      "Live music will be played on Saturday nights.",
-      "The cafe will have live music on Friday nights starting at"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-7-4": {
-    "id": "g7-english-7-4",
-    "topicId": "g7-english",
-    "question": "IV. Read the following sign or notice and mark the letter A, B, C or D on your answer sheet to\n7. p.m.",
-    "choices": [
-      "Music will be played only in the morning.",
-      "The cafe will not have live music this month."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-59": {
-    "id": "g7-english-59",
-    "topicId": "g7-english",
-    "question": "IV. Read the following sign or notice and mark the letter A, B, C or D on your answer sheet to\n59. What does the sign say?",
-    "choices": [
-      "Leave pet waste as it is.",
-      "Clean up any waste your pet leaves behind.",
-      "Cleaning up pet waste is optional",
-      "Only some pet waste needs cleaning"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [
-      "/images/g7_exams/img_32b9ecfb.jpeg",
-      "/images/g7_exams/img_e627758c.jpeg"
-    ],
-    "type": "mcq"
-  },
-  "g7-english-60": {
-    "id": "g7-english-60",
-    "topicId": "g7-english",
-    "question": "IV. Read the following sign or notice and mark the letter A, B, C or D on your answer sheet to\n60. What does the sign say?\nindicate the correct option that best fits each of the numbered blanks.\nThe Green Future Group is happy to announce a free workshop on solar energy this weekend.\nDetails include:\n•\nThe workshop aims to raise (61)  _______ about renewable energy.\n•\nAttendees will learn how (62) ____ and operate solar panels at home.\n•\n(63)____  event will provide informative resources and guides for everyone.\n•\nSeats are limited, so please register (64) ____ advance.",
-    "choices": [
-      "You can buy burgers and chips today only.",
-      "Chips and burgers are free today only.",
-      "If you buy a burger today you will get chips for free.",
-      "Every burger is served with chips in this restaurant",
-      "READING"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-61": {
-    "id": "g7-english-61",
-    "topicId": "g7-english",
-    "question": "SOLAR ENERGY WORKSHOP\n61.",
-    "choices": [
-      "awareness",
-      "aware",
-      "await",
-      "aware of"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-62": {
-    "id": "g7-english-62",
-    "topicId": "g7-english",
-    "question": "SOLAR ENERGY WORKSHOP\n62.",
-    "choices": [
-      "to install",
-      "install",
-      "installing",
-      "in installing"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-63": {
-    "id": "g7-english-63",
-    "topicId": "g7-english",
-    "question": "SOLAR ENERGY WORKSHOP\n63.",
-    "choices": [
-      "a",
-      "an",
-      "no article",
-      "the"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-64": {
-    "id": "g7-english-64",
-    "topicId": "g7-english",
-    "question": "SOLAR ENERGY WORKSHOP\n64.\nWe are excited to announce that a special Gong Festival will be held (65)______March in the\nCentral Highlands.\nThis festival celebrates the unique cultural heritage of the gong, (66) ______important traditional\nmusical instrument in Vietnamese culture. It aims to honor and preserve the values of (67)\n______and heritage in our country. We encourage everyone to join and experience the beauty of our\n(68) ______.",
-    "choices": [
-      "on",
-      "at",
-      "for",
-      "in"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-65": {
-    "id": "g7-english-65",
-    "topicId": "g7-english",
-    "question": "ANNOUNCEMENT OF THE GONG FESTIVAL CELEBRATION\n65.",
-    "choices": [
-      "on",
-      "in",
-      "at",
-      "during"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-66": {
-    "id": "g7-english-66",
-    "topicId": "g7-english",
-    "question": "ANNOUNCEMENT OF THE GONG FESTIVAL CELEBRATION\n66.",
-    "choices": [
-      "an",
-      "a",
-      "the",
-      "x (no article)"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-67": {
-    "id": "g7-english-67",
-    "topicId": "g7-english",
-    "question": "ANNOUNCEMENT OF THE GONG FESTIVAL CELEBRATION\n67.",
-    "choices": [
-      "activity",
-      "dance",
-      "community",
-      "statue"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-68": {
-    "id": "g7-english-68",
-    "topicId": "g7-english",
-    "question": "ANNOUNCEMENT OF THE GONG FESTIVAL CELEBRATION\n68.\nthe correct answer to each of the following questions from 31 to 36.",
-    "choices": [
-      "traditions",
-      "tradition",
-      "traditional",
-      "traditionally"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-1-5": {
-    "id": "g7-english-1-5",
-    "topicId": "g7-english",
-    "question": "II. Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate\n1. Wind is a form of solar energy. Winds are caused by the uneven heating of the atmosphere by the\nsun. Wind flow patterns are changed by the earth’s terrain, bodies of water, and vegetative cover.\nThis wind flow, or motion energy, when “harvested” by modern wind turbines, can be used to\ngenerate electricity.\nWind turbines are available in a variety of sizes, and therefore power ratings. The largest\nmachine has blades that span more than the length of a football field, stands 20-storey building high,\nand produces enough electricity to power 1,400 homes. A small home-sized wind machine has\nrotors between 8 and 25 feet in diameter and stands upwards of 30 feet, and can supply the power\nneeds of an all-electric home or small business, utility scale turbines range in size from 50 to 750\nkilowatts. Single small turbines, below 50 kilowatts, are used for homes, telecommunications\ndishes, or water pumping.\n*terrain (n): địa hình\n*vegetative (adj): thuộc thực vật\n*generate (v): phát ra",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-69": {
-    "id": "g7-english-69",
-    "topicId": "g7-english",
-    "question": "II. Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate\n69. What is the main idea of the reading passage?",
-    "choices": [
-      "What wind is?",
-      "Descriptions of wind turbines",
-      "How to generate electricity",
-      "The role of wind"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-70": {
-    "id": "g7-english-70",
-    "topicId": "g7-english",
-    "question": "II. Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate\n70. The word small is OPPOSITE in meaning to _______.",
-    "choices": [
-      "familiar",
-      "tiny",
-      "huge",
-      "common"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-71": {
-    "id": "g7-english-71",
-    "topicId": "g7-english",
-    "question": "II. Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate\n71. What is the reason for the existence of wind?",
-    "choices": [
-      "atmosphere heated unevenly",
-      "wind flow",
-      "motion energy",
-      "wind turbines"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-72": {
-    "id": "g7-english-72",
-    "topicId": "g7-english",
-    "question": "II. Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate\n72. Which of the following is NOT mentioned as a factor affecting the wind direction?",
-    "choices": [
-      "earth’s terrain",
-      "bodies of water",
-      "vegetative cover",
-      "the Sun"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-73": {
-    "id": "g7-english-73",
-    "topicId": "g7-english",
-    "question": "II. Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate\n73. What is the height of the largest wind turbines?",
-    "choices": [
-      "as tall as a 20-storey building",
-      "between 8 and 25 feet",
-      "30 feet",
-      "50 feet"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-74": {
-    "id": "g7-english-74",
-    "topicId": "g7-english",
-    "question": "II. Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate\n74. The word variety is CLOSEST in meaning to _______.",
-    "choices": [
-      "capacity",
-      "popularity",
-      "diversity",
-      "minority"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-2-5": {
-    "id": "g7-english-2-5",
-    "topicId": "g7-english",
-    "question": "II. Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate\n2. Harry Potter and the Chamber of Secrets is the second of the fantasy film series based on the same\nnovel by J. K. Rowling. After the success of the first one, Chris Columbus is still the director of this\nfilm. Meanwhile, the main cast of the first film remains in the second one. The film tells the story about\nthe great efforts of Harry to save his friends at Hogwarts, especially Ron’s sister Ginny, from the attacks\nof a basilisk. It’s a giant snake under the control of the ghostly memory of the sixteen-year-old Tom\nRiddle, one piece of Lord Voldemort’s soul preserved in an enchanted diary. In the end, he kills the\nbasilisk, saves everybody and frees Dobby – a kind of house-elf. The film is a really must-see film. It\nalso has lots of gripping images, soundtracks and visual effects.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-75": {
-    "id": "g7-english-75",
-    "topicId": "g7-english",
-    "question": "II. Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate\n75. What is the passage mainly about?",
-    "choices": [
-      "A famous director with his successful fantasy film.",
-      "A young wizard who kills a monster in his magic school.",
-      "A film based on the second novel of a fantasy series by J. K. Rowling.",
-      "The adventures of a house-elf in a wizarding world."
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-76": {
-    "id": "g7-english-76",
-    "topicId": "g7-english",
-    "question": "II. Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate\n76. The word “giant” in the text is OPPOSITE  in meaning to ___________.",
-    "choices": [
-      "huge",
-      "tiny",
-      "large",
-      "awful"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-77": {
-    "id": "g7-english-77",
-    "topicId": "g7-english",
-    "question": "II. Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate\n77. The word \"gripping\" in the text is CLOSEST in meaning to ___________.",
-    "choices": [
-      "moving",
-      "frightening",
-      "boring",
-      "exciting"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-78": {
-    "id": "g7-english-78",
-    "topicId": "g7-english",
-    "question": "II. Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate\n78. Which of the following statements about Harry is TRUE?",
-    "choices": [
-      "He fights against a cruel house-elf of Lord Voldemort.",
-      "He kills a giant spider at the end of the film.",
-      "He saves Ron’s sister from a basilisk.",
-      "He becomes friends with Tom Riddle."
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-79": {
-    "id": "g7-english-79",
-    "topicId": "g7-english",
-    "question": "II. Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate\n79. What does the word \"It\" in the last sentence refer to?",
-    "choices": [
-      "The film.",
-      "The kind house-elf.",
-      "The basilisk.",
-      "The  diary."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-80": {
-    "id": "g7-english-80",
-    "topicId": "g7-english",
-    "question": "II. Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate\n80. How are the visual effects of the film?",
-    "choices": [
-      "Extremely interesting.",
-      "Rather boring.",
-      "Very colourful.",
-      "Pretty outdated.",
-      "WRITING"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-81": {
-    "id": "g7-english-81",
-    "topicId": "g7-english",
-    "question": "I. Rewrite the sentence using suggestions in the bracket\n81. Although she hated him at first, she fell in love with him in the end.(Rewrite the sentence, using\nHowever)\nShe ......................................................................................................................",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-82": {
-    "id": "g7-english-82",
-    "topicId": "g7-english",
-    "question": "I. Rewrite the sentence using suggestions in the bracket\n82. Samuel likes the UK, but he decided to study in the USA.(Rewrite the sentence, using Although)\nAlthough ............................................................................................................",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-83": {
-    "id": "g7-english-83",
-    "topicId": "g7-english",
-    "question": "I. Rewrite the sentence using suggestions in the bracket\n83. Why don't we tell everybody to save clean water and electricity?(Rewrite the sentence, using\nshould)\nWe should .........................................................................................................",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-84": {
-    "id": "g7-english-84",
-    "topicId": "g7-english",
-    "question": "I. Rewrite the sentence using suggestions in the bracket\n84. This is her new car. (Rewrite the sentence, using hers)\nThis new car .......................................................................................................",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-85": {
-    "id": "g7-english-85",
-    "topicId": "g7-english",
-    "question": "I. Rewrite the sentence using suggestions in the bracket\n85. Which is your notebook? (Rewrite the sentence, using yours)\nWhich notebook .................................................................................................",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-86": {
-    "id": "g7-english-86",
-    "topicId": "g7-english",
-    "question": "II. Complete the sentences\n86. New Zealand / magical place / amazing natural beauty / friendly people. (Sentence building)\n...............................................................................................................................",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-87": {
-    "id": "g7-english-87",
-    "topicId": "g7-english",
-    "question": "II. Complete the sentences\n87. People / all over the world / visit / British Museum (Sentence building)\n...............................................................................................................................",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-88": {
-    "id": "g7-english-88",
-    "topicId": "g7-english",
-    "question": "II. Complete the sentences\n88. We / use / solar-powered buses / in ten years\n...............................................................................................................................",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-89": {
-    "id": "g7-english-89",
-    "topicId": "g7-english",
-    "question": "II. Complete the sentences\n89. Every country/ should do/ something/ control/ population.\n=> ________________________________________________________",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-90": {
-    "id": "g7-english-90",
-    "topicId": "g7-english",
-    "question": "II. Complete the sentences\n90. I/ enjoy/ watch/ film/ made/famous/ Hollywood film producers.\n=> ________________________________________________________",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-91": {
-    "id": "g7-english-91",
-    "topicId": "g7-english",
-    "question": "I. Give the correct form of the verbs\n91. Mai (read) __________  about renewable energy, and Nam (do) __________ a project on our local\nenvironment at the moment.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-92": {
-    "id": "g7-english-92",
-    "topicId": "g7-english",
-    "question": "I. Give the correct form of the verbs\n92. Last night, the music (get) __________ louder and louder. Many people (put) __________ their\nhands over their ears.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-93": {
-    "id": "g7-english-93",
-    "topicId": "g7-english",
-    "question": "I. Give the correct form of the verbs\n93. Her mother (not have) __________  a nap now. She (water) __________ the plants.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-94": {
-    "id": "g7-english-94",
-    "topicId": "g7-english",
-    "question": "I. Give the correct form of the verbs\n94. My father (install) __________ a biogas cooker in the kitchen tomorrow, and the workers (put)\n__________ solar panels on the roof of our house.\nother words in addition to the cues to complete the sentences.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-95": {
-    "id": "g7-english-95",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n95. _________ has become a hot trend in this city nowadays. (CYCLE)",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-96": {
-    "id": "g7-english-96",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n96. This type of transport is powered by _________ motors. (ELECTRICITY)",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-97": {
-    "id": "g7-english-97",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n97. These types of energy do not cause pollution or waste _________ resources. (NATURE)",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-98": {
-    "id": "g7-english-98",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n98. There are some other activities such as _________ shows, buffalo races and traditional games.\n(CULTURE)",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-99": {
-    "id": "g7-english-99",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n99. The film was so interesting that Peter saw it from _________ to the end. (BEGIN)",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-100": {
-    "id": "g7-english-100",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n100. Using public transport can reduce _________ . (POLLUTE)\nMOCK TEST 1\nMark the letter A, B, C or D on your answer sheet to indicate the word whose underlined part differs\nfrom the other three in pronunciation in each of the following questions.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-1-6": {
-    "id": "g7-english-1-6",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n1.",
-    "choices": [
-      "gate",
-      "translation",
-      "nation",
-      "paint"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-2-6": {
-    "id": "g7-english-2-6",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n2.\nMark the letter A, B, C or D on your answer sheet to indicate the word that differs from the other\nthree in the position of primary stress in each of the following questions.",
-    "choices": [
-      "site",
-      "twice",
-      "side",
-      "thin"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-3-5": {
-    "id": "g7-english-3-5",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n3.",
-    "choices": [
-      "respect",
-      "safety",
-      "pavement",
-      "traffic"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-4-5": {
-    "id": "g7-english-4-5",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n4.\nMark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the\nfollowing questions.",
-    "choices": [
-      "illegal",
-      "prohibitive",
-      "noisy",
-      "polluted"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-5-5": {
-    "id": "g7-english-5-5",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n5. ______he is a CEO and earns a lot of money, he is very mean.",
-    "choices": [
-      "Because",
-      "Although",
-      "Despite",
-      "Because of"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-6-5": {
-    "id": "g7-english-6-5",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n6. This is a(n) _____ on real life during wars in Vietnam in 1945.",
-    "choices": [
-      "Horror film",
-      "sci-fi",
-      "comedy",
-      "documentary"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-7-5": {
-    "id": "g7-english-7-5",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n7. The film was so __________. However, my father saw it from beginning to end.",
-    "choices": [
-      "Interesting",
-      "exciting",
-      "boring",
-      "fascinating"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-8-4": {
-    "id": "g7-english-8-4",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n8. ______having a broken leg, she took part in the competition.",
-    "choices": [
-      "However",
-      "Although",
-      "In spite of",
-      "Because"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-9-3": {
-    "id": "g7-english-9-3",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n9. _______working very hard, he lost his job.",
-    "choices": [
-      "Despite",
-      "However",
-      "But",
-      "Because"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-10-3": {
-    "id": "g7-english-10-3",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n10. Adam: “How about going to the cinema tonight?” – Linda: “_____”",
-    "choices": [
-      "That’s a great idea. I’d love to.",
-      "That’s an interesting film. I like it",
-      "It’s a must-see film. You should watch it",
-      "The cinema is quite big."
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-11-3": {
-    "id": "g7-english-11-3",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n11. This film made a strong impression _____ me.",
-    "choices": [
-      "On",
-      "in",
-      "to",
-      "at"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-12-2": {
-    "id": "g7-english-12-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n12. Peter wants to _________the BEST ACTOR PRIZE this year.\nRead the following announcement and mark the letter A, B, C or D on your answer sheet to indicate\nthe correct option that best fits each of the numbered blanks from 13 to 16.\nMID-AUTUMN FESTIVAL CELEBRATION\nThe Community Association is (13) ____ to celebrate the annual Mid-Autumn\nFestival this Sunday evening.\nDetails include:\nThe celebration will (14) _____ at the town square.\nVisitors will enjoy traditional lantern displays and (15) ____ mooncakes.\nTickets are free but must be claimed (16) ____ advance.",
-    "choices": [
-      "Act",
-      "direct",
-      "perform",
-      "win"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-13-2": {
-    "id": "g7-english-13-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n13.",
-    "choices": [
-      "thrilled",
-      "thrilling",
-      "thrill",
-      "thrilly"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-14-2": {
-    "id": "g7-english-14-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n14.",
-    "choices": [
-      "hold",
-      "take in",
-      "take place",
-      "bring"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-15-2": {
-    "id": "g7-english-15-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n15.",
-    "choices": [
-      "delicious",
-      "delightful",
-      "fine",
-      "good"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-16-2": {
-    "id": "g7-english-16-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n16.\nMark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the\nfollowing questions 17.\nMy family joined the spring flower festival last weekend. We were excited to see the beautiful flowers,\nbut __.\na. The festival was more crowded than we expected.\nb. It was difficult to find a parking spot.\nc. We finally got to see the flowers and enjoyed taking pictures.",
-    "choices": [
-      "in",
-      "on",
-      "from",
-      "at",
-      "b-a-c",
-      "a-b-c",
-      "c-b-a",
-      "b-c-a"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-18-2": {
-    "id": "g7-english-18-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n18. Choose the sentence that can end the text in question 17.\nRead the following passage and mark the letter A, B, C or D on your answer sheet to indicate the\ncorrect option that best fits each numbered blank from 19 to 24.\nMost of our energy comes from fossil fuels (19) _____, coal, oil, and natural gas. Although the supplies\nof these energy sources are plentiful, they are limited. The (20) _____ of coal and oil is also having very\nharmful impacts (21) _____ the environment. However, fossil fuels are not the only source of energy\nand burning fuel is not the only way to produce heat and motion. Renewable energy offers us a better\nway.\nSome energy sources are renewable because they are naturally available (22) _____ last forever. Some\nsources have enormous supply so human can never use them up. Moreover, renewable energy sources\nhave much smaller impacts on the environment than fossil and nuclear fuels. (23) _____ include solar\nenergy, which comes from the sun and can be converted into electricity and heat. Wind, geothermal\nenergy from inside the earth, biomass from plants, and hydropower from 1 water are (24) _____\nrenewable sources of energy.",
-    "choices": [
-      "We had to leave early because it became too crowded.",
-      "In the end, we had a wonderful day despite the challenges",
-      "The flowers were not as beautiful as we expected",
-      "We decided not to go to the festival after all."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-19-2": {
-    "id": "g7-english-19-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n19.",
-    "choices": [
-      "include",
-      "such as",
-      "unlike",
-      "is"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [
-      "/images/g7_exams/img_9a25de9e.png"
-    ],
-    "type": "mcq"
-  },
-  "g7-english-20-2": {
-    "id": "g7-english-20-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n20.",
-    "choices": [
-      "burn",
-      "to burn",
-      "burns",
-      "burning"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-21-2": {
-    "id": "g7-english-21-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n21.",
-    "choices": [
-      "at",
-      "of",
-      "on",
-      "in"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-22-2": {
-    "id": "g7-english-22-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n22.",
-    "choices": [
-      "so",
-      "but",
-      "for",
-      "and"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-23-2": {
-    "id": "g7-english-23-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n23.",
-    "choices": [
-      "It",
-      "There",
-      "That",
-      "They"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-24-2": {
-    "id": "g7-english-24-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n24.\nMark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning\nto the\nRead the following sign or notice and mark the letter A, B, C or D on your answer sheet to indicate\nthe correct answer to each of the following questions.",
-    "choices": [
-      "also",
-      "only",
-      "last",
-      "then"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [
-      "/images/g7_exams/img_f970941a.jpeg"
-    ],
-    "type": "mcq"
-  },
-  "g7-english-25-2": {
-    "id": "g7-english-25-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n25. What does the notice say?",
-    "choices": [
-      "You can only use the bridge until June.",
-      "Repairs to the bridge will start at the end of June.",
-      "From July on, you can drive across the bridge.",
-      "You are allowed to use the bridge during June."
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-26-2": {
-    "id": "g7-english-26-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n26. What does the sign say?\nRead the following passage and mark the letter A, B, C or D on your answer sheet to indicate the\ncorrect answer to each of the following questions.\nTwenty years ago, you needed to bring along air tickets, vouchers, travel cheques, and a heavy\ncarry-on bag with Walkman, CDs, travel journal and etc. The load is so much lighter now since most\nstuff can be stored in our tablets or smartphones. Technology is amazing isn't it?\nAirport security was a brief back then. They used metal cutleries and gave all passengers bags of\ntoiletries to keep them comfortable during the flight. Now, there are many limitations on things that we\ncan and cannot bring on board. Thanks to \"Everyone can fly\" tagline, airlines had to reduce their\nservices to stay afloat. So more people can fly and travel now.\nTwo decades ago, if you wish to call home, you can only do it at an International\nTelecommunications Exchange and dial you home number with no guarantee that it will get through.\nThese days, all we need to stop by upon arrival is a local SIM card available as you walk out of the\ndeparture hall. The Internet makes it easy for you to Skype, Facetime your family just to inform them\nthat you have arrived safely.",
-    "choices": [
-      "No pedestrian traffic.",
-      "No playing in the street.",
-      "No passing allowed.",
-      "No parking allowed."
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-27-2": {
-    "id": "g7-english-27-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n27. What is the main idea of the passage?",
-    "choices": [
-      "Travelling in the past",
-      "Travelling now",
-      "Travelling in the past and now",
-      "Travelling tomorrow."
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-28-2": {
-    "id": "g7-english-28-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n28. What is one important thing to bring along in your trip now?",
-    "choices": [
-      "Travel cheques",
-      "your smartphone",
-      "Travel journal",
-      "Travel car"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-29-2": {
-    "id": "g7-english-29-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n29. The number of travelers is ______.",
-    "choices": [
-      "the same as in the past",
-      "lower now than in the past",
-      "higher now than in the past",
-      "high now than in the past"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đáp án: D.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-30-2": {
-    "id": "g7-english-30-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n30. Which of the following statement is NOT TRUE according to the passage?",
-    "choices": [
-      "The load that needs bringing is now lighter than in the past.",
-      "Metal cutleries are used to keep comfortable.",
-      "In these days, you still only make a call to home at International Telecommunications Exchange.",
-      "Skype and Facetime are useful for keeping contact with your family."
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đáp án: B.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-31-2": {
-    "id": "g7-english-31-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n31. The word “stuff” is CLOSEST in meaning to ________.",
-    "choices": [
-      "Object",
-      "airlines",
-      "service",
-      "store"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đáp án: C.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-32-2": {
-    "id": "g7-english-32-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n32. The word “available” is OPPOSITE in meaning to _________.\nWrite the correst tense or form of the word in the brackets.",
-    "choices": [
-      "Rare",
-      "abundant",
-      "existing",
-      "easy"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đáp án: A.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "mcq"
-  },
-  "g7-english-33-2": {
-    "id": "g7-english-33-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n33. Using non-renewable energy sources like coal, oil ___________ a lot of carbon dioxide\n(produce).",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-34-2": {
-    "id": "g7-english-34-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n34. Renewable sources _____________from the sun, wind or water. (come)",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-35-2": {
-    "id": "g7-english-35-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n35. In the future we  _______ more on renewable energy sources. (rely)\nRewrite the following sentences using the words in brackets giving the same meaning.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-36-2": {
-    "id": "g7-english-36-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n36. Tom enjoys playing the guitar in his free time.\nTom is_______________________________________________________",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-37-2": {
-    "id": "g7-english-37-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n37. In England, driving on the right side of the road is against the laws.\nYou mustn’t________________________________________________________",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-38-2": {
-    "id": "g7-english-38-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n38. She spends thirty minutes doing this test.\nIt takes________________________________________________________\nUse the given words/ phrases to make the sentences.",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-39-2": {
-    "id": "g7-english-39-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n39. Robot/ help/ people/ do/ household chores.\n________________________________________________________",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
-  "g7-english-40-2": {
-    "id": "g7-english-40-2",
-    "topicId": "g7-english",
-    "question": "II. Complete each of the following sentences using the cues given. You can change the cues and use\n40. Almost all our energy/ come/ oil/ gas/ natural gas.\n______________________________________________________\n-The end-",
-    "choices": [],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ],
-    "images": [],
-    "type": "essay"
-  },
   "g7-math-1": {
     "id": "g7-math-1",
     "topicId": "g7-math",
@@ -20479,5 +15343,3782 @@ export const problems = {
     ],
     "images": [],
     "type": "essay"
+  },
+  "g7-english-1": {
+    "id": "g7-english-1",
+    "topicId": "g7-english",
+    "question": "PHONETICS\nChoose the word whose underlined part is pronounced differently from the others.",
+    "choices": [
+      "A. year",
+      "B. wear",
+      "C. appear",
+      "D. hear",
+      "A. natural",
+      "B. poverty",
+      "C. question",
+      "D. future",
+      "A. transport",
+      "B. passenger",
+      "C. station",
+      "D. traffic",
+      "A. limit",
+      "B. line",
+      "C. light",
+      "D. like",
+      "A. deer",
+      "B. meet",
+      "C. atmosphere",
+      "D. volunteer",
+      "A. painted",
+      "B. parked",
+      "C. watched",
+      "D. stopped"
+    ],
+    "answer": 20,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-2": {
+    "id": "g7-english-2",
+    "topicId": "g7-english",
+    "question": "Choose the word that has the main stress placed differently from the others.",
+    "choices": [
+      "A. turkey",
+      "B. boring",
+      "C. joyful",
+      "D. donate",
+      "A. easily",
+      "B. beautiful",
+      "C. expensive",
+      "D. energy",
+      "A. costumes",
+      "B. enjoy",
+      "C. begin",
+      "D. appear",
+      "A. government",
+      "B. travelling",
+      "C. dangerous",
+      "D. polluting",
+      "A. violent",
+      "B. decorate",
+      "C. comedy",
+      "D. director"
+    ],
+    "answer": 6,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-3": {
+    "id": "g7-english-3",
+    "topicId": "g7-english",
+    "question": "GRAMMAR & VOCABULARY\nChoose the best answer A, B, C or D to complete the sentence.\nCoal is a(n)  _____ energy source.",
+    "choices": [
+      "A. renewable",
+      "B. non-renewable",
+      "C. expensive",
+      "D. good for the environment"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-4": {
+    "id": "g7-english-4",
+    "topicId": "g7-english",
+    "question": "Cyclists need to obey the traffic  _____ by not carrying more than one passenger.",
+    "choices": [
+      "A. rules",
+      "B. jams",
+      "C. lights",
+      "D. All are correct"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-5": {
+    "id": "g7-english-5",
+    "topicId": "g7-english",
+    "question": "Several governments try to  _____ the use of fossil fuels.",
+    "choices": [
+      "A. reduce",
+      "B. increase",
+      "C. waste",
+      "D. save"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-6": {
+    "id": "g7-english-6",
+    "topicId": "g7-english",
+    "question": "A teleporter is  _____ , so it doesn't cause pollution.",
+    "choices": [
+      "A. limited",
+      "B. fast",
+      "C. available",
+      "D. eco-friendly"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-7": {
+    "id": "g7-english-7",
+    "topicId": "g7-english",
+    "question": "A solowheel runs  _____ electricity, so it is safe for the environment.",
+    "choices": [
+      "A. out",
+      "B. in",
+      "C. on",
+      "D. by"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-8": {
+    "id": "g7-english-8",
+    "topicId": "g7-english",
+    "question": "I have  _____ list of countries and territories where English is  _____ official language.",
+    "choices": [
+      "A. the - a",
+      "B. a - an",
+      "C. a - the",
+      "D. an – an"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-9": {
+    "id": "g7-english-9",
+    "topicId": "g7-english",
+    "question": "They expect zero-emission fuel cell buses to become a  _____ of transport.",
+    "choices": [
+      "A. means",
+      "B. measure",
+      "C. instrument",
+      "D. channel"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-10": {
+    "id": "g7-english-10",
+    "topicId": "g7-english",
+    "question": "He is driving his car too fast, but he is not wearing his……………..",
+    "choices": [
+      "A. seatbelt",
+      "B. helmet",
+      "C. hat",
+      "D. coat"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-11": {
+    "id": "g7-english-11",
+    "topicId": "g7-english",
+    "question": "Jim wanted to  _____ the boat alone, but his parents didn't agree.",
+    "choices": [
+      "A. let",
+      "B. travel",
+      "C. get",
+      "D. sail"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-12": {
+    "id": "g7-english-12",
+    "topicId": "g7-english",
+    "question": "Your bike is a normal one, but  _____ is a sports bike.",
+    "choices": [
+      "A. she",
+      "B. her",
+      "C. herself",
+      "D. hers"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-13": {
+    "id": "g7-english-13",
+    "topicId": "g7-english",
+    "question": "Children should avoid  _____ foods such as hamburger and snacks.",
+    "choices": [
+      "A. unhealthy",
+      "B. nutritious",
+      "C. uncooked",
+      "D. fresh"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-14": {
+    "id": "g7-english-14",
+    "topicId": "g7-english",
+    "question": "Look! The boys  _____ football in the park.",
+    "choices": [
+      "A. play",
+      "B. are playing",
+      "C. played",
+      "D. have played"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-15": {
+    "id": "g7-english-15",
+    "topicId": "g7-english",
+    "question": "- How about going to the cinema tonight? -",
+    "choices": [
+      "A. No, thanks.",
+      "B. It was a big disappointment.",
+      "C. That’s too bad.",
+      "D. That’s a great idea!"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-16": {
+    "id": "g7-english-16",
+    "topicId": "g7-english",
+    "question": "rulers are here.  _____  are there.",
+    "choices": [
+      "A. Theirs – Ours",
+      "B. Their – Our",
+      "C. Theirs – Our",
+      "D. Their – Ours"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-17": {
+    "id": "g7-english-17",
+    "topicId": "g7-english",
+    "question": "Recycling means to reuse something. The more we  _____ , the less energy is needed.",
+    "choices": [
+      "A. recycle",
+      "B. build",
+      "C. repair",
+      "D. reuse"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-18": {
+    "id": "g7-english-18",
+    "topicId": "g7-english",
+    "question": "is it from your house to the nearest bus stop? – \"About 50 meters.\"",
+    "choices": [
+      "A. How far",
+      "B. How long",
+      "C. How often",
+      "D. How much"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-19": {
+    "id": "g7-english-19",
+    "topicId": "g7-english",
+    "question": "An: Do you think we will travel by flying car in the future? Ben:",
+    "choices": [
+      "A. We certainly will.",
+      "B. Wow... I didn't know that",
+      "C. Amazing",
+      "D. Sounds great!"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-20": {
+    "id": "g7-english-20",
+    "topicId": "g7-english",
+    "question": "Peter goes to school  _____ foot everyday.",
+    "choices": [
+      "A. on",
+      "B. by",
+      "C. in",
+      "D. over"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-21": {
+    "id": "g7-english-21",
+    "topicId": "g7-english",
+    "question": "We couldn't stop laughing when seeing this  _____ .",
+    "choices": [
+      "A. horror film",
+      "B. comedy",
+      "C. fantasy",
+      "D. action film"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-22": {
+    "id": "g7-english-22",
+    "topicId": "g7-english",
+    "question": "The film is too  _____ with a lot of fighting and killing scene.",
+    "choices": [
+      "A. funny",
+      "B. violent",
+      "C. interesting",
+      "D. romantic"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-23": {
+    "id": "g7-english-23",
+    "topicId": "g7-english",
+    "question": "The fans of the film filled the cinemas  _____ the show time was inconvenient.",
+    "choices": [
+      "A. though",
+      "B. so",
+      "C. however",
+      "D. and"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-24": {
+    "id": "g7-english-24",
+    "topicId": "g7-english",
+    "question": "Nancy is on the way and she  _____ in about half an hour.",
+    "choices": [
+      "A. arrives",
+      "B. arrived",
+      "C. are arriving",
+      "D. will arrive"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-25": {
+    "id": "g7-english-25",
+    "topicId": "g7-english",
+    "question": "There is  _____ area on Planet Mars which NASA has named Glasgow.",
+    "choices": [
+      "A. a",
+      "B. an",
+      "C. the",
+      "D. Ø"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-26": {
+    "id": "g7-english-26",
+    "topicId": "g7-english",
+    "question": "Yesterday you probably brought my book home instead of  _____ .",
+    "choices": [
+      "A. yours",
+      "B. your",
+      "C. your book",
+      "D. mine"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-27": {
+    "id": "g7-english-27",
+    "topicId": "g7-english",
+    "question": "Angelina and Robert  _____ to each other right now.",
+    "choices": [
+      "A. don't talk",
+      "B. aren't talking",
+      "C. won't talk",
+      "D. didn't talk"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-28": {
+    "id": "g7-english-28",
+    "topicId": "g7-english",
+    "question": "At present, my city  _____ a station for skyTrans.",
+    "choices": [
+      "A. is building",
+      "B. will build",
+      "C. build",
+      "D. built"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-29": {
+    "id": "g7-english-29",
+    "topicId": "g7-english",
+    "question": "is a type of vehicle that can take off, fly, and land like an airplane but can also drive on roads.",
+    "choices": [
+      "A. Hyperloop",
+      "B. Teleporter",
+      "C. Flying car",
+      "D. Bullet train"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-30": {
+    "id": "g7-english-30",
+    "topicId": "g7-english",
+    "question": "We  _____ probably travel to the Moon in twenty years.",
+    "choices": [
+      "A. do",
+      "B. did",
+      "C. are",
+      "D. will"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-31": {
+    "id": "g7-english-31",
+    "topicId": "g7-english",
+    "question": "There  _____ over 10 million sheep but just 3 million people in Wales.",
+    "choices": [
+      "A. was",
+      "B. were",
+      "C. is",
+      "D. are"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-32": {
+    "id": "g7-english-32",
+    "topicId": "g7-english",
+    "question": "A non- renewable source of energy can be used to power machinery, but it also  _____ the environment.",
+    "choices": [
+      "A. cleans",
+      "B. pollutes",
+      "C. helps",
+      "D. protects"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-33": {
+    "id": "g7-english-33",
+    "topicId": "g7-english",
+    "question": "Canada and  _____ USA share  _____ longest international border in  _____ world.",
+    "choices": [
+      "A. the - the - a",
+      "B. the - a - the",
+      "C. the - the - the",
+      "D. the - the – a"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-34": {
+    "id": "g7-english-34",
+    "topicId": "g7-english",
+    "question": "The city has a ten-minute long  _____ display on New Year's Eve.",
+    "choices": [
+      "A. fireworks",
+      "B. costumes",
+      "C. feast",
+      "D. parade"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-35": {
+    "id": "g7-english-35",
+    "topicId": "g7-english",
+    "question": "you buy a birthday present for Brian next Sunday?",
+    "choices": [
+      "A. Are",
+      "B. Will",
+      "C. Did",
+      "D. Do"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-36": {
+    "id": "g7-english-36",
+    "topicId": "g7-english",
+    "question": "People need to find some other means of  _____ to deal with traffic jams.",
+    "choices": [
+      "A. transport",
+      "B. vehicle",
+      "C. travelling",
+      "D. living"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-37": {
+    "id": "g7-english-37",
+    "topicId": "g7-english",
+    "question": "The play was so boring.  _____ , Lan saw it from beginning to end.",
+    "choices": [
+      "A. Therefore",
+      "B. Despite",
+      "C. However",
+      "D. Although"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-38": {
+    "id": "g7-english-38",
+    "topicId": "g7-english",
+    "question": "Dogs love to play with a ball, and it is a favourite activity of  _____ .",
+    "choices": [
+      "A. their",
+      "B. theirs",
+      "C. its",
+      "D. it"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-39": {
+    "id": "g7-english-39",
+    "topicId": "g7-english",
+    "question": "Because vehicles using fossil fuels cause pollution, scientists want to find a cheaper and\nreplacement.",
+    "choices": [
+      "A. inconvenient",
+      "B. dangerous",
+      "C. polluted",
+      "D. eco-friendly"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-40": {
+    "id": "g7-english-40",
+    "topicId": "g7-english",
+    "question": "easy for them to build another metro system?",
+    "choices": [
+      "A. Be will it",
+      "B. Be it will",
+      "C. It will be",
+      "D. Will it be"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-41": {
+    "id": "g7-english-41",
+    "topicId": "g7-english",
+    "question": "Your idea is good, but not as good as  _____ .",
+    "choices": [
+      "A. ours",
+      "B. our",
+      "C. we",
+      "D. us"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-42": {
+    "id": "g7-english-42",
+    "topicId": "g7-english",
+    "question": "Do you think that  _____ pleasant to ride a solowheel in bad weather?",
+    "choices": [
+      "A. it won't be",
+      "B. will it be not",
+      "C. will it not be",
+      "D. won't it be"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-43": {
+    "id": "g7-english-43",
+    "topicId": "g7-english",
+    "question": "I think future planes  _____ like the UFOs.",
+    "choices": [
+      "A. look",
+      "B. looks",
+      "C. will look",
+      "D. are looking"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-44": {
+    "id": "g7-english-44",
+    "topicId": "g7-english",
+    "question": "John talks to Ann, and he suggests going to the cinema.",
+    "choices": [
+      "A. John: “Would you like to go to the cinema this weekend?” - Ann: “",
+      "B. ”",
+      "A. I don’t care.",
+      "B. Ok. You did it!",
+      "C. Great! I can’t wait.",
+      "D. Sorry. I don’t like."
+    ],
+    "answer": 4,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-45": {
+    "id": "g7-english-45",
+    "topicId": "g7-english",
+    "question": "The distance between France and England is  _____ 34 kilometers.",
+    "choices": [
+      "A. of",
+      "B. about",
+      "C. for",
+      "D. in"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-46": {
+    "id": "g7-english-46",
+    "topicId": "g7-english",
+    "question": "is anyone who uses a road, such as a pedestrian or motorist.",
+    "choices": [
+      "A. Passenger",
+      "B. Driver",
+      "C. Road user",
+      "D. Cyclist"
+    ],
+    "answer": -1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-47": {
+    "id": "g7-english-47",
+    "topicId": "g7-english",
+    "question": "You  _____ bring fireworks to the festival, as it is strictly prohibited.",
+    "choices": [
+      "A. should",
+      "B. must",
+      "C. shouldn't",
+      "D. mustn’t"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-48": {
+    "id": "g7-english-48",
+    "topicId": "g7-english",
+    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.",
+    "choices": [
+      "A. *",
+      "B. 46. Our family planned to watch a movie together last night. We were looking forward to it, but",
+      "C. .",
+      "D. We decided to tell stories instead."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-49": {
+    "id": "g7-english-49",
+    "topicId": "g7-english",
+    "question": "The power went out just before the movie started\nEveryone was disappointed because we couldn't watch the movie.",
+    "choices": [
+      "A. a-c-b",
+      "B. c-a-b",
+      "C. b-a-c",
+      "D. a-b-c"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-50": {
+    "id": "g7-english-50",
+    "topicId": "g7-english",
+    "question": "47. Choose the sentence that can end the text in question 46.\nFinally, the power came back and we watched the movie\nWe spent the evening telling stories and had a great time\nThe power never came back, so we all went to bed early.",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-51": {
+    "id": "g7-english-51",
+    "topicId": "g7-english",
+    "question": "The movie was postponed to another day.\n* 48.  A local high school recently introduced a new computer course. It is popular among students.\n.\nThe course teaches students about coding and digital design.\nMany students have signed up for the course\nThe school added the course to prepare students for future jobs in technology.",
+    "choices": [
+      "A. a-c-b",
+      "B. c-a-b",
+      "C. b-a-c",
+      "D. c-b-a"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-52": {
+    "id": "g7-english-52",
+    "topicId": "g7-english",
+    "question": "Choose the sentence that can end the text (in Question 48) most suitably.\nThe course has received good feedback from students and teachers\nSome students have started working on their tech projects\nThe school is considering adding more technology-related courses\nThere were some issues with the course schedule at first.\nMark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks",
+    "choices": [
+      "A. There is now increasing concern about the world’s energy (50)",
+      "B. , particularly about those involving fossil (51)",
+      "C. . In less (52)",
+      "D. a hundred years we shall probably use up all the present energy of oil and gas. The world’s coal reserves should last longer, (53)",
+      "once used, these cannot be (54)",
+      ". It is important, therefore, that we should develop such alternative sources of energy as solar energy as (55)",
+      "as water and wind power, classed as renewable energy.",
+      "A. possessions",
+      "B. resources",
+      "C. goods",
+      "D. materials",
+      "A. fuels",
+      "B. powers",
+      "C. forms",
+      "D. energies",
+      "A. in",
+      "B. more",
+      "C. of",
+      "D. than",
+      "A. although",
+      "B. but",
+      "C. so",
+      "D. and",
+      "A. updated",
+      "B. repeated",
+      "C. renewed",
+      "D. produced",
+      "A. good",
+      "B. well",
+      "C. fast",
+      "D. soon"
+    ],
+    "answer": 28,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-53": {
+    "id": "g7-english-53",
+    "topicId": "g7-english",
+    "question": "Choose the sentence that can end the text (in Question 48) most suitably.\nRead the following sign or notice and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\nWhat does this sign mean?",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-54": {
+    "id": "g7-english-54",
+    "topicId": "g7-english",
+    "question": "What does the sign say?",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-55": {
+    "id": "g7-english-55",
+    "topicId": "g7-english",
+    "question": "What does the notice say?\nYou shouldn’t speak to anyone in this area.\nYou don’t have to raise yoyur voice in this area.\nYou must be quiet in this area.\nYou mustn’t play in this area.",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-56": {
+    "id": "g7-english-56",
+    "topicId": "g7-english",
+    "question": "59: What does the sign say?",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-57": {
+    "id": "g7-english-57",
+    "topicId": "g7-english",
+    "question": "60. What does the sign say?",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-58": {
+    "id": "g7-english-58",
+    "topicId": "g7-english",
+    "question": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 31 to 36.\nWind is a form of solar energy. Winds are caused by the uneven heating of the atmosphere by the sun. Wind flow patterns are changed by the earth’s terrain, bodies of water, and vegetative cover. This wind flow, or motion energy, when “harvested” by modern wind turbines, can be used to generate electricity.\nWind turbines are available in a variety of sizes, and therefore power ratings. The largest machine has blades that span more than the length of a football field, stands 20-storey building high,",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-59": {
+    "id": "g7-english-59",
+    "topicId": "g7-english",
+    "question": "and produces enough electricity to power 1,400 homes. A small home-sized wind machine has rotors between 8 and 25 feet in diameter and stands upwards of 30 feet, and can supply the power needs of an all-electric home or small business, utility scale turbines range in size from 50 to 750 kilowatts. Single small turbines, below 50 kilowatts, are used for homes, telecommunications dishes, or water pumping.\n*terrain (n): địa hình\n*vegetative (adj): thuộc thực vật\n*generate (v): phát ra\nWhat is the main idea of the reading passage?",
+    "choices": [
+      "A. The word small is OPPOSITE in meaning to",
+      "B. .",
+      "C. What is the reason for the existence of wind?",
+      "D. atmosphere heated unevenly",
+      "B. wind flow",
+      "C. motion energy",
+      "D. wind turbines"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-60": {
+    "id": "g7-english-60",
+    "topicId": "g7-english",
+    "question": "Which of the following is NOT mentioned as a factor affecting the wind direction?",
+    "choices": [
+      "A. earth’s terrain",
+      "B. bodies of water",
+      "C. vegetative cover",
+      "D. the Sun"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-61": {
+    "id": "g7-english-61",
+    "topicId": "g7-english",
+    "question": "What is the height of the largest wind turbines?",
+    "choices": [
+      "A. as tall as a 20-storey building",
+      "B. between 8 and 25 feet",
+      "C. 30 feet",
+      "D. 50 feet"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-62": {
+    "id": "g7-english-62",
+    "topicId": "g7-english",
+    "question": "The word variety is CLOSEST in meaning to  _____ .\nHarry Potter and the Chamber of Secrets is the second of the fantasy film series based on the same novel by J. K. Rowling. After the success of the first one, Chris Columbus is still the director of this film. Meanwhile, the main cast of the first film remains in the second one. The film tells the story about the great efforts of Harry to save his friends at Hogwarts, especially Ron’s sister Ginny, from the attacks of a basilisk. It’s a giant snake under the control of the ghostly memory of the sixteen-year-old Tom Riddle, one piece of Lord Voldemort’s soul preserved in an enchanted diary. In the end, he kills the basilisk, saves everybody and frees Dobby – a kind of house-elf. The film is a really must-see film. It also has lots of gripping images, soundtracks and visual effects.",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-63": {
+    "id": "g7-english-63",
+    "topicId": "g7-english",
+    "question": "What is the passage mainly about?\nA famous director with his successful fantasy film.\nA young wizard who kills a monster in his magic school.\nA film based on the second novel of a fantasy series by J. K. Rowling.\nThe adventures of a house-elf in a wizarding world.",
+    "choices": [
+      "A. The word “giant” in the text is OPPOSITE in meaning to",
+      "B. .",
+      "A. huge",
+      "B. tiny",
+      "C. large",
+      "D. awful"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-64": {
+    "id": "g7-english-64",
+    "topicId": "g7-english",
+    "question": "The word \"gripping\" in the text is CLOSEST in meaning to  _____ .",
+    "choices": [
+      "A. moving",
+      "B. frightening",
+      "C. boring",
+      "D. exciting"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-65": {
+    "id": "g7-english-65",
+    "topicId": "g7-english",
+    "question": "Which of the following statements about Harry is TRUE?\nHe fights against a cruel house-elf of Lord Voldemort.\nHe kills a giant spider at the end of the film.\nHe saves Ron’s sister from a basilisk.\nHe becomes friends with Tom Riddle.",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-66": {
+    "id": "g7-english-66",
+    "topicId": "g7-english",
+    "question": "What does the word \"It\" in the last sentence refer to?",
+    "choices": [
+      "A. The film.",
+      "B. The kind house-elf.",
+      "C. The basilisk.",
+      "D. The diary."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-67": {
+    "id": "g7-english-67",
+    "topicId": "g7-english",
+    "question": "How are the visual effects of the film?",
+    "choices": [
+      "A. Extremely interesting.",
+      "B. Rather boring.",
+      "C. Very colourful.",
+      "D. Pretty outdated."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-68": {
+    "id": "g7-english-68",
+    "topicId": "g7-english",
+    "question": "D. WRITING\nRewrite the sentence using suggestions in the bracket\nAlthough she hated him at first, she fell in love with him in the end.(Rewrite the sentence, using\nHowever)\nShe ......................................................................................................................\nSamuel likes the UK, but he decided to study in the USA.(Rewrite the sentence, using Although)\nAlthough ............................................................................................................\nWhy don't we tell everybody to save clean water and electricity?(Rewrite the sentence, using\nshould)\nWe should .........................................................................................................\nThis is her new car. (Rewrite the sentence, using hers)\nThis new car .......................................................................................................\nWhich is your notebook? (Rewrite the sentence, using yours)\nWhich notebook .................................................................................................\nComplete the sentences\nNew Zealand / magical place / amazing natural beauty / friendly people. (Sentence building)\n...............................................................................................................................\nPeople / all over the world / visit / British Museum (Sentence building)\n...............................................................................................................................\nWe / use / solar-powered buses / in ten years\n...............................................................................................................................\nEvery country/ should do/ something/ control/ population.\n=>\nI/ enjoy/ watch/ film/ made/famous/ Hollywood film producers.\n=>",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-69": {
+    "id": "g7-english-69",
+    "topicId": "g7-english",
+    "question": "D. WRITING\nVERBFORM AND WORDFORM\nGive the correct form of the verbs",
+    "choices": [
+      "A. Mai (read)",
+      "B. about renewable energy, and Nam (do)",
+      "C. a project on our local environment at the moment.",
+      "D. Last night, the music (get)",
+      "louder and louder. Many people (put)",
+      "their hands over their ears."
+    ],
+    "answer": -1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-70": {
+    "id": "g7-english-70",
+    "topicId": "g7-english",
+    "question": "D. WRITING\nVERBFORM AND WORDFORM\nHer mother (not have)  _____  a nap now. She (water)  _____ the plants.",
+    "choices": [
+      "A. My father (install)",
+      "B. a biogas cooker in the kitchen tomorrow, and the workers (put)",
+      "C. solar panels on the roof of our house.",
+      "D. Complete each of the following sentences using the cues given. You can change the cues and use other words in addition to the cues to complete the sentences."
+    ],
+    "answer": -1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-71": {
+    "id": "g7-english-71",
+    "topicId": "g7-english",
+    "question": "D. WRITING\nVERBFORM AND WORDFORM\nhas become a hot trend in this city nowadays. (CYCLE)",
+    "choices": [
+      "A. This type of transport is powered by",
+      "B. motors. (ELECTRICITY)",
+      "C. These types of energy do not cause pollution or waste",
+      "D. resources. (NATURE)"
+    ],
+    "answer": -1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-72": {
+    "id": "g7-english-72",
+    "topicId": "g7-english",
+    "question": "D. WRITING\nVERBFORM AND WORDFORM\nThere are some other activities such as  _____ shows, buffalo races and traditional games. (CULTURE)",
+    "choices": [
+      "A. The film was so interesting that Peter saw it from",
+      "B. to the end. (BEGIN)",
+      "C. Using public transport can reduce",
+      "D. . (POLLUTE)"
+    ],
+    "answer": -1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-73": {
+    "id": "g7-english-73",
+    "topicId": "g7-english",
+    "question": "MOCK TEST 1\nMark the letter A, B, C or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions.",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-74": {
+    "id": "g7-english-74",
+    "topicId": "g7-english",
+    "question": "MOCK TEST 1\nQuestion 1. A. gate _____ B. translation _____ C. nation _____ D. paint",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-75": {
+    "id": "g7-english-75",
+    "topicId": "g7-english",
+    "question": "MOCK TEST 1\nQuestion 2. A. site _____ B. twice _____ C. side _____ D. thin\nMark the letter A, B, C or D on your answer sheet to indicate the word that differs from the other three in the position of primary stress in each of the following questions.",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-76": {
+    "id": "g7-english-76",
+    "topicId": "g7-english",
+    "question": "MOCK TEST 1\nQuestion 3. A. respect _____ B. safety _____ C. pavement _____ D. traffic",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-77": {
+    "id": "g7-english-77",
+    "topicId": "g7-english",
+    "question": "MOCK TEST 1\nQuestion 4. A. illegal _____ B. prohibitive _____ C. noisy _____ D. polluted\nMark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-78": {
+    "id": "g7-english-78",
+    "topicId": "g7-english",
+    "question": "MOCK TEST 1\nQuestion 5.  _____ he is a CEO and earns a lot of money, he is very mean. A.Because _____  _____ B. Although _____ C. Despite _____ D. Because of Question 6. This is a(n)  _____ on real life during wars in Vietnam in 1945.",
+    "choices": [
+      "A.Horror film",
+      "B. sci-fi",
+      "C. comedy",
+      "D. documentary Question 7. The film was so   . However, my father saw it from beginning to end. A.Interesting",
+      "B. exciting",
+      "C. boring",
+      "D. fascinating"
+    ],
+    "answer": 5,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-79": {
+    "id": "g7-english-79",
+    "topicId": "g7-english",
+    "question": "MOCK TEST 1\nQuestion 8.  _____ having a broken leg, she took part in the competition. A.However _____  _____ B. Although _____ C. In spite of _____ D. Because Question 9.  _____  _____  _____ working very hard, he lost his job.",
+    "choices": [
+      "A.Despite",
+      "B. However",
+      "C. But",
+      "D. Because Question 10. Adam: “How about going to the cinema tonight?” – Linda: “ ” A.That’s a great idea. I’d love to.",
+      "C. That’s an interesting film. I like it",
+      "B. It’s a must-see film. You should watch it",
+      "D. The cinema is quite big."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-80": {
+    "id": "g7-english-80",
+    "topicId": "g7-english",
+    "question": "MOCK TEST 1\nQuestion 11. This film made a strong impression  _____ me.",
+    "choices": [
+      "A.On",
+      "B. in",
+      "C. to",
+      "D. at Question 12. Peter wants to  the BEST ACTOR PRIZE this year. A.Act",
+      "B. direct",
+      "C. perform",
+      "D. win"
+    ],
+    "answer": 6,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-81": {
+    "id": "g7-english-81",
+    "topicId": "g7-english",
+    "question": "Question 13. A. thrilled _____ B. thrilling _____ C. thrill _____ D. thrilly Question 14. A. hold _____ B. take in _____ C. take place D. bring Question 15. A. delicious _____ B. delightful _____ C. fine _____ D. good Question 16. A. in _____ B. on _____ C. from _____ D. at\nMark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions 17.\nMy family joined the spring flower festival last weekend. We were excited to see the beautiful flowers, but  .\nThe festival was more crowded than we expected.\nIt was difficult to find a parking spot.",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-82": {
+    "id": "g7-english-82",
+    "topicId": "g7-english",
+    "question": "We finally got to see the flowers and enjoyed taking pictures.",
+    "choices": [
+      "A. b-a-c",
+      "B. a-b-c",
+      "C. c-b-a",
+      "D. b-c-a"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-83": {
+    "id": "g7-english-83",
+    "topicId": "g7-english",
+    "question": "Question 18. Choose the sentence that can end the text in question 17.\nWe had to leave early because it became too crowded.\nIn the end, we had a wonderful day despite the challenges\nThe flowers were not as beautiful as we expected\nWe decided not to go to the festival after all.",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-84": {
+    "id": "g7-english-84",
+    "topicId": "g7-english",
+    "question": "Question 18. Choose the sentence that can end the text in question 17.\nRead the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 19 to 24.\nMost of our energy comes from fossil fuels (19)    , coal, oil, and natural gas. Although the supplies of these energy sources are plentiful, they are limited. The (20)    of coal and oil is also having very harmful impacts (21)     the environment. However, fossil fuels are not the only source of energy and burning fuel is not the only way to produce heat and motion. Renewable energy offers us a better way.\nSome energy sources are renewable because they are naturally available (22)    last forever. Some sources have enormous supply so human can never use them up. Moreover, renewable energy sources have much smaller impacts on the environment than fossil and nuclear fuels. (23)     include solar energy, which comes from the sun and can be converted into electricity and heat. Wind, geothermal energy from inside the earth, biomass from plants, and hydropower from 1 water are (24)     renewable sources of energy.",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-85": {
+    "id": "g7-english-85",
+    "topicId": "g7-english",
+    "question": "Question 18. Choose the sentence that can end the text in question 17.\nRead the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 19 to 24.\nQuestion 19. A. include _____ B. such as _____ C. unlike _____ D. is Question 20. A. burn _____ B. to burn _____ C. burns _____ D. burning Question 21. A. at _____ B. of _____ C. on _____ D. in",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-86": {
+    "id": "g7-english-86",
+    "topicId": "g7-english",
+    "question": "Question 18. Choose the sentence that can end the text in question 17.\nRead the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 19 to 24.\nQuestion 22. A. so _____ B. but _____ C. for _____ D. and",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-87": {
+    "id": "g7-english-87",
+    "topicId": "g7-english",
+    "question": "Question 18. Choose the sentence that can end the text in question 17.\nRead the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 19 to 24.\nQuestion 23. A. It _____ B. There _____ C. That _____ D. They",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-88": {
+    "id": "g7-english-88",
+    "topicId": "g7-english",
+    "question": "Question 18. Choose the sentence that can end the text in question 17.\nRead the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 19 to 24.\nQuestion 24. A. also _____ B. only _____ C. last _____ D. then\nMark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-89": {
+    "id": "g7-english-89",
+    "topicId": "g7-english",
+    "question": "Question 18. Choose the sentence that can end the text in question 17.\nRead the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 19 to 24.\nRead the following sign or notice and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\nQuestion 25. What does the notice say?",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-90": {
+    "id": "g7-english-90",
+    "topicId": "g7-english",
+    "question": "Question 26. What does the sign say?\nNo pedestrian traffic.\nNo playing in the street.\nNo passing allowed.\nNo parking allowed.",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-91": {
+    "id": "g7-english-91",
+    "topicId": "g7-english",
+    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\nTwenty years ago, you needed to bring along air tickets, vouchers, travel cheques, and a heavy carry-on bag with Walkman, CDs, travel journal and etc. The load is so much lighter now since most stuff can be stored in our tablets or smartphones. Technology is amazing isn't it?",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-92": {
+    "id": "g7-english-92",
+    "topicId": "g7-english",
+    "question": "Airport security was a brief back then. They used metal cutleries and gave all passengers bags of toiletries to keep them comfortable during the flight. Now, there are many limitations on things that we can and cannot bring on board. Thanks to \"Everyone can fly\" tagline, airlines had to reduce their services to stay afloat. So more people can fly and travel now.\nTwo decades ago, if you wish to call home, you can only do it at an International Telecommunications Exchange and dial you home number with no guarantee that it will get through. These days, all we need to stop by upon arrival is a local SIM card available as you walk out of the departure hall. The Internet makes it easy for you to Skype, Facetime your family just to inform them that you have arrived safely.",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-93": {
+    "id": "g7-english-93",
+    "topicId": "g7-english",
+    "question": "Question 27. What is the main idea of the passage?\nTravelling in the past\nTravelling now\nTravelling in the past and now\nTravelling tomorrow.",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-94": {
+    "id": "g7-english-94",
+    "topicId": "g7-english",
+    "question": "Question 28. What is one important thing to bring along in your trip now?",
+    "choices": [
+      "A. Travel cheques",
+      "B. your smartphone",
+      "C. Travel journal",
+      "D. Travel car"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-95": {
+    "id": "g7-english-95",
+    "topicId": "g7-english",
+    "question": "Question 29. The number of travelers is  _____ .",
+    "choices": [
+      "A. the same as in the past",
+      "C. lower now than in the past",
+      "C. higher now than in the past",
+      "D. high now than in the past"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-96": {
+    "id": "g7-english-96",
+    "topicId": "g7-english",
+    "question": "Question 30. Which of the following statement is NOT TRUE according to the passage?\nThe load that needs bringing is now lighter than in the past.\nMetal cutleries are used to keep comfortable.\nIn these days, you still only make a call to home at International Telecommunications Exchange.\nSkype and Facetime are useful for keeping contact with your family.",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-97": {
+    "id": "g7-english-97",
+    "topicId": "g7-english",
+    "question": "Question 31. The word “stuff” is CLOSEST in meaning to  _____ .",
+    "choices": [
+      "A. Object",
+      "B. airlines",
+      "C. service",
+      "D. store"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-98": {
+    "id": "g7-english-98",
+    "topicId": "g7-english",
+    "question": "Question 32. The word “available” is OPPOSITE in meaning to  _____ .",
+    "choices": [
+      "A. Rare",
+      "B. abundant",
+      "C. existing",
+      "D. easy"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-99": {
+    "id": "g7-english-99",
+    "topicId": "g7-english",
+    "question": "Write the correst tense or form of the word in the brackets.",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-100": {
+    "id": "g7-english-100",
+    "topicId": "g7-english",
+    "question": "Question 33. Using non-renewable energy sources like coal, oil  _____ a lot of carbon dioxide (produce).",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-101": {
+    "id": "g7-english-101",
+    "topicId": "g7-english",
+    "question": "Question 34. Renewable sources  _____  _____ from the sun, wind or water. (come) Question 35. In the future we  _____ more on renewable energy sources. (rely) Rewrite the following sentences using the words in brackets giving the same meaning. Question 36. Tom enjoys playing the guitar in his free time.",
+    "choices": [
+      "A. Tom is",
+      "B. Question 37. In England, driving on the right side of the road is against the laws. You mustn’t",
+      "C. Question 38. She spends thirty minutes doing this test.",
+      "D. It takes"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-102": {
+    "id": "g7-english-102",
+    "topicId": "g7-english",
+    "question": "Use the given words/ phrases to make the sentences.",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-103": {
+    "id": "g7-english-103",
+    "topicId": "g7-english",
+    "question": "Question 39. Robot/ help/ people/ do/ household chores.",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-104": {
+    "id": "g7-english-104",
+    "topicId": "g7-english",
+    "question": "Question 40. Almost all our energy/ come/ oil/ gas/ natural gas.",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-english-105": {
+    "id": "g7-english-105",
+    "topicId": "g7-english",
+    "question": "-The end-",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-1": {
+    "id": "g7-tin-1",
+    "topicId": "g7-tin",
+    "question": "Câu 1: Khi em định dạng kiểu dữ liệu ngày tháng có dạng dd/mm/yyyy thì kết quả hiển thị ngày tháng năm nào dưới đây là đúng?",
+    "choices": [
+      "A. 16/03/2025.",
+      "B. 03/16/2025.",
+      "C. 03/16/25.",
+      "D. 16/03/25"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-2": {
+    "id": "g7-tin-2",
+    "topicId": "g7-tin",
+    "question": "Câu 2: Trong cửa sổ Format Cells, để định dạng kiểu dữ liệu số em chọn lệnh nào?",
+    "choices": [
+      "A. Number.",
+      "B. Percentage.",
+      "C. Date.",
+      "D. Text."
+    ],
+    "answer": -1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-3": {
+    "id": "g7-tin-3",
+    "topicId": "g7-tin",
+    "question": "Câu 3: Cho sơ đồ khối như sau mô tả thuật toán?",
+    "choices": [
+      "A. Thuật toán tìm kiếm tên khác hàng.",
+      "B. Thuật toán tìm kiếm địa chỉ khách hàng.",
+      "C. Thuật toán tìm kiếm tên học sinh.",
+      "D. Thuật toán tìm kiếm địa chỉ học sinh."
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-4": {
+    "id": "g7-tin-4",
+    "topicId": "g7-tin",
+    "question": "Câu 4: Phát biểu nào sau đây là sai?",
+    "choices": [
+      "A. Cột mới được chèn vào bên trái cột em chọn.",
+      "B. Hàng mới được chèn vào bên trên hàng em chọn.",
+      "C. Em không thể hiển thị lại các hàng, cột đã ẩn.",
+      "D. Có thể chọn nhiều hàng, cột để xóa."
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-5": {
+    "id": "g7-tin-5",
+    "topicId": "g7-tin",
+    "question": "Câu 5: Khi lựa chọn hình ảnh nên căn cứ vào yếu tố nào?",
+    "choices": [
+      "A. Phù hợp với nội dung.",
+      "B. Hình ảnh phải đẹp",
+      "C. Có tính thẩm mĩ và phù hợp với nội dung .",
+      "D. Có tính thẩm mĩ"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-6": {
+    "id": "g7-tin-6",
+    "topicId": "g7-tin",
+    "question": "Câu 6: Thao tác nháy chuột vào tên trang tính, kéo thả chuột sang trái, phải dùng để làm gì?",
+    "choices": [
+      "A. Tạo trang tính mới.",
+      "B. Chèn thêm trang tính.",
+      "C. Di chuyển trang tính.",
+      "D. Sao chép trang tính."
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-7": {
+    "id": "g7-tin-7",
+    "topicId": "g7-tin",
+    "question": "Câu 7: Trong cửa sổ Format Cells, để thay đổi màu sắc cho đường kẻ ta chọn.",
+    "choices": [
+      "A. Color.",
+      "B. Style.",
+      "C. Presets.",
+      "D. Border."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-8": {
+    "id": "g7-tin-8",
+    "topicId": "g7-tin",
+    "question": "Câu 8: Lựa chọn Outline trong cửa sổ Format Cells dùng để làm gì?",
+    "choices": [
+      "A. Không kẻ khung.",
+      "B. Kẻ khung bên ngoài.",
+      "C. Kẻ đường viền ô.",
+      "D. Chọn kiểu đường kẻ"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-9": {
+    "id": "g7-tin-9",
+    "topicId": "g7-tin",
+    "question": "Câu 9: Phần mềm trình chiếu có hiệu ứng động, hiệu ứng chuyển trang làm cho nội dung trình bày:",
+    "choices": [
+      "A. Đẹp.",
+      "B. Sinh động và hấp dẫn.",
+      "C. Rõ ràng.",
+      "D. Đầy đủ."
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-10": {
+    "id": "g7-tin-10",
+    "topicId": "g7-tin",
+    "question": "Câu 10: Một bài trình chiếu thường có bao nhiêu trang chiếu?",
+    "choices": [
+      "A. 1.",
+      "B. 3.",
+      "C. 10.",
+      "D. Nhiều"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-11": {
+    "id": "g7-tin-11",
+    "topicId": "g7-tin",
+    "question": "Câu 11: Thuật toán tìm kiếm tuần tự thực hiện công việc gì?",
+    "choices": [
+      "A. Lưu trữ dữ liệu.",
+      "B. Sắp xếp dữ liệu theo chiều tăng dần.",
+      "C. Xử lí dữ liệu.",
+      "D. Tìm kiếm dữ liệu cho trước trong một danh sách đã cho."
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-12": {
+    "id": "g7-tin-12",
+    "topicId": "g7-tin",
+    "question": "Câu 12: Đối với tiêu đề bài trình chiếu thì em nên chọn cỡ chữ?",
+    "choices": [
+      "A. Từ 20 đến 30.",
+      "B. Từ 30 đến 40.",
+      "C. Từ 40 đến 50.",
+      "D. Từ 50 đến 60"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-13": {
+    "id": "g7-tin-13",
+    "topicId": "g7-tin",
+    "question": "Câu 13: Trong tìm kiếm tuần tự thì có mấy điều kiện cần kiểm tra để dừng vòng lặp?",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. Không"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-14": {
+    "id": "g7-tin-14",
+    "topicId": "g7-tin",
+    "question": "Câu 14: Giả sử ô tính A1; A2; A3; A4; A5 chứa các dữ liệu lần lượt là: “ Hà Nội”, “ Nam Định”,“ TP Hồ Chí Minh”, 2022; 2023. Tại ô tính A6, ta nhập =COUNT(A1:A5) kết quả sẽ là:",
+    "choices": [
+      "A. 2.",
+      "B. 3.",
+      "C. 5.",
+      "D. #VALUE!."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-15": {
+    "id": "g7-tin-15",
+    "topicId": "g7-tin",
+    "question": "Câu 15: Cho bảng số liệu thi đua hàng tuần của khối 7 như hình sau:\nĐể tính tổng điểm tại ô tính H3, công thức nào dưới đây cho kết quả đúng?",
+    "choices": [
+      "A. =SUM(C3:G3).",
+      "B. =SUM(C3:G3, G3).",
+      "C. =SUM(C3, D3, E3, F3, G3).",
+      "D. =C3+D3+E3+F3+G3."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-16": {
+    "id": "g7-tin-16",
+    "topicId": "g7-tin",
+    "question": "Câu 16: Màu chữ trên trang chiếu cần phải như thế nào?",
+    "choices": [
+      "A. Tương đương với màu nền.",
+      "B. Tương phản với màu nền.",
+      "C. Sử dụng nhiều màu chữ cho đẹp.",
+      "D. Sử dụng một màu duy nhất."
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-17": {
+    "id": "g7-tin-17",
+    "topicId": "g7-tin",
+    "question": "Câu 17: Có thể đổi tên một trang tính bằng cách nào sau đây?",
+    "choices": [
+      "A. Nháy nút chuột trái vào tên trang tính rồi nhập tên mới.",
+      "B. Nháy đúp nút chuột trái vào tên trang tính rồi nhập tên mới.",
+      "C. Chọn lệnh File/Save As.",
+      "D. Nháy nút phải chuột vào tên trang tính rồi nhập tên trang tính mới."
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-18": {
+    "id": "g7-tin-18",
+    "topicId": "g7-tin",
+    "question": "Câu 18: Phương án nào sau đây là sai để thêm một trang tính vào bảng tính?",
+    "choices": [
+      "A. Nháy chuột vào nút  phía dưới trang tính.",
+      "B. Chọn nút phải chuột lên tên trang tính và chọn Insert/Worksheet.",
+      "C. Trong thẻ Insert chọn lệnh Pictures.",
+      "D. Trong thẻ Home, chọn lệnh Insert/Worksheet trong nhóm lệnh Cells."
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-19": {
+    "id": "g7-tin-19",
+    "topicId": "g7-tin",
+    "question": "Câu 19: Để tìm kiếm một số trong dãy số bằng thuật toán tìm kiếm tuần tự, ta thực hiện:",
+    "choices": [
+      "A. Lấy ngẫu nhiên một số trong dãy số để so sánh với số cần tìm.",
+      "B. So sánh lần lượt từ số đầu tiên trong dãy số với số cần tìm.",
+      "C. Sắp xếp dãy số theo thứ tự tăng dần.",
+      "D. So sánh số cần tìm với số ở giữa dãy số."
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-20": {
+    "id": "g7-tin-20",
+    "topicId": "g7-tin",
+    "question": "Câu 20: Mô tả thuật toán tìm kiếm nhị phân bằng ngôn ngữ tự nhiên gồm có mấy bước?",
+    "choices": [
+      "A. 2.",
+      "B. 3.",
+      "C. 4.",
+      "D. 5."
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-21": {
+    "id": "g7-tin-21",
+    "topicId": "g7-tin",
+    "question": "Câu 21: Khi so sánh giá trị cần tìm với giá trị của vị trí giữa, nếu giá trị cần tìm nhỏ hơn giá trị giữa thì:",
+    "choices": [
+      "A. Tìm trong nửa đầu của danh sách.",
+      "B. Tìm trong nửa sau của danh sách.",
+      "C. Dừng lại.",
+      "D. Tìm trong nửa đầu hoặc nửa sau của danh sách."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-22": {
+    "id": "g7-tin-22",
+    "topicId": "g7-tin",
+    "question": "Câu 22: Thuật toán tìm kiếm tuần tự một số trong dãy số A dừng khi nào?",
+    "choices": [
+      "A. Nếu tìm thấy giá trị cần tìm trong dãy",
+      "A.",
+      "B. Nếu tìm đến giá trị cuối trong dãy số mà không tìm thấy giá trị cần tìm.",
+      "C. Nếu tìm thấy giá trị cần tìm trong dãy A hoặc nếu tìm đến giá trị cuối trong dãy số mà không tìm thấy giá trị cần tìm.",
+      "D. Đáp án khác"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-23": {
+    "id": "g7-tin-23",
+    "topicId": "g7-tin",
+    "question": "Câu 23: Cho danh sách tên khách hàng với các vị trí như hình dưới đây:\nĐể tìm khách hàng có tên là “Dũng” trong danh sách theo thuật toán tìm kiếm lần lượt thì tại bước 1 sẽ xét tại vị trí nào?",
+    "choices": [
+      "A. Vị trí 5.",
+      "B. Vị trí 4.",
+      "C. Vị trí 1",
+      "D. Vị trí 3"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-24": {
+    "id": "g7-tin-24",
+    "topicId": "g7-tin",
+    "question": "Câu 24: Để thực hiện lệnh in ta dùng tổ hợp phím tắt nào dưới đây?",
+    "choices": [
+      "A. Ctrl + E",
+      "B. Ctrl + G",
+      "C. Ctrl + P",
+      "D. Ctrl + H"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-25": {
+    "id": "g7-tin-25",
+    "topicId": "g7-tin",
+    "question": "Câu 25: Để thiết lập các thông số đường viền, kẻ khung em chọn thẻ nào trong hộp thoại Format Cells?",
+    "choices": [
+      "A. Number.",
+      "B. Fill .",
+      "C. Border.",
+      "D. Header."
+    ],
+    "answer": -1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-26": {
+    "id": "g7-tin-26",
+    "topicId": "g7-tin",
+    "question": "Câu 26: Phần mềm nào là phần mềm trình chiếu?",
+    "choices": [
+      "A. Microsoft Word.",
+      "B. Mozilla Firefox.",
+      "C. Microsoft Excel.",
+      "D. Microsoft PowerPoint."
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-27": {
+    "id": "g7-tin-27",
+    "topicId": "g7-tin",
+    "question": "Câu 27: Đâu là nhận định đúng?",
+    "choices": [
+      "A. Trang chiếu chỉ hiển thị được văn bản.",
+      "B. Trang chiếu có thể hiển thị văn bản, hình ảnh, âm thanh, video, biểu đồ.",
+      "C. Trang chiếu chỉ hiển thị được hình ảnh.",
+      "D. Trang chiếu chỉ hiển thị được âm thanh."
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-28": {
+    "id": "g7-tin-28",
+    "topicId": "g7-tin",
+    "question": "Câu 28: Điều kiện dừng trong thuật toán tìm kiếm nhị phân là gì?",
+    "choices": [
+      "A. Khi tìm đến giá trị cuối cùng trong danh sách.",
+      "B. Khi chưa tìm thấy.",
+      "C. Khi chưa tìm thấy và chưa hết danh sách.",
+      "D. Khi đã tìm thấy hoặc khi đã hết danh sách."
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-29": {
+    "id": "g7-tin-29",
+    "topicId": "g7-tin",
+    "question": "Câu 29: Trong mô tả thuật toán tìm kiếm tuần tự bằng ngôn ngữ tự nhiên thì bước “Trả lời Tìm thấy và chỉ ra vị trí phần tử tìm được; Kết thúc” là bước thứ mấy của thuật toán?",
+    "choices": [
+      "A. Bước 2.",
+      "B. Bước 3",
+      "C. Bước 4.",
+      "D. Bước 5"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-30": {
+    "id": "g7-tin-30",
+    "topicId": "g7-tin",
+    "question": "Câu 30: Vị trí giữa của vùng tìm kiếm trong thuật toán tìm kiếm nhị phân bằng phần nguyên của",
+    "choices": [
+      "A. vị trí cuối – vị trí đầu +1.",
+      "B. (vị trí cuối + vị trí đầu)/2.",
+      "C. (vị trí cuối - vị trí đầu)/2.",
+      "D. vị trí cuối + vị trí đầu -1."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-31": {
+    "id": "g7-tin-31",
+    "topicId": "g7-tin",
+    "question": "Câu 31: Cách để tạo thêm trang chiếu mới trong bài trình chiếu?",
+    "choices": [
+      "A. Desigh/New Slide.",
+      "B. Home/New Slide.",
+      "C. Insert/New Slide.",
+      "D. File/New Slide."
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-32": {
+    "id": "g7-tin-32",
+    "topicId": "g7-tin",
+    "question": "Câu 32: Có mấy nhóm hiệu ứng động trong phần mềm PowerPoint?",
+    "choices": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "answer": -1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-33": {
+    "id": "g7-tin-33",
+    "topicId": "g7-tin",
+    "question": "Câu 33: Trong PowerPoint, em mở thẻ nào để định dạng văn bản?",
+    "choices": [
+      "A. Home.",
+      "B. Insert.",
+      "C. Design.",
+      "D. View."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-34": {
+    "id": "g7-tin-34",
+    "topicId": "g7-tin",
+    "question": "Câu 34: Dải lệnh nào cung cấp hiệu ứng cho đối tượng trên trang chiếu?",
+    "choices": [
+      "A. Home",
+      "B. Animations.",
+      "C. Insert",
+      "D. Design"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-35": {
+    "id": "g7-tin-35",
+    "topicId": "g7-tin",
+    "question": "Câu 35: Trong PowerPoint, sau khi chọn hình ảnh, em mở thẻ nào để định dạng hình ảnh?",
+    "choices": [
+      "A. Home.",
+      "B. Format.",
+      "C. Design.",
+      "D. View."
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-36": {
+    "id": "g7-tin-36",
+    "topicId": "g7-tin",
+    "question": "Câu 36: Phát biểu nào sau đây là sai?",
+    "choices": [
+      "A. Hình ảnh minh họa làm cho bài trình chiếu ấn tượng hơn.",
+      "B. Nên chọn hình ảnh phù hợp với chủ đề của bài trình chiếu.",
+      "C. Màu sắc, họa tiết trên hình ảnh không cần trùng khớp với chủ đề.",
+      "D. Hình ảnh minh họa cần có tính thẩm mĩ."
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-37": {
+    "id": "g7-tin-37",
+    "topicId": "g7-tin",
+    "question": "Câu 37: Sắp xếp lại trình tự các bước chèn và xử lí hình ảnh cho đúng:\na) Chọn tệp ảnh, nháy chuột chọn lệnh Insert.\nb) Chọn trang, vị trí trong trang cần chèn hình ảnh.\nc) Chọn Insert/Pictures để mở hộp thoại Insert Picture.\nd) Sử dụng các công cụ định dạng cho hình ảnh để được hình ảnh như ý.",
+    "choices": [
+      "A. a) → d) → b) → c).",
+      "B. c) → d) → a) → b).",
+      "C. a) → c) → b) → d).",
+      "D. b) → c) → a) → d)."
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-38": {
+    "id": "g7-tin-38",
+    "topicId": "g7-tin",
+    "question": "Câu 38: Trong trang chiếu thì thông tin trực quan là gì?",
+    "choices": [
+      "A. Văn bản.",
+      "B. Hình ảnh.",
+      "C. Văn bản, hình ảnh.",
+      "D. Văn bản, hình ảnh, âm thanh."
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-39": {
+    "id": "g7-tin-39",
+    "topicId": "g7-tin",
+    "question": "Câu 39: Em hãy sắp xếp lại các bước thực hiện tạo hiệu ứng cho đối tượng sao cho đúng.\na) Thay đổi thứ tự. _____     _____  _____  _____   _____ b) Chọn thẻ Animatinons.\nc) Chọn cách xuất hiện, thời lượng … _____  _____ d) Chọn hiệu ứng.\ne) Xem trước _____  _____  _____  _____  _____ f) Chọn đối tượng.",
+    "choices": [
+      "A. e → b → d → c → a → f.",
+      "B. f → b → a→ c → d → e.",
+      "C. c → b → d → f → a → e.",
+      "D. f → b → d → c → a → e."
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-40": {
+    "id": "g7-tin-40",
+    "topicId": "g7-tin",
+    "question": "Câu 40: Tại mỗi bước lặp, thuật toán tìm kiếm nhị phân sẽ:",
+    "choices": [
+      "A. Thu hẹp danh sách tìm kiếm chỉ còn một nửa.",
+      "B. Danh sách sẽ được sắp xếp lại.",
+      "C. Các phần tử trong danh sách sẽ giảm một nửa.",
+      "D. Đáp án khác."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-41": {
+    "id": "g7-tin-41",
+    "topicId": "g7-tin",
+    "question": "Câu 41: Nút lệnh nào dùng để trình chiếu trong phần mềm trình chiếu?",
+    "choices": [
+      "A.",
+      "B.",
+      "C.",
+      "D."
+    ],
+    "answer": -1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-42": {
+    "id": "g7-tin-42",
+    "topicId": "g7-tin",
+    "question": "Câu 42: Trong các phương án dưới đây, đâu là địa chỉ của một khối trong phần mềm bảng tính?",
+    "choices": [
+      "A. A2:7ª",
+      "B. A2-A7",
+      "C. A2;A7",
+      "D. A2:A7"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-43": {
+    "id": "g7-tin-43",
+    "topicId": "g7-tin",
+    "question": "Câu 43: Công thức được nhập vào bảng tính với mục đích gì?",
+    "choices": [
+      "A. Căn chỉnh hàng cho đẹp.",
+      "B. Tính toán.",
+      "C. Thuận tiện khi nhập dữ liệu.",
+      "D. Sao chép một ô."
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-44": {
+    "id": "g7-tin-44",
+    "topicId": "g7-tin",
+    "question": "Câu 44: Công thức khi nhập vào ô tính sẽ căn như thế nào?",
+    "choices": [
+      "A. Luôn căn trái.",
+      "B. Luôn căn giữa.",
+      "C. Luôn căn phải.",
+      "D. Tùy thuộc vào kết quả tính toán của công thức là số, văn bản hay ngày tháng."
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-45": {
+    "id": "g7-tin-45",
+    "topicId": "g7-tin",
+    "question": "Câu 45: Vị trí giao của một hàng và một cột trong phần mềm bảng tính gọi là gì?",
+    "choices": [
+      "A. Ô tính.",
+      "B. Trang tính.",
+      "C. Hộp địa chỉ.",
+      "D. Bảng tính."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-46": {
+    "id": "g7-tin-46",
+    "topicId": "g7-tin",
+    "question": "Câu 46: Hàm được nhập như thế nào?",
+    "choices": [
+      "A. <tên hàm>(<các tham số>)",
+      "B. =<các tham số>(<tên hàm>)",
+      "C. =<tên hàm>(<các tham số>)",
+      "D. =tên hàm, các tham số"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-47": {
+    "id": "g7-tin-47",
+    "topicId": "g7-tin",
+    "question": "Câu 47: Công thức nào sau đây tự động tính toán?",
+    "choices": [
+      "A. =3,14*(15+45)",
+      "B. =B5+C5+E5",
+      "C. =13+14+15",
+      "D. =30+19*2"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-48": {
+    "id": "g7-tin-48",
+    "topicId": "g7-tin",
+    "question": "Câu 48: Trong phần mềm powerpoint 2016, để di chuyển một hình ảnh được chọn xuống lớp dưới cùng ta thực hiện như sau:\nBước 1: Nháy chuột phải lên hình ảnh\nBước 2: Chọn Order sau đó chọn lệnh",
+    "choices": [
+      "A. Bring Forward.",
+      "B. Send to Back.",
+      "C. Bring to Front.",
+      "D. Send Backward."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-49": {
+    "id": "g7-tin-49",
+    "topicId": "g7-tin",
+    "question": "Câu 49: Để sử dụng các mẫu có sẵn trong bài trình chiếu em chọn dải lệnh nào dưới đây?",
+    "choices": [
+      "A. Home",
+      "B. Design",
+      "C. Insert",
+      "D. Transitions"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-tin-50": {
+    "id": "g7-tin-50",
+    "topicId": "g7-tin",
+    "question": "Câu 50: Để chọn hiệu ứng đường di chuyển cho đối tượng được chọn, em chọn nhóm hiệu ứng nào dưới đây?",
+    "choices": [
+      "B. Motion Paths",
+      "C. Entrance",
+      "D. Exit"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-1": {
+    "id": "g7-lichsu-1",
+    "topicId": "g7-lichsu",
+    "question": "Câu 1. Sự phân hóa tự nhiên theo chiều cao ở Trung và Nam Mỹ thể hiện rõ rệt nhất ở đâu?",
+    "choices": [
+      "A. Các sơn nguyên phía Đông.",
+      "B. Đồng bằng ở giữa.",
+      "C. Dãy núi An-đét.",
+      "D. Phía Nam Nam Mĩ."
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-2": {
+    "id": "g7-lichsu-2",
+    "topicId": "g7-lichsu",
+    "question": "Câu 2. Càng lên cao thiên nhiên của dãy núi An-đét càng thay đổi phụ thuộc vào sự thay đổi của yếu tố nào?",
+    "choices": [
+      "A. Hướng địa hình.",
+      "B. Độ cao địa hình.",
+      "C. Nhiệt độ.",
+      "D. Nhiệt độ và độ ẩm."
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-3": {
+    "id": "g7-lichsu-3",
+    "topicId": "g7-lichsu",
+    "question": "Câu 3. Người Anh-điêng ở Trung và Nam Mỹ thuộc chủng tộc nào?",
+    "choices": [
+      "A. Nê-grô-it.",
+      "B. Môn-gô -lô- it.",
+      "C. Ơ-rô-pê-ô-it.",
+      "D. Người lai."
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-4": {
+    "id": "g7-lichsu-4",
+    "topicId": "g7-lichsu",
+    "question": "Câu 4. Người châu Âu đến Trung và Nam Mỹ chủ yếu đến từ những nước nào?",
+    "choices": [
+      "A. Tây Ban Nha và Bồ Đào Nha.",
+      "B. Đức và I-ta-li-a.",
+      "C. Thụy điển và Bỉ.",
+      "D. Anh và Pháp."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-5": {
+    "id": "g7-lichsu-5",
+    "topicId": "g7-lichsu",
+    "question": "Câu 5. Tốc độ đô thị hóa nhanh ở Trung và Nam Mĩ không để lại hậu quả nào?",
+    "choices": [
+      "A. Thất nghiệp.",
+      "B. Ô nhiễm môi trường.",
+      "C. Tệ nạn xã hội, tội phạm.",
+      "D. Văn hóa đa dạng"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-6": {
+    "id": "g7-lichsu-6",
+    "topicId": "g7-lichsu",
+    "question": "Câu 6. Lễ hội hóa trang ( lễ hội Các-na-van) là nét văn hóa đặc sắc của quốc gia nào",
+    "choices": [
+      "A. Pê-ru",
+      "B. Bra-xi",
+      "C. Vê-nê-xu-ê-la.",
+      "D. Chi-lê"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-7": {
+    "id": "g7-lichsu-7",
+    "topicId": "g7-lichsu",
+    "question": "Câu 7. Những ngôn ngữ nào được sử dụng nhiều ở Trung và Nam Mỹ?",
+    "choices": [
+      "A. Tiếng Anh và Pháp.",
+      "B. Tiếng Anh và Tây Ban Nha.",
+      "C. Tiếng Nga và Anh.",
+      "D. Tiếng Tây Ban Nha và Bồ Đào Nha."
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-8": {
+    "id": "g7-lichsu-8",
+    "topicId": "g7-lichsu",
+    "question": "Câu 8. Sinh vật rừng A-ma-dôn rất phong phú nguyên nhân do đâu?",
+    "choices": [
+      "A. Khí hậu nóng ẩm.",
+      "B. Diện tích rộng lớn.",
+      "C. Sông ngòi dày đặc.",
+      "D. Địa hình bằng phẳng."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-9": {
+    "id": "g7-lichsu-9",
+    "topicId": "g7-lichsu",
+    "question": "Câu 9. Phần lớn diện tích rừng Amazon thuộc địa phận quốc gia nào?",
+    "choices": [
+      "A. B- ra-xin",
+      "B. Cô-lôm-bia",
+      "C. Mê-hi-cô",
+      "D. Ác-hen-ti-na"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-10": {
+    "id": "g7-lichsu-10",
+    "topicId": "g7-lichsu",
+    "question": "Câu 10. Rừng A- ma -dôn không có vai trò nào sau đây?",
+    "choices": [
+      "A. là lá phổi xanh của trái đất",
+      "B. Nguồn dự trữ sinh học quý giá",
+      "C. Giúp điều hòa khí hậu",
+      "D. Cung cấp sản lượng gỗ cho toàn thế giới"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-11": {
+    "id": "g7-lichsu-11",
+    "topicId": "g7-lichsu",
+    "question": "Câu 11. Đâu không phải một nền văn hoá cổ ở Trung và Nam Mỹ?",
+    "choices": [
+      "A. Maya",
+      "B. Inca",
+      "C. Lưỡng Hà",
+      "D. Aztec"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-12": {
+    "id": "g7-lichsu-12",
+    "topicId": "g7-lichsu",
+    "question": "Câu 12. Quá trình đô thị hóa của Trung và Nam Mỹ có đặc điểm nào sau đây?",
+    "choices": [
+      "A. Chậm nhất thế giới",
+      "B. Diễn ra sớm, tốc độ chậm",
+      "C. Trình độ đô thị hóa còn thấp",
+      "D. Đô thị hóa nhanh nhất thế giới"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-13": {
+    "id": "g7-lichsu-13",
+    "topicId": "g7-lichsu",
+    "question": "Câu 14. Đường chí tuyến Nam chạy qua nơi nào sau đây ở châu Đại Dương?",
+    "choices": [
+      "A. Chuỗi đảo Mi-crô-nê-di.",
+      "B. Quần đảo Niu Di-len.",
+      "C. Chuỗi đảo Mê-la-nê-di.",
+      "D. Lục địa Ô-xtrây-li-a."
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-14": {
+    "id": "g7-lichsu-14",
+    "topicId": "g7-lichsu",
+    "question": "Câu 15. Nhận định nào sau đây không đúng về vị trí lục địa  địa Ô-xtrây-li-a?",
+    "choices": [
+      "A. Nằm phía Nam Bán cầu",
+      "B. Phía tây nam của Thái Bình Dương",
+      "C. Hầu hết diện tích thuộc đới ôn hòa.",
+      "D. Có đường chí tuyến Nam chạy qua"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-15": {
+    "id": "g7-lichsu-15",
+    "topicId": "g7-lichsu",
+    "question": "Câu 16. Lục địa Ô-xtrây-li-a tiếp giáp với những đại dương nào?",
+    "choices": [
+      "A. Đại Tây Dương và Bắc Băng Dương",
+      "B. Thái Bình Dương và Nam Đại Dương",
+      "C. Ấn Độ Dương và Thái Bình Dương",
+      "D. Ấn Độ Dương và Đại Tây Dương"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-16": {
+    "id": "g7-lichsu-16",
+    "topicId": "g7-lichsu",
+    "question": "Câu 17. Vùng đảo châu Đại Dương nằm ở đâu?",
+    "choices": [
+      "A. Trung tâm Thái Bình Dương.",
+      "B. Trung tâm Đại Tây Dương.",
+      "C. Trung tâm Ấn Độ Dương.",
+      "D. Trung tâm Bắc Băng Dương."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-17": {
+    "id": "g7-lichsu-17",
+    "topicId": "g7-lichsu",
+    "question": "Câu 18. Đặc điểm nào sau đây không đúng về dãy Trường Sơn Ô-xtrây-li-a?",
+    "choices": [
+      "A. Cao trung bình 800-1000m",
+      "B. Sườn đông dốc, sườn Tây thoải",
+      "C. Bề mặt là hoang mạc cát, hoang mạc đá.",
+      "D. Là nơi tập trung nhiều khoáng sản nhiên liệu"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-18": {
+    "id": "g7-lichsu-18",
+    "topicId": "g7-lichsu",
+    "question": "Câu 19. Sơn nguyên tây Ô-xtrây-li-a có đặc điểm như thế nào?",
+    "choices": [
+      "A. Là các hoang mạc cát, hoang mạc đá, cao nguyên và núi thấp.",
+      "B. Là các cao nguyên rộng lớn, đất đai màu mỡ.",
+      "C. Là các sườn dốc, xen lẫn đồng bằng cát và đụn cát.",
+      "D. Là các hoang mạc cát xen lẫn cao nguyên và hẻm vực."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-19": {
+    "id": "g7-lichsu-19",
+    "topicId": "g7-lichsu",
+    "question": "Câu 20. Khu vực nào ở Ô-xtrây-li-a có lượng mưa cao nhất?",
+    "choices": [
+      "A. Dải bờ biển hẹp ở phía Bắc.",
+      "B. Sườn tây của dãy Trường Sơn Ô-xtrây-li-a.",
+      "C. Dải đất hẹp phía nam lục địa.",
+      "D. Phía nam của đảo Ta-xma-ni-a."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-20": {
+    "id": "g7-lichsu-20",
+    "topicId": "g7-lichsu",
+    "question": "Câu 21. Khu vực trung tâm lục địa Ô-xtrây-li-a có khí hậu?",
+    "choices": [
+      "A. Mát mẻ.",
+      "B. Nóng, ẩm, mưa nhiều.",
+      "C. Nhiệt đới khô và cận nhiệt lục địa.",
+      "D. Điều hòa, mưa nhiều."
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-21": {
+    "id": "g7-lichsu-21",
+    "topicId": "g7-lichsu",
+    "question": "Câu 22. Sườn đông dãy Trường Sơn Ô-xtrây-li-a có khí hậu",
+    "choices": [
+      "A. cận nhiệt đới, mùa nhiều.",
+      "B. cận xích đạo, nóng ẩm.",
+      "C. nhiệt đới ẩm, mưa nhiều.",
+      "D. nhiệt đới lục địa, ít mưa"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-22": {
+    "id": "g7-lichsu-22",
+    "topicId": "g7-lichsu",
+    "question": "Câu 23. Dải đất hẹp phái Nam lục địa  có khí hậu",
+    "choices": [
+      "A. xích đạo",
+      "B. cận xích đạo",
+      "C. nhiệt đới",
+      "D. cận nhiệt đới"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-23": {
+    "id": "g7-lichsu-23",
+    "topicId": "g7-lichsu",
+    "question": "Câu 24. Dải bờ biển hẹp phái Bắc lục địa Ô-xtrây-li-a có khí hậu",
+    "choices": [
+      "A. xích đạo",
+      "B. cận xích đạo",
+      "C. nhiệt đới",
+      "D. ôn đới"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-24": {
+    "id": "g7-lichsu-24",
+    "topicId": "g7-lichsu",
+    "question": "Câu 25. Loài thực vật bản địa nổi bật của lục địa Ô-xtrây-li-a là",
+    "choices": [
+      "A. thông",
+      "B. hoa anh đào",
+      "C. bạch đàn",
+      "D. địa y"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-25": {
+    "id": "g7-lichsu-25",
+    "topicId": "g7-lichsu",
+    "question": "Câu 26. Bộ chính sử đầu tiên của Đại Việt được biên soạn dưới thời Trần là",
+    "choices": [
+      "A. Đại Nam thực lục.",
+      "B. Đại Việt sử kí toàn thư.",
+      "C. Đại Việt sử kí.",
+      "D. Việt Nam sử lược."
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-26": {
+    "id": "g7-lichsu-26",
+    "topicId": "g7-lichsu",
+    "question": "Câu 27. Nội dung nào sau đây không phản ánh đúng chính sách của nhà Trần đối với giáo dục?",
+    "choices": [
+      "A. Quốc Tử Giám được mở rộng để đào tạo con em quý tộc, quan lại.",
+      "B. Nhiều trường tư được khuyến khích thành lập.",
+      "C. Các kì thi Nho học được tổ chức quy củ.",
+      "D. Dựng bia Tiến sĩ ở Văn Miếu."
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-27": {
+    "id": "g7-lichsu-27",
+    "topicId": "g7-lichsu",
+    "question": "Câu 28. Khi Mông Cổ cho sứ giả đến đưa thư đe dọa và dụ hàng vua Trần thái độ của vua Trần như thế nào?",
+    "choices": [
+      "A. Trả lại thư ngay",
+      "B. Bắt giam vào ngục",
+      "C. Tỏ thái độ giảng hòa",
+      "D. Chém đầu sứ giả ngay tại chỗ"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-28": {
+    "id": "g7-lichsu-28",
+    "topicId": "g7-lichsu",
+    "question": "Câu 29.Trong cuộc kháng chiến chống quân Mông Cổ lần thứ nhất, trước thế giặc mạnh, nhà Trần đã rút khỏi Thăng Long về vùng nào?",
+    "choices": [
+      "A. Thiên Trường",
+      "B. Thiên Mạc",
+      "C. Vạn Kiếp",
+      "D. Long Hưng"
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-29": {
+    "id": "g7-lichsu-29",
+    "topicId": "g7-lichsu",
+    "question": "Câu 30.Trận phản công nào của quân dân nhà Trần đã đánh bại cuộc xâm lược Đại Việt lần thứ nhất của quân Mông Cổ?",
+    "choices": [
+      "A. Tây Kết",
+      "B. Chương Dương",
+      "C. Đông Bộ Đầu",
+      "D. Hàm Tử"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-30": {
+    "id": "g7-lichsu-30",
+    "topicId": "g7-lichsu",
+    "question": "Câu 31.  Nhà Trần khi thực hiện kế sách \"vườn không nhà trống\" không nhằm mục đích nào sau đây?",
+    "choices": [
+      "A. Tránh sức mạnh ban đầu của quân Mông Cổ",
+      "B. Khoét sâu vào điểm yếu của quân Mông Cổ",
+      "C. Củng cố lực lượng chờ phản công",
+      "D. Đánh nhanh thắng nhanh"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-31": {
+    "id": "g7-lichsu-31",
+    "topicId": "g7-lichsu",
+    "question": "Câu 32.“Đầu thần chưa rơi xuống xin bệ hạ đừng lo”. Đó là câu nói của ai?",
+    "choices": [
+      "A. Trần Quốc Tuấn",
+      "B. Trần Bình Trọng",
+      "C. Trần Quốc Toản",
+      "D. Trần Thủ Độ"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-32": {
+    "id": "g7-lichsu-32",
+    "topicId": "g7-lichsu",
+    "question": "Câu 33. Câu nói “Nếu bệ hạ muốn hàng giặc thì trước hãy chém đầu thần rồi hãy hàng” là của",
+    "choices": [
+      "A. Trần Quốc Toản",
+      "B. Trần Thủ Độ",
+      "C. Trần Quang Khải",
+      "D. Trần Quốc Tuấn"
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-33": {
+    "id": "g7-lichsu-33",
+    "topicId": "g7-lichsu",
+    "question": "Câu 34. Địa danh nào gắn liền với những chiến công hiển hách của quân dân nhà Trần trong cuộc kháng chiến lần thứ hai chống quân xâm lược Nguyên?",
+    "choices": [
+      "A. Bình Than, Đông Bộ Đầu, Vạn Kiếp.",
+      "B. Tây Kết, Hàm Tử, Chương Dương.",
+      "C. Thiên Trường, Thăng Long.",
+      "D. Bạch Đằng."
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-34": {
+    "id": "g7-lichsu-34",
+    "topicId": "g7-lichsu",
+    "question": "Câu 35. Trong cuộc kháng chiến chống quân Nguyên lần thứ hai, ai là người tự giương cao lá cờ: “Phá cường địch, báo hoàng ân”?",
+    "choices": [
+      "A. Trần Quốc Tuấn.",
+      "B. Phạm Ngũ Lão.",
+      "C. Trần Khánh Dư.",
+      "D. Trần Quốc Toản."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-35": {
+    "id": "g7-lichsu-35",
+    "topicId": "g7-lichsu",
+    "question": "Câu 36. Vào cuối tháng 1 - 1285, 50 vạn quân Nguyên do ai chỉ huy tràn vào xâm lược Đại Việt?",
+    "choices": [
+      "A. Thoát Hoan.",
+      "B. Hốt Tất Liệt.",
+      "C. Ô Mã Nhi.",
+      "D. Toa Đô."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-36": {
+    "id": "g7-lichsu-36",
+    "topicId": "g7-lichsu",
+    "question": "Câu 37. Chủ trương đánh giặc nào được nhà Trần thực hiện trong cả ba lần kháng chiến chống quân Mông – Nguyên.",
+    "choices": [
+      "A. Tiêu diệt đoàn thuyền lương của giặc.",
+      "B. Chặn đánh ngay từ khi quân giặc vừa tiến vào nước ta.",
+      "C. Thực hiện “vườn không nhà trống”",
+      "D. Kiên quyết giữ Thăng Long, đào chiến lũy để chống giặc."
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-37": {
+    "id": "g7-lichsu-37",
+    "topicId": "g7-lichsu",
+    "question": "Câu 38. Trước nguy cơ nhà Nguyên đang lăm le xâm lược Đại Việt lần thứ hai, Trần Quốc Tuấn đã soạn Hịch Tướng sĩ để\nkêu gọi quân sĩ và nhân dân hạ vũ khí, đầu hàng giặc.\nkhích lệ tinh thần chiến đấu của quân dân Đại Việt.\nhuy động quân sĩ xây dựng phòng tuyến trên sông Như Nguyệt.\nvận động nhân dân thực hiện kế sách “vườn không nhà trống”.",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-38": {
+    "id": "g7-lichsu-38",
+    "topicId": "g7-lichsu",
+    "question": "Câu 39. Thắng lợi trong cuộc kháng chiến chống quân xâm lược Mông – Nguyên của nhà Trần đã góp phần xây đắp nên truyền thống quân sự gì?",
+    "choices": [
+      "A. Tập hợp đông đảo nhân dân đấu tranh.",
+      "B. Tránh chỗ mạnh, đánh vào chỗ yếu.",
+      "C. Nước nhỏ chống lại kẻ thù mạnh hơn nhiều lần.",
+      "D. Buộc địch chuyển từ chủ động sang bị động."
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-39": {
+    "id": "g7-lichsu-39",
+    "topicId": "g7-lichsu",
+    "question": "Câu 40. Liên hệ với kiến thức đã học và cho biết thế kỉ X đến thế kỉ XIV, triều đại nào tồn tại lâu nhất ở nước ta?",
+    "choices": [
+      "A. Triều Tiền Lê.",
+      "B. Triều Lý.",
+      "C. Triều Trần.",
+      "D. Triều Hồ."
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-40": {
+    "id": "g7-lichsu-40",
+    "topicId": "g7-lichsu",
+    "question": "Câu 41.Năm 1283, hơn 10 vạn quân Nguyên cùng 300 chuếc thuyền do ai chỉ huy xâm lược Cham-pa?",
+    "choices": [
+      "A. Thoát Hoan",
+      "B. Ô Mã Nhi",
+      "C. Toa Đô",
+      "D. Hốt Tất Liệt"
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-41": {
+    "id": "g7-lichsu-41",
+    "topicId": "g7-lichsu",
+    "question": "Câu 42. Vì sao Hồ Quý Ly lại tiến hành cải cách toàn diện đất nước?",
+    "choices": [
+      "A. Muốn xoá bỏ mọi chính sách của nhà Trần.",
+      "B. Muốn gây thanh thế cho mình.",
+      "C. Xã hội Đại Việt lâm vào một cuộc khủng hoảng sâu sắc, tình hình rối ren, nhân dân bất bình.",
+      "D. Muốn biến Đại Việt trở thành nước hùng mạnh nhất khu vực thời bấy giờ."
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-42": {
+    "id": "g7-lichsu-42",
+    "topicId": "g7-lichsu",
+    "question": "Câu 43. Vào cuối thế kỉ XIV, nhà Trần",
+    "choices": [
+      "A. rơi vào tình trạng khủng hoảng, suy yếu.",
+      "B. bước vào thời kì phát triển đỉnh cao.",
+      "C. được thành lập.",
+      "D. bước đầu phát triển."
+    ],
+    "answer": 0,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-43": {
+    "id": "g7-lichsu-43",
+    "topicId": "g7-lichsu",
+    "question": "Câu 44.  Nguyên nhân quan trọng nhấtkhiến cho cuộc kháng chiến chống quân xâm lược Minh của nhà Hồ (1406 – 1407) thất bại là gì?",
+    "choices": [
+      "A. Nhà Hồ không có tướng lĩnh tài giỏi.",
+      "B. Quân Minh có ưu thế hơn về lực lượng, vũ khí.",
+      "C. Nhà Hồ không có đường lối kháng chiến đúng đắn.",
+      "D. Nhà Hồ không xây dựng được khối đoàn kết dân tộc"
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-44": {
+    "id": "g7-lichsu-44",
+    "topicId": "g7-lichsu",
+    "question": "Câu 45. Chính sách về ruộng đất được ban hành dưới thời Hồ Qúy Ly nhằm hạn chế số lượng ruộng đất của chủ đất được gọi là gì?",
+    "choices": [
+      "A. Quân điền.",
+      "B. Lộc điền.",
+      "C. Hạn điền",
+      "D. Phú điền."
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-45": {
+    "id": "g7-lichsu-45",
+    "topicId": "g7-lichsu",
+    "question": "Câu 46. Ai đã dâng sớ yêu cầu vua Trần Dụ Tông chém đầu 7 tên nịnh thần?",
+    "choices": [
+      "A. Nguyễn Phi Khanh",
+      "B. Trần Quốc Tuấn.",
+      "C. Trần Thủ Độ",
+      "D. Chu Văn An."
+    ],
+    "answer": 3,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-46": {
+    "id": "g7-lichsu-46",
+    "topicId": "g7-lichsu",
+    "question": "Câu 47. Công trình nào được xây dựng từ cuối thế kỉ XIV, là điển hình cho nghệ thuật xây thành Việt Nam và được UNESCO công nhận là Di sản văn hóa thế giới vào năm 2011?",
+    "choices": [
+      "A. Chùa Một Cột.",
+      "B. Thành nhà Hồ.",
+      "C. Kinh thành Huế.",
+      "D. Hoàng thành Thăng Long."
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-47": {
+    "id": "g7-lichsu-47",
+    "topicId": "g7-lichsu",
+    "question": "Câu 48.  Năm 1418, Lê Lợi dựng cờ khởi nghĩa ở",
+    "choices": [
+      "A. Tây Đô (Thanh Hóa).",
+      "B. Lam Kinh (Thanh Hóa).",
+      "C. Lam Sơn (Thanh Hóa).",
+      "D. Lũng Nhai (Thanh Hóa)."
+    ],
+    "answer": 2,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-48": {
+    "id": "g7-lichsu-48",
+    "topicId": "g7-lichsu",
+    "question": "Câu 49. Vào mùa hè năm 1423, Lê Lợi đã đề nghị tạm hoà với quân Minh vì\nđang ở trên núi cao xa xôi, hẻo lánh, rất khó phát triển lực lượng.\nquân khởi nghĩa bị thiếu lương thực trầm trọng.\nquân khởi nghĩa đánh mãi không thắng nên cầu hoà.\nmuốn tranh thủ thời gian hòa hoãn để xây dựng lực lượng",
+    "choices": [],
+    "answer": -1,
+    "type": "essay",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
+  },
+  "g7-lichsu-49": {
+    "id": "g7-lichsu-49",
+    "topicId": "g7-lichsu",
+    "question": "Câu 50. Năm 1424, Nguyễn Chích đề nghị nghĩa quân Lam Sơn tạm rời núi rừng Thanh Hóa, chuyển quân",
+    "choices": [
+      "A. ra Bắc.",
+      "B. vào Nghệ An.",
+      "C. vào miền",
+      "D. lên núi Chí Linh."
+    ],
+    "answer": 1,
+    "type": "multiple-choice",
+    "steps": [
+      {
+        "text": "Dựa vào kiến thức đã học để trả lời.",
+        "highlight": null
+      }
+    ]
   }
 };

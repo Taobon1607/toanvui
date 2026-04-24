@@ -606,14 +606,37 @@ function TopicList({ grade, subject, onSelectSubject, onSelect, onBack, onHome }
   );
 }
 
-function QuizPage({ grade, topic, onBack, onHome, onAddStars }) {
+function QuizPage({ grade, topic, onBack, onHome, onAddStars, onRestart }) {
   const isExam = topic.id.includes('midterm') || topic.id.includes('final');
-  
-  // Khởi tạo danh sách câu hỏi (trộn và lấy tối đa 10 câu)
+  const isGrade7 = grade.id === 7;
+  const sessionSize = isGrade7 ? 20 : 10;
+
+  // Khởi tạo danh sách câu hỏi:
+  // - Lớp 7: lấy 20 câu, không lặp lại câu đã làm cho đến khi hết toàn bộ đề cương
   const [problemList] = useState(() => {
     const all = topic.problemIds.map(id => problems[id]).filter(Boolean);
+    if (isGrade7) {
+      const storageKey = `toanvui-used-${topic.id}`;
+      let usedIds = [];
+      try { usedIds = JSON.parse(localStorage.getItem(storageKey) || '[]'); } catch {}
+      // Lọc những câu chưa làm
+      let unused = all.filter(p => !usedIds.includes(p.id));
+      // Nếu đã dùng hết hoặc không đủ, reset lại
+      if (unused.length < sessionSize) {
+        usedIds = [];
+        unused = all;
+        localStorage.removeItem(storageKey);
+      }
+      // Trộn ngẫu nhiên và lấy đúng số lượng
+      const shuffled = [...unused].sort(() => Math.random() - 0.5);
+      const picked = shuffled.slice(0, sessionSize);
+      // Lưu lại những câu vừa lấy là "đã làm"
+      const newUsed = [...usedIds, ...picked.map(p => p.id)];
+      try { localStorage.setItem(storageKey, JSON.stringify(newUsed)); } catch {}
+      return picked;
+    }
     const shuffled = [...all].sort(() => Math.random() - 0.5);
-    return shuffled.slice(0, 10);
+    return shuffled.slice(0, sessionSize);
   });
 
   const [idx, setIdx] = useState(0);
@@ -711,7 +734,7 @@ function QuizPage({ grade, topic, onBack, onHome, onAddStars }) {
             </div>
           )}
           <div className="result-actions">
-            <button className="btn-secondary" onClick={() => window.location.reload()}>
+            <button className="btn-secondary" onClick={onRestart}>
               🔄 Làm Bài Mới
             </button>
             <button className="next-btn" style={{ flex: 1 }} onClick={onBack}>
@@ -947,6 +970,7 @@ export default function App() {
   const [grade, setGrade] = useState(null);
   const [topic, setTopic] = useState(null);
   const [subject, setSubject] = useState(null);
+  const [quizSession, setQuizSession] = useState(0);
   const [stars, setStars] = useState(() => {
     try { return parseInt(localStorage.getItem('toanvui-stars') || '0'); } catch { return 0; }
   });
@@ -998,12 +1022,13 @@ export default function App() {
         )}
         {view === 'quiz' && grade && topic && (
           <QuizPage
-            key={topic.id}
+            key={`${topic.id}-${quizSession}`}
             grade={grade}
             topic={topic}
             onBack={() => setView('topics')}
             onHome={() => setView('home')}
             onAddStars={addStars}
+            onRestart={() => setQuizSession(s => s + 1)}
           />
         )}
       </main>
