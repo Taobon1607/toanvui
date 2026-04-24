@@ -386,6 +386,21 @@ body::after {
   font-weight: 700;
   line-height: 1.5;
   color: var(--clr-text);
+  white-space: pre-line;
+}
+
+.question-section-heading {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: 800;
+  color: var(--clr-accent);
+  background: rgba(84, 160, 255, 0.1);
+  border: 1.5px solid rgba(84, 160, 255, 0.3);
+  border-radius: var(--radius-xl);
+  padding: 3px 12px;
+  margin-bottom: 10px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 /* ============ CHOICES ============ */

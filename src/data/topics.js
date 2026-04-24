@@ -666,7 +666,7 @@ export const topics = {
     "gradeId": 7,
     "subject": "Toán Học",
     "name": "Số Hữu Tỉ",
-    "emoji": "",
+    "emoji": "🔢",
     "color": "#F39C12",
     "problemIds": [
       "g7-rat-1",
@@ -686,7 +686,7 @@ export const topics = {
     "gradeId": 7,
     "subject": "Toán Học",
     "name": "Số Thực",
-    "emoji": "",
+    "emoji": "📏",
     "color": "#E67E22",
     "problemIds": [
       "g7-real-1",

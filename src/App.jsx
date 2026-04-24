@@ -775,7 +775,19 @@ function QuizPage({ grade, topic, onBack, onHome, onAddStars }) {
               </button>
             </div>
           </div>
-          <p className="question-text">{current.question}</p>
+          {(() => {
+            const lines = current.question.split('\n');
+            const isHeading = lines.length > 1 && /^(I{1,3}|IV|V?I{0,3}V?)\.\s/.test(lines[0]);
+            if (isHeading) {
+              return (
+                <>
+                  <p className="question-section-heading">{lines[0]}</p>
+                  <p className="question-text">{lines.slice(1).join('\n')}</p>
+                </>
+              );
+            }
+            return <p className="question-text" style={{ whiteSpace: 'pre-line' }}>{current.question}</p>;
+          })()}
           
           {current.images && current.images.length > 0 && (
             <div className="problem-images">
