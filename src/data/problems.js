@@ -17234,26 +17234,20 @@ export const problems = {
   "g7-english-1": {
     "id": "g7-english-1",
     "topicId": "g7-english",
-    "question": "Choose the word whose underlined part is pronounced differently from the others.",
+    "question": "Choose the word whose underlined part is pronounced differently from the others.\n\nCâu hỏi:",
     "choices": [
       "A. year",
       "B. wear",
       "C. appear",
       "D. hear"
     ],
-    "answer": 1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
   "g7-english-2": {
     "id": "g7-english-2",
     "topicId": "g7-english",
-    "question": "Choose the word whose underlined part is pronounced differently from the others.",
+    "question": "Choose the word whose underlined part is pronounced differently from the others.\n\nCâu hỏi:",
     "choices": [
       "A. natural",
       "B. poverty",
@@ -17261,37 +17255,25 @@ export const problems = {
       "D. future"
     ],
     "answer": 1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
   "g7-english-3": {
     "id": "g7-english-3",
     "topicId": "g7-english",
-    "question": "Choose the word whose underlined part is pronounced differently from the others.",
+    "question": "Choose the word whose underlined part is pronounced differently from the others.\n\nCâu hỏi:",
     "choices": [
       "A. transport",
       "B. passenger",
       "C. station",
       "D. traffic"
     ],
-    "answer": 2,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
   "g7-english-4": {
     "id": "g7-english-4",
     "topicId": "g7-english",
-    "question": "Choose the word whose underlined part is pronounced differently from the others.",
+    "question": "Choose the word whose underlined part is pronounced differently from the others.\n\nCâu hỏi:",
     "choices": [
       "A. limit",
       "B. line",
@@ -17299,37 +17281,25 @@ export const problems = {
       "D. like"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
   "g7-english-5": {
     "id": "g7-english-5",
     "topicId": "g7-english",
-    "question": "Choose the word whose underlined part is pronounced differently from the others.",
+    "question": "Choose the word whose underlined part is pronounced differently from the others.\n\nCâu hỏi:",
     "choices": [
       "A. deer",
       "B. meet",
       "C. atmosphere",
       "D. volunteer"
     ],
-    "answer": 1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
   "g7-english-6": {
     "id": "g7-english-6",
     "topicId": "g7-english",
-    "question": "Choose the word whose underlined part is pronounced differently from the others.",
+    "question": "Choose the word whose underlined part is pronounced differently from the others.\n\nCâu hỏi:",
     "choices": [
       "A. painted",
       "B. parked",
@@ -17337,18 +17307,12 @@ export const problems = {
       "D. stopped"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
   "g7-english-7": {
     "id": "g7-english-7",
     "topicId": "g7-english",
-    "question": "Choose the word that has the main stress placed differently from the others.",
+    "question": "Choose the word that has the main stress placed differently from the others.\n\nCâu hỏi:",
     "choices": [
       "A. turkey",
       "B. boring",
@@ -17356,18 +17320,12 @@ export const problems = {
       "D. donate"
     ],
     "answer": 3,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
   "g7-english-8": {
     "id": "g7-english-8",
     "topicId": "g7-english",
-    "question": "Choose the word that has the main stress placed differently from the others.",
+    "question": "Choose the word that has the main stress placed differently from the others.\n\nCâu hỏi:",
     "choices": [
       "A. easily",
       "B. beautiful",
@@ -17375,94 +17333,72 @@ export const problems = {
       "D. energy"
     ],
     "answer": 2,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
   "g7-english-9": {
     "id": "g7-english-9",
     "topicId": "g7-english",
-    "question": "Choose the word that has the main stress placed differently from the others.",
+    "question": "Choose the word that has the main stress placed differently from the others.\n\nCâu hỏi:",
     "choices": [
       "A. costumes",
       "B. enjoy",
       "C. begin",
       "D. appear"
     ],
-    "answer": -1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
   "g7-english-10": {
     "id": "g7-english-10",
     "topicId": "g7-english",
-    "question": "Choose the word that has the main stress placed differently from the others.",
+    "question": "Choose the word that has the main stress placed differently from the others.\n\nCâu hỏi:",
     "choices": [
       "A. government",
       "B. travelling",
       "C. dangerous",
       "D. polluting"
     ],
-    "answer": -1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
   "g7-english-11": {
     "id": "g7-english-11",
     "topicId": "g7-english",
-    "question": "Choose the word that has the main stress placed differently from the others.",
+    "question": "Choose the word that has the main stress placed differently from the others.\n\nCâu hỏi:",
     "choices": [
       "A. violent",
       "B. decorate",
       "C. comedy",
       "D. director"
     ],
-    "answer": -1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
   "g7-english-12": {
     "id": "g7-english-12",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nCoal is a(n)  _____ energy source.",
+    "question": "Coal is a(n) \tenergy source.\n\nrenewable",
     "choices": [
-      "A. renewable",
-      "B. non-renewable",
-      "C. expensive",
-      "D. good for the environment"
+      "B. non-renewable"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
   "g7-english-13": {
     "id": "g7-english-13",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nCyclists need to obey the traffic  _____ by not carrying more than one passenger.",
+    "question": "Coal is a(n) \tenergy source.\n\nCâu hỏi:",
+    "choices": [
+      "C. expensive",
+      "D. good for the environment"
+    ],
+    "answer": 0,
+    "type": "multiple-choice"
+  },
+  "g7-english-14": {
+    "id": "g7-english-14",
+    "topicId": "g7-english",
+    "question": "Cyclists need to obey the traffic \tby not carrying more than one passenger.\n\nCâu hỏi:",
     "choices": [
       "A. rules",
       "B. jams",
@@ -17470,18 +17406,12 @@ export const problems = {
       "D. All are correct"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-14": {
-    "id": "g7-english-14",
+  "g7-english-15": {
+    "id": "g7-english-15",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nSeveral governments try to  _____ the use of fossil fuels.",
+    "question": "Several governments try to \tthe use of fossil fuels.\n\nCâu hỏi:",
     "choices": [
       "A. reduce",
       "B. increase",
@@ -17489,37 +17419,25 @@ export const problems = {
       "D. save"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-15": {
-    "id": "g7-english-15",
+  "g7-english-16": {
+    "id": "g7-english-16",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nA teleporter is  _____ , so it doesn't cause pollution.",
+    "question": "A teleporter is \t, so it doesn't cause pollution.\n\nCâu hỏi:",
     "choices": [
       "A. limited",
       "B. fast",
       "C. available",
       "D. eco-friendly"
     ],
-    "answer": 3,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
-  "g7-english-16": {
-    "id": "g7-english-16",
+  "g7-english-17": {
+    "id": "g7-english-17",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nA solowheel runs  _____ electricity, so it is safe for the environment.",
+    "question": "A solowheel runs \telectricity, so it is safe for the environment.\n\nCâu hỏi:",
     "choices": [
       "A. out",
       "B. in",
@@ -17527,37 +17445,25 @@ export const problems = {
       "D. by"
     ],
     "answer": 2,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-17": {
-    "id": "g7-english-17",
+  "g7-english-18": {
+    "id": "g7-english-18",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nI have  _____ list of countries and territories where English is  _____ official language.",
+    "question": "I have \tlist of countries and territories where English is \tofficial language.\n\nCâu hỏi:",
     "choices": [
       "A. the - a",
       "B. a - an",
       "C. a - the",
       "D. an – an"
     ],
-    "answer": 1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
-  "g7-english-18": {
-    "id": "g7-english-18",
+  "g7-english-19": {
+    "id": "g7-english-19",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nThey expect zero-emission fuel cell buses to become a  _____ of transport.",
+    "question": "They expect zero-emission fuel cell buses to become a \tof transport.\n\nCâu hỏi:",
     "choices": [
       "A. means",
       "B. measure",
@@ -17565,18 +17471,12 @@ export const problems = {
       "D. channel"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-19": {
-    "id": "g7-english-19",
+  "g7-english-20": {
+    "id": "g7-english-20",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nHe is driving his car too fast, but he is not wearing his……………..",
+    "question": "He is driving his car too fast, but he is not wearing his……………..\n\nCâu hỏi:",
     "choices": [
       "A. seatbelt",
       "B. helmet",
@@ -17584,18 +17484,12 @@ export const problems = {
       "D. coat"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-20": {
-    "id": "g7-english-20",
+  "g7-english-21": {
+    "id": "g7-english-21",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nJim wanted to  _____ the boat alone, but his parents didn't agree.",
+    "question": "Jim wanted to \tthe boat alone, but his parents didn't agree.\n\nCâu hỏi:",
     "choices": [
       "A. let",
       "B. travel",
@@ -17603,37 +17497,25 @@ export const problems = {
       "D. sail"
     ],
     "answer": 3,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-21": {
-    "id": "g7-english-21",
+  "g7-english-22": {
+    "id": "g7-english-22",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nYour bike is a normal one, but  _____ is a sports bike.",
+    "question": "Your bike is a normal one, but \tis a sports bike.\n\nCâu hỏi:",
     "choices": [
       "A. she",
       "B. her",
       "C. herself",
       "D. hers"
     ],
-    "answer": 1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 3,
+    "type": "multiple-choice"
   },
-  "g7-english-22": {
-    "id": "g7-english-22",
+  "g7-english-23": {
+    "id": "g7-english-23",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nChildren should avoid  _____ foods such as hamburger and snacks.",
+    "question": "Children should avoid \tfoods such as hamburger and snacks.\n\nCâu hỏi:",
     "choices": [
       "A. unhealthy",
       "B. nutritious",
@@ -17641,18 +17523,12 @@ export const problems = {
       "D. fresh"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-23": {
-    "id": "g7-english-23",
+  "g7-english-24": {
+    "id": "g7-english-24",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nLook! The boys  _____ football in the park.",
+    "question": "Look! The boys \tfootball in the park.\n\nCâu hỏi:",
     "choices": [
       "A. play",
       "B. are playing",
@@ -17660,56 +17536,46 @@ export const problems = {
       "D. have played"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
-  },
-  "g7-english-24": {
-    "id": "g7-english-24",
-    "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\n- How about going to the cinema tonight? -",
-    "choices": [
-      "A. No, thanks.",
-      "B. It was a big disappointment.",
-      "C. That’s too bad.",
-      "D. That’s a great idea!"
-    ],
-    "answer": 3,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
   "g7-english-25": {
     "id": "g7-english-25",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nrulers are here.  _____  are there.",
+    "question": "- How about going to the cinema tonight? -\n\nNo, thanks.",
+    "choices": [
+      "B. It was a big disappointment."
+    ],
+    "answer": 0,
+    "type": "multiple-choice"
+  },
+  "g7-english-26": {
+    "id": "g7-english-26",
+    "topicId": "g7-english",
+    "question": "- How about going to the cinema tonight? -\n\nCâu hỏi:",
+    "choices": [
+      "C. That’s too bad.",
+      "D. That’s a great idea!"
+    ],
+    "answer": 0,
+    "type": "multiple-choice"
+  },
+  "g7-english-27": {
+    "id": "g7-english-27",
+    "topicId": "g7-english",
+    "question": "rulers are here. \t are there.\n\nCâu hỏi:",
     "choices": [
       "A. Theirs – Ours",
       "B. Their – Our",
       "C. Theirs – Our",
       "D. Their – Ours"
     ],
-    "answer": 1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
-  "g7-english-26": {
-    "id": "g7-english-26",
+  "g7-english-28": {
+    "id": "g7-english-28",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nRecycling means to reuse something. The more we  _____ , the less energy is needed.",
+    "question": "Recycling means to reuse something. The more we \t, the less energy is needed.\n\nCâu hỏi:",
     "choices": [
       "A. recycle",
       "B. build",
@@ -17717,18 +17583,12 @@ export const problems = {
       "D. reuse"
     ],
     "answer": 3,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-27": {
-    "id": "g7-english-27",
+  "g7-english-29": {
+    "id": "g7-english-29",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nis it from your house to the nearest bus stop? – \"About 50 meters.\"",
+    "question": "is it from your house to the nearest bus stop? – \"About 50 meters.\"\n\nCâu hỏi:",
     "choices": [
       "A. How far",
       "B. How long",
@@ -17736,37 +17596,33 @@ export const problems = {
       "D. How much"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-28": {
-    "id": "g7-english-28",
+  "g7-english-30": {
+    "id": "g7-english-30",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nAn: Do you think we will travel by flying car in the future? Ben:",
+    "question": "An: Do you think we will travel by flying car in the future? Ben:\n\nWe certainly will.",
     "choices": [
-      "A. We certainly will.",
-      "B. Wow... I didn't know that",
+      "B. Wow... I didn't know that"
+    ],
+    "answer": 0,
+    "type": "multiple-choice"
+  },
+  "g7-english-31": {
+    "id": "g7-english-31",
+    "topicId": "g7-english",
+    "question": "An: Do you think we will travel by flying car in the future? Ben:\n\nCâu hỏi:",
+    "choices": [
       "C. Amazing",
       "D. Sounds great!"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-29": {
-    "id": "g7-english-29",
+  "g7-english-32": {
+    "id": "g7-english-32",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nPeter goes to school  _____ foot everyday.",
+    "question": "Peter goes to school \tfoot everyday.\n\nCâu hỏi:",
     "choices": [
       "A. on",
       "B. by",
@@ -17774,18 +17630,12 @@ export const problems = {
       "D. over"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-30": {
-    "id": "g7-english-30",
+  "g7-english-33": {
+    "id": "g7-english-33",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nWe couldn't stop laughing when seeing this  _____ .",
+    "question": "We couldn't stop laughing when seeing this \t.\n\nCâu hỏi:",
     "choices": [
       "A. horror film",
       "B. comedy",
@@ -17793,18 +17643,12 @@ export const problems = {
       "D. action film"
     ],
     "answer": 1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-31": {
-    "id": "g7-english-31",
+  "g7-english-34": {
+    "id": "g7-english-34",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nThe film is too  _____ with a lot of fighting and killing scene.",
+    "question": "The film is too \twith a lot of fighting and killing scene.\n\nCâu hỏi:",
     "choices": [
       "A. funny",
       "B. violent",
@@ -17812,18 +17656,12 @@ export const problems = {
       "D. romantic"
     ],
     "answer": 1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-32": {
-    "id": "g7-english-32",
+  "g7-english-35": {
+    "id": "g7-english-35",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nThe fans of the film filled the cinemas  _____ the show time was inconvenient.",
+    "question": "The fans of the film filled the cinemas \tthe show time was inconvenient.\n\nCâu hỏi:",
     "choices": [
       "A. though",
       "B. so",
@@ -17831,56 +17669,38 @@ export const problems = {
       "D. and"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-33": {
-    "id": "g7-english-33",
+  "g7-english-36": {
+    "id": "g7-english-36",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nNancy is on the way and she  _____ in about half an hour.",
+    "question": "Nancy is on the way and she \tin about half an hour.\n\nCâu hỏi:",
     "choices": [
       "A. arrives",
       "B. arrived",
       "C. are arriving",
       "D. will arrive"
     ],
-    "answer": 3,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
-  "g7-english-34": {
-    "id": "g7-english-34",
+  "g7-english-37": {
+    "id": "g7-english-37",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nThere is  _____ area on Planet Mars which NASA has named Glasgow.",
+    "question": "There is \tarea on Planet Mars which NASA has named Glasgow.\n\nCâu hỏi:",
     "choices": [
       "A. a",
       "B. an",
       "C. the",
       "D. Ø"
     ],
-    "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 1,
+    "type": "multiple-choice"
   },
-  "g7-english-35": {
-    "id": "g7-english-35",
+  "g7-english-38": {
+    "id": "g7-english-38",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nYesterday you probably brought my book home instead of  _____ .",
+    "question": "Yesterday you probably brought my book home instead of \t.\n\nCâu hỏi:",
     "choices": [
       "A. yours",
       "B. your",
@@ -17888,75 +17708,51 @@ export const problems = {
       "D. mine"
     ],
     "answer": 3,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-36": {
-    "id": "g7-english-36",
+  "g7-english-39": {
+    "id": "g7-english-39",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nAngelina and Robert  _____ to each other right now.",
+    "question": "Angelina and Robert \tto each other right now.\n\nCâu hỏi:",
     "choices": [
       "A. don't talk",
       "B. aren't talking",
       "C. won't talk",
       "D. didn't talk"
     ],
-    "answer": 1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
-  "g7-english-37": {
-    "id": "g7-english-37",
+  "g7-english-40": {
+    "id": "g7-english-40",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nAt present, my city  _____ a station for skyTrans.",
+    "question": "At present, my city \ta station for skyTrans.\n\nCâu hỏi:",
     "choices": [
       "A. is building",
       "B. will build",
       "C. build",
       "D. built"
     ],
-    "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 2,
+    "type": "multiple-choice"
   },
-  "g7-english-38": {
-    "id": "g7-english-38",
+  "g7-english-41": {
+    "id": "g7-english-41",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nis a type of vehicle that can take off, fly, and land like an airplane but can also drive on roads.",
+    "question": "is a type of vehicle that can take off, fly, and land like an airplane but can also drive on roads.\n\nCâu hỏi:",
     "choices": [
       "A. Hyperloop",
       "B. Teleporter",
       "C. Flying car",
       "D. Bullet train"
     ],
-    "answer": 2,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
-  "g7-english-39": {
-    "id": "g7-english-39",
+  "g7-english-42": {
+    "id": "g7-english-42",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nWe  _____ probably travel to the Moon in twenty years.",
+    "question": "We \tprobably travel to the Moon in twenty years.\n\nCâu hỏi:",
     "choices": [
       "A. do",
       "B. did",
@@ -17964,18 +17760,12 @@ export const problems = {
       "D. will"
     ],
     "answer": 3,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-40": {
-    "id": "g7-english-40",
+  "g7-english-43": {
+    "id": "g7-english-43",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nThere  _____ over 10 million sheep but just 3 million people in Wales.",
+    "question": "There \tover 10 million sheep but just 3 million people in Wales.\n\nCâu hỏi:",
     "choices": [
       "A. was",
       "B. were",
@@ -17983,18 +17773,12 @@ export const problems = {
       "D. are"
     ],
     "answer": 3,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-41": {
-    "id": "g7-english-41",
+  "g7-english-44": {
+    "id": "g7-english-44",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nA non- renewable source of energy can be used to power machinery, but it also  _____ the environment.",
+    "question": "A non- renewable source of energy can be used to power machinery, but it also \tthe environment.\n\nCâu hỏi:",
     "choices": [
       "A. cleans",
       "B. pollutes",
@@ -18002,37 +17786,25 @@ export const problems = {
       "D. protects"
     ],
     "answer": 1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-42": {
-    "id": "g7-english-42",
+  "g7-english-45": {
+    "id": "g7-english-45",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nCanada and  _____ USA share  _____ longest international border in  _____ world.",
+    "question": "Canada and \tUSA share \tlongest international border in \tworld.\n\nCâu hỏi:",
     "choices": [
       "A. the - the - a",
       "B. the - a - the",
       "C. the - the - the",
       "D. the - the – a"
     ],
-    "answer": 2,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
-  "g7-english-43": {
-    "id": "g7-english-43",
+  "g7-english-46": {
+    "id": "g7-english-46",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nThe city has a ten-minute long  _____ display on New Year's Eve.",
+    "question": "The city has a ten-minute long \tdisplay on New Year's Eve.\n\nCâu hỏi:",
     "choices": [
       "A. fireworks",
       "B. costumes",
@@ -18040,18 +17812,12 @@ export const problems = {
       "D. parade"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-44": {
-    "id": "g7-english-44",
+  "g7-english-47": {
+    "id": "g7-english-47",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nyou buy a birthday present for Brian next Sunday?",
+    "question": "you buy a birthday present for Brian next Sunday?\n\nCâu hỏi:",
     "choices": [
       "A. Are",
       "B. Will",
@@ -18059,18 +17825,12 @@ export const problems = {
       "D. Do"
     ],
     "answer": 1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-45": {
-    "id": "g7-english-45",
+  "g7-english-48": {
+    "id": "g7-english-48",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nPeople need to find some other means of  _____ to deal with traffic jams.",
+    "question": "People need to find some other means of \tto deal with traffic jams.\n\nCâu hỏi:",
     "choices": [
       "A. transport",
       "B. vehicle",
@@ -18078,18 +17838,12 @@ export const problems = {
       "D. living"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-46": {
-    "id": "g7-english-46",
+  "g7-english-49": {
+    "id": "g7-english-49",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nThe play was so boring.  _____ , Lan saw it from beginning to end.",
+    "question": "The play was so boring. \t, Lan saw it from beginning to end.\n\nCâu hỏi:",
     "choices": [
       "A. Therefore",
       "B. Despite",
@@ -18097,94 +17851,64 @@ export const problems = {
       "D. Although"
     ],
     "answer": 2,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-47": {
-    "id": "g7-english-47",
+  "g7-english-50": {
+    "id": "g7-english-50",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nDogs love to play with a ball, and it is a favourite activity of  _____ .",
+    "question": "Dogs love to play with a ball, and it is a favourite activity of \t.\n\nCâu hỏi:",
     "choices": [
       "A. their",
       "B. theirs",
       "C. its",
       "D. it"
     ],
-    "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 1,
+    "type": "multiple-choice"
   },
-  "g7-english-48": {
-    "id": "g7-english-48",
+  "g7-english-51": {
+    "id": "g7-english-51",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nBecause vehicles using fossil fuels cause pollution, scientists want to find a cheaper and\nreplacement.",
+    "question": "replacement.\n\nCâu hỏi:",
     "choices": [
       "A. inconvenient",
       "B. dangerous",
       "C. polluted",
       "D. eco-friendly"
     ],
-    "answer": 3,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
-  "g7-english-49": {
-    "id": "g7-english-49",
+  "g7-english-52": {
+    "id": "g7-english-52",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\neasy for them to build another metro system?",
+    "question": "easy for them to build another metro system?\n\nCâu hỏi:",
     "choices": [
       "A. Be will it",
       "B. Be it will",
       "C. It will be",
       "D. Will it be"
     ],
-    "answer": 3,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
-  "g7-english-50": {
-    "id": "g7-english-50",
+  "g7-english-53": {
+    "id": "g7-english-53",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nYour idea is good, but not as good as  _____ .",
+    "question": "Your idea is good, but not as good as \t.\n\nCâu hỏi:",
     "choices": [
       "A. ours",
       "B. our",
       "C. we",
       "D. us"
     ],
-    "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 1,
+    "type": "multiple-choice"
   },
-  "g7-english-51": {
-    "id": "g7-english-51",
+  "g7-english-54": {
+    "id": "g7-english-54",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nDo you think that  _____ pleasant to ride a solowheel in bad weather?",
+    "question": "Do you think that \tpleasant to ride a solowheel in bad weather?\n\nCâu hỏi:",
     "choices": [
       "A. it won't be",
       "B. will it be not",
@@ -18192,18 +17916,12 @@ export const problems = {
       "D. won't it be"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-52": {
-    "id": "g7-english-52",
+  "g7-english-55": {
+    "id": "g7-english-55",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nI think future planes  _____ like the UFOs.",
+    "question": "I think future planes \tlike the UFOs.\n\nCâu hỏi:",
     "choices": [
       "A. look",
       "B. looks",
@@ -18211,37 +17929,25 @@ export const problems = {
       "D. are looking"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-53": {
-    "id": "g7-english-53",
+  "g7-english-56": {
+    "id": "g7-english-56",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nJohn talks to Ann, and he suggests going to the cinema.\nJohn: “Would you like to go to the cinema this weekend?” - Ann: “  _____ ”",
+    "question": "John: “Would you like to go to the cinema this weekend?” - Ann: “ \t”\n\nCâu hỏi:",
     "choices": [
       "A. I don’t care.",
       "B. Ok. You did it!",
       "C. Great! I can’t wait.",
       "D. Sorry. I don’t like."
     ],
-    "answer": 2,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
-  "g7-english-54": {
-    "id": "g7-english-54",
+  "g7-english-57": {
+    "id": "g7-english-57",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nThe distance between France and England is  _____ 34 kilometers.",
+    "question": "The distance between France and England is \t34 kilometers.\n\nCâu hỏi:",
     "choices": [
       "A. of",
       "B. about",
@@ -18249,122 +17955,64 @@ export const problems = {
       "D. in"
     ],
     "answer": 1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-55": {
-    "id": "g7-english-55",
+  "g7-english-58": {
+    "id": "g7-english-58",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nis anyone who uses a road, such as a pedestrian or motorist.",
+    "question": "is anyone who uses a road, such as a pedestrian or motorist.\n\nCâu hỏi:",
     "choices": [
       "A. Passenger",
       "B. Driver",
       "C. Road user",
       "D. Cyclist"
     ],
-    "answer": -1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
-  "g7-english-56": {
-    "id": "g7-english-56",
+  "g7-english-59": {
+    "id": "g7-english-59",
     "topicId": "g7-english",
-    "question": "Choose the best answer A, B, C or D to complete the sentence.\nYou  _____ bring fireworks to the festival, as it is strictly prohibited.",
+    "question": "You \tbring fireworks to the festival, as it is strictly prohibited.\n\nCâu hỏi:",
     "choices": [
       "A. should",
       "B. must",
       "C. shouldn't",
       "D. mustn’t"
     ],
-    "answer": 1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 3,
+    "type": "multiple-choice"
   },
-  "g7-english-57": {
-    "id": "g7-english-57",
+  "g7-english-60": {
+    "id": "g7-english-60",
     "topicId": "g7-english",
-    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\n* _____ 46. Our family planned to watch a movie together last night. We were looking forward to it, but\n.\nWe decided to tell stories instead.\nThe power went out just before the movie started\nEveryone was disappointed because we couldn't watch the movie.",
+    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\n*\t46. Our family planned to watch a movie together last night. We were looking forward to it, but\n.\nWe decided to tell stories instead.\nThe power went out just before the movie started\nEveryone was disappointed because we couldn't watch the movie.\n\nCâu hỏi:",
     "choices": [
       "A. a-c-b",
       "B. c-a-b",
       "C. b-a-c",
       "D. a-b-c"
     ],
-    "answer": 2,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
-  "g7-english-58": {
-    "id": "g7-english-58",
+  "g7-english-61": {
+    "id": "g7-english-61",
     "topicId": "g7-english",
-    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\n47. Choose the sentence that can end the text in question 46.\nFinally, the power came back and we watched the movie\nWe spent the evening telling stories and had a great time\nThe power never came back, so we all went to bed early.\nThe movie was postponed to another day.",
-    "choices": [],
-    "answer": -1,
-    "type": "essay",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
-  },
-  "g7-english-59": {
-    "id": "g7-english-59",
-    "topicId": "g7-english",
-    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\n48.  A local high school recently introduced a new computer course. It is popular among students.\n.\nThe course teaches students about coding and digital design.\nMany students have signed up for the course\nThe school added the course to prepare students for future jobs in technology.",
+    "question": "The school added the course to prepare students for future jobs in technology.\n\nCâu hỏi:",
     "choices": [
       "A. a-c-b",
       "B. c-a-b",
       "C. b-a-c",
       "D. c-b-a"
     ],
-    "answer": 3,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
-  "g7-english-60": {
-    "id": "g7-english-60",
+  "g7-english-62": {
+    "id": "g7-english-62",
     "topicId": "g7-english",
-    "question": "Choose the sentence that can end the text (in Question 48) most suitably.\nThe course has received good feedback from students and teachers\nSome students have started working on their tech projects\nThe school is considering adding more technology-related courses\nThere were some issues with the course schedule at first.",
-    "choices": [],
-    "answer": -1,
-    "type": "essay",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
-  },
-  "g7-english-61": {
-    "id": "g7-english-61",
-    "topicId": "g7-english",
-    "question": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks\nThere is now increasing concern about the world’s energy (50) _____ , particularly about those involving fossil (51)  _____  _____ . In less (52) _____  _____ a hundred years we shall probably use up all the present energy of oil and gas. The world’s coal reserves should last longer, (53) _____ once used, these cannot be (54) _____ . It is important, therefore, that we should develop such alternative sources of energy as solar energy as (55) _____  as water and wind power, classed as renewable energy.",
+    "question": "There is now increasing concern about the world’s energy (50)\t, particularly about those involving fossil (51) \t\t. In less (52)\t\ta hundred years we shall probably use up all the present energy of oil and gas. The world’s coal reserves should last longer, (53)\tonce used, these cannot be (54)\t. It is important, therefore, that we should develop such alternative sources of energy as solar energy as (55)\t as water and wind power, classed as renewable energy.\n\nCâu hỏi:",
     "choices": [
       "A. possessions",
       "B. resources",
@@ -18372,18 +18020,12 @@ export const problems = {
       "D. materials"
     ],
     "answer": 1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-62": {
-    "id": "g7-english-62",
+  "g7-english-63": {
+    "id": "g7-english-63",
     "topicId": "g7-english",
-    "question": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks",
+    "question": "There is now increasing concern about the world’s energy (50)\t, particularly about those involving fossil (51) \t\t. In less (52)\t\ta hundred years we shall probably use up all the present energy of oil and gas. The world’s coal reserves should last longer, (53)\tonce used, these cannot be (54)\t. It is important, therefore, that we should develop such alternative sources of energy as solar energy as (55)\t as water and wind power, classed as renewable energy.\n\nCâu hỏi:",
     "choices": [
       "A. fuels",
       "B. powers",
@@ -18391,18 +18033,12 @@ export const problems = {
       "D. energies"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-63": {
-    "id": "g7-english-63",
+  "g7-english-64": {
+    "id": "g7-english-64",
     "topicId": "g7-english",
-    "question": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks",
+    "question": "There is now increasing concern about the world’s energy (50)\t, particularly about those involving fossil (51) \t\t. In less (52)\t\ta hundred years we shall probably use up all the present energy of oil and gas. The world’s coal reserves should last longer, (53)\tonce used, these cannot be (54)\t. It is important, therefore, that we should develop such alternative sources of energy as solar energy as (55)\t as water and wind power, classed as renewable energy.\n\nCâu hỏi:",
     "choices": [
       "A. in",
       "B. more",
@@ -18410,18 +18046,12 @@ export const problems = {
       "D. than"
     ],
     "answer": 3,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-64": {
-    "id": "g7-english-64",
+  "g7-english-65": {
+    "id": "g7-english-65",
     "topicId": "g7-english",
-    "question": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks",
+    "question": "There is now increasing concern about the world’s energy (50)\t, particularly about those involving fossil (51) \t\t. In less (52)\t\ta hundred years we shall probably use up all the present energy of oil and gas. The world’s coal reserves should last longer, (53)\tonce used, these cannot be (54)\t. It is important, therefore, that we should develop such alternative sources of energy as solar energy as (55)\t as water and wind power, classed as renewable energy.\n\nCâu hỏi:",
     "choices": [
       "A. although",
       "B. but",
@@ -18429,18 +18059,12 @@ export const problems = {
       "D. and"
     ],
     "answer": 1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-65": {
-    "id": "g7-english-65",
+  "g7-english-66": {
+    "id": "g7-english-66",
     "topicId": "g7-english",
-    "question": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks",
+    "question": "There is now increasing concern about the world’s energy (50)\t, particularly about those involving fossil (51) \t\t. In less (52)\t\ta hundred years we shall probably use up all the present energy of oil and gas. The world’s coal reserves should last longer, (53)\tonce used, these cannot be (54)\t. It is important, therefore, that we should develop such alternative sources of energy as solar energy as (55)\t as water and wind power, classed as renewable energy.\n\nCâu hỏi:",
     "choices": [
       "A. updated",
       "B. repeated",
@@ -18448,18 +18072,12 @@ export const problems = {
       "D. produced"
     ],
     "answer": 2,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-66": {
-    "id": "g7-english-66",
+  "g7-english-67": {
+    "id": "g7-english-67",
     "topicId": "g7-english",
-    "question": "Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks",
+    "question": "There is now increasing concern about the world’s energy (50)\t, particularly about those involving fossil (51) \t\t. In less (52)\t\ta hundred years we shall probably use up all the present energy of oil and gas. The world’s coal reserves should last longer, (53)\tonce used, these cannot be (54)\t. It is important, therefore, that we should develop such alternative sources of energy as solar energy as (55)\t as water and wind power, classed as renewable energy.\n\nCâu hỏi:",
     "choices": [
       "A. good",
       "B. well",
@@ -18467,105 +18085,77 @@ export const problems = {
       "D. soon"
     ],
     "answer": 1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
-  },
-  "g7-english-67": {
-    "id": "g7-english-67",
-    "topicId": "g7-english",
-    "question": "Read the following sign or notice and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\nWhat does this sign mean?\nWhat does the sign say?\nWhat does the notice say?\nYou shouldn’t speak to anyone in this area.\nYou don’t have to raise yoyur voice in this area.\nYou must be quiet in this area.\nYou mustn’t play in this area.\n59: What does the sign say?",
-    "choices": [],
-    "answer": -1,
-    "type": "essay",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
   "g7-english-68": {
     "id": "g7-english-68",
     "topicId": "g7-english",
-    "question": "Read the following sign or notice and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\nWhat does this sign mean?\nWhat does the sign say?\nWhat does the notice say?\nYou shouldn’t speak to anyone in this area.\nYou don’t have to raise yoyur voice in this area.\nYou must be quiet in this area.\nYou mustn’t play in this area.\n60. What does the sign say?",
+    "question": "Read the following sign or notice and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\nWhat does this sign mean?\nWhat does the sign say?\nWhat does the notice say?\nYou shouldn’t speak to anyone in this area.\nYou don’t have to raise yoyur voice in this area.\nYou must be quiet in this area.\nYou mustn’t play in this area.\n59: What does the sign say?\n60. What does the sign say?\n\nCâu hỏi:",
     "choices": [
-      "A. READING"
+      "C. READING"
     ],
-    "answer": -1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
   "g7-english-69": {
     "id": "g7-english-69",
     "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 31 to 36.\nWind is a form of solar energy. Winds are caused by the uneven heating of the atmosphere by the sun. Wind flow patterns are changed by the earth’s terrain, bodies of water, and vegetative cover. This wind flow, or motion energy, when “harvested” by modern wind turbines, can be used to generate electricity.\nWind turbines are available in a variety of sizes, and therefore power ratings. The largest machine has blades that span more than the length of a football field, stands 20-storey building high,\nand produces enough electricity to power 1,400 homes. A small home-sized wind machine has rotors between 8 and 25 feet in diameter and stands upwards of 30 feet, and can supply the power needs of an all-electric home or small business, utility scale turbines range in size from 50 to 750 kilowatts. Single small turbines, below 50 kilowatts, are used for homes, telecommunications dishes, or water pumping.\n*terrain (n): địa hình\n*vegetative (adj): thuộc thực vật\n*generate (v): phát ra\nWhat is the main idea of the reading passage?\nThe word small is OPPOSITE in meaning to  _____ .\nWhat is the reason for the existence of wind?",
+    "question": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 31 to 36.\nWind is a form of solar energy. Winds are caused by the uneven heating of the atmosphere by the sun. Wind flow patterns are changed by the earth’s terrain, bodies of water, and vegetative cover. This wind flow, or motion energy, when “harvested” by modern wind turbines, can be used to generate electricity.\nWind turbines are available in a variety of sizes, and therefore power ratings. The largest machine has blades that span more than the length of a football field, stands 20-storey building high,\nand produces enough electricity to power 1,400 homes. A small home-sized wind machine has rotors between 8 and 25 feet in diameter and stands upwards of 30 feet, and can supply the power needs of an all-electric home or small business, utility scale turbines range in size from 50 to 750 kilowatts. Single small turbines, below 50 kilowatts, are used for homes, telecommunications dishes, or water pumping.\n*terrain (n): địa hình\n*vegetative (adj): thuộc thực vật\n*generate (v): phát ra\nWhat is the main idea of the reading passage?\nThe word small is OPPOSITE in meaning to \t.\nWhat is the reason for the existence of wind?\n\natmosphere heated unevenly",
     "choices": [
-      "A. atmosphere heated unevenly",
-      "B. wind flow",
-      "C. motion energy",
-      "D. wind turbines"
+      "B. wind flow"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
   "g7-english-70": {
     "id": "g7-english-70",
     "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 31 to 36.\nWind is a form of solar energy. Winds are caused by the uneven heating of the atmosphere by the sun. Wind flow patterns are changed by the earth’s terrain, bodies of water, and vegetative cover. This wind flow, or motion energy, when “harvested” by modern wind turbines, can be used to generate electricity.\nWind turbines are available in a variety of sizes, and therefore power ratings. The largest machine has blades that span more than the length of a football field, stands 20-storey building high,\nand produces enough electricity to power 1,400 homes. A small home-sized wind machine has rotors between 8 and 25 feet in diameter and stands upwards of 30 feet, and can supply the power needs of an all-electric home or small business, utility scale turbines range in size from 50 to 750 kilowatts. Single small turbines, below 50 kilowatts, are used for homes, telecommunications dishes, or water pumping.\n*terrain (n): địa hình\n*vegetative (adj): thuộc thực vật\n*generate (v): phát ra\nWhat is the main idea of the reading passage?\nThe word small is OPPOSITE in meaning to  _____ .\nWhat is the reason for the existence of wind?\nWhich of the following is NOT mentioned as a factor affecting the wind direction?",
+    "question": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 31 to 36.\nWind is a form of solar energy. Winds are caused by the uneven heating of the atmosphere by the sun. Wind flow patterns are changed by the earth’s terrain, bodies of water, and vegetative cover. This wind flow, or motion energy, when “harvested” by modern wind turbines, can be used to generate electricity.\nWind turbines are available in a variety of sizes, and therefore power ratings. The largest machine has blades that span more than the length of a football field, stands 20-storey building high,\nand produces enough electricity to power 1,400 homes. A small home-sized wind machine has rotors between 8 and 25 feet in diameter and stands upwards of 30 feet, and can supply the power needs of an all-electric home or small business, utility scale turbines range in size from 50 to 750 kilowatts. Single small turbines, below 50 kilowatts, are used for homes, telecommunications dishes, or water pumping.\n*terrain (n): địa hình\n*vegetative (adj): thuộc thực vật\n*generate (v): phát ra\nWhat is the main idea of the reading passage?\nThe word small is OPPOSITE in meaning to \t.\nWhat is the reason for the existence of wind?\n\nCâu hỏi:",
+    "choices": [
+      "C. motion energy",
+      "D. wind turbines"
+    ],
+    "answer": 0,
+    "type": "multiple-choice"
+  },
+  "g7-english-71": {
+    "id": "g7-english-71",
+    "topicId": "g7-english",
+    "question": "Which of the following is NOT mentioned as a factor affecting the wind direction?\n\nCâu hỏi:",
     "choices": [
       "A. earth’s terrain",
       "B. bodies of water",
       "C. vegetative cover",
       "D. the Sun"
     ],
-    "answer": 3,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
-  },
-  "g7-english-71": {
-    "id": "g7-english-71",
-    "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 31 to 36.\nWind is a form of solar energy. Winds are caused by the uneven heating of the atmosphere by the sun. Wind flow patterns are changed by the earth’s terrain, bodies of water, and vegetative cover. This wind flow, or motion energy, when “harvested” by modern wind turbines, can be used to generate electricity.\nWind turbines are available in a variety of sizes, and therefore power ratings. The largest machine has blades that span more than the length of a football field, stands 20-storey building high,\nand produces enough electricity to power 1,400 homes. A small home-sized wind machine has rotors between 8 and 25 feet in diameter and stands upwards of 30 feet, and can supply the power needs of an all-electric home or small business, utility scale turbines range in size from 50 to 750 kilowatts. Single small turbines, below 50 kilowatts, are used for homes, telecommunications dishes, or water pumping.\n*terrain (n): địa hình\n*vegetative (adj): thuộc thực vật\n*generate (v): phát ra\nWhat is the main idea of the reading passage?\nThe word small is OPPOSITE in meaning to  _____ .\nWhat is the reason for the existence of wind?\nWhich of the following is NOT mentioned as a factor affecting the wind direction?\nWhat is the height of the largest wind turbines?",
-    "choices": [
-      "A. as tall as a 20-storey building",
-      "B. between 8 and 25 feet",
-      "C. 30 feet",
-      "D. 50 feet"
-    ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
   "g7-english-72": {
     "id": "g7-english-72",
     "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 31 to 36.\nWind is a form of solar energy. Winds are caused by the uneven heating of the atmosphere by the sun. Wind flow patterns are changed by the earth’s terrain, bodies of water, and vegetative cover. This wind flow, or motion energy, when “harvested” by modern wind turbines, can be used to generate electricity.\nWind turbines are available in a variety of sizes, and therefore power ratings. The largest machine has blades that span more than the length of a football field, stands 20-storey building high,\nand produces enough electricity to power 1,400 homes. A small home-sized wind machine has rotors between 8 and 25 feet in diameter and stands upwards of 30 feet, and can supply the power needs of an all-electric home or small business, utility scale turbines range in size from 50 to 750 kilowatts. Single small turbines, below 50 kilowatts, are used for homes, telecommunications dishes, or water pumping.\n*terrain (n): địa hình\n*vegetative (adj): thuộc thực vật\n*generate (v): phát ra\nWhat is the main idea of the reading passage?\nThe word small is OPPOSITE in meaning to  _____ .\nWhat is the reason for the existence of wind?\nWhich of the following is NOT mentioned as a factor affecting the wind direction?\nWhat is the height of the largest wind turbines?\nThe word variety is CLOSEST in meaning to  _____ .\nHarry Potter and the Chamber of Secrets is the second of the fantasy film series based on the same novel by J. K. Rowling. After the success of the first one, Chris Columbus is still the director of this film. Meanwhile, the main cast of the first film remains in the second one. The film tells the story about the great efforts of Harry to save his friends at Hogwarts, especially Ron’s sister Ginny, from the attacks of a basilisk. It’s a giant snake under the control of the ghostly memory of the sixteen-year-old Tom Riddle, one piece of Lord Voldemort’s soul preserved in an enchanted diary. In the end, he kills the basilisk, saves everybody and frees Dobby – a kind of house-elf. The film is a really must-see film. It also has lots of gripping images, soundtracks and visual effects.\nWhat is the passage mainly about?\nA famous director with his successful fantasy film.\nA young wizard who kills a monster in his magic school.\nA film based on the second novel of a fantasy series by J. K. Rowling.\nThe adventures of a house-elf in a wizarding world.\nThe word “giant” in the text is OPPOSITE in meaning to  _____ .",
+    "question": "What is the height of the largest wind turbines?\n\nas tall as a 20-storey building",
+    "choices": [
+      "B. between 8 and 25 feet"
+    ],
+    "answer": 0,
+    "type": "multiple-choice"
+  },
+  "g7-english-73": {
+    "id": "g7-english-73",
+    "topicId": "g7-english",
+    "question": "What is the height of the largest wind turbines?\n\nCâu hỏi:",
+    "choices": [
+      "C. 30 feet",
+      "D. 50 feet"
+    ],
+    "answer": 0,
+    "type": "multiple-choice"
+  },
+  "g7-english-74": {
+    "id": "g7-english-74",
+    "topicId": "g7-english",
+    "question": "The word “giant” in the text is OPPOSITE in meaning to \t.\n\nCâu hỏi:",
     "choices": [
       "A. huge",
       "B. tiny",
@@ -18573,18 +18163,12 @@ export const problems = {
       "D. awful"
     ],
     "answer": 1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-73": {
-    "id": "g7-english-73",
+  "g7-english-75": {
+    "id": "g7-english-75",
     "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 31 to 36.\nWind is a form of solar energy. Winds are caused by the uneven heating of the atmosphere by the sun. Wind flow patterns are changed by the earth’s terrain, bodies of water, and vegetative cover. This wind flow, or motion energy, when “harvested” by modern wind turbines, can be used to generate electricity.\nWind turbines are available in a variety of sizes, and therefore power ratings. The largest machine has blades that span more than the length of a football field, stands 20-storey building high,\nand produces enough electricity to power 1,400 homes. A small home-sized wind machine has rotors between 8 and 25 feet in diameter and stands upwards of 30 feet, and can supply the power needs of an all-electric home or small business, utility scale turbines range in size from 50 to 750 kilowatts. Single small turbines, below 50 kilowatts, are used for homes, telecommunications dishes, or water pumping.\n*terrain (n): địa hình\n*vegetative (adj): thuộc thực vật\n*generate (v): phát ra\nWhat is the main idea of the reading passage?\nThe word small is OPPOSITE in meaning to  _____ .\nWhat is the reason for the existence of wind?\nWhich of the following is NOT mentioned as a factor affecting the wind direction?\nWhat is the height of the largest wind turbines?\nThe word variety is CLOSEST in meaning to  _____ .\nHarry Potter and the Chamber of Secrets is the second of the fantasy film series based on the same novel by J. K. Rowling. After the success of the first one, Chris Columbus is still the director of this film. Meanwhile, the main cast of the first film remains in the second one. The film tells the story about the great efforts of Harry to save his friends at Hogwarts, especially Ron’s sister Ginny, from the attacks of a basilisk. It’s a giant snake under the control of the ghostly memory of the sixteen-year-old Tom Riddle, one piece of Lord Voldemort’s soul preserved in an enchanted diary. In the end, he kills the basilisk, saves everybody and frees Dobby – a kind of house-elf. The film is a really must-see film. It also has lots of gripping images, soundtracks and visual effects.\nWhat is the passage mainly about?\nA famous director with his successful fantasy film.\nA young wizard who kills a monster in his magic school.\nA film based on the second novel of a fantasy series by J. K. Rowling.\nThe adventures of a house-elf in a wizarding world.\nThe word “giant” in the text is OPPOSITE in meaning to  _____ .\nThe word \"gripping\" in the text is CLOSEST in meaning to  _____ .",
+    "question": "The word \"gripping\" in the text is CLOSEST in meaning to \t.\n\nCâu hỏi:",
     "choices": [
       "A. moving",
       "B. frightening",
@@ -18592,18 +18176,12 @@ export const problems = {
       "D. exciting"
     ],
     "answer": 3,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-74": {
-    "id": "g7-english-74",
+  "g7-english-76": {
+    "id": "g7-english-76",
     "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 31 to 36.\nWind is a form of solar energy. Winds are caused by the uneven heating of the atmosphere by the sun. Wind flow patterns are changed by the earth’s terrain, bodies of water, and vegetative cover. This wind flow, or motion energy, when “harvested” by modern wind turbines, can be used to generate electricity.\nWind turbines are available in a variety of sizes, and therefore power ratings. The largest machine has blades that span more than the length of a football field, stands 20-storey building high,\nand produces enough electricity to power 1,400 homes. A small home-sized wind machine has rotors between 8 and 25 feet in diameter and stands upwards of 30 feet, and can supply the power needs of an all-electric home or small business, utility scale turbines range in size from 50 to 750 kilowatts. Single small turbines, below 50 kilowatts, are used for homes, telecommunications dishes, or water pumping.\n*terrain (n): địa hình\n*vegetative (adj): thuộc thực vật\n*generate (v): phát ra\nWhat is the main idea of the reading passage?\nThe word small is OPPOSITE in meaning to  _____ .\nWhat is the reason for the existence of wind?\nWhich of the following is NOT mentioned as a factor affecting the wind direction?\nWhat is the height of the largest wind turbines?\nThe word variety is CLOSEST in meaning to  _____ .\nHarry Potter and the Chamber of Secrets is the second of the fantasy film series based on the same novel by J. K. Rowling. After the success of the first one, Chris Columbus is still the director of this film. Meanwhile, the main cast of the first film remains in the second one. The film tells the story about the great efforts of Harry to save his friends at Hogwarts, especially Ron’s sister Ginny, from the attacks of a basilisk. It’s a giant snake under the control of the ghostly memory of the sixteen-year-old Tom Riddle, one piece of Lord Voldemort’s soul preserved in an enchanted diary. In the end, he kills the basilisk, saves everybody and frees Dobby – a kind of house-elf. The film is a really must-see film. It also has lots of gripping images, soundtracks and visual effects.\nWhat is the passage mainly about?\nA famous director with his successful fantasy film.\nA young wizard who kills a monster in his magic school.\nA film based on the second novel of a fantasy series by J. K. Rowling.\nThe adventures of a house-elf in a wizarding world.\nThe word “giant” in the text is OPPOSITE in meaning to  _____ .\nThe word \"gripping\" in the text is CLOSEST in meaning to  _____ .\nWhich of the following statements about Harry is TRUE?\nHe fights against a cruel house-elf of Lord Voldemort.\nHe kills a giant spider at the end of the film.\nHe saves Ron’s sister from a basilisk.\nHe becomes friends with Tom Riddle.\nWhat does the word \"It\" in the last sentence refer to?",
+    "question": "What does the word \"It\" in the last sentence refer to?\n\nCâu hỏi:",
     "choices": [
       "A. The film.",
       "B. The kind house-elf.",
@@ -18611,18 +18189,12 @@ export const problems = {
       "D. The diary."
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-75": {
-    "id": "g7-english-75",
+  "g7-english-77": {
+    "id": "g7-english-77",
     "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 31 to 36.\nWind is a form of solar energy. Winds are caused by the uneven heating of the atmosphere by the sun. Wind flow patterns are changed by the earth’s terrain, bodies of water, and vegetative cover. This wind flow, or motion energy, when “harvested” by modern wind turbines, can be used to generate electricity.\nWind turbines are available in a variety of sizes, and therefore power ratings. The largest machine has blades that span more than the length of a football field, stands 20-storey building high,\nand produces enough electricity to power 1,400 homes. A small home-sized wind machine has rotors between 8 and 25 feet in diameter and stands upwards of 30 feet, and can supply the power needs of an all-electric home or small business, utility scale turbines range in size from 50 to 750 kilowatts. Single small turbines, below 50 kilowatts, are used for homes, telecommunications dishes, or water pumping.\n*terrain (n): địa hình\n*vegetative (adj): thuộc thực vật\n*generate (v): phát ra\nWhat is the main idea of the reading passage?\nThe word small is OPPOSITE in meaning to  _____ .\nWhat is the reason for the existence of wind?\nWhich of the following is NOT mentioned as a factor affecting the wind direction?\nWhat is the height of the largest wind turbines?\nThe word variety is CLOSEST in meaning to  _____ .\nHarry Potter and the Chamber of Secrets is the second of the fantasy film series based on the same novel by J. K. Rowling. After the success of the first one, Chris Columbus is still the director of this film. Meanwhile, the main cast of the first film remains in the second one. The film tells the story about the great efforts of Harry to save his friends at Hogwarts, especially Ron’s sister Ginny, from the attacks of a basilisk. It’s a giant snake under the control of the ghostly memory of the sixteen-year-old Tom Riddle, one piece of Lord Voldemort’s soul preserved in an enchanted diary. In the end, he kills the basilisk, saves everybody and frees Dobby – a kind of house-elf. The film is a really must-see film. It also has lots of gripping images, soundtracks and visual effects.\nWhat is the passage mainly about?\nA famous director with his successful fantasy film.\nA young wizard who kills a monster in his magic school.\nA film based on the second novel of a fantasy series by J. K. Rowling.\nThe adventures of a house-elf in a wizarding world.\nThe word “giant” in the text is OPPOSITE in meaning to  _____ .\nThe word \"gripping\" in the text is CLOSEST in meaning to  _____ .\nWhich of the following statements about Harry is TRUE?\nHe fights against a cruel house-elf of Lord Voldemort.\nHe kills a giant spider at the end of the film.\nHe saves Ron’s sister from a basilisk.\nHe becomes friends with Tom Riddle.\nWhat does the word \"It\" in the last sentence refer to?\nHow are the visual effects of the film?",
+    "question": "How are the visual effects of the film?\n\nCâu hỏi:",
     "choices": [
       "A. Extremely interesting.",
       "B. Rather boring.",
@@ -18630,456 +18202,318 @@ export const problems = {
       "D. Pretty outdated."
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
-  },
-  "g7-english-76": {
-    "id": "g7-english-76",
-    "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 31 to 36.\nWind is a form of solar energy. Winds are caused by the uneven heating of the atmosphere by the sun. Wind flow patterns are changed by the earth’s terrain, bodies of water, and vegetative cover. This wind flow, or motion energy, when “harvested” by modern wind turbines, can be used to generate electricity.\nWind turbines are available in a variety of sizes, and therefore power ratings. The largest machine has blades that span more than the length of a football field, stands 20-storey building high,\nand produces enough electricity to power 1,400 homes. A small home-sized wind machine has rotors between 8 and 25 feet in diameter and stands upwards of 30 feet, and can supply the power needs of an all-electric home or small business, utility scale turbines range in size from 50 to 750 kilowatts. Single small turbines, below 50 kilowatts, are used for homes, telecommunications dishes, or water pumping.\n*terrain (n): địa hình\n*vegetative (adj): thuộc thực vật\n*generate (v): phát ra\nWhat is the main idea of the reading passage?\nThe word small is OPPOSITE in meaning to  _____ .\nWhat is the reason for the existence of wind?\nWhich of the following is NOT mentioned as a factor affecting the wind direction?\nWhat is the height of the largest wind turbines?\nThe word variety is CLOSEST in meaning to  _____ .\nHarry Potter and the Chamber of Secrets is the second of the fantasy film series based on the same novel by J. K. Rowling. After the success of the first one, Chris Columbus is still the director of this film. Meanwhile, the main cast of the first film remains in the second one. The film tells the story about the great efforts of Harry to save his friends at Hogwarts, especially Ron’s sister Ginny, from the attacks of a basilisk. It’s a giant snake under the control of the ghostly memory of the sixteen-year-old Tom Riddle, one piece of Lord Voldemort’s soul preserved in an enchanted diary. In the end, he kills the basilisk, saves everybody and frees Dobby – a kind of house-elf. The film is a really must-see film. It also has lots of gripping images, soundtracks and visual effects.\nWhat is the passage mainly about?\nA famous director with his successful fantasy film.\nA young wizard who kills a monster in his magic school.\nA film based on the second novel of a fantasy series by J. K. Rowling.\nThe adventures of a house-elf in a wizarding world.\nThe word “giant” in the text is OPPOSITE in meaning to  _____ .\nThe word \"gripping\" in the text is CLOSEST in meaning to  _____ .\nWhich of the following statements about Harry is TRUE?\nHe fights against a cruel house-elf of Lord Voldemort.\nHe kills a giant spider at the end of the film.\nHe saves Ron’s sister from a basilisk.\nHe becomes friends with Tom Riddle.\nWhat does the word \"It\" in the last sentence refer to?\nHow are the visual effects of the film?\nRewrite the sentence using suggestions in the bracket\nAlthough she hated him at first, she fell in love with him in the end.(Rewrite the sentence, using\nHowever)\nShe ......................................................................................................................\nSamuel likes the UK, but he decided to study in the USA.(Rewrite the sentence, using Although)\nAlthough ............................................................................................................\nWhy don't we tell everybody to save clean water and electricity?(Rewrite the sentence, using\nshould)\nWe should .........................................................................................................\nThis is her new car. (Rewrite the sentence, using hers)\nThis new car .......................................................................................................\nWhich is your notebook? (Rewrite the sentence, using yours)\nWhich notebook .................................................................................................\nComplete the sentences\nNew Zealand / magical place / amazing natural beauty / friendly people. (Sentence building)\n...............................................................................................................................\nPeople / all over the world / visit / British Museum (Sentence building)\n...............................................................................................................................\nWe / use / solar-powered buses / in ten years\n...............................................................................................................................\nEvery country/ should do/ something/ control/ population.\n=>\nI/ enjoy/ watch/ film/ made/famous/ Hollywood film producers.\n=>",
-    "choices": [
-      "A. WRITING"
-    ],
-    "answer": -1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
-  },
-  "g7-english-77": {
-    "id": "g7-english-77",
-    "topicId": "g7-english",
-    "question": "VERBFORM AND WORDFORM\nGive the correct form of the verbs\nMai (read)  _____  about renewable energy, and Nam (do)  _____ a project on our local environment at the moment.\nLast night, the music (get)  _____ louder and louder. Many people (put)  _____ their hands over their ears.\nHer mother (not have)  _____  a nap now. She (water)  _____ the plants.\nMy father (install)  _____ a biogas cooker in the kitchen tomorrow, and the workers (put)\nsolar panels on the roof of our house.\nComplete each of the following sentences using the cues given. You can change the cues and use other words in addition to the cues to complete the sentences.\nhas become a hot trend in this city nowadays. (CYCLE)\nThis type of transport is powered by  _____ motors. (ELECTRICITY)\nThese types of energy do not cause pollution or waste  _____ resources. (NATURE)\nThere are some other activities such as  _____ shows, buffalo races and traditional games. (CULTURE)\nThe film was so interesting that Peter saw it from  _____ to the end. (BEGIN)\nUsing public transport can reduce  _____ . (POLLUTE)",
-    "choices": [],
-    "answer": -1,
-    "type": "essay",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
   "g7-english-78": {
     "id": "g7-english-78",
     "topicId": "g7-english",
-    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions.",
+    "question": "How are the visual effects of the film?\n\nCâu hỏi:",
     "choices": [
-      "A. Question 1.",
-      "B. gate",
-      "C. translation",
-      "D. nation"
+      "D. WRITING"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
   "g7-english-79": {
     "id": "g7-english-79",
     "topicId": "g7-english",
-    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions.",
+    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions.\n\nQuestion 1.",
     "choices": [
-      "A. Question 2.",
-      "B. site",
-      "C. twice",
-      "D. side"
+      "A. gate",
+      "B. translation",
+      "C. nation",
+      "D. paint"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
   "g7-english-80": {
     "id": "g7-english-80",
     "topicId": "g7-english",
-    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the word that differs from the other three in the position of primary stress in each of the following questions.",
+    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions.\n\nQuestion 2.",
     "choices": [
-      "A. Question 3.",
-      "B. respect",
-      "C. safety",
-      "D. pavement"
+      "A. site",
+      "B. twice",
+      "C. side",
+      "D. thin"
     ],
-    "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 3,
+    "type": "multiple-choice"
   },
   "g7-english-81": {
     "id": "g7-english-81",
     "topicId": "g7-english",
-    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the word that differs from the other three in the position of primary stress in each of the following questions.",
+    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the word that differs from the other three in the position of primary stress in each of the following questions.\n\nQuestion 3.",
     "choices": [
-      "A. Question 4.",
-      "B. illegal",
-      "C. prohibitive",
-      "D. noisy"
+      "A. respect",
+      "B. safety",
+      "C. pavement",
+      "D. traffic"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
   "g7-english-82": {
     "id": "g7-english-82",
     "topicId": "g7-english",
-    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.",
+    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the word that differs from the other three in the position of primary stress in each of the following questions.\n\nQuestion 4.",
     "choices": [
-      "A. Question 5. \the is a CEO and earns a lot of money, he is very mean.",
-      "B. Because",
-      "C. Although",
-      "D. Despite"
+      "A. illegal",
+      "B. prohibitive",
+      "C. noisy",
+      "D. polluted"
     ],
     "answer": 2,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
   "g7-english-83": {
     "id": "g7-english-83",
     "topicId": "g7-english",
-    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.",
+    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\n\nQuestion 5. he is a CEO and earns a lot of money, he is very mean. A.Because",
     "choices": [
-      "A. Horror film",
-      "B. sci-fi",
-      "C. comedy",
-      "D. documentary Question 7. The film was so \t\t. However, my father saw it from beginning to end."
+      "B. Although",
+      "C. Despite",
+      "D. Because of"
     ],
-    "answer": 6,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
   "g7-english-84": {
     "id": "g7-english-84",
     "topicId": "g7-english",
-    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.",
+    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\n\nQuestion 7. The film was so \t\t. However, my father saw it from beginning to end. A.Interesting",
     "choices": [
-      "A. Question 8. \thaving a broken leg, she took part in the competition.",
-      "B. However",
-      "C. Although",
-      "D. In spite of"
+      "B. exciting",
+      "C. boring",
+      "D. fascinating"
     ],
-    "answer": 3,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 1,
+    "type": "multiple-choice"
   },
   "g7-english-85": {
     "id": "g7-english-85",
     "topicId": "g7-english",
-    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.",
+    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\n\nQuestion 8. having a broken leg, she took part in the competition. A.However",
     "choices": [
-      "A. Despite",
-      "B. However",
-      "C. But",
-      "D. Because Question 10. Adam: “How about going to the cinema tonight?” – Linda: “\t”"
+      "B. Although",
+      "C. In spite of",
+      "D. Because"
     ],
-    "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 1,
+    "type": "multiple-choice"
   },
   "g7-english-86": {
     "id": "g7-english-86",
     "topicId": "g7-english",
-    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.",
+    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\n\nQuestion 10. Adam: “How about going to the cinema tonight?” – Linda: “\t” A.That’s a great idea. I’d love to.",
     "choices": [
-      "A. It’s a must-see film. You should watch it",
-      "B. The cinema is quite big."
+      "C. That’s an interesting film. I like it"
     ],
-    "answer": -1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
   "g7-english-87": {
     "id": "g7-english-87",
     "topicId": "g7-english",
-    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\nQuestion 11. This film made a strong impression  _____ me.",
+    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\n\nCâu hỏi:",
     "choices": [
-      "A. On",
-      "B. in",
-      "C. to",
-      "D. at Question 12. Peter wants to \tthe BEST ACTOR PRIZE this year."
+      "B. It’s a must-see film. You should watch it",
+      "D. The cinema is quite big."
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
   "g7-english-88": {
     "id": "g7-english-88",
     "topicId": "g7-english",
-    "question": "Read the following announcement and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 13 to 16.",
+    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\n\nQuestion 12. Peter wants to \tthe BEST ACTOR PRIZE this year. A.Act",
     "choices": [
-      "A. Question 13.",
-      "B. thrilled",
-      "C. thrilling",
-      "D. thrill"
+      "B. direct",
+      "C. perform",
+      "D. win"
     ],
-    "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 2,
+    "type": "multiple-choice"
   },
   "g7-english-89": {
     "id": "g7-english-89",
     "topicId": "g7-english",
-    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions 17.\nMy family joined the spring flower festival last weekend. We were excited to see the beautiful flowers, but  .\nThe festival was more crowded than we expected.\nIt was difficult to find a parking spot.\nWe finally got to see the flowers and enjoyed taking pictures.",
+    "question": "Read the following announcement and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 13 to 16.\n\nQuestion 13.",
     "choices": [
-      "A. b-a-c",
-      "B. a-b-c",
-      "C. c-b-a",
-      "D. b-c-a"
+      "A. thrilled",
+      "B. thrilling",
+      "C. thrill",
+      "D. thrilly"
     ],
-    "answer": 1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 2,
+    "type": "multiple-choice"
   },
   "g7-english-90": {
     "id": "g7-english-90",
     "topicId": "g7-english",
-    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions 17.\nQuestion 18. Choose the sentence that can end the text in question 17.\nWe had to leave early because it became too crowded.\nIn the end, we had a wonderful day despite the challenges\nThe flowers were not as beautiful as we expected\nWe decided not to go to the festival after all.",
-    "choices": [],
-    "answer": -1,
-    "type": "essay",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "question": "Read the following announcement and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 13 to 16.\n\nQuestion 14.",
+    "choices": [
+      "A. hold",
+      "B. take in",
+      "C. take place",
+      "D. bring"
+    ],
+    "answer": 2,
+    "type": "multiple-choice"
   },
   "g7-english-91": {
     "id": "g7-english-91",
     "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 19 to 24.\nMost of our energy comes from fossil fuels (19)    , coal, oil, and natural gas. Although the supplies of these energy sources are plentiful, they are limited. The (20)    of coal and oil is also having very harmful impacts (21)     the environment. However, fossil fuels are not the only source of energy and burning fuel is not the only way to produce heat and motion. Renewable energy offers us a better way.\nSome energy sources are renewable because they are naturally available (22)    last forever. Some sources have enormous supply so human can never use them up. Moreover, renewable energy sources have much smaller impacts on the environment than fossil and nuclear fuels. (23)     include solar energy, which comes from the sun and can be converted into electricity and heat. Wind, geothermal energy from inside the earth, biomass from plants, and hydropower from 1 water are (24)     renewable sources of energy.",
+    "question": "Read the following announcement and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 13 to 16.\n\nQuestion 15.",
     "choices": [
-      "A. Question 19.",
-      "B. include",
-      "C. such as",
-      "D. unlike"
+      "A. delicious",
+      "B. delightful",
+      "C. fine",
+      "D. good"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
   "g7-english-92": {
     "id": "g7-english-92",
     "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 19 to 24.\nMost of our energy comes from fossil fuels (19)    , coal, oil, and natural gas. Although the supplies of these energy sources are plentiful, they are limited. The (20)    of coal and oil is also having very harmful impacts (21)     the environment. However, fossil fuels are not the only source of energy and burning fuel is not the only way to produce heat and motion. Renewable energy offers us a better way.\nSome energy sources are renewable because they are naturally available (22)    last forever. Some sources have enormous supply so human can never use them up. Moreover, renewable energy sources have much smaller impacts on the environment than fossil and nuclear fuels. (23)     include solar energy, which comes from the sun and can be converted into electricity and heat. Wind, geothermal energy from inside the earth, biomass from plants, and hydropower from 1 water are (24)     renewable sources of energy.",
+    "question": "Read the following announcement and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 13 to 16.\n\nQuestion 16.",
     "choices": [
-      "A. Question 22.",
-      "B. so",
-      "C. but",
-      "D. for"
+      "A. in",
+      "B. on",
+      "C. from",
+      "D. at"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
   "g7-english-93": {
     "id": "g7-english-93",
     "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 19 to 24.\nMost of our energy comes from fossil fuels (19)    , coal, oil, and natural gas. Although the supplies of these energy sources are plentiful, they are limited. The (20)    of coal and oil is also having very harmful impacts (21)     the environment. However, fossil fuels are not the only source of energy and burning fuel is not the only way to produce heat and motion. Renewable energy offers us a better way.\nSome energy sources are renewable because they are naturally available (22)    last forever. Some sources have enormous supply so human can never use them up. Moreover, renewable energy sources have much smaller impacts on the environment than fossil and nuclear fuels. (23)     include solar energy, which comes from the sun and can be converted into electricity and heat. Wind, geothermal energy from inside the earth, biomass from plants, and hydropower from 1 water are (24)     renewable sources of energy.",
+    "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions 17.\nMy family joined the spring flower festival last weekend. We were excited to see the beautiful flowers, but  .\nThe festival was more crowded than we expected.\nIt was difficult to find a parking spot.\nWe finally got to see the flowers and enjoyed taking pictures.\n\nb-a-c",
     "choices": [
-      "A. Question 23.",
-      "B. It",
-      "C. There",
-      "D. That"
+      "B. a-b-c",
+      "C. c-b-a",
+      "D. b-c-a"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
   "g7-english-94": {
     "id": "g7-english-94",
     "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 19 to 24.\nMost of our energy comes from fossil fuels (19)    , coal, oil, and natural gas. Although the supplies of these energy sources are plentiful, they are limited. The (20)    of coal and oil is also having very harmful impacts (21)     the environment. However, fossil fuels are not the only source of energy and burning fuel is not the only way to produce heat and motion. Renewable energy offers us a better way.\nSome energy sources are renewable because they are naturally available (22)    last forever. Some sources have enormous supply so human can never use them up. Moreover, renewable energy sources have much smaller impacts on the environment than fossil and nuclear fuels. (23)     include solar energy, which comes from the sun and can be converted into electricity and heat. Wind, geothermal energy from inside the earth, biomass from plants, and hydropower from 1 water are (24)     renewable sources of energy.",
+    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 19 to 24.\nMost of our energy comes from fossil fuels (19)    , coal, oil, and natural gas. Although the supplies of these energy sources are plentiful, they are limited. The (20)    of coal and oil is also having very harmful impacts (21)     the environment. However, fossil fuels are not the only source of energy and burning fuel is not the only way to produce heat and motion. Renewable energy offers us a better way.\nSome energy sources are renewable because they are naturally available (22)    last forever. Some sources have enormous supply so human can never use them up. Moreover, renewable energy sources have much smaller impacts on the environment than fossil and nuclear fuels. (23)     include solar energy, which comes from the sun and can be converted into electricity and heat. Wind, geothermal energy from inside the earth, biomass from plants, and hydropower from 1 water are (24)     renewable sources of energy.\n\nQuestion 19.",
     "choices": [
-      "A. Question 24.",
-      "B. also",
-      "C. only",
-      "D. last"
+      "A. include",
+      "B. such as",
+      "C. unlike",
+      "D. is"
     ],
-    "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 1,
+    "type": "multiple-choice"
   },
   "g7-english-95": {
     "id": "g7-english-95",
     "topicId": "g7-english",
-    "question": "Read the following sign or notice and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\nQuestion 25. What does the notice say?",
-    "choices": [],
-    "answer": -1,
-    "type": "essay",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 19 to 24.\nMost of our energy comes from fossil fuels (19)    , coal, oil, and natural gas. Although the supplies of these energy sources are plentiful, they are limited. The (20)    of coal and oil is also having very harmful impacts (21)     the environment. However, fossil fuels are not the only source of energy and burning fuel is not the only way to produce heat and motion. Renewable energy offers us a better way.\nSome energy sources are renewable because they are naturally available (22)    last forever. Some sources have enormous supply so human can never use them up. Moreover, renewable energy sources have much smaller impacts on the environment than fossil and nuclear fuels. (23)     include solar energy, which comes from the sun and can be converted into electricity and heat. Wind, geothermal energy from inside the earth, biomass from plants, and hydropower from 1 water are (24)     renewable sources of energy.\n\nQuestion 20.",
+    "choices": [
+      "A. burn",
+      "B. to burn",
+      "C. burns",
+      "D. burning"
+    ],
+    "answer": 3,
+    "type": "multiple-choice"
   },
   "g7-english-96": {
     "id": "g7-english-96",
     "topicId": "g7-english",
-    "question": "Read the following sign or notice and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\nQuestion 26. What does the sign say?\nNo pedestrian traffic.\nNo playing in the street.\nNo passing allowed.\nNo parking allowed.",
-    "choices": [],
-    "answer": -1,
-    "type": "essay",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 19 to 24.\nMost of our energy comes from fossil fuels (19)    , coal, oil, and natural gas. Although the supplies of these energy sources are plentiful, they are limited. The (20)    of coal and oil is also having very harmful impacts (21)     the environment. However, fossil fuels are not the only source of energy and burning fuel is not the only way to produce heat and motion. Renewable energy offers us a better way.\nSome energy sources are renewable because they are naturally available (22)    last forever. Some sources have enormous supply so human can never use them up. Moreover, renewable energy sources have much smaller impacts on the environment than fossil and nuclear fuels. (23)     include solar energy, which comes from the sun and can be converted into electricity and heat. Wind, geothermal energy from inside the earth, biomass from plants, and hydropower from 1 water are (24)     renewable sources of energy.\n\nQuestion 21.",
+    "choices": [
+      "A. at",
+      "B. of",
+      "C. on",
+      "D. in"
+    ],
+    "answer": 3,
+    "type": "multiple-choice"
   },
   "g7-english-97": {
     "id": "g7-english-97",
     "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\nTwenty years ago, you needed to bring along air tickets, vouchers, travel cheques, and a heavy carry-on bag with Walkman, CDs, travel journal and etc. The load is so much lighter now since most stuff can be stored in our tablets or smartphones. Technology is amazing isn't it?\nAirport security was a brief back then. They used metal cutleries and gave all passengers bags of toiletries to keep them comfortable during the flight. Now, there are many limitations on things that we can and cannot bring on board. Thanks to \"Everyone can fly\" tagline, airlines had to reduce their services to stay afloat. So more people can fly and travel now.\nTwo decades ago, if you wish to call home, you can only do it at an International Telecommunications Exchange and dial you home number with no guarantee that it will get through. These days, all we need to stop by upon arrival is a local SIM card available as you walk out of the departure hall. The Internet makes it easy for you to Skype, Facetime your family just to inform them that you have arrived safely.\nQuestion 27. What is the main idea of the passage?\nTravelling in the past\nTravelling now\nTravelling in the past and now\nTravelling tomorrow.",
-    "choices": [],
-    "answer": -1,
-    "type": "essay",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 19 to 24.\nMost of our energy comes from fossil fuels (19)    , coal, oil, and natural gas. Although the supplies of these energy sources are plentiful, they are limited. The (20)    of coal and oil is also having very harmful impacts (21)     the environment. However, fossil fuels are not the only source of energy and burning fuel is not the only way to produce heat and motion. Renewable energy offers us a better way.\nSome energy sources are renewable because they are naturally available (22)    last forever. Some sources have enormous supply so human can never use them up. Moreover, renewable energy sources have much smaller impacts on the environment than fossil and nuclear fuels. (23)     include solar energy, which comes from the sun and can be converted into electricity and heat. Wind, geothermal energy from inside the earth, biomass from plants, and hydropower from 1 water are (24)     renewable sources of energy.\n\nQuestion 22.",
+    "choices": [
+      "A. so",
+      "B. but",
+      "C. for",
+      "D. and"
+    ],
+    "answer": 3,
+    "type": "multiple-choice"
   },
   "g7-english-98": {
     "id": "g7-english-98",
     "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\nTwenty years ago, you needed to bring along air tickets, vouchers, travel cheques, and a heavy carry-on bag with Walkman, CDs, travel journal and etc. The load is so much lighter now since most stuff can be stored in our tablets or smartphones. Technology is amazing isn't it?\nAirport security was a brief back then. They used metal cutleries and gave all passengers bags of toiletries to keep them comfortable during the flight. Now, there are many limitations on things that we can and cannot bring on board. Thanks to \"Everyone can fly\" tagline, airlines had to reduce their services to stay afloat. So more people can fly and travel now.\nTwo decades ago, if you wish to call home, you can only do it at an International Telecommunications Exchange and dial you home number with no guarantee that it will get through. These days, all we need to stop by upon arrival is a local SIM card available as you walk out of the departure hall. The Internet makes it easy for you to Skype, Facetime your family just to inform them that you have arrived safely.\nQuestion 28. What is one important thing to bring along in your trip now?",
+    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 19 to 24.\nMost of our energy comes from fossil fuels (19)    , coal, oil, and natural gas. Although the supplies of these energy sources are plentiful, they are limited. The (20)    of coal and oil is also having very harmful impacts (21)     the environment. However, fossil fuels are not the only source of energy and burning fuel is not the only way to produce heat and motion. Renewable energy offers us a better way.\nSome energy sources are renewable because they are naturally available (22)    last forever. Some sources have enormous supply so human can never use them up. Moreover, renewable energy sources have much smaller impacts on the environment than fossil and nuclear fuels. (23)     include solar energy, which comes from the sun and can be converted into electricity and heat. Wind, geothermal energy from inside the earth, biomass from plants, and hydropower from 1 water are (24)     renewable sources of energy.\n\nQuestion 23.",
+    "choices": [
+      "A. It",
+      "B. There",
+      "C. That",
+      "D. They"
+    ],
+    "answer": 3,
+    "type": "multiple-choice"
+  },
+  "g7-english-99": {
+    "id": "g7-english-99",
+    "topicId": "g7-english",
+    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 19 to 24.\nMost of our energy comes from fossil fuels (19)    , coal, oil, and natural gas. Although the supplies of these energy sources are plentiful, they are limited. The (20)    of coal and oil is also having very harmful impacts (21)     the environment. However, fossil fuels are not the only source of energy and burning fuel is not the only way to produce heat and motion. Renewable energy offers us a better way.\nSome energy sources are renewable because they are naturally available (22)    last forever. Some sources have enormous supply so human can never use them up. Moreover, renewable energy sources have much smaller impacts on the environment than fossil and nuclear fuels. (23)     include solar energy, which comes from the sun and can be converted into electricity and heat. Wind, geothermal energy from inside the earth, biomass from plants, and hydropower from 1 water are (24)     renewable sources of energy.\n\nQuestion 24.",
+    "choices": [
+      "A. also",
+      "B. only",
+      "C. last",
+      "D. then"
+    ],
+    "answer": 0,
+    "type": "multiple-choice"
+  },
+  "g7-english-100": {
+    "id": "g7-english-100",
+    "topicId": "g7-english",
+    "question": "Travelling tomorrow.\n\nCâu hỏi:",
     "choices": [
       "A. Travel cheques",
       "B. your smartphone",
       "C. Travel journal",
       "D. Travel car"
     ],
-    "answer": 1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
-  },
-  "g7-english-99": {
-    "id": "g7-english-99",
-    "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\nTwenty years ago, you needed to bring along air tickets, vouchers, travel cheques, and a heavy carry-on bag with Walkman, CDs, travel journal and etc. The load is so much lighter now since most stuff can be stored in our tablets or smartphones. Technology is amazing isn't it?\nAirport security was a brief back then. They used metal cutleries and gave all passengers bags of toiletries to keep them comfortable during the flight. Now, there are many limitations on things that we can and cannot bring on board. Thanks to \"Everyone can fly\" tagline, airlines had to reduce their services to stay afloat. So more people can fly and travel now.\nTwo decades ago, if you wish to call home, you can only do it at an International Telecommunications Exchange and dial you home number with no guarantee that it will get through. These days, all we need to stop by upon arrival is a local SIM card available as you walk out of the departure hall. The Internet makes it easy for you to Skype, Facetime your family just to inform them that you have arrived safely.\nQuestion 29. The number of travelers is  _____ .",
-    "choices": [
-      "A. lower now than in the past",
-      "B. high now than in the past"
-    ],
-    "answer": -1,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
-  },
-  "g7-english-100": {
-    "id": "g7-english-100",
-    "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\nTwenty years ago, you needed to bring along air tickets, vouchers, travel cheques, and a heavy carry-on bag with Walkman, CDs, travel journal and etc. The load is so much lighter now since most stuff can be stored in our tablets or smartphones. Technology is amazing isn't it?\nAirport security was a brief back then. They used metal cutleries and gave all passengers bags of toiletries to keep them comfortable during the flight. Now, there are many limitations on things that we can and cannot bring on board. Thanks to \"Everyone can fly\" tagline, airlines had to reduce their services to stay afloat. So more people can fly and travel now.\nTwo decades ago, if you wish to call home, you can only do it at an International Telecommunications Exchange and dial you home number with no guarantee that it will get through. These days, all we need to stop by upon arrival is a local SIM card available as you walk out of the departure hall. The Internet makes it easy for you to Skype, Facetime your family just to inform them that you have arrived safely.\nQuestion 30. Which of the following statement is NOT TRUE according to the passage?\nThe load that needs bringing is now lighter than in the past.\nMetal cutleries are used to keep comfortable.\nIn these days, you still only make a call to home at International Telecommunications Exchange.\nSkype and Facetime are useful for keeping contact with your family.",
-    "choices": [],
-    "answer": -1,
-    "type": "essay",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "answer": 0,
+    "type": "multiple-choice"
   },
   "g7-english-101": {
     "id": "g7-english-101",
     "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\nTwenty years ago, you needed to bring along air tickets, vouchers, travel cheques, and a heavy carry-on bag with Walkman, CDs, travel journal and etc. The load is so much lighter now since most stuff can be stored in our tablets or smartphones. Technology is amazing isn't it?\nAirport security was a brief back then. They used metal cutleries and gave all passengers bags of toiletries to keep them comfortable during the flight. Now, there are many limitations on things that we can and cannot bring on board. Thanks to \"Everyone can fly\" tagline, airlines had to reduce their services to stay afloat. So more people can fly and travel now.\nTwo decades ago, if you wish to call home, you can only do it at an International Telecommunications Exchange and dial you home number with no guarantee that it will get through. These days, all we need to stop by upon arrival is a local SIM card available as you walk out of the departure hall. The Internet makes it easy for you to Skype, Facetime your family just to inform them that you have arrived safely.\nQuestion 31. The word “stuff” is CLOSEST in meaning to  _____ .",
+    "question": "Travelling tomorrow.\n\nthe same as in the past",
+    "choices": [
+      "C. lower now than in the past"
+    ],
+    "answer": 0,
+    "type": "multiple-choice"
+  },
+  "g7-english-102": {
+    "id": "g7-english-102",
+    "topicId": "g7-english",
+    "question": "Travelling tomorrow.\n\nhigher now than in the past",
+    "choices": [
+      "D. high now than in the past"
+    ],
+    "answer": 0,
+    "type": "multiple-choice"
+  },
+  "g7-english-103": {
+    "id": "g7-english-103",
+    "topicId": "g7-english",
+    "question": "Skype and Facetime are useful for keeping contact with your family.\n\nCâu hỏi:",
     "choices": [
       "A. Object",
       "B. airlines",
@@ -19087,18 +18521,12 @@ export const problems = {
       "D. store"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   },
-  "g7-english-102": {
-    "id": "g7-english-102",
+  "g7-english-104": {
+    "id": "g7-english-104",
     "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\nTwenty years ago, you needed to bring along air tickets, vouchers, travel cheques, and a heavy carry-on bag with Walkman, CDs, travel journal and etc. The load is so much lighter now since most stuff can be stored in our tablets or smartphones. Technology is amazing isn't it?\nAirport security was a brief back then. They used metal cutleries and gave all passengers bags of toiletries to keep them comfortable during the flight. Now, there are many limitations on things that we can and cannot bring on board. Thanks to \"Everyone can fly\" tagline, airlines had to reduce their services to stay afloat. So more people can fly and travel now.\nTwo decades ago, if you wish to call home, you can only do it at an International Telecommunications Exchange and dial you home number with no guarantee that it will get through. These days, all we need to stop by upon arrival is a local SIM card available as you walk out of the departure hall. The Internet makes it easy for you to Skype, Facetime your family just to inform them that you have arrived safely.\nQuestion 32. The word “available” is OPPOSITE in meaning to  _____ .",
+    "question": "Skype and Facetime are useful for keeping contact with your family.\n\nCâu hỏi:",
     "choices": [
       "A. Rare",
       "B. abundant",
@@ -19106,2496 +18534,6 @@ export const problems = {
       "D. easy"
     ],
     "answer": 0,
-    "type": "multiple-choice",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
-  },
-  "g7-english-103": {
-    "id": "g7-english-103",
-    "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\nTwenty years ago, you needed to bring along air tickets, vouchers, travel cheques, and a heavy carry-on bag with Walkman, CDs, travel journal and etc. The load is so much lighter now since most stuff can be stored in our tablets or smartphones. Technology is amazing isn't it?\nAirport security was a brief back then. They used metal cutleries and gave all passengers bags of toiletries to keep them comfortable during the flight. Now, there are many limitations on things that we can and cannot bring on board. Thanks to \"Everyone can fly\" tagline, airlines had to reduce their services to stay afloat. So more people can fly and travel now.\nTwo decades ago, if you wish to call home, you can only do it at an International Telecommunications Exchange and dial you home number with no guarantee that it will get through. These days, all we need to stop by upon arrival is a local SIM card available as you walk out of the departure hall. The Internet makes it easy for you to Skype, Facetime your family just to inform them that you have arrived safely.\nWrite the correst tense or form of the word in the brackets.\nQuestion 33. Using non-renewable energy sources like coal, oil  _____ a lot of carbon dioxide (produce).",
-    "choices": [],
-    "answer": -1,
-    "type": "essay",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
-  },
-  "g7-english-104": {
-    "id": "g7-english-104",
-    "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\nTwenty years ago, you needed to bring along air tickets, vouchers, travel cheques, and a heavy carry-on bag with Walkman, CDs, travel journal and etc. The load is so much lighter now since most stuff can be stored in our tablets or smartphones. Technology is amazing isn't it?\nAirport security was a brief back then. They used metal cutleries and gave all passengers bags of toiletries to keep them comfortable during the flight. Now, there are many limitations on things that we can and cannot bring on board. Thanks to \"Everyone can fly\" tagline, airlines had to reduce their services to stay afloat. So more people can fly and travel now.\nTwo decades ago, if you wish to call home, you can only do it at an International Telecommunications Exchange and dial you home number with no guarantee that it will get through. These days, all we need to stop by upon arrival is a local SIM card available as you walk out of the departure hall. The Internet makes it easy for you to Skype, Facetime your family just to inform them that you have arrived safely.\nWrite the correst tense or form of the word in the brackets.\nQuestion 34. Renewable sources  _____  _____ from the sun, wind or water. (come) Question 35. In the future we  _____ more on renewable energy sources. (rely) Rewrite the following sentences using the words in brackets giving the same meaning. Question 36. Tom enjoys playing the guitar in his free time.\nTom is _____  Question 37. In England, driving on the right side of the road is against the laws. You mustn’t _____  _____  Question 38. She spends thirty minutes doing this test.\nIt takes\nUse the given words/ phrases to make the sentences.",
-    "choices": [],
-    "answer": -1,
-    "type": "essay",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
-  },
-  "g7-english-105": {
-    "id": "g7-english-105",
-    "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\nTwenty years ago, you needed to bring along air tickets, vouchers, travel cheques, and a heavy carry-on bag with Walkman, CDs, travel journal and etc. The load is so much lighter now since most stuff can be stored in our tablets or smartphones. Technology is amazing isn't it?\nAirport security was a brief back then. They used metal cutleries and gave all passengers bags of toiletries to keep them comfortable during the flight. Now, there are many limitations on things that we can and cannot bring on board. Thanks to \"Everyone can fly\" tagline, airlines had to reduce their services to stay afloat. So more people can fly and travel now.\nTwo decades ago, if you wish to call home, you can only do it at an International Telecommunications Exchange and dial you home number with no guarantee that it will get through. These days, all we need to stop by upon arrival is a local SIM card available as you walk out of the departure hall. The Internet makes it easy for you to Skype, Facetime your family just to inform them that you have arrived safely.\nWrite the correst tense or form of the word in the brackets.\nQuestion 39. Robot/ help/ people/ do/ household chores.",
-    "choices": [],
-    "answer": -1,
-    "type": "essay",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
-  },
-  "g7-english-106": {
-    "id": "g7-english-106",
-    "topicId": "g7-english",
-    "question": "Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.\nTwenty years ago, you needed to bring along air tickets, vouchers, travel cheques, and a heavy carry-on bag with Walkman, CDs, travel journal and etc. The load is so much lighter now since most stuff can be stored in our tablets or smartphones. Technology is amazing isn't it?\nAirport security was a brief back then. They used metal cutleries and gave all passengers bags of toiletries to keep them comfortable during the flight. Now, there are many limitations on things that we can and cannot bring on board. Thanks to \"Everyone can fly\" tagline, airlines had to reduce their services to stay afloat. So more people can fly and travel now.\nTwo decades ago, if you wish to call home, you can only do it at an International Telecommunications Exchange and dial you home number with no guarantee that it will get through. These days, all we need to stop by upon arrival is a local SIM card available as you walk out of the departure hall. The Internet makes it easy for you to Skype, Facetime your family just to inform them that you have arrived safely.\nWrite the correst tense or form of the word in the brackets.\nQuestion 40. Almost all our energy/ come/ oil/ gas/ natural gas.\n-The end-",
-    "choices": [],
-    "answer": -1,
-    "type": "essay",
-    "steps": [
-      {
-        "text": "Dựa vào kiến thức đã học để trả lời.",
-        "highlight": null
-      }
-    ]
+    "type": "multiple-choice"
   }
-,
-  "g7-english-1": {
-  "id": "g7-english-1",
-  "topicId": "g7-english",
-  "question": "Choose the word whose underlined part is pronounced differently from the others.",
-  "choices": [
-    "year",
-    "wear",
-    "appear",
-    "hear"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-2": {
-  "id": "g7-english-2",
-  "topicId": "g7-english",
-  "question": "Choose the word whose underlined part is pronounced differently from the others.",
-  "choices": [
-    "natural",
-    "poverty",
-    "question",
-    "future"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-3": {
-  "id": "g7-english-3",
-  "topicId": "g7-english",
-  "question": "Choose the word whose underlined part is pronounced differently from the others.",
-  "choices": [
-    "transport",
-    "passenger",
-    "station",
-    "traffic"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-4": {
-  "id": "g7-english-4",
-  "topicId": "g7-english",
-  "question": "Choose the word whose underlined part is pronounced differently from the others.",
-  "choices": [
-    "limit",
-    "line",
-    "light",
-    "like"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-5": {
-  "id": "g7-english-5",
-  "topicId": "g7-english",
-  "question": "Choose the word whose underlined part is pronounced differently from the others.",
-  "choices": [
-    "deer",
-    "meet",
-    "atmosphere",
-    "volunteer"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-6": {
-  "id": "g7-english-6",
-  "topicId": "g7-english",
-  "question": "Choose the word whose underlined part is pronounced differently from the others.",
-  "choices": [
-    "painted",
-    "parked",
-    "watched",
-    "stopped"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-7": {
-  "id": "g7-english-7",
-  "topicId": "g7-english",
-  "question": "Choose the word that has the main stress placed differently from the others.",
-  "choices": [
-    "turkey",
-    "boring",
-    "joyful",
-    "donate"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-8": {
-  "id": "g7-english-8",
-  "topicId": "g7-english",
-  "question": "Choose the word that has the main stress placed differently from the others.",
-  "choices": [
-    "easily",
-    "beautiful",
-    "expensive",
-    "energy"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-9": {
-  "id": "g7-english-9",
-  "topicId": "g7-english",
-  "question": "Choose the word that has the main stress placed differently from the others.",
-  "choices": [
-    "costumes",
-    "enjoy",
-    "begin",
-    "appear"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-10": {
-  "id": "g7-english-10",
-  "topicId": "g7-english",
-  "question": "Choose the word that has the main stress placed differently from the others.",
-  "choices": [
-    "government",
-    "travelling",
-    "dangerous",
-    "polluting"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-11": {
-  "id": "g7-english-11",
-  "topicId": "g7-english",
-  "question": "Choose the word that has the main stress placed differently from the others.",
-  "choices": [
-    "violent",
-    "decorate",
-    "comedy",
-    "director"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-12": {
-  "id": "g7-english-12",
-  "topicId": "g7-english",
-  "question": "Coal is a(n) \tenergy source.",
-  "choices": [
-    "renewable",
-    "non-renewable",
-    "expensive",
-    "good for the environment"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-13": {
-  "id": "g7-english-13",
-  "topicId": "g7-english",
-  "question": "Cyclists need to obey the traffic \tby not carrying more than one passenger.",
-  "choices": [
-    "rules",
-    "jams",
-    "lights",
-    "All are correct"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-14": {
-  "id": "g7-english-14",
-  "topicId": "g7-english",
-  "question": "Several governments try to \tthe use of fossil fuels.",
-  "choices": [
-    "reduce",
-    "increase",
-    "waste",
-    "save"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-15": {
-  "id": "g7-english-15",
-  "topicId": "g7-english",
-  "question": "A teleporter is \t, so it doesn't cause pollution.",
-  "choices": [
-    "limited",
-    "fast",
-    "available",
-    "eco-friendly"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-16": {
-  "id": "g7-english-16",
-  "topicId": "g7-english",
-  "question": "A solowheel runs \telectricity, so it is safe for the environment.",
-  "choices": [
-    "out",
-    "in",
-    "on",
-    "by"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-17": {
-  "id": "g7-english-17",
-  "topicId": "g7-english",
-  "question": "I have \tlist of countries and territories where English is \tofficial language.",
-  "choices": [
-    "the - a",
-    "a - an",
-    "a - the",
-    "an – an"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-18": {
-  "id": "g7-english-18",
-  "topicId": "g7-english",
-  "question": "They expect zero-emission fuel cell buses to become a \tof transport.",
-  "choices": [
-    "means",
-    "measure",
-    "instrument",
-    "channel"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-19": {
-  "id": "g7-english-19",
-  "topicId": "g7-english",
-  "question": "He is driving his car too fast, but he is not wearing his……………..",
-  "choices": [
-    "seatbelt",
-    "helmet",
-    "hat",
-    "coat"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-20": {
-  "id": "g7-english-20",
-  "topicId": "g7-english",
-  "question": "Jim wanted to \tthe boat alone, but his parents didn't agree.",
-  "choices": [
-    "let",
-    "travel",
-    "get",
-    "sail"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-21": {
-  "id": "g7-english-21",
-  "topicId": "g7-english",
-  "question": "Your bike is a normal one, but \tis a sports bike.",
-  "choices": [
-    "she",
-    "her",
-    "herself",
-    "hers"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-22": {
-  "id": "g7-english-22",
-  "topicId": "g7-english",
-  "question": "Children should avoid \tfoods such as hamburger and snacks.",
-  "choices": [
-    "unhealthy",
-    "nutritious",
-    "uncooked",
-    "fresh"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-23": {
-  "id": "g7-english-23",
-  "topicId": "g7-english",
-  "question": "Look! The boys \tfootball in the park.",
-  "choices": [
-    "play",
-    "are playing",
-    "played",
-    "have played"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-24": {
-  "id": "g7-english-24",
-  "topicId": "g7-english",
-  "question": "- How about going to the cinema tonight? -",
-  "choices": [
-    "No, thanks.",
-    "It was a big disappointment.",
-    "That’s too bad.",
-    "That’s a great idea!"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-25": {
-  "id": "g7-english-25",
-  "topicId": "g7-english",
-  "question": "rulers are here. \t are there.",
-  "choices": [
-    "Theirs – Ours",
-    "Their – Our",
-    "Theirs – Our",
-    "Their – Ours"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-26": {
-  "id": "g7-english-26",
-  "topicId": "g7-english",
-  "question": "Recycling means to reuse something. The more we \t, the less energy is needed.",
-  "choices": [
-    "recycle",
-    "build",
-    "repair",
-    "reuse"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-27": {
-  "id": "g7-english-27",
-  "topicId": "g7-english",
-  "question": "is it from your house to the nearest bus stop? – \"About 50 meters.\"",
-  "choices": [
-    "How far",
-    "How long",
-    "How often",
-    "How much"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-28": {
-  "id": "g7-english-28",
-  "topicId": "g7-english",
-  "question": "An: Do you think we will travel by flying car in the future? Ben:",
-  "choices": [
-    "We certainly will.",
-    "Wow... I didn't know that",
-    "Amazing",
-    "Sounds great!"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-29": {
-  "id": "g7-english-29",
-  "topicId": "g7-english",
-  "question": "Peter goes to school \tfoot everyday.",
-  "choices": [
-    "on",
-    "by",
-    "in",
-    "over"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-30": {
-  "id": "g7-english-30",
-  "topicId": "g7-english",
-  "question": "We couldn't stop laughing when seeing this \t.",
-  "choices": [
-    "horror film",
-    "comedy",
-    "fantasy",
-    "action film"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-31": {
-  "id": "g7-english-31",
-  "topicId": "g7-english",
-  "question": "The film is too \twith a lot of fighting and killing scene.",
-  "choices": [
-    "funny",
-    "violent",
-    "interesting",
-    "romantic"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-32": {
-  "id": "g7-english-32",
-  "topicId": "g7-english",
-  "question": "The fans of the film filled the cinemas \tthe show time was inconvenient.",
-  "choices": [
-    "though",
-    "so",
-    "however",
-    "and"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-33": {
-  "id": "g7-english-33",
-  "topicId": "g7-english",
-  "question": "Nancy is on the way and she \tin about half an hour.",
-  "choices": [
-    "arrives",
-    "arrived",
-    "are arriving",
-    "will arrive"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-34": {
-  "id": "g7-english-34",
-  "topicId": "g7-english",
-  "question": "There is \tarea on Planet Mars which NASA has named Glasgow.",
-  "choices": [
-    "a",
-    "an",
-    "the",
-    "Ø"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-35": {
-  "id": "g7-english-35",
-  "topicId": "g7-english",
-  "question": "Yesterday you probably brought my book home instead of \t.",
-  "choices": [
-    "yours",
-    "your",
-    "your book",
-    "mine"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-36": {
-  "id": "g7-english-36",
-  "topicId": "g7-english",
-  "question": "Angelina and Robert \tto each other right now.",
-  "choices": [
-    "don't talk",
-    "aren't talking",
-    "won't talk",
-    "didn't talk"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-37": {
-  "id": "g7-english-37",
-  "topicId": "g7-english",
-  "question": "At present, my city \ta station for skyTrans.",
-  "choices": [
-    "is building",
-    "will build",
-    "build",
-    "built"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-38": {
-  "id": "g7-english-38",
-  "topicId": "g7-english",
-  "question": "is a type of vehicle that can take off, fly, and land like an airplane but can also drive on roads.",
-  "choices": [
-    "Hyperloop",
-    "Teleporter",
-    "Flying car",
-    "Bullet train"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-39": {
-  "id": "g7-english-39",
-  "topicId": "g7-english",
-  "question": "We \tprobably travel to the Moon in twenty years.",
-  "choices": [
-    "do",
-    "did",
-    "are",
-    "will"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-40": {
-  "id": "g7-english-40",
-  "topicId": "g7-english",
-  "question": "There \tover 10 million sheep but just 3 million people in Wales.",
-  "choices": [
-    "was",
-    "were",
-    "is",
-    "are"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-41": {
-  "id": "g7-english-41",
-  "topicId": "g7-english",
-  "question": "A non- renewable source of energy can be used to power machinery, but it also \tthe environment.",
-  "choices": [
-    "cleans",
-    "pollutes",
-    "helps",
-    "protects"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-42": {
-  "id": "g7-english-42",
-  "topicId": "g7-english",
-  "question": "Canada and \tUSA share \tlongest international border in \tworld.",
-  "choices": [
-    "the - the - a",
-    "the - a - the",
-    "the - the - the",
-    "the - the – a"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-43": {
-  "id": "g7-english-43",
-  "topicId": "g7-english",
-  "question": "The city has a ten-minute long \tdisplay on New Year's Eve.",
-  "choices": [
-    "fireworks",
-    "costumes",
-    "feast",
-    "parade"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-44": {
-  "id": "g7-english-44",
-  "topicId": "g7-english",
-  "question": "you buy a birthday present for Brian next Sunday?",
-  "choices": [
-    "Are",
-    "Will",
-    "Did",
-    "Do"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-45": {
-  "id": "g7-english-45",
-  "topicId": "g7-english",
-  "question": "People need to find some other means of \tto deal with traffic jams.",
-  "choices": [
-    "transport",
-    "vehicle",
-    "travelling",
-    "living"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-46": {
-  "id": "g7-english-46",
-  "topicId": "g7-english",
-  "question": "The play was so boring. \t, Lan saw it from beginning to end.",
-  "choices": [
-    "Therefore",
-    "Despite",
-    "However",
-    "Although"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-47": {
-  "id": "g7-english-47",
-  "topicId": "g7-english",
-  "question": "Dogs love to play with a ball, and it is a favourite activity of \t.",
-  "choices": [
-    "their",
-    "theirs",
-    "its",
-    "it"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-48": {
-  "id": "g7-english-48",
-  "topicId": "g7-english",
-  "question": "Because vehicles using fossil fuels cause pollution, scientists want to find a cheaper and replacement.",
-  "choices": [
-    "inconvenient",
-    "dangerous",
-    "polluted",
-    "eco-friendly"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-49": {
-  "id": "g7-english-49",
-  "topicId": "g7-english",
-  "question": "easy for them to build another metro system?",
-  "choices": [
-    "Be will it",
-    "Be it will",
-    "It will be",
-    "Will it be"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-50": {
-  "id": "g7-english-50",
-  "topicId": "g7-english",
-  "question": "Your idea is good, but not as good as \t.",
-  "choices": [
-    "ours",
-    "our",
-    "we",
-    "us"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-51": {
-  "id": "g7-english-51",
-  "topicId": "g7-english",
-  "question": "Do you think that \tpleasant to ride a solowheel in bad weather?",
-  "choices": [
-    "it won't be",
-    "will it be not",
-    "will it not be",
-    "won't it be"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-52": {
-  "id": "g7-english-52",
-  "topicId": "g7-english",
-  "question": "I think future planes \tlike the UFOs.",
-  "choices": [
-    "look",
-    "looks",
-    "will look",
-    "are looking"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-53": {
-  "id": "g7-english-53",
-  "topicId": "g7-english",
-  "question": "John talks to Ann, and he suggests going to the cinema. John: “Would you like to go to the cinema this weekend?” - Ann: “ \t”",
-  "choices": [
-    "I don’t care.",
-    "Ok. You did it!",
-    "Great! I can’t wait.",
-    "Sorry. I don’t like."
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-54": {
-  "id": "g7-english-54",
-  "topicId": "g7-english",
-  "question": "The distance between France and England is \t34 kilometers.",
-  "choices": [
-    "of",
-    "about",
-    "for",
-    "in"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-55": {
-  "id": "g7-english-55",
-  "topicId": "g7-english",
-  "question": "is anyone who uses a road, such as a pedestrian or motorist.",
-  "choices": [
-    "Passenger",
-    "Driver",
-    "Road user",
-    "Cyclist"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-56": {
-  "id": "g7-english-56",
-  "topicId": "g7-english",
-  "question": "You \tbring fireworks to the festival, as it is strictly prohibited.",
-  "choices": [
-    "should",
-    "must",
-    "shouldn't",
-    "mustn’t"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-57": {
-  "id": "g7-english-57",
-  "topicId": "g7-english",
-  "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions. *\t46. Our family planned to watch a movie together last night. We were looking forward to it, but . We decided to tell stories instead. The power went out just before the movie started Everyone was disappointed because we couldn't watch the movie.",
-  "choices": [
-    "a-c-b",
-    "c-a-b",
-    "b-a-c",
-    "a-b-c"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-58": {
-  "id": "g7-english-58",
-  "topicId": "g7-english",
-  "question": "47. Choose the sentence that can end the text in question 46. Finally, the power came back and we watched the movie We spent the evening telling stories and had a great time The power never came back, so we all went to bed early. The movie was postponed to another day. 48.  A local high school recently introduced a new computer course. It is popular among students. . The course teaches students about coding and digital design. Many students have signed up for the course The school added the course to prepare students for future jobs in technology.",
-  "choices": [
-    "a-c-b",
-    "c-a-b",
-    "b-a-c",
-    "c-b-a"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-59": {
-  "id": "g7-english-59",
-  "topicId": "g7-english",
-  "question": "Choose the sentence that can end the text (in Question 48) most suitably. The course has received good feedback from students and teachers Some students have started working on their tech projects The school is considering adding more technology-related courses There were some issues with the course schedule at first. Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks There is now increasing concern about the world’s energy (50)\t, particularly about those involving fossil (51) \t\t. In less (52)\t\ta hundred years we shall probably use up all the present energy of oil and gas. The world’s coal reserves should last longer, (53)\tonce used, these cannot be (54)\t. It is important, therefore, that we should develop such alternative sources of energy as solar energy as (55)\t as water and wind power, classed as renewable energy.",
-  "choices": [
-    "possessions",
-    "resources",
-    "goods",
-    "materials"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-60": {
-  "id": "g7-english-60",
-  "topicId": "g7-english",
-  "question": "Choose the best answer A, B, C or D to complete the sentence.",
-  "choices": [
-    "fuels",
-    "powers",
-    "forms",
-    "energies"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-61": {
-  "id": "g7-english-61",
-  "topicId": "g7-english",
-  "question": "Choose the best answer A, B, C or D to complete the sentence.",
-  "choices": [
-    "in",
-    "more",
-    "of",
-    "than"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-62": {
-  "id": "g7-english-62",
-  "topicId": "g7-english",
-  "question": "Choose the best answer A, B, C or D to complete the sentence.",
-  "choices": [
-    "although",
-    "but",
-    "so",
-    "and"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-63": {
-  "id": "g7-english-63",
-  "topicId": "g7-english",
-  "question": "Choose the best answer A, B, C or D to complete the sentence.",
-  "choices": [
-    "updated",
-    "repeated",
-    "renewed",
-    "produced"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-64": {
-  "id": "g7-english-64",
-  "topicId": "g7-english",
-  "question": "Choose the best answer A, B, C or D to complete the sentence.",
-  "choices": [
-    "good",
-    "well",
-    "fast",
-    "soon"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-65": {
-  "id": "g7-english-65",
-  "topicId": "g7-english",
-  "question": "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks. Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 31 to 36. Wind is a form of solar energy. Winds are caused by the uneven heating of the atmosphere by the sun. Wind flow patterns are changed by the earth’s terrain, bodies of water, and vegetative cover. This wind flow, or motion energy, when “harvested” by modern wind turbines, can be used to generate electricity. Wind turbines are available in a variety of sizes, and therefore power ratings. The largest machine has blades that span more than the length of a football field, stands 20-storey building high, and produces enough electricity to power 1,400 homes. A small home-sized wind machine has rotors between 8 and 25 feet in diameter and stands upwards of 30 feet, and can supply the power needs of an all-electric home or small business, utility scale turbines range in size from 50 to 750 kilowatts. Single small turbines, below 50 kilowatts, are used for homes, telecommunications dishes, or water pumping. *terrain (n): địa hình *vegetative (adj): thuộc thực vật *generate (v): phát ra What is the main idea of the reading passage? The word small is OPPOSITE in meaning to \t. What is the reason for the existence of wind?",
-  "choices": [
-    "atmosphere heated unevenly",
-    "wind flow",
-    "motion energy",
-    "wind turbines"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-66": {
-  "id": "g7-english-66",
-  "topicId": "g7-english",
-  "question": "Which of the following is NOT mentioned as a factor affecting the wind direction?",
-  "choices": [
-    "earth’s terrain",
-    "bodies of water",
-    "vegetative cover",
-    "the Sun"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-67": {
-  "id": "g7-english-67",
-  "topicId": "g7-english",
-  "question": "What is the height of the largest wind turbines?",
-  "choices": [
-    "as tall as a 20-storey building",
-    "between 8 and 25 feet",
-    "30 feet",
-    "50 feet"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-68": {
-  "id": "g7-english-68",
-  "topicId": "g7-english",
-  "question": "The word variety is CLOSEST in meaning to \t. Harry Potter and the Chamber of Secrets is the second of the fantasy film series based on the same novel by J. K. Rowling. After the success of the first one, Chris Columbus is still the director of this film. Meanwhile, the main cast of the first film remains in the second one. The film tells the story about the great efforts of Harry to save his friends at Hogwarts, especially Ron’s sister Ginny, from the attacks of a basilisk. It’s a giant snake under the control of the ghostly memory of the sixteen-year-old Tom Riddle, one piece of Lord Voldemort’s soul preserved in an enchanted diary. In the end, he kills the basilisk, saves everybody and frees Dobby – a kind of house-elf. The film is a really must-see film. It also has lots of gripping images, soundtracks and visual effects. What is the passage mainly about? A famous director with his successful fantasy film. A young wizard who kills a monster in his magic school. A film based on the second novel of a fantasy series by J. K. Rowling. The adventures of a house-elf in a wizarding world. The word “giant” in the text is OPPOSITE in meaning to \t.",
-  "choices": [
-    "huge",
-    "tiny",
-    "large",
-    "awful"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-69": {
-  "id": "g7-english-69",
-  "topicId": "g7-english",
-  "question": "The word \"gripping\" in the text is CLOSEST in meaning to \t.",
-  "choices": [
-    "moving",
-    "frightening",
-    "boring",
-    "exciting"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-70": {
-  "id": "g7-english-70",
-  "topicId": "g7-english",
-  "question": "Which of the following statements about Harry is TRUE? He fights against a cruel house-elf of Lord Voldemort. He kills a giant spider at the end of the film. He saves Ron’s sister from a basilisk. He becomes friends with Tom Riddle. What does the word \"It\" in the last sentence refer to?",
-  "choices": [
-    "The film.",
-    "The kind house-elf.",
-    "The basilisk.",
-    "The diary."
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-71": {
-  "id": "g7-english-71",
-  "topicId": "g7-english",
-  "question": "How are the visual effects of the film?",
-  "choices": [
-    "Extremely interesting.",
-    "Rather boring.",
-    "Very colourful.",
-    "Pretty outdated."
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-72": {
-  "id": "g7-english-72",
-  "topicId": "g7-english",
-  "question": "Mark the letter A, B, C or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions.",
-  "choices": [
-    "Question 1.",
-    "gate",
-    "translation",
-    "nation",
-    "paint"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-73": {
-  "id": "g7-english-73",
-  "topicId": "g7-english",
-  "question": "MOCK TEST 1",
-  "choices": [
-    "Question 2.",
-    "site",
-    "twice",
-    "side",
-    "thin"
-  ],
-  "answer": 4,
-  "type": "multiple-choice"
-},
-  "g7-english-74": {
-  "id": "g7-english-74",
-  "topicId": "g7-english",
-  "question": "Mark the letter A, B, C or D on your answer sheet to indicate the word that differs from the other three in the position of primary stress in each of the following questions.",
-  "choices": [
-    "Question 3.",
-    "respect",
-    "safety",
-    "pavement",
-    "traffic"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-75": {
-  "id": "g7-english-75",
-  "topicId": "g7-english",
-  "question": "MOCK TEST 1",
-  "choices": [
-    "Question 4.",
-    "illegal",
-    "prohibitive",
-    "noisy",
-    "polluted"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-76": {
-  "id": "g7-english-76",
-  "topicId": "g7-english",
-  "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.",
-  "choices": [
-    "Question 5.  he is a CEO and earns a lot of money, he is very mean.",
-    "Because",
-    "Although",
-    "Despite",
-    "Because of Question 6. This is a(n)  on real life during wars in Vietnam in 1945."
-  ],
-  "answer": 4,
-  "type": "multiple-choice"
-},
-  "g7-english-77": {
-  "id": "g7-english-77",
-  "topicId": "g7-english",
-  "question": "MOCK TEST 1",
-  "choices": [
-    "Horror film",
-    "sci-fi",
-    "comedy",
-    "documentary Question 7. The film was so   . However, my father saw it from beginning to end.",
-    "Interesting",
-    "exciting",
-    "boring",
-    "fascinating"
-  ],
-  "answer": 6,
-  "type": "multiple-choice"
-},
-  "g7-english-78": {
-  "id": "g7-english-78",
-  "topicId": "g7-english",
-  "question": "MOCK TEST 1",
-  "choices": [
-    "Question 8.  having a broken leg, she took part in the competition.",
-    "However",
-    "Although",
-    "In spite of",
-    "Because Question 9.    working very hard, he lost his job."
-  ],
-  "answer": 4,
-  "type": "multiple-choice"
-},
-  "g7-english-79": {
-  "id": "g7-english-79",
-  "topicId": "g7-english",
-  "question": "MOCK TEST 1",
-  "choices": [
-    "Despite",
-    "However",
-    "But",
-    "Because Question 10. Adam: “How about going to the cinema tonight?” – Linda: “ ”",
-    "That’s a great idea. I’d love to.",
-    "That’s an interesting film. I like it",
-    "It’s a must-see film. You should watch it",
-    "The cinema is quite big."
-  ],
-  "answer": 4,
-  "type": "multiple-choice"
-},
-  "g7-english-80": {
-  "id": "g7-english-80",
-  "topicId": "g7-english",
-  "question": "Question 11. This film made a strong impression \tme.",
-  "choices": [
-    "On",
-    "in",
-    "to",
-    "at Question 12. Peter wants to  the BEST ACTOR PRIZE this year.",
-    "Act",
-    "direct",
-    "perform",
-    "win"
-  ],
-  "answer": 7,
-  "type": "multiple-choice"
-},
-  "g7-english-81": {
-  "id": "g7-english-81",
-  "topicId": "g7-english",
-  "question": "Read the following announcement and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 13 to 16.",
-  "choices": [
-    "Question 13.",
-    "thrilled",
-    "thrilling",
-    "thrill",
-    "thrilly Question 14.",
-    "hold",
-    "take in",
-    "take place",
-    "bring Question 15.",
-    "delicious",
-    "delightful",
-    "fine",
-    "good Question 16.",
-    "in",
-    "on",
-    "from",
-    "at"
-  ],
-  "answer": 13,
-  "type": "multiple-choice"
-},
-  "g7-english-82": {
-  "id": "g7-english-82",
-  "topicId": "g7-english",
-  "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions 17. My family joined the spring flower festival last weekend. We were excited to see the beautiful flowers, but  . The festival was more crowded than we expected. It was difficult to find a parking spot. We finally got to see the flowers and enjoyed taking pictures.",
-  "choices": [
-    "b-a-c",
-    "a-b-c",
-    "c-b-a",
-    "b-c-a"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-83": {
-  "id": "g7-english-83",
-  "topicId": "g7-english",
-  "question": "Question 18. Choose the sentence that can end the text in question 17. We had to leave early because it became too crowded. In the end, we had a wonderful day despite the challenges The flowers were not as beautiful as we expected We decided not to go to the festival after all. Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 19 to 24. Most of our energy comes from fossil fuels (19)    , coal, oil, and natural gas. Although the supplies of these energy sources are plentiful, they are limited. The (20)    of coal and oil is also having very harmful impacts (21)     the environment. However, fossil fuels are not the only source of energy and burning fuel is not the only way to produce heat and motion. Renewable energy offers us a better way. Some energy sources are renewable because they are naturally available (22)    last forever. Some sources have enormous supply so human can never use them up. Moreover, renewable energy sources have much smaller impacts on the environment than fossil and nuclear fuels. (23)     include solar energy, which comes from the sun and can be converted into electricity and heat. Wind, geothermal energy from inside the earth, biomass from plants, and hydropower from 1 water are (24)     renewable sources of energy.",
-  "choices": [
-    "Question 19.",
-    "include",
-    "such as",
-    "unlike",
-    "is Question 20.",
-    "burn",
-    "to burn",
-    "burns",
-    "burning Question 21.",
-    "at",
-    "of",
-    "on",
-    "in"
-  ],
-  "answer": 11,
-  "type": "multiple-choice"
-},
-  "g7-english-84": {
-  "id": "g7-english-84",
-  "topicId": "g7-english",
-  "question": "MOCK TEST 1",
-  "choices": [
-    "Question 22.",
-    "so",
-    "but",
-    "for",
-    "and"
-  ],
-  "answer": 4,
-  "type": "multiple-choice"
-},
-  "g7-english-85": {
-  "id": "g7-english-85",
-  "topicId": "g7-english",
-  "question": "MOCK TEST 1",
-  "choices": [
-    "Question 23.",
-    "It",
-    "There",
-    "That",
-    "They"
-  ],
-  "answer": 4,
-  "type": "multiple-choice"
-},
-  "g7-english-86": {
-  "id": "g7-english-86",
-  "topicId": "g7-english",
-  "question": "MOCK TEST 1",
-  "choices": [
-    "Question 24.",
-    "also",
-    "only",
-    "last",
-    "then"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-87": {
-  "id": "g7-english-87",
-  "topicId": "g7-english",
-  "question": "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the Read the following sign or notice and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions. Question 25. What does the notice say? Question 26. What does the sign say? No pedestrian traffic. No playing in the street. No passing allowed. No parking allowed. Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions. Twenty years ago, you needed to bring along air tickets, vouchers, travel cheques, and a heavy carry-on bag with Walkman, CDs, travel journal and etc. The load is so much lighter now since most stuff can be stored in our tablets or smartphones. Technology is amazing isn't it? Airport security was a brief back then. They used metal cutleries and gave all passengers bags of toiletries to keep them comfortable during the flight. Now, there are many limitations on things that we can and cannot bring on board. Thanks to \"Everyone can fly\" tagline, airlines had to reduce their services to stay afloat. So more people can fly and travel now. Two decades ago, if you wish to call home, you can only do it at an International Telecommunications Exchange and dial you home number with no guarantee that it will get through. These days, all we need to stop by upon arrival is a local SIM card available as you walk out of the departure hall. The Internet makes it easy for you to Skype, Facetime your family just to inform them that you have arrived safely. Question 27. What is the main idea of the passage? Travelling in the past Travelling now Travelling in the past and now Travelling tomorrow. Question 28. What is one important thing to bring along in your trip now?",
-  "choices": [
-    "Travel cheques",
-    "your smartphone",
-    "Travel journal",
-    "Travel car"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-88": {
-  "id": "g7-english-88",
-  "topicId": "g7-english",
-  "question": "Question 29. The number of travelers is \t.",
-  "choices": [
-    "the same as in the past",
-    "lower now than in the past",
-    "higher now than in the past",
-    "high now than in the past"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-89": {
-  "id": "g7-english-89",
-  "topicId": "g7-english",
-  "question": "Question 30. Which of the following statement is NOT TRUE according to the passage? The load that needs bringing is now lighter than in the past. Metal cutleries are used to keep comfortable. In these days, you still only make a call to home at International Telecommunications Exchange. Skype and Facetime are useful for keeping contact with your family. Question 31. The word “stuff” is CLOSEST in meaning to \t.",
-  "choices": [
-    "Object",
-    "airlines",
-    "service",
-    "store"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-90": {
-  "id": "g7-english-90",
-  "topicId": "g7-english",
-  "question": "Question 32. The word “available” is OPPOSITE in meaning to \t.",
-  "choices": [
-    "Rare",
-    "abundant",
-    "existing",
-    "easy"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-}
-,
-  "g7-english-1": {
-  "id": "g7-english-1",
-  "topicId": "g7-english",
-  "question": "Choose the word whose underlined part is pronounced differently from the others.",
-  "choices": [
-    "year",
-    "wear",
-    "appear",
-    "hear"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-2": {
-  "id": "g7-english-2",
-  "topicId": "g7-english",
-  "question": "Choose the word whose underlined part is pronounced differently from the others.",
-  "choices": [
-    "natural",
-    "poverty",
-    "question",
-    "future"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-3": {
-  "id": "g7-english-3",
-  "topicId": "g7-english",
-  "question": "Choose the word whose underlined part is pronounced differently from the others.",
-  "choices": [
-    "transport",
-    "passenger",
-    "station",
-    "traffic"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-4": {
-  "id": "g7-english-4",
-  "topicId": "g7-english",
-  "question": "Choose the word whose underlined part is pronounced differently from the others.",
-  "choices": [
-    "limit",
-    "line",
-    "light",
-    "like"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-5": {
-  "id": "g7-english-5",
-  "topicId": "g7-english",
-  "question": "Choose the word whose underlined part is pronounced differently from the others.",
-  "choices": [
-    "deer",
-    "meet",
-    "atmosphere",
-    "volunteer"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-6": {
-  "id": "g7-english-6",
-  "topicId": "g7-english",
-  "question": "Choose the word whose underlined part is pronounced differently from the others.",
-  "choices": [
-    "painted",
-    "parked",
-    "watched",
-    "stopped"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-7": {
-  "id": "g7-english-7",
-  "topicId": "g7-english",
-  "question": "Choose the word that has the main stress placed differently from the others.",
-  "choices": [
-    "turkey",
-    "boring",
-    "joyful",
-    "donate"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-8": {
-  "id": "g7-english-8",
-  "topicId": "g7-english",
-  "question": "Choose the word that has the main stress placed differently from the others.",
-  "choices": [
-    "easily",
-    "beautiful",
-    "expensive",
-    "energy"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-9": {
-  "id": "g7-english-9",
-  "topicId": "g7-english",
-  "question": "Choose the word that has the main stress placed differently from the others.",
-  "choices": [
-    "costumes",
-    "enjoy",
-    "begin",
-    "appear"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-10": {
-  "id": "g7-english-10",
-  "topicId": "g7-english",
-  "question": "Choose the word that has the main stress placed differently from the others.",
-  "choices": [
-    "government",
-    "travelling",
-    "dangerous",
-    "polluting"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-11": {
-  "id": "g7-english-11",
-  "topicId": "g7-english",
-  "question": "Choose the word that has the main stress placed differently from the others.",
-  "choices": [
-    "violent",
-    "decorate",
-    "comedy",
-    "director"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-12": {
-  "id": "g7-english-12",
-  "topicId": "g7-english",
-  "question": "Coal is a(n) \tenergy source.",
-  "choices": [
-    "renewable",
-    "non-renewable",
-    "expensive",
-    "good for the environment"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-13": {
-  "id": "g7-english-13",
-  "topicId": "g7-english",
-  "question": "Cyclists need to obey the traffic \tby not carrying more than one passenger.",
-  "choices": [
-    "rules",
-    "jams",
-    "lights",
-    "All are correct"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-14": {
-  "id": "g7-english-14",
-  "topicId": "g7-english",
-  "question": "Several governments try to \tthe use of fossil fuels.",
-  "choices": [
-    "reduce",
-    "increase",
-    "waste",
-    "save"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-15": {
-  "id": "g7-english-15",
-  "topicId": "g7-english",
-  "question": "A teleporter is \t, so it doesn't cause pollution.",
-  "choices": [
-    "limited",
-    "fast",
-    "available",
-    "eco-friendly"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-16": {
-  "id": "g7-english-16",
-  "topicId": "g7-english",
-  "question": "A solowheel runs \telectricity, so it is safe for the environment.",
-  "choices": [
-    "out",
-    "in",
-    "on",
-    "by"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-17": {
-  "id": "g7-english-17",
-  "topicId": "g7-english",
-  "question": "I have \tlist of countries and territories where English is \tofficial language.",
-  "choices": [
-    "the - a",
-    "a - an",
-    "a - the",
-    "an – an"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-18": {
-  "id": "g7-english-18",
-  "topicId": "g7-english",
-  "question": "They expect zero-emission fuel cell buses to become a \tof transport.",
-  "choices": [
-    "means",
-    "measure",
-    "instrument",
-    "channel"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-19": {
-  "id": "g7-english-19",
-  "topicId": "g7-english",
-  "question": "He is driving his car too fast, but he is not wearing his……………..",
-  "choices": [
-    "seatbelt",
-    "helmet",
-    "hat",
-    "coat"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-20": {
-  "id": "g7-english-20",
-  "topicId": "g7-english",
-  "question": "Jim wanted to \tthe boat alone, but his parents didn't agree.",
-  "choices": [
-    "let",
-    "travel",
-    "get",
-    "sail"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-21": {
-  "id": "g7-english-21",
-  "topicId": "g7-english",
-  "question": "Your bike is a normal one, but \tis a sports bike.",
-  "choices": [
-    "she",
-    "her",
-    "herself",
-    "hers"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-22": {
-  "id": "g7-english-22",
-  "topicId": "g7-english",
-  "question": "Children should avoid \tfoods such as hamburger and snacks.",
-  "choices": [
-    "unhealthy",
-    "nutritious",
-    "uncooked",
-    "fresh"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-23": {
-  "id": "g7-english-23",
-  "topicId": "g7-english",
-  "question": "Look! The boys \tfootball in the park.",
-  "choices": [
-    "play",
-    "are playing",
-    "played",
-    "have played"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-24": {
-  "id": "g7-english-24",
-  "topicId": "g7-english",
-  "question": "- How about going to the cinema tonight? -",
-  "choices": [
-    "No, thanks.",
-    "It was a big disappointment.",
-    "That’s too bad.",
-    "That’s a great idea!"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-25": {
-  "id": "g7-english-25",
-  "topicId": "g7-english",
-  "question": "rulers are here. \t are there.",
-  "choices": [
-    "Theirs – Ours",
-    "Their – Our",
-    "Theirs – Our",
-    "Their – Ours"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-26": {
-  "id": "g7-english-26",
-  "topicId": "g7-english",
-  "question": "Recycling means to reuse something. The more we \t, the less energy is needed.",
-  "choices": [
-    "recycle",
-    "build",
-    "repair",
-    "reuse"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-27": {
-  "id": "g7-english-27",
-  "topicId": "g7-english",
-  "question": "is it from your house to the nearest bus stop? – \"About 50 meters.\"",
-  "choices": [
-    "How far",
-    "How long",
-    "How often",
-    "How much"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-28": {
-  "id": "g7-english-28",
-  "topicId": "g7-english",
-  "question": "An: Do you think we will travel by flying car in the future? Ben:",
-  "choices": [
-    "We certainly will.",
-    "Wow... I didn't know that",
-    "Amazing",
-    "Sounds great!"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-29": {
-  "id": "g7-english-29",
-  "topicId": "g7-english",
-  "question": "Peter goes to school \tfoot everyday.",
-  "choices": [
-    "on",
-    "by",
-    "in",
-    "over"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-30": {
-  "id": "g7-english-30",
-  "topicId": "g7-english",
-  "question": "We couldn't stop laughing when seeing this \t.",
-  "choices": [
-    "horror film",
-    "comedy",
-    "fantasy",
-    "action film"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-31": {
-  "id": "g7-english-31",
-  "topicId": "g7-english",
-  "question": "The film is too \twith a lot of fighting and killing scene.",
-  "choices": [
-    "funny",
-    "violent",
-    "interesting",
-    "romantic"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-32": {
-  "id": "g7-english-32",
-  "topicId": "g7-english",
-  "question": "The fans of the film filled the cinemas \tthe show time was inconvenient.",
-  "choices": [
-    "though",
-    "so",
-    "however",
-    "and"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-33": {
-  "id": "g7-english-33",
-  "topicId": "g7-english",
-  "question": "Nancy is on the way and she \tin about half an hour.",
-  "choices": [
-    "arrives",
-    "arrived",
-    "are arriving",
-    "will arrive"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-34": {
-  "id": "g7-english-34",
-  "topicId": "g7-english",
-  "question": "There is \tarea on Planet Mars which NASA has named Glasgow.",
-  "choices": [
-    "a",
-    "an",
-    "the",
-    "Ø"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-35": {
-  "id": "g7-english-35",
-  "topicId": "g7-english",
-  "question": "Yesterday you probably brought my book home instead of \t.",
-  "choices": [
-    "yours",
-    "your",
-    "your book",
-    "mine"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-36": {
-  "id": "g7-english-36",
-  "topicId": "g7-english",
-  "question": "Angelina and Robert \tto each other right now.",
-  "choices": [
-    "don't talk",
-    "aren't talking",
-    "won't talk",
-    "didn't talk"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-37": {
-  "id": "g7-english-37",
-  "topicId": "g7-english",
-  "question": "At present, my city \ta station for skyTrans.",
-  "choices": [
-    "is building",
-    "will build",
-    "build",
-    "built"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-38": {
-  "id": "g7-english-38",
-  "topicId": "g7-english",
-  "question": "is a type of vehicle that can take off, fly, and land like an airplane but can also drive on roads.",
-  "choices": [
-    "Hyperloop",
-    "Teleporter",
-    "Flying car",
-    "Bullet train"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-39": {
-  "id": "g7-english-39",
-  "topicId": "g7-english",
-  "question": "We \tprobably travel to the Moon in twenty years.",
-  "choices": [
-    "do",
-    "did",
-    "are",
-    "will"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-40": {
-  "id": "g7-english-40",
-  "topicId": "g7-english",
-  "question": "There \tover 10 million sheep but just 3 million people in Wales.",
-  "choices": [
-    "was",
-    "were",
-    "is",
-    "are"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-41": {
-  "id": "g7-english-41",
-  "topicId": "g7-english",
-  "question": "A non- renewable source of energy can be used to power machinery, but it also \tthe environment.",
-  "choices": [
-    "cleans",
-    "pollutes",
-    "helps",
-    "protects"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-42": {
-  "id": "g7-english-42",
-  "topicId": "g7-english",
-  "question": "Canada and \tUSA share \tlongest international border in \tworld.",
-  "choices": [
-    "the - the - a",
-    "the - a - the",
-    "the - the - the",
-    "the - the – a"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-43": {
-  "id": "g7-english-43",
-  "topicId": "g7-english",
-  "question": "The city has a ten-minute long \tdisplay on New Year's Eve.",
-  "choices": [
-    "fireworks",
-    "costumes",
-    "feast",
-    "parade"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-44": {
-  "id": "g7-english-44",
-  "topicId": "g7-english",
-  "question": "you buy a birthday present for Brian next Sunday?",
-  "choices": [
-    "Are",
-    "Will",
-    "Did",
-    "Do"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-45": {
-  "id": "g7-english-45",
-  "topicId": "g7-english",
-  "question": "People need to find some other means of \tto deal with traffic jams.",
-  "choices": [
-    "transport",
-    "vehicle",
-    "travelling",
-    "living"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-46": {
-  "id": "g7-english-46",
-  "topicId": "g7-english",
-  "question": "The play was so boring. \t, Lan saw it from beginning to end.",
-  "choices": [
-    "Therefore",
-    "Despite",
-    "However",
-    "Although"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-47": {
-  "id": "g7-english-47",
-  "topicId": "g7-english",
-  "question": "Dogs love to play with a ball, and it is a favourite activity of \t.",
-  "choices": [
-    "their",
-    "theirs",
-    "its",
-    "it"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-48": {
-  "id": "g7-english-48",
-  "topicId": "g7-english",
-  "question": "Because vehicles using fossil fuels cause pollution, scientists want to find a cheaper and replacement.",
-  "choices": [
-    "inconvenient",
-    "dangerous",
-    "polluted",
-    "eco-friendly"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-49": {
-  "id": "g7-english-49",
-  "topicId": "g7-english",
-  "question": "easy for them to build another metro system?",
-  "choices": [
-    "Be will it",
-    "Be it will",
-    "It will be",
-    "Will it be"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-50": {
-  "id": "g7-english-50",
-  "topicId": "g7-english",
-  "question": "Your idea is good, but not as good as \t.",
-  "choices": [
-    "ours",
-    "our",
-    "we",
-    "us"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-51": {
-  "id": "g7-english-51",
-  "topicId": "g7-english",
-  "question": "Do you think that \tpleasant to ride a solowheel in bad weather?",
-  "choices": [
-    "it won't be",
-    "will it be not",
-    "will it not be",
-    "won't it be"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-52": {
-  "id": "g7-english-52",
-  "topicId": "g7-english",
-  "question": "I think future planes \tlike the UFOs.",
-  "choices": [
-    "look",
-    "looks",
-    "will look",
-    "are looking"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-53": {
-  "id": "g7-english-53",
-  "topicId": "g7-english",
-  "question": "John talks to Ann, and he suggests going to the cinema. John: “Would you like to go to the cinema this weekend?” - Ann: “ \t”",
-  "choices": [
-    "I don’t care.",
-    "Ok. You did it!",
-    "Great! I can’t wait.",
-    "Sorry. I don’t like."
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-54": {
-  "id": "g7-english-54",
-  "topicId": "g7-english",
-  "question": "The distance between France and England is \t34 kilometers.",
-  "choices": [
-    "of",
-    "about",
-    "for",
-    "in"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-55": {
-  "id": "g7-english-55",
-  "topicId": "g7-english",
-  "question": "is anyone who uses a road, such as a pedestrian or motorist.",
-  "choices": [
-    "Passenger",
-    "Driver",
-    "Road user",
-    "Cyclist"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-56": {
-  "id": "g7-english-56",
-  "topicId": "g7-english",
-  "question": "You \tbring fireworks to the festival, as it is strictly prohibited.",
-  "choices": [
-    "should",
-    "must",
-    "shouldn't",
-    "mustn’t"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-57": {
-  "id": "g7-english-57",
-  "topicId": "g7-english",
-  "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions. *\t46. Our family planned to watch a movie together last night. We were looking forward to it, but . We decided to tell stories instead. The power went out just before the movie started Everyone was disappointed because we couldn't watch the movie.",
-  "choices": [
-    "a-c-b",
-    "c-a-b",
-    "b-a-c",
-    "a-b-c"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-58": {
-  "id": "g7-english-58",
-  "topicId": "g7-english",
-  "question": "47. Choose the sentence that can end the text in question 46. Finally, the power came back and we watched the movie We spent the evening telling stories and had a great time The power never came back, so we all went to bed early. The movie was postponed to another day. 48.  A local high school recently introduced a new computer course. It is popular among students. . The course teaches students about coding and digital design. Many students have signed up for the course The school added the course to prepare students for future jobs in technology.",
-  "choices": [
-    "a-c-b",
-    "c-a-b",
-    "b-a-c",
-    "c-b-a"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-59": {
-  "id": "g7-english-59",
-  "topicId": "g7-english",
-  "question": "Choose the sentence that can end the text (in Question 48) most suitably. The course has received good feedback from students and teachers Some students have started working on their tech projects The school is considering adding more technology-related courses There were some issues with the course schedule at first. Mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks There is now increasing concern about the world’s energy (50)\t, particularly about those involving fossil (51) \t\t. In less (52)\t\ta hundred years we shall probably use up all the present energy of oil and gas. The world’s coal reserves should last longer, (53)\tonce used, these cannot be (54)\t. It is important, therefore, that we should develop such alternative sources of energy as solar energy as (55)\t as water and wind power, classed as renewable energy.",
-  "choices": [
-    "possessions",
-    "resources",
-    "goods",
-    "materials"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-60": {
-  "id": "g7-english-60",
-  "topicId": "g7-english",
-  "question": "Choose the best answer A, B, C or D to complete the sentence.",
-  "choices": [
-    "fuels",
-    "powers",
-    "forms",
-    "energies"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-61": {
-  "id": "g7-english-61",
-  "topicId": "g7-english",
-  "question": "Choose the best answer A, B, C or D to complete the sentence.",
-  "choices": [
-    "in",
-    "more",
-    "of",
-    "than"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-62": {
-  "id": "g7-english-62",
-  "topicId": "g7-english",
-  "question": "Choose the best answer A, B, C or D to complete the sentence.",
-  "choices": [
-    "although",
-    "but",
-    "so",
-    "and"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-63": {
-  "id": "g7-english-63",
-  "topicId": "g7-english",
-  "question": "Choose the best answer A, B, C or D to complete the sentence.",
-  "choices": [
-    "updated",
-    "repeated",
-    "renewed",
-    "produced"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-64": {
-  "id": "g7-english-64",
-  "topicId": "g7-english",
-  "question": "Choose the best answer A, B, C or D to complete the sentence.",
-  "choices": [
-    "good",
-    "well",
-    "fast",
-    "soon"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-65": {
-  "id": "g7-english-65",
-  "topicId": "g7-english",
-  "question": "Read the following announcement and mark the letter A, B, C, or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks. Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the correct answer to each of the following questions from 31 to 36. Wind is a form of solar energy. Winds are caused by the uneven heating of the atmosphere by the sun. Wind flow patterns are changed by the earth’s terrain, bodies of water, and vegetative cover. This wind flow, or motion energy, when “harvested” by modern wind turbines, can be used to generate electricity. Wind turbines are available in a variety of sizes, and therefore power ratings. The largest machine has blades that span more than the length of a football field, stands 20-storey building high, and produces enough electricity to power 1,400 homes. A small home-sized wind machine has rotors between 8 and 25 feet in diameter and stands upwards of 30 feet, and can supply the power needs of an all-electric home or small business, utility scale turbines range in size from 50 to 750 kilowatts. Single small turbines, below 50 kilowatts, are used for homes, telecommunications dishes, or water pumping. *terrain (n): địa hình *vegetative (adj): thuộc thực vật *generate (v): phát ra What is the main idea of the reading passage? The word small is OPPOSITE in meaning to \t. What is the reason for the existence of wind?",
-  "choices": [
-    "atmosphere heated unevenly",
-    "wind flow",
-    "motion energy",
-    "wind turbines"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-66": {
-  "id": "g7-english-66",
-  "topicId": "g7-english",
-  "question": "Which of the following is NOT mentioned as a factor affecting the wind direction?",
-  "choices": [
-    "earth’s terrain",
-    "bodies of water",
-    "vegetative cover",
-    "the Sun"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-67": {
-  "id": "g7-english-67",
-  "topicId": "g7-english",
-  "question": "What is the height of the largest wind turbines?",
-  "choices": [
-    "as tall as a 20-storey building",
-    "between 8 and 25 feet",
-    "30 feet",
-    "50 feet"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-68": {
-  "id": "g7-english-68",
-  "topicId": "g7-english",
-  "question": "The word variety is CLOSEST in meaning to \t. Harry Potter and the Chamber of Secrets is the second of the fantasy film series based on the same novel by J. K. Rowling. After the success of the first one, Chris Columbus is still the director of this film. Meanwhile, the main cast of the first film remains in the second one. The film tells the story about the great efforts of Harry to save his friends at Hogwarts, especially Ron’s sister Ginny, from the attacks of a basilisk. It’s a giant snake under the control of the ghostly memory of the sixteen-year-old Tom Riddle, one piece of Lord Voldemort’s soul preserved in an enchanted diary. In the end, he kills the basilisk, saves everybody and frees Dobby – a kind of house-elf. The film is a really must-see film. It also has lots of gripping images, soundtracks and visual effects. What is the passage mainly about? A famous director with his successful fantasy film. A young wizard who kills a monster in his magic school. A film based on the second novel of a fantasy series by J. K. Rowling. The adventures of a house-elf in a wizarding world. The word “giant” in the text is OPPOSITE in meaning to \t.",
-  "choices": [
-    "huge",
-    "tiny",
-    "large",
-    "awful"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-69": {
-  "id": "g7-english-69",
-  "topicId": "g7-english",
-  "question": "The word \"gripping\" in the text is CLOSEST in meaning to \t.",
-  "choices": [
-    "moving",
-    "frightening",
-    "boring",
-    "exciting"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-70": {
-  "id": "g7-english-70",
-  "topicId": "g7-english",
-  "question": "Which of the following statements about Harry is TRUE? He fights against a cruel house-elf of Lord Voldemort. He kills a giant spider at the end of the film. He saves Ron’s sister from a basilisk. He becomes friends with Tom Riddle. What does the word \"It\" in the last sentence refer to?",
-  "choices": [
-    "The film.",
-    "The kind house-elf.",
-    "The basilisk.",
-    "The diary."
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-71": {
-  "id": "g7-english-71",
-  "topicId": "g7-english",
-  "question": "How are the visual effects of the film?",
-  "choices": [
-    "Extremely interesting.",
-    "Rather boring.",
-    "Very colourful.",
-    "Pretty outdated."
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-72": {
-  "id": "g7-english-72",
-  "topicId": "g7-english",
-  "question": "Mark the letter A, B, C or D on your answer sheet to indicate the word whose underlined part differs from the other three in pronunciation in each of the following questions.",
-  "choices": [
-    "Question 1.",
-    "gate",
-    "translation",
-    "nation",
-    "paint"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-73": {
-  "id": "g7-english-73",
-  "topicId": "g7-english",
-  "question": "MOCK TEST 1",
-  "choices": [
-    "Question 2.",
-    "site",
-    "twice",
-    "side",
-    "thin"
-  ],
-  "answer": 4,
-  "type": "multiple-choice"
-},
-  "g7-english-74": {
-  "id": "g7-english-74",
-  "topicId": "g7-english",
-  "question": "Mark the letter A, B, C or D on your answer sheet to indicate the word that differs from the other three in the position of primary stress in each of the following questions.",
-  "choices": [
-    "Question 3.",
-    "respect",
-    "safety",
-    "pavement",
-    "traffic"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-75": {
-  "id": "g7-english-75",
-  "topicId": "g7-english",
-  "question": "MOCK TEST 1",
-  "choices": [
-    "Question 4.",
-    "illegal",
-    "prohibitive",
-    "noisy",
-    "polluted"
-  ],
-  "answer": 3,
-  "type": "multiple-choice"
-},
-  "g7-english-76": {
-  "id": "g7-english-76",
-  "topicId": "g7-english",
-  "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.",
-  "choices": [
-    "Question 5.  he is a CEO and earns a lot of money, he is very mean.",
-    "Because",
-    "Although",
-    "Despite",
-    "Because of Question 6. This is a(n)  on real life during wars in Vietnam in 1945."
-  ],
-  "answer": 4,
-  "type": "multiple-choice"
-},
-  "g7-english-77": {
-  "id": "g7-english-77",
-  "topicId": "g7-english",
-  "question": "MOCK TEST 1",
-  "choices": [
-    "Horror film",
-    "sci-fi",
-    "comedy",
-    "documentary Question 7. The film was so   . However, my father saw it from beginning to end.",
-    "Interesting",
-    "exciting",
-    "boring",
-    "fascinating"
-  ],
-  "answer": 6,
-  "type": "multiple-choice"
-},
-  "g7-english-78": {
-  "id": "g7-english-78",
-  "topicId": "g7-english",
-  "question": "MOCK TEST 1",
-  "choices": [
-    "Question 8.  having a broken leg, she took part in the competition.",
-    "However",
-    "Although",
-    "In spite of",
-    "Because Question 9.    working very hard, he lost his job."
-  ],
-  "answer": 4,
-  "type": "multiple-choice"
-},
-  "g7-english-79": {
-  "id": "g7-english-79",
-  "topicId": "g7-english",
-  "question": "MOCK TEST 1",
-  "choices": [
-    "Despite",
-    "However",
-    "But",
-    "Because Question 10. Adam: “How about going to the cinema tonight?” – Linda: “ ”",
-    "That’s a great idea. I’d love to.",
-    "That’s an interesting film. I like it",
-    "It’s a must-see film. You should watch it",
-    "The cinema is quite big."
-  ],
-  "answer": 4,
-  "type": "multiple-choice"
-},
-  "g7-english-80": {
-  "id": "g7-english-80",
-  "topicId": "g7-english",
-  "question": "Question 11. This film made a strong impression \tme.",
-  "choices": [
-    "On",
-    "in",
-    "to",
-    "at Question 12. Peter wants to  the BEST ACTOR PRIZE this year.",
-    "Act",
-    "direct",
-    "perform",
-    "win"
-  ],
-  "answer": 7,
-  "type": "multiple-choice"
-},
-  "g7-english-81": {
-  "id": "g7-english-81",
-  "topicId": "g7-english",
-  "question": "Read the following announcement and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each of the numbered blanks from 13 to 16.",
-  "choices": [
-    "Question 13.",
-    "thrilled",
-    "thrilling",
-    "thrill",
-    "thrilly Question 14.",
-    "hold",
-    "take in",
-    "take place",
-    "bring Question 15.",
-    "delicious",
-    "delightful",
-    "fine",
-    "good Question 16.",
-    "in",
-    "on",
-    "from",
-    "at"
-  ],
-  "answer": 13,
-  "type": "multiple-choice"
-},
-  "g7-english-82": {
-  "id": "g7-english-82",
-  "topicId": "g7-english",
-  "question": "Mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions 17. My family joined the spring flower festival last weekend. We were excited to see the beautiful flowers, but  . The festival was more crowded than we expected. It was difficult to find a parking spot. We finally got to see the flowers and enjoyed taking pictures.",
-  "choices": [
-    "b-a-c",
-    "a-b-c",
-    "c-b-a",
-    "b-c-a"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-83": {
-  "id": "g7-english-83",
-  "topicId": "g7-english",
-  "question": "Question 18. Choose the sentence that can end the text in question 17. We had to leave early because it became too crowded. In the end, we had a wonderful day despite the challenges The flowers were not as beautiful as we expected We decided not to go to the festival after all. Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct option that best fits each numbered blank from 19 to 24. Most of our energy comes from fossil fuels (19)    , coal, oil, and natural gas. Although the supplies of these energy sources are plentiful, they are limited. The (20)    of coal and oil is also having very harmful impacts (21)     the environment. However, fossil fuels are not the only source of energy and burning fuel is not the only way to produce heat and motion. Renewable energy offers us a better way. Some energy sources are renewable because they are naturally available (22)    last forever. Some sources have enormous supply so human can never use them up. Moreover, renewable energy sources have much smaller impacts on the environment than fossil and nuclear fuels. (23)     include solar energy, which comes from the sun and can be converted into electricity and heat. Wind, geothermal energy from inside the earth, biomass from plants, and hydropower from 1 water are (24)     renewable sources of energy.",
-  "choices": [
-    "Question 19.",
-    "include",
-    "such as",
-    "unlike",
-    "is Question 20.",
-    "burn",
-    "to burn",
-    "burns",
-    "burning Question 21.",
-    "at",
-    "of",
-    "on",
-    "in"
-  ],
-  "answer": 11,
-  "type": "multiple-choice"
-},
-  "g7-english-84": {
-  "id": "g7-english-84",
-  "topicId": "g7-english",
-  "question": "MOCK TEST 1",
-  "choices": [
-    "Question 22.",
-    "so",
-    "but",
-    "for",
-    "and"
-  ],
-  "answer": 4,
-  "type": "multiple-choice"
-},
-  "g7-english-85": {
-  "id": "g7-english-85",
-  "topicId": "g7-english",
-  "question": "MOCK TEST 1",
-  "choices": [
-    "Question 23.",
-    "It",
-    "There",
-    "That",
-    "They"
-  ],
-  "answer": 4,
-  "type": "multiple-choice"
-},
-  "g7-english-86": {
-  "id": "g7-english-86",
-  "topicId": "g7-english",
-  "question": "MOCK TEST 1",
-  "choices": [
-    "Question 24.",
-    "also",
-    "only",
-    "last",
-    "then"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-87": {
-  "id": "g7-english-87",
-  "topicId": "g7-english",
-  "question": "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the Read the following sign or notice and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions. Question 25. What does the notice say? Question 26. What does the sign say? No pedestrian traffic. No playing in the street. No passing allowed. No parking allowed. Read the following passage and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions. Twenty years ago, you needed to bring along air tickets, vouchers, travel cheques, and a heavy carry-on bag with Walkman, CDs, travel journal and etc. The load is so much lighter now since most stuff can be stored in our tablets or smartphones. Technology is amazing isn't it? Airport security was a brief back then. They used metal cutleries and gave all passengers bags of toiletries to keep them comfortable during the flight. Now, there are many limitations on things that we can and cannot bring on board. Thanks to \"Everyone can fly\" tagline, airlines had to reduce their services to stay afloat. So more people can fly and travel now. Two decades ago, if you wish to call home, you can only do it at an International Telecommunications Exchange and dial you home number with no guarantee that it will get through. These days, all we need to stop by upon arrival is a local SIM card available as you walk out of the departure hall. The Internet makes it easy for you to Skype, Facetime your family just to inform them that you have arrived safely. Question 27. What is the main idea of the passage? Travelling in the past Travelling now Travelling in the past and now Travelling tomorrow. Question 28. What is one important thing to bring along in your trip now?",
-  "choices": [
-    "Travel cheques",
-    "your smartphone",
-    "Travel journal",
-    "Travel car"
-  ],
-  "answer": 1,
-  "type": "multiple-choice"
-},
-  "g7-english-88": {
-  "id": "g7-english-88",
-  "topicId": "g7-english",
-  "question": "Question 29. The number of travelers is \t.",
-  "choices": [
-    "the same as in the past",
-    "lower now than in the past",
-    "higher now than in the past",
-    "high now than in the past"
-  ],
-  "answer": 2,
-  "type": "multiple-choice"
-},
-  "g7-english-89": {
-  "id": "g7-english-89",
-  "topicId": "g7-english",
-  "question": "Question 30. Which of the following statement is NOT TRUE according to the passage? The load that needs bringing is now lighter than in the past. Metal cutleries are used to keep comfortable. In these days, you still only make a call to home at International Telecommunications Exchange. Skype and Facetime are useful for keeping contact with your family. Question 31. The word “stuff” is CLOSEST in meaning to \t.",
-  "choices": [
-    "Object",
-    "airlines",
-    "service",
-    "store"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-},
-  "g7-english-90": {
-  "id": "g7-english-90",
-  "topicId": "g7-english",
-  "question": "Question 32. The word “available” is OPPOSITE in meaning to \t.",
-  "choices": [
-    "Rare",
-    "abundant",
-    "existing",
-    "easy"
-  ],
-  "answer": 0,
-  "type": "multiple-choice"
-}
 };
