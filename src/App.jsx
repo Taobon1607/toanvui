@@ -757,7 +757,8 @@ function QuizPage({ grade, topic, onBack, onHome, onAddStars, onRestart }) {
       stopSpeak();
       return;
     }
-    const textToRead = current.question + ". Các đáp án là: " + current.choices.join(', ');
+    const choicesText = current.choices ? ". Các đáp án là: " + current.choices.join(', ') : "";
+    const textToRead = current.question + choicesText;
     speakText(textToRead);
   }
 
@@ -878,7 +879,7 @@ function QuizPage({ grade, topic, onBack, onHome, onAddStars, onRestart }) {
               📝 Xem lời giải chi tiết
             </button>
           ) : (
-            current.choices.map((c, i) => {
+            (current.choices || []).map((c, i) => {
               let cls = 'choice-btn';
               if (selected !== null) {
                 if (i === current.answer) cls += ' correct';
@@ -905,14 +906,20 @@ function QuizPage({ grade, topic, onBack, onHome, onAddStars, onRestart }) {
               </div>
             )}
 
-            <ul className="step-list">
-              {current.steps.map((s, i) => (
-                <li key={i} className="step-item">
-                  <span className="step-num">{i + 1}</span>
-                  <StepText text={s.text} highlight={s.highlight} onKeyword={setModalKey} />
-                </li>
-              ))}
-            </ul>
+            {current.steps && current.steps.length > 0 ? (
+              <ul className="step-list">
+                {current.steps.map((s, i) => (
+                  <li key={i} className="step-item">
+                    <span className="step-num">{i + 1}</span>
+                    <StepText text={s.text} highlight={s.highlight} onKeyword={setModalKey} />
+                  </li>
+                ))}
+              </ul>
+            ) : (
+              <div className="solution-text" style={{ marginTop: '15px' }}>
+                Đáp án đúng là: <strong>{current.choices ? current.choices[current.answer] : 'Chưa cập nhật'}</strong>
+              </div>
+            )}
           </div>
         )}
 
