@@ -844,7 +844,7 @@ function QuizPage({ grade, topic, onBack, onHome, onAddStars, onRestart }) {
                   🕒 Dùng Đồng Hồ
                 </button>
               )}
-          {grade.id === 7 && (
+              {grade.id === 7 && topic.subject === "Toán Học" && (
                 <button 
                   className={`btn-tool ${activeTool === 'draw' ? 'active' : ''}`} 
                   onClick={() => setActiveTool(activeTool === 'draw' ? null : 'draw')}

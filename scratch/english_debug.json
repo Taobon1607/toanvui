@@ -1,0 +1,902 @@
+[
+  {
+    "text": "renewableB. non-renewable",
+    "html": "<p>renewable\t<strong>B. non-renewable</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "C. expensive\tD. good for the environment",
+    "html": "<p>C. expensive\tD. good for the environment</p>",
+    "has_bold": false
+  },
+  {
+    "text": "A. rulesB. jams\tC. lights\tD. All are correct",
+    "html": "<p><strong>A. rules</strong>\tB. jams\tC. lights\tD. All are correct</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. reduceB. increase\tC. waste\tD. save",
+    "html": "<p><strong>A. reduce</strong>\tB. increase\tC. waste\tD. save</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. limited\tB. fast\tC. availableD. eco-friendly",
+    "html": "<p>A. limited\tB. fast\tC. available\t<strong>D. eco-friendly</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. out\tB. inC. onD. by",
+    "html": "<p>A. out\tB. in\t<strong>C. on</strong>\tD. by</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. the - aB. a - anC. a - the\tD. an – an",
+    "html": "<p>A. the - a\t<strong>B. a - an</strong>\tC. a - the\tD. an – an</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. meansB. measure\tC. instrument\tD. channel",
+    "html": "<p><strong>A. means</strong>\tB. measure\tC. instrument\tD. channel</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. seatbeltB. helmet\tC. hat\tD. coat",
+    "html": "<p><strong>A. seatbelt</strong>\tB. helmet\tC. hat\tD. coat</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. let\tB. travel\tC. getD. sail",
+    "html": "<p>A. let\tB. travel\tC. get\t<strong>D. sail</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. she\tB. her\tC. herselfD. hers",
+    "html": "<p>A. she\tB. her\tC. herself\t<strong>D. hers</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. unhealthyB. nutritious\tC. uncooked\tD. fresh",
+    "html": "<p><strong>A. unhealthy</strong>\tB. nutritious\tC. uncooked\tD. fresh</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. playB. are playingC. played\tD. have played",
+    "html": "<p>A. play\t<strong>B. are playing</strong>\tC. played\tD. have played</p>",
+    "has_bold": true
+  },
+  {
+    "text": "No, thanks.\tB. It was a big disappointment.",
+    "html": "<p>No, thanks.\tB. It was a big disappointment.</p>",
+    "has_bold": false
+  },
+  {
+    "text": "C. That’s too bad.D. That’s a great idea!",
+    "html": "<p>C. That’s too bad.\t<strong>D. That’s a great idea</strong>!</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. Theirs – Ours\tB. Their – Our\tC. Theirs – OurD. Their – Ours",
+    "html": "<p>A. Theirs – Ours\tB. Their – Our\tC. Theirs – Our\t<strong>D. Their – Ours</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. recycle\tB. build\tC. repairD. reuse",
+    "html": "<p>A. recycle\tB. build\tC. repair\t<strong>D. reuse</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. How farB. How long\tC. How often\tD. How much",
+    "html": "<p><strong>A. How far</strong>\tB. How long\tC. How often\tD. How much</p>",
+    "has_bold": true
+  },
+  {
+    "text": "We certainly will.B. Wow... I didn't know that",
+    "html": "<p><strong>We certainly will.</strong>\tB. Wow... I didn't know that</p>",
+    "has_bold": true
+  },
+  {
+    "text": "C. Amazing\tD. Sounds great!",
+    "html": "<p>C. Amazing\tD. Sounds great!</p>",
+    "has_bold": false
+  },
+  {
+    "text": "A. onB. by\tC. in\tD. over",
+    "html": "<p><strong>A. on</strong>\tB. by\tC. in\tD. over</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. horror filmB. comedyC. fantasy\tD. action film",
+    "html": "<p>A. horror film\t<strong>B. comedy</strong>\tC. fantasy\tD. action film</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. funnyB. violentC. interesting\tD. romantic",
+    "html": "<p>A. funny\t<strong>B. violent</strong>\tC. interesting\tD. romantic</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. thoughB. so\tC. however\tD. and",
+    "html": "<p><strong>A. though</strong>\tB. so\tC. however\tD. and</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. arrives\tB. arrived\tC. are arrivingD. will arrive",
+    "html": "<p>A. arrives\tB. arrived\tC. are arriving\t<strong>D. will arrive</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. aB. anC. the\tD. Ø",
+    "html": "<p>A. a\t<strong>B. an</strong>\tC. the\tD. Ø</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. yours\tB. your\tC. your bookD. mine",
+    "html": "<p>A. yours\tB. your\tC. your book\t<strong>D. mine</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. don't talkB. aren't talkingC. won't talk\tD. didn't talk",
+    "html": "<p>A. don't talk\t<strong>B. aren't talking</strong>\tC. won't talk\tD. didn't talk</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. is buildingB. will build\tC. build\tD. built",
+    "html": "<p><strong>A. is building</strong>\tB. will build\tC. build\tD. built</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. Hyperloop\tB. TeleporterC. Flying carD. Bullet train",
+    "html": "<p>A. Hyperloop\tB. Teleporter\t<strong>C. Flying car</strong>\tD. Bullet train</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. do\tB. did\tC. areD. will",
+    "html": "<p>A. do\tB. did\tC. are\t<strong>D. will</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. was\tB. were\tC. isD. are",
+    "html": "<p>A. was\tB. were\tC. is\t<strong>D. are</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. cleansB. pollutesC. helps\tD. protects",
+    "html": "<p>A. cleans\t<strong>B. pollutes</strong>\tC. helps\tD. protects</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. the - the - a\tB. the - a - theC. the - the - theD. the - the – a",
+    "html": "<p>A. the - the - a\tB. the - a - the\t<strong>C. the - the - the</strong>\tD. the - the – a</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. fireworksB. costumes\tC. feast\tD. parade",
+    "html": "<p><strong>A. fireworks</strong>\tB. costumes\tC. feast\tD. parade</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. AreB. WillC. Did\tD. Do",
+    "html": "<p>A. Are\t<strong>B. Will</strong>\tC. Did\tD. Do</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. transportB. vehicle\tC. travelling\tD. living",
+    "html": "<p><strong>A. transport</strong>\tB. vehicle\tC. travelling\tD. living</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. Therefore\tB. DespiteC. HoweverD. Although",
+    "html": "<p>A. Therefore\tB. Despite\t<strong>C. However</strong>\tD. Although</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. theirB. theirsC. its\tD. it",
+    "html": "<p>A. their\t<strong>B. theirs</strong>\tC. its\tD. it</p>",
+    "has_bold": true
+  },
+  {
+    "text": "replacement.",
+    "html": "<p>\treplacement.</p>",
+    "has_bold": false
+  },
+  {
+    "text": "A. inconvenient\tB. dangerous\tC. pollutedD. eco-friendly",
+    "html": "<p>A. inconvenient\tB. dangerous\tC. polluted\t<strong>D. eco-friendly</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. Be will it\tB. Be it will\tC. It will beD. Will it be",
+    "html": "<p>A. Be will it\tB. Be it will\tC. It will be\t<strong>D. Will it be</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. oursB. our\tC. we\tD. us",
+    "html": "<p><strong>A. ours</strong>\tB. our\tC. we\tD. us</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. it won't beB. will it be not\tC. will it not be\tD. won't it be",
+    "html": "<p><strong>A. it won't be</strong>\tB. will it be not\tC. will it not be\tD. won't it be</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. look\tB. looksC. will lookD. are looking",
+    "html": "<p>A. look\tB. looks\t<strong>C. will look</strong>\tD. are looking</p>",
+    "has_bold": true
+  },
+  {
+    "text": "John: “Would you like to go to the cinema this weekend?” - Ann: “ \t”",
+    "html": "<p>John: “Would you like to go to the cinema this weekend?” - Ann: “ \t”</p>",
+    "has_bold": false
+  },
+  {
+    "text": "A. I don’t care.\tB. Ok. You did it!C. Great! I can’t wait.\tD. Sorry. I don’t like.",
+    "html": "<p>A. I don’t care.\tB. Ok. You did it!\t<strong>C. Great! I can’t wait</strong>.\tD. Sorry. I don’t like.</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. ofB. aboutC. for\tD. in",
+    "html": "<p>A. of\t<strong>B. about</strong>\tC. for\tD. in</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A.PassengerB.DriverC.Road userD.Cyclist",
+    "html": "<p><strong>A. </strong>Passenger\t<strong>B. </strong>Driver\t<strong>C. </strong>Road user\t<strong>D. </strong>Cyclist</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A.shouldB.mustC.shouldn'tD. mustn’t",
+    "html": "<p><strong>A. </strong>should\t<strong>B. </strong>must\t<strong>C. </strong>shouldn't\t<strong>D. mustn’t</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "*\t46.Our family planned to watch a movie together last night. We were looking forward to it, but",
+    "html": "<p><strong>*\t46. </strong>Our family planned to watch a movie together last night. We were looking forward to it, but</p>",
+    "has_bold": true
+  },
+  {
+    "text": ".",
+    "html": "<p>\t.</p>",
+    "has_bold": false
+  },
+  {
+    "text": "A. a-c-b\tB. c-a-bC. b-a-cD. a-b-c",
+    "html": "<p>A. a-c-b\tB. c-a-b\t<strong>C. b-a-c</strong>\tD. a-b-c</p>",
+    "has_bold": true
+  },
+  {
+    "text": "* 48.A local high school recently introduced a new computer course. It is popular among students.",
+    "html": "<p><strong>* 48.  </strong>A local high school recently introduced a new computer course. It is popular among students.</p>",
+    "has_bold": true
+  },
+  {
+    "text": ".",
+    "html": "<p>\t.</p>",
+    "has_bold": false
+  },
+  {
+    "text": "A. a-c-b\tB. c-a-b\tC. b-a-cD. c-b-a",
+    "html": "<p>A. a-c-b\tB. c-a-b\tC. b-a-c\t<strong>D. c-b-a</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "There is now increasing concern about the world’s energy (50)\t, particularly about those involving fossil (51) \t\t. In less (52)\t\ta hundred years we shall probably use up all the present energy of oil and gas. The world’s coal reserves should last longer, (53)\tonce used, these cannot be (54)\t. It is important, therefore, that we should develop such alternative sources of energy as solar energy as (55)\t as water and wind power, classed as renewable energy.",
+    "html": "<p>There is now increasing concern about the world’s energy (50)\t, particularly about those involving fossil (51) \t\t. In less (52)\t\ta hundred years we shall probably use up all the present energy of oil and gas. The world’s coal reserves should last longer, (53)\tonce used, these cannot be (54)\t. It is important, therefore, that we should develop such alternative sources of energy as solar energy as (55)\t as water and wind power, classed as renewable energy.</p>",
+    "has_bold": false
+  },
+  {
+    "text": "59:What does the sign say?",
+    "html": "<p><strong>59: </strong>What does the sign say?</p>",
+    "has_bold": true
+  },
+  {
+    "text": "60.What does the sign say?",
+    "html": "<p><strong>60. </strong>What does the sign say?</p>",
+    "has_bold": true
+  },
+  {
+    "text": "SOLAR ENERGY WORKSHOP",
+    "html": "<p><strong>SOLAR ENERGY WORKSHOP</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "The Green Future Group is happy to announce a free workshop on solar energy this weekend. Details include:",
+    "html": "<p>The Green Future Group is happy to announce a free workshop on solar energy this weekend. Details include:</p>",
+    "has_bold": false
+  },
+  {
+    "text": "B. aware",
+    "html": "<p>B. aware</p>",
+    "has_bold": false
+  },
+  {
+    "text": "B. install",
+    "html": "<p>B. install</p>",
+    "has_bold": false
+  },
+  {
+    "text": "C. await",
+    "html": "<p>C. await</p>",
+    "has_bold": false
+  },
+  {
+    "text": "C. installing",
+    "html": "<p>C. installing</p>",
+    "has_bold": false
+  },
+  {
+    "text": "D. aware of",
+    "html": "<p>D. aware of</p>",
+    "has_bold": false
+  },
+  {
+    "text": "D. in installing",
+    "html": "<p>D. in installing</p>",
+    "has_bold": false
+  },
+  {
+    "text": "63.A. a",
+    "html": "<p><strong>63. </strong>A. a</p>",
+    "has_bold": true
+  },
+  {
+    "text": "B. an",
+    "html": "<p>B. an</p>",
+    "has_bold": false
+  },
+  {
+    "text": "C. no article",
+    "html": "<p>C. no article</p>",
+    "has_bold": false
+  },
+  {
+    "text": "D.the",
+    "html": "<p>D. <strong>the</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "64.A. on",
+    "html": "<p><strong>64. </strong>A. on</p>",
+    "has_bold": true
+  },
+  {
+    "text": "B. at",
+    "html": "<p>B. at</p>",
+    "has_bold": false
+  },
+  {
+    "text": "C. for",
+    "html": "<p>C. for</p>",
+    "has_bold": false
+  },
+  {
+    "text": "D.in",
+    "html": "<p>D. <strong>in</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "ANNOUNCEMENT OF THE GONG FESTIVAL CELEBRATION",
+    "html": "<p><strong>ANNOUNCEMENT OF THE GONG FESTIVAL CELEBRATION</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "We are excited to announce that a special Gong Festival will be held (65)\tMarch in the Central Highlands.",
+    "html": "<p>We are excited to announce that a special Gong Festival will be held (65)\tMarch in the Central Highlands.</p>",
+    "has_bold": false
+  },
+  {
+    "text": "This festival celebrates the unique cultural heritage of the gong, (66) \timportant traditional musical instrument in Vietnamese culture. It aims to honor and preserve the values of (67)",
+    "html": "<p>This festival celebrates the unique cultural heritage of the gong, (66) \timportant traditional musical instrument in Vietnamese culture. It aims to honor and preserve the values of (67)</p>",
+    "has_bold": false
+  },
+  {
+    "text": "and heritage in our country. We encourage everyone to join and experience the beauty of our",
+    "html": "<p>\tand heritage in our country. We encourage everyone to join and experience the beauty of our</p>",
+    "has_bold": false
+  },
+  {
+    "text": "(68)\t.",
+    "html": "<p>(68)\t.</p>",
+    "has_bold": false
+  },
+  {
+    "text": "65.",
+    "html": "<p><strong>65.</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. on",
+    "html": "<p><strong>A. on</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "B.in",
+    "html": "<p><strong>B. </strong>in</p>",
+    "has_bold": true
+  },
+  {
+    "text": "C.at",
+    "html": "<p><strong>C. </strong>at</p>",
+    "has_bold": true
+  },
+  {
+    "text": "D.during",
+    "html": "<p><strong>D. </strong>during</p>",
+    "has_bold": true
+  },
+  {
+    "text": "66.",
+    "html": "<p><strong>66.</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. an",
+    "html": "<p><strong>A. an</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "B.a",
+    "html": "<p><strong>B. </strong>a</p>",
+    "has_bold": true
+  },
+  {
+    "text": "C.the",
+    "html": "<p><strong>C. </strong>the</p>",
+    "has_bold": true
+  },
+  {
+    "text": "D.x (no article)",
+    "html": "<p><strong>D. </strong>x (no article)</p>",
+    "has_bold": true
+  },
+  {
+    "text": "67.",
+    "html": "<p><strong>67.</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "A.activity",
+    "html": "<p><strong>A. </strong>activity</p>",
+    "has_bold": true
+  },
+  {
+    "text": "B.dance",
+    "html": "<p><strong>B. </strong>dance</p>",
+    "has_bold": true
+  },
+  {
+    "text": "C. community",
+    "html": "<p><strong>C. community</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "D.statue",
+    "html": "<p><strong>D. </strong>statue</p>",
+    "has_bold": true
+  },
+  {
+    "text": "68.",
+    "html": "<p><strong>68.</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. traditions",
+    "html": "<p><strong>A. traditions</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "B.tradition",
+    "html": "<p><strong>B. </strong>tradition</p>",
+    "has_bold": true
+  },
+  {
+    "text": "C.traditional",
+    "html": "<p><strong>C. </strong>traditional</p>",
+    "has_bold": true
+  },
+  {
+    "text": "D.traditionally",
+    "html": "<p><strong>D. </strong>traditionally</p>",
+    "has_bold": true
+  },
+  {
+    "text": "Wind turbines are available in avarietyof sizes, and therefore power ratings. The largest machine has blades that span more than the length of a football field, stands 20-storey building high,",
+    "html": "<p>Wind turbines are available in a <strong>variety </strong>of sizes, and therefore power ratings. The largest machine has blades that span more than the length of a football field, stands 20-storey building high,</p>",
+    "has_bold": true
+  },
+  {
+    "text": "and produces enough electricity to power 1,400 homes. Asmallhome-sized wind machine has rotors between 8 and 25 feet in diameter and stands upwards of 30 feet, and can supply the power needs of an all-electric home or small business, utility scale turbines range in size from 50 to 750 kilowatts. Single small turbines, below 50 kilowatts, are used for homes, telecommunications dishes, or water pumping.",
+    "html": "<p>and produces enough electricity to power 1,400 homes. A <strong>small </strong>home-sized wind machine has rotors between 8 and 25 feet in diameter and stands upwards of 30 feet, and can supply the power needs of an all-electric home or small business, utility scale turbines range in size from 50 to 750 kilowatts. Single small turbines, below 50 kilowatts, are used for homes, telecommunications dishes, or water pumping.</p>",
+    "has_bold": true
+  },
+  {
+    "text": "*terrain (n): địa hình",
+    "html": "<p><em>*terrain (n): địa hình</em></p>",
+    "has_bold": false
+  },
+  {
+    "text": "*vegetative (adj): thuộc thực vật",
+    "html": "<p><em>*vegetative (adj): thuộc thực vật</em></p>",
+    "has_bold": false
+  },
+  {
+    "text": "*generate (v): phát ra",
+    "html": "<p><em>*generate (v): phát ra</em></p>",
+    "has_bold": false
+  },
+  {
+    "text": "A.What wind is?",
+    "html": "<p><strong>A. </strong>What wind is?</p>",
+    "has_bold": true
+  },
+  {
+    "text": "B. Descriptions of wind turbines",
+    "html": "<p><strong>B. Descriptions of wind turbines</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "C.How to generate electricity",
+    "html": "<p><strong>C. </strong>How to generate electricity</p>",
+    "has_bold": true
+  },
+  {
+    "text": "D.The role of wind",
+    "html": "<p><strong>D. </strong>The role of wind</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A.familiar",
+    "html": "<p><strong>A. </strong>familiar</p>",
+    "has_bold": true
+  },
+  {
+    "text": "B. tiny",
+    "html": "<p><strong>B. tiny</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "C. huge",
+    "html": "<p>C. huge</p>",
+    "has_bold": false
+  },
+  {
+    "text": "D.common",
+    "html": "<p><strong>D. </strong>common</p>",
+    "has_bold": true
+  },
+  {
+    "text": "C.motion energyD.wind turbines",
+    "html": "<p><strong>C. </strong>motion energy\t<strong>D. </strong>wind turbines</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A.earth’s terrainB.bodies of waterC.vegetative coverD. the Sun",
+    "html": "<p><strong>A. </strong>earth’s terrain\t<strong>B. </strong>bodies of water\t<strong>C. </strong>vegetative cover\t<strong>D. the Sun</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "C.30 feetD.50 feet",
+    "html": "<p><strong>C. </strong>30 feet\t<strong>D. </strong>50 feet</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A.capacity",
+    "html": "<p><strong>A. </strong>capacity</p>",
+    "has_bold": true
+  },
+  {
+    "text": "B.popularity",
+    "html": "<p><strong>B. </strong>popularity</p>",
+    "has_bold": true
+  },
+  {
+    "text": "C.diversity",
+    "html": "<p>C. <strong>diversity</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "D.minority",
+    "html": "<p><strong>D. </strong>minority</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. hugeB. tinyC. large\tD. awful",
+    "html": "<p>A. huge\t<strong>B. tiny</strong>\tC. large\tD. awful</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. moving\tB. frightening\tC. boringD. exciting",
+    "html": "<p>A. moving\tB. frightening\tC. boring\t<strong>D. exciting</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. The film.B. The kind house-elf.  C. The basilisk.\tD. The diary.",
+    "html": "<p><strong>A. The film.</strong>\tB. The kind house-elf.  C. The basilisk.\tD. The diary.</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. Extremely interesting.B. Rather boring.\tC. Very colourful.\tD. Pretty outdated.",
+    "html": "<p><strong>A. Extremely interesting.\t</strong>B. Rather boring.\tC. Very colourful.\tD. Pretty outdated.</p>",
+    "has_bold": true
+  },
+  {
+    "text": "She ......................................................................................................................",
+    "html": "<p>She ......................................................................................................................</p>",
+    "has_bold": false
+  },
+  {
+    "text": "Although ............................................................................................................",
+    "html": "<p>Although ............................................................................................................</p>",
+    "has_bold": false
+  },
+  {
+    "text": "We should .........................................................................................................",
+    "html": "<p>We should .........................................................................................................</p>",
+    "has_bold": false
+  },
+  {
+    "text": "This new car .......................................................................................................",
+    "html": "<p>This new car .......................................................................................................</p>",
+    "has_bold": false
+  },
+  {
+    "text": "Which notebook .................................................................................................",
+    "html": "<p>Which notebook .................................................................................................</p>",
+    "has_bold": false
+  },
+  {
+    "text": "...............................................................................................................................",
+    "html": "<p>...............................................................................................................................</p>",
+    "has_bold": false
+  },
+  {
+    "text": "...............................................................................................................................",
+    "html": "<p>...............................................................................................................................</p>",
+    "has_bold": false
+  },
+  {
+    "text": "...............................................................................................................................",
+    "html": "<p>...............................................................................................................................</p>",
+    "has_bold": false
+  },
+  {
+    "text": "=>",
+    "html": "<p>=&gt; \t</p>",
+    "has_bold": false
+  },
+  {
+    "text": "=>",
+    "html": "<p>=&gt; \t</p>",
+    "has_bold": false
+  },
+  {
+    "text": "solar panels on the roof of our house.",
+    "html": "<p>\tsolar panels on the roof of our house.</p>",
+    "has_bold": false
+  },
+  {
+    "text": "Question 1.A. gateB. translationC. nation\tD. paint",
+    "html": "<p><strong>Question 1. </strong>A. gate\t<strong>B. translation</strong>\tC. nation\tD. paint</p>",
+    "has_bold": true
+  },
+  {
+    "text": "Question 2.A. site\tB. twice\tC. sideD. thin",
+    "html": "<p><strong>Question 2. </strong>A. site\tB. twice\tC. side\t<strong>D. thin</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "Question 3. A. respectB. safety\tC. pavement\tD. traffic",
+    "html": "<p><strong>Question 3. A. respect</strong>\tB. safety\tC. pavement\tD. traffic</p>",
+    "has_bold": true
+  },
+  {
+    "text": "Question 4.A. illegal\tB. prohibitiveC. noisyD. polluted",
+    "html": "<p><strong>Question 4. </strong>A. illegal\tB. prohibitive\t<strong>C. noisy</strong>\tD. polluted</p>",
+    "has_bold": true
+  },
+  {
+    "text": "Question 5.he is a CEO and earns a lot of money, he is very mean. A.BecauseB. AlthoughC. Despite\tD. Because ofQuestion 6.This is a(n) \ton real life during wars in Vietnam in 1945.",
+    "html": "<p><strong>Question 5. </strong>\the is a CEO and earns a lot of money, he is very mean. A.Because\t\t<strong>B. Although</strong>\tC. Despite\tD. Because of <strong>Question 6. </strong>This is a(n) \ton real life during wars in Vietnam in 1945.</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A.Horror film\t\tB. sci-fi\t\t\tC. comedyD. documentaryQuestion 7.The film was so \t\t. However, my father saw it from beginning to end. A.Interesting\tB. excitingC. boringD. fascinating",
+    "html": "<p>A.Horror film\t\tB. sci-fi\t\t\tC. comedy\t\t<strong>D. documentary</strong> <strong>Question 7. </strong>The film was so \t\t. However, my father saw it from beginning to end. A.Interesting\tB. exciting\t<strong>C. boring</strong>\tD. fascinating</p>",
+    "has_bold": true
+  },
+  {
+    "text": "Question 8.having a broken leg, she took part in the competition. A.However\t\tB. AlthoughC. In spite ofD. BecauseQuestion 9.working very hard, he lost his job.",
+    "html": "<p><strong>Question 8. </strong>\thaving a broken leg, she took part in the competition. A.However\t\tB. Although\t<strong>C. In spite of</strong>\tD. Because <strong>Question 9. </strong>\t\t\tworking very hard, he lost his job.</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A.DespiteB. However\tC. But\tD. BecauseQuestion 10. Adam: “How about going to the cinema tonight?” – Linda: “\t”A.That’s a great idea. I’d love to.\tC. That’s an interesting film. I like it",
+    "html": "<p><strong>A.Despite</strong>\tB. However\tC. But\tD. Because <strong>Question 10. Adam: “</strong>How about going to the cinema tonight?” – Linda: “\t” <strong>A.That’s a great idea. I’d love to</strong>.\tC. That’s an interesting film. I like it</p>",
+    "has_bold": true
+  },
+  {
+    "text": "B. It’s a must-see film. You should watch it\tD. The cinema is quite big.",
+    "html": "<p>B. It’s a must-see film. You should watch it\tD. The cinema is quite big.</p>",
+    "has_bold": false
+  },
+  {
+    "text": "Question 11.This film made a strong impression \tme.",
+    "html": "<p><strong>Question 11. </strong>This film made a strong impression \tme.</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A.OnB. in\t\tC. to\tD. atQuestion 12.Peter wants to \tthe BEST ACTOR PRIZE this year. A.Act\tB. direct\t\tC. performD. win",
+    "html": "<p><strong>A.On</strong>\tB. in\t\tC. to\tD. at <strong>Question 12. </strong>Peter wants to \tthe BEST ACTOR PRIZE this year. A.Act\tB. direct\t\tC. perform\t<strong>D. win</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "MID-AUTUMN FESTIVAL CELEBRATION",
+    "html": "<p><strong>MID-AUTUMN FESTIVAL CELEBRATION</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "The Community Association is (13) \tto celebrate the annual Mid-Autumn Festival this Sunday evening.",
+    "html": "<p>The Community Association is (13) \tto celebrate the annual Mid-Autumn Festival this Sunday evening.</p>",
+    "has_bold": false
+  },
+  {
+    "text": "Details include:",
+    "html": "<p>Details include:</p>",
+    "has_bold": false
+  },
+  {
+    "text": "The celebration will (14) \tat the town square.",
+    "html": "<p>The celebration will (14) \tat the town square<strong>.</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "Visitors will enjoy traditional lantern displays and (15) \tmooncakes. Tickets are free but must be claimed (16) \tadvance.",
+    "html": "<p>Visitors will enjoy traditional lantern displays and (15) \tmooncakes. Tickets are free but must be claimed (16) \tadvance.</p>",
+    "has_bold": false
+  },
+  {
+    "text": "Question 13. A. thrilledB. thrilling\tC. thrill\tD. thrillyQuestion 14.A. hold\tB. take inC. take placeD. bringQuestion 15. A. deliciousB. delightful\tC. fine\tD. goodQuestion 16. A. inB. on\tC. from\tD. at",
+    "html": "<p><strong>Question 13. A. thrilled</strong>\tB. thrilling\tC. thrill\tD. thrilly <strong>Question 14. </strong>A. hold\tB. take in\t<strong>C. take place </strong>D. bring <strong>Question 15. A. delicious</strong>\tB. delightful\tC. fine\tD. good <strong>Question 16. A. in</strong>\tB. on\tC. from\tD. at</p>",
+    "has_bold": true
+  },
+  {
+    "text": "My family joined the spring flower festival last weekend. We were excited to see the beautiful flowers, but  .",
+    "html": "<p>My family joined the spring flower festival last weekend. We were excited to see the beautiful flowers, but  .</p>",
+    "has_bold": false
+  },
+  {
+    "text": "Most of our energy comes from fossil fuels (19)    , coal, oil, and natural gas. Although the supplies of these energy sources are plentiful, they are limited. The (20)    of coal and oil is also having very harmful impacts (21)     the environment. However, fossil fuels are not the only source of energy and burning fuel is not the only way to produce heat and motion. Renewable energy offers us a better way.",
+    "html": "<p>Most of our energy comes from fossil fuels (19)    , coal, oil, and natural gas. Although the supplies of these energy sources are plentiful, they are limited. The (20)    of coal and oil is also having very harmful impacts (21)     the environment. However, fossil fuels are not the only source of energy and burning fuel is not the only way to produce heat and motion. Renewable energy offers us a better way.</p>",
+    "has_bold": false
+  },
+  {
+    "text": "Some energy sources are renewable because they are naturally available (22)    last forever. Some sources have enormous supply so human can never use them up. Moreover, renewable energy sources have much smaller impacts on the environment than fossil and nuclear fuels. (23)     include solar energy, which comes from the sun and can be converted into electricity and heat. Wind, geothermal energy from inside the earth, biomass from plants, and hydropower from1water are (24)     renewable sources of energy.",
+    "html": "<p>Some energy sources are renewable because they are naturally available (22)    last forever. Some sources have enormous supply so human can never use them up. Moreover, renewable energy sources have much smaller impacts on the environment than fossil and nuclear fuels. (23)     include solar energy, which comes from the sun and can be converted into electricity and heat. Wind, geothermal energy from inside the earth, biomass from plants, and hydropower from <sup>1</sup> water are (24)     renewable sources of energy.</p>",
+    "has_bold": false
+  },
+  {
+    "text": "Question 19.A. includeB. such asC. unlike\tD. isQuestion 20.A. burn\tB. to burn\tC. burnsD. burningQuestion 21.A. at\tB. ofC. onD. in",
+    "html": "<p><strong>Question 19. </strong>A. include\t<strong>B. such as</strong>\tC. unlike\tD. is <strong>Question 20. </strong>A. burn\tB. to burn\tC. burns\t<strong>D. burning</strong> <strong>Question 21. </strong>A. at\tB. of\t<strong>C. on</strong>\tD. in</p>",
+    "has_bold": true
+  },
+  {
+    "text": "Question 22.A. so\tB. but\tC. forD. and",
+    "html": "<p><strong>Question 22. </strong>A. so\tB. but\tC. for\t<strong>D. and</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "Question 23.A. It\tB. There\tC. ThatD. They",
+    "html": "<p><strong>Question 23. </strong>A. It\tB. There\tC. That\t<strong>D. They</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "Question 24. A. alsoB. only\tC. last\tD. then",
+    "html": "<p><strong>Question 24. A. also</strong>\tB. only\tC. last\tD. then</p>",
+    "has_bold": true
+  },
+  {
+    "text": "Mark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the",
+    "html": "<p><strong><em>Mark the letter A, B, C or D on your answer sheet to indicate the sentence that is closest in meaning to the</em></strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "Read the following sign or notice and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.",
+    "html": "<p><strong><em>Read the following sign or notice and mark the letter A, B, C or D on your answer sheet to indicate the correct answer to each of the following questions.</em></strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "Question 26. What does the sign say?",
+    "html": "<p><strong>Question 26. What does the sign say?</strong></p>",
+    "has_bold": true
+  },
+  {
+    "text": "Twenty years ago, you needed to bring along air tickets, vouchers, travel cheques, and a heavy carry-on bag with Walkman, CDs, travel journal and etc. The load is so much lighter now since moststuffcan be stored in our tablets or smartphones. Technology is amazing isn't it?",
+    "html": "<p>Twenty years ago, you needed to bring along air tickets, vouchers, travel cheques, and a heavy carry-on bag with Walkman, CDs, travel journal and etc. The load is so much lighter now since most <strong>stuff </strong>can be stored in our tablets or smartphones. Technology is amazing isn't it?</p>",
+    "has_bold": true
+  },
+  {
+    "text": "Airport security was a brief back then. They used metal cutleries and gave all passengers bags of toiletries to keep them comfortable during the flight. Now, there are many limitations on things that we can and cannot bring on board. Thanks to \"Everyone can fly\" tagline, airlines had to reduce their services to stay afloat. So more people can fly and travel now.",
+    "html": "<p>Airport security was a brief back then. They used metal cutleries and gave all passengers bags of toiletries to keep them comfortable during the flight. Now, there are many limitations on things that we can and cannot bring on board. Thanks to \"Everyone can fly\" tagline, airlines had to reduce their services to stay afloat. So more people can fly and travel now.</p>",
+    "has_bold": false
+  },
+  {
+    "text": "Two decades ago, if you wish to call home, you can only do it at an International Telecommunications Exchange and dial you home number with no guarantee that it will get through. These days, all we need to stop by upon arrival is a local SIM cardavailableas you walk out of the departure hall. The Internet makes it easy for you to Skype, Facetime your family just to inform them that you have arrived safely.",
+    "html": "<p>Two decades ago, if you wish to call home, you can only do it at an International Telecommunications Exchange and dial you home number with no guarantee that it will get through. These days, all we need to stop by upon arrival is a local SIM card <strong>available </strong>as you walk out of the departure hall. The Internet makes it easy for you to Skype, Facetime your family just to inform them that you have arrived safely.</p>",
+    "has_bold": true
+  },
+  {
+    "text": "Question 27.What is the main idea of the passage?",
+    "html": "<p><strong>Question 27. </strong>What is the main idea of the passage?</p>",
+    "has_bold": true
+  },
+  {
+    "text": "Question 28.What is one important thing to bring along in your trip now?",
+    "html": "<p><strong>Question 28. </strong>What is one important thing to bring along in your trip now?</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A. Travel chequesB. your smartphoneC. Travel journal\tD. Travel car",
+    "html": "<p>A. Travel cheques\t<strong>B. your smartphone</strong>\tC. Travel journal\tD. Travel car</p>",
+    "has_bold": true
+  },
+  {
+    "text": "Question 29.The number of travelers is \t.",
+    "html": "<p><strong>Question 29. </strong>The number of travelers is \t.</p>",
+    "has_bold": true
+  },
+  {
+    "text": "Question 30.Which of the following statement is NOT TRUE according to the passage?",
+    "html": "<p><strong>Question 30. </strong>Which of the following statement is NOT TRUE according to the passage?</p>",
+    "has_bold": true
+  },
+  {
+    "text": "Question 31.The word “stuff” is CLOSEST in meaning to \t.",
+    "html": "<p><strong>Question 31. </strong>The word “<strong>stuff</strong>” is CLOSEST in meaning to \t.</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A.Object\tB. airlines\tC. service\tD. store",
+    "html": "<p>A. <strong>Objec</strong>t\tB. airlines\tC. service\tD. store</p>",
+    "has_bold": true
+  },
+  {
+    "text": "Question 32.The word “available”is OPPOSITE in meaning to \t.",
+    "html": "<p><strong>Question 32. </strong>The word “<strong>available” </strong>is OPPOSITE in meaning to \t.</p>",
+    "has_bold": true
+  },
+  {
+    "text": "A.RareB. abundant\tC. existing\tD. easy",
+    "html": "<p>A. <strong>Rare</strong>\tB. abundant\tC. existing\tD. easy</p>",
+    "has_bold": true
+  },
+  {
+    "text": "Question 33.Using non-renewable energy sources like coal, oil \ta lot of carbon dioxide (produce).",
+    "html": "<p><strong>Question 33. </strong>Using non-renewable energy sources like coal, oil \ta lot of carbon dioxide (produce).</p>",
+    "has_bold": true
+  },
+  {
+    "text": "Question 34.Renewable sources \t\tfrom the sun, wind or water.(come) Question 35.In the future we \tmore on renewable energy sources.(rely)Rewrite the following sentences using the words in brackets giving the same meaning.Question 36.Tom enjoys playing the guitar in his free time.",
+    "html": "<p><strong>Question 34. </strong>Renewable sources \t\tfrom the sun, wind or water. <strong>(come) Question 35. </strong>In the future we \tmore on renewable energy sources. <strong>(rely) <em>Rewrite the following sentences using the words in brackets giving the same meaning. </em>Question 36. </strong>Tom enjoys playing the guitar in his free time.</p>",
+    "has_bold": true
+  },
+  {
+    "text": "Tom is\t Question 37.In England, driving on the right side of the road is against the laws.You mustn’tQuestion 38.She spends thirty minutes doing this test.",
+    "html": "<p><strong>Tom is\t Question 37. </strong>In England, driving on the right side of the road is against the laws. <strong>You mustn’t</strong> <strong>Question 38. </strong>She spends thirty minutes doing this test.</p>",
+    "has_bold": true
+  },
+  {
+    "text": "Question 39.Robot/ help/ people/ do/ household chores.",
+    "html": "<p><strong>Question 39. </strong>Robot/ help/ people/ do/ household chores.</p>",
+    "has_bold": true
+  },
+  {
+    "text": "Question 40.Almost all our energy/ come/ oil/ gas/ natural gas.",
+    "html": "<p><strong>Question 40</strong>. <em>Almost all our energy/ come/ oil/ gas/ natural gas.</em></p>",
+    "has_bold": true
+  },
+  {
+    "text": "-The end-",
+    "html": "<p><strong>-The end-</strong></p>",
+    "has_bold": true
+  }
+]
