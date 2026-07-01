@@ -59,7 +59,13 @@ function speakText(text) {
   if (isGlobalMuted) return;
   stopSpeak();
   
-  const utterance = new SpeechSynthesisUtterance(text);
+  // Loại bỏ các hình ảnh biểu cảm (emojis) để tránh TTS đọc lặp lại tên của biểu tượng (ví dụ: "quả táo 🍎" -> tránh đọc thành "quả táo quả táo")
+  const cleanText = text
+    .replace(/\p{Extended_Pictographic}/gu, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+  
+  const utterance = new SpeechSynthesisUtterance(cleanText);
   utterance.lang = 'vi-VN';
   utterance.rate = 1.0;
   
