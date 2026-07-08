@@ -39,12 +39,4 @@ export const grades = [
     bgGradient: 'linear-gradient(135deg, #00B894, #00CEC9)',
     description: 'Nhà toán học nhí',
   },
-  {
-    id: 7,
-    name: 'Lớp 7',
-    emoji: '🎓',
-    color: '#FBBC05',
-    bgGradient: 'linear-gradient(135deg, #FBBC05, #EA4335)',
-    description: 'Chinh phục thử thách mới',
-  },
 ];

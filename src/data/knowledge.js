@@ -1,194 +1,104 @@
 export const knowledge = {
-  'phep-cong': {
-    term: 'Phép Cộng',
-    emoji: '➕',
-    definition: 'Phép cộng là gộp hai hay nhiều số lại với nhau để được tổng. Ví dụ: 3 + 5 = 8.',
-    example: '🍎🍎🍎 + 🍎🍎 = 🍎🍎🍎🍎🍎 (3 + 2 = 5)',
+  "phep-cong": {
+    "term": "Phép Cộng",
+    "emoji": "➕",
+    "definition": "Phép cộng là gộp hai hay nhiều số lại với nhau để được tổng. Ví dụ: 3 + 5 = 8.",
+    "example": "🍎🍎🍎 + 🍎🍎 = 🍎🍎🍎🍎🍎 (3 + 2 = 5)"
   },
-  'phep-tru': {
-    term: 'Phép Trừ',
-    emoji: '➖',
-    definition: 'Phép trừ là lấy đi một số từ một số khác. Ví dụ: 8 - 3 = 5.',
-    example: '🍎🍎🍎🍎🍎🍎🍎🍎 bỏ đi 3 quả còn lại 5 quả.',
+  "phep-tru": {
+    "term": "Phép Trừ",
+    "emoji": "➖",
+    "definition": "Phép trừ là lấy đi một số từ một số khác. Ví dụ: 8 - 3 = 5.",
+    "example": "🍎🍎🍎🍎🍎🍎🍎🍎 bỏ đi 3 quả còn lại 5 quả."
   },
-  'phep-nhan': {
-    term: 'Phép Nhân',
-    emoji: '✖️',
-    definition: 'Phép nhân là cộng một số với chính nó nhiều lần. 3 × 4 nghĩa là 3 cộng 4 lần: 3+3+3+3 = 12.',
-    example: '🌟🌟🌟 × 4 nhóm = 12 ngôi sao ⭐',
+  "phep-nhan": {
+    "term": "Phép Nhân",
+    "emoji": "✖️",
+    "definition": "Phép nhân là cộng một số với chính nó nhiều lần. 3 × 4 nghĩa là 3 cộng 4 lần: 3+3+3+3 = 12.",
+    "example": "🌟🌟🌟 × 4 nhóm = 12 ngôi sao ⭐"
   },
-  'phep-chia': {
-    term: 'Phép Chia',
-    emoji: '➗',
-    definition: 'Phép chia là chia đều một số thành nhiều phần bằng nhau. 12 ÷ 3 = 4 nghĩa là 12 chia thành 3 nhóm, mỗi nhóm 4.',
-    example: '🍬🍬🍬🍬🍬🍬 chia cho 3 bạn = 2 cái kẹo mỗi bạn',
+  "phep-chia": {
+    "term": "Phép Chia",
+    "emoji": "➗",
+    "definition": "Phép chia là chia đều một số thành nhiều phần bằng nhau. 12 ÷ 3 = 4 nghĩa là 12 chia thành 3 nhóm, mỗi nhóm 4.",
+    "example": "🍬🍬🍬🍬🍬🍬 chia cho 3 bạn = 2 cái kẹo mỗi bạn"
   },
-  'co-nho': {
-    term: 'Có Nhớ',
-    emoji: '🧠',
-    definition: 'Khi cộng hai số mà tổng các chữ số hàng đơn vị lớn hơn 9, ta "nhớ" 1 sang hàng chục.',
-    example: '8 + 7 = 15, viết 5, nhớ 1 lên hàng chục.',
+  "co-nho": {
+    "term": "Có Nhớ",
+    "emoji": "🧠",
+    "definition": "Khi cộng hai số mà tổng các chữ số hàng đơn vị lớn hơn 9, ta \"nhớ\" 1 sang hàng chục.",
+    "example": "8 + 7 = 15, viết 5, nhớ 1 lên hàng chục."
   },
-  'phan-so': {
-    term: 'Phân Số',
-    emoji: '½',
-    definition: 'Phân số biểu thị một phần của một cái gì đó. Tử số (trên) là số phần mình có, mẫu số (dưới) là tổng số phần bằng nhau.',
-    example: '🍕 cắt thành 4 phần, ăn 1 phần = 1/4 chiếc bánh pizza',
+  "phan-so": {
+    "term": "Phân Số",
+    "emoji": "½",
+    "definition": "Phân số biểu thị một phần của một cái gì đó. Tử số (trên) là số phần mình có, mẫu số (dưới) là tổng số phần bằng nhau.",
+    "example": "🍕 cắt thành 4 phần, ăn 1 phần = 1/4 chiếc bánh pizza"
   },
-  'hinh-vuong': {
-    term: 'Hình Vuông',
-    emoji: '⬛',
-    definition: 'Hình vuông có 4 cạnh bằng nhau và 4 góc vuông (90°). Chu vi = 4 × cạnh. Diện tích = cạnh × cạnh.',
-    example: 'Cạnh 5cm → Chu vi = 20cm, Diện tích = 25cm²',
+  "hinh-vuong": {
+    "term": "Hình Vuông",
+    "emoji": "⬛",
+    "definition": "Hình vuông có 4 cạnh bằng nhau và 4 góc vuông (90°). Chu vi = 4 × cạnh. Diện tích = cạnh × cạnh.",
+    "example": "Cạnh 5cm → Chu vi = 20cm, Diện tích = 25cm²"
   },
-  'hinh-chu-nhat': {
-    term: 'Hình Chữ Nhật',
-    emoji: '▬',
-    definition: 'Hình chữ nhật có 4 góc vuông, 2 cạnh dài bằng nhau và 2 cạnh ngắn bằng nhau. Diện tích = dài × rộng.',
-    example: 'Dài 6cm, rộng 4cm → Diện tích = 24cm²',
+  "hinh-chu-nhat": {
+    "term": "Hình Chữ Nhật",
+    "emoji": "▬",
+    "definition": "Hình chữ nhật có 4 góc vuông, 2 cạnh dài bằng nhau và 2 cạnh ngắn bằng nhau. Diện tích = dài × rộng.",
+    "example": "Dài 6cm, rộng 4cm → Diện tích = 24cm²"
   },
-  'ti-le-phan-tram': {
-    term: 'Tỉ Lệ Phần Trăm',
-    emoji: '💯',
-    definition: 'Phần trăm (%) là cách biểu thị một phần của 100. 50% nghĩa là 50 phần trong 100 phần, tức là một nửa.',
-    example: '10 quả táo, 5 quả chín = 50% số táo đã chín 🍎🍎🍎🍎🍎',
+  "ti-le-phan-tram": {
+    "term": "Tỉ Lệ Phần Trăm",
+    "emoji": "💯",
+    "definition": "Phần trăm (%) là cách biểu thị một phần của 100. 50% nghĩa là 50 phần trong 100 phần, tức là một nửa.",
+    "example": "10 quả táo, 5 quả chín = 50% số táo đã chín 🍎🍎🍎🍎🍎"
   },
-  'uoc-chung': {
-    term: 'Ước Chung',
-    emoji: '🔍',
-    definition: 'Ước chung của hai số là số chia hết cho cả hai. UCLN là ước chung lớn nhất.',
-    example: 'Ước của 12: 1,2,3,4,6,12. Ước của 8: 1,2,4,8. Ước chung: 1,2,4. UCLN = 4.',
+  "uoc-chung": {
+    "term": "Ước Chung",
+    "emoji": "🔍",
+    "definition": "Ước chung của hai số là số chia hết cho cả hai. UCLN là ước chung lớn nhất.",
+    "example": "Ước của 12: 1,2,3,4,6,12. Ước của 8: 1,2,4,8. Ước chung: 1,2,4. UCLN = 4."
   },
-  'hinh-thoi': {
-    term: 'Hình Thoi',
-    emoji: '🔶',
-    definition: 'Hình thoi là tứ giác có 4 cạnh bằng nhau. Diện tích hình thoi bằng nửa tích hai đường chéo.',
-    example: 'Đường chéo 6cm và 8cm -> Diện tích = (6 × 8) ÷ 2 = 24cm².',
+  "hinh-thoi": {
+    "term": "Hình Thoi",
+    "emoji": "🔶",
+    "definition": "Hình thoi là tứ giác có 4 cạnh bằng nhau. Diện tích hình thoi bằng nửa tích hai đường chéo.",
+    "example": "Đường chéo 6cm và 8cm -> Diện tích = (6 × 8) ÷ 2 = 24cm²."
   },
-  'hinh-binh-hanh': {
-    term: 'Hình Bình Hành',
-    emoji: '▱',
-    definition: 'Hình bình hành có các cặp cạnh đối diện song song và bằng nhau. Diện tích = đỉnh × chiều cao tương ứng.',
-    example: 'Đáy 10cm, chiều cao 6cm -> Diện tích = 10 × 6 = 60cm².',
+  "hinh-binh-hanh": {
+    "term": "Hình Bình Hành",
+    "emoji": "▱",
+    "definition": "Hình bình hành có các cặp cạnh đối diện song song và bằng nhau. Diện tích = đỉnh × chiều cao tương ứng.",
+    "example": "Đáy 10cm, chiều cao 6cm -> Diện tích = 10 × 6 = 60cm²."
   },
-  'trung-binh-cong': {
-    term: 'Trung Bình Cộng',
-    emoji: '📊',
-    definition: 'Gộp tổng giá trị của các số lại rồi chia đều cho số lượng các số đó.',
-    example: 'Trung bình của 10, 20, 30 là (10 + 20 + 30) ÷ 3 = 20.',
+  "trung-binh-cong": {
+    "term": "Trung Bình Cộng",
+    "emoji": "📊",
+    "definition": "Gộp tổng giá trị của các số lại rồi chia đều cho số lượng các số đó.",
+    "example": "Trung bình của 10, 20, 30 là (10 + 20 + 30) ÷ 3 = 20."
   },
-  'so-thap-phan': {
-    term: 'Số Thập Phân',
-    emoji: '🔢',
-    definition: 'Số thập phân gồm có phần nguyên và phần thập phân, ngăn cách nhau bởi dấu phẩy. Ví dụ: 12,5 (mười hai phẩy năm).',
-    example: '1,5 lít sữa = 1 lít và nửa lít nữa 🥛',
+  "so-thap-phan": {
+    "term": "Số Thập Phân",
+    "emoji": "🔢",
+    "definition": "Số thập phân gồm có phần nguyên và phần thập phân, ngăn cách nhau bởi dấu phẩy. Ví dụ: 12,5 (mười hai phẩy năm).",
+    "example": "1,5 lít sữa = 1 lít và nửa lít nữa 🥛"
   },
-  'toan-chuyen-dong': {
-    term: 'Toán Chuyển Động',
-    emoji: '🚗',
-    definition: 'Toán về chuyển động thường liên quan đến 3 đại lượng: Quãng đường (s), Vận tốc (v) và Thời gian (t). Công thức: s = v × t.',
-    example: 'Xe đi với vận tốc 40km/h trong 2 giờ thì đi được 80km.',
+  "toan-chuyen-dong": {
+    "term": "Toán Chuyển Động",
+    "emoji": "🚗",
+    "definition": "Toán về chuyển động thường liên quan đến 3 đại lượng: Quãng đường (s), Vận tốc (v) và Thời gian (t). Công thức: s = v × t.",
+    "example": "Xe đi với vận tốc 40km/h trong 2 giờ thì đi được 80km."
   },
-  'xem-gio': {
-    term: 'Xem Giờ',
-    emoji: '🕒',
-    definition: 'Xem giờ là cách đọc thời gian trên đồng hồ. Kim ngắn chỉ giờ, kim dài chỉ phút. Một ngày có 24 giờ.',
-    example: 'Kim ngắn chỉ số 3, kim dài chỉ số 12 là đúng 3 giờ.',
+  "xem-gio": {
+    "term": "Xem Giờ",
+    "emoji": "🕒",
+    "definition": "Xem giờ là cách đọc thời gian trên đồng hồ. Kim ngắn chỉ giờ, kim dài chỉ phút. Một ngày có 24 giờ.",
+    "example": "Kim ngắn chỉ số 3, kim dài chỉ số 12 là đúng 3 giờ."
   },
-  'kim-dong-ho': {
-    term: 'Kim Đồng Hồ',
-    emoji: '⏲️',
-    definition: 'Đồng hồ thường có 2 kim chính: Kim ngắn (chỉ giờ) và Kim dài (chỉ phút). Kim dài quay 1 vòng thì kim ngắn nhích đi 1 số.',
-    example: 'Kim dài chỉ số 6 là đã trôi qua 30 phút (một nửa giờ).',
-  },
-  'so-huu-ti': {
-    term: 'Số Hữu Tỉ',
-    emoji: '',
-    definition: 'Số hữu tỉ là số viết được dưới dạng phân số a/b với a, b là số nguyên và b khác 0.',
-    example: '2; -0,5; 1/3; 0 đều là các số hữu tỉ.',
-  },
-  'so-thuc': {
-    term: 'Số Thực',
-    emoji: '',
-    definition: 'Số thực bao gồm số hữu tỉ và số vô tỉ. Tập hợp số thực được ký hiệu là R.',
-    example: 'Số hữu tỉ (2, -3) và số vô tỉ (√2, π) đều là số thực.',
-  },
-  'can-bac-hai': {
-    term: 'Căn Bậc Hai',
-    emoji: '√',
-    definition: 'Căn bậc hai số học của số a không âm là số x không âm sao cho x² = a.',
-    example: '√25 = 5 vì 5 > 0 và 5² = 25.',
-  },
-  'luy-thua': {
-    term: 'Lũy Thừa',
-    emoji: 'ⁿ',
-    definition: 'Lũy thừa bậc n của x là tích của n thừa số x. xⁿ = x · x · ... · x (n thừa số).',
-    example: '2³ = 2 · 2 · 2 = 8.',
-  },
-  'goc-ke-bu': {
-    term: 'Góc Kề Bù',
-    emoji: '📐',
-    definition: 'Hai góc kề bù là hai góc có một cạnh chung, hai cạnh còn lại là hai tia đối nhau. Tổng số đo là 180°.',
-    example: 'Góc xOy = 110° và yOz = 70° kề bù nhau.',
-  },
-  'goc-doi-dinh': {
-    term: 'Góc Đối Đỉnh',
-    emoji: '✖️',
-    definition: 'Hai góc đối đỉnh là hai góc mà mỗi cạnh của góc này là tia đối của một cạnh của góc kia. Hai góc đối đỉnh thì bằng nhau.',
-    example: 'Khi hai đường thẳng cắt nhau, tạo thành các cặp góc đối đỉnh bằng nhau.',
-  },
-  'tia-phan-giac': {
-    term: 'Tia Phân Giác',
-    emoji: '📏',
-    definition: 'Tia phân giác của một góc là tia nằm giữa hai cạnh của góc và tạo với hai cạnh ấy hai góc bằng nhau.',
-    example: 'Ox là phân giác góc yOz thì góc xOy = góc xOz.',
-  },
-  'duong-thang-song-song': {
-    term: 'Đường Thẳng Song Song',
-    emoji: '═',
-    definition: 'Hai đường thẳng song song là hai đường thẳng không có điểm chung.',
-    example: 'Các cạnh đối diện của hình chữ nhật song song với nhau.',
-  },
-  'lang-tru-dung': {
-    term: 'Lăng Trụ Đứng',
-    emoji: '📦',
-    definition: 'Hình lăng trụ đứng có các mặt bên là hình chữ nhật và hai đáy là hai đa giác bằng nhau và song song.',
-    example: 'Lăng trụ đứng tam giác có 2 đáy là tam giác, các mặt bên là hình chữ nhật.',
-  },
-  'tam-giac': {
-    term: 'Tam Giác',
-    emoji: '🔺',
-    definition: 'Tam giác là đa giác có 3 đỉnh và 3 cạnh. Tổng 3 góc trong một tam giác luôn bằng 180°.',
-    example: 'Tam giác đều có 3 cạnh bằng nhau và 3 góc đều bằng 60°.',
-  },
-  'khi-hiem': {
-    term: 'Khí Hiếm',
-    emoji: '🎈',
-    definition: 'Khí hiếm là nhóm các nguyên tố hóa học không màu, không mùi và rất ít khi tham gia phản ứng hóa học vì có lớp electron ngoài cùng bền vững.',
-    example: 'Helium (He), Neon (Ne), Argon (Ar) là các khí hiếm.',
-  },
-  'tu-truong': {
-    term: 'Từ Trường',
-    emoji: '🧲',
-    definition: 'Từ trường là môi trường xung quanh nam châm hoặc dòng điện, có khả năng tác dụng lực từ lên kim nam châm đặt trong nó.',
-    example: 'Trái Đất có từ trường giúp kim la bàn luôn chỉ hướng Bắc - Nam.',
-  },
-  'nam-cham-dien': {
-    term: 'Nam Châm Điện',
-    emoji: '🔌',
-    definition: 'Nam châm điện là dụng cụ tạo ra từ trường nhờ dòng điện chạy qua cuộn dây. Từ tính của nó có thể thay đổi bằng cách thay đổi dòng điện.',
-    example: 'Cần cẩu điện dùng nam châm điện cực lớn để nhấc các khối sắt nặng.',
-  },
-  'khoa-hoc-vien-tuong': {
-    term: 'Khoa Học Viễn Tưởng',
-    emoji: '🛸',
-    definition: 'Loại truyện viết về thế giới tương lai dựa trên các giả thuyết khoa học li kì, công nghệ siêu hiện đại hoặc thám hiểm không gian/đại dương.',
-    example: 'Tiểu thuyết "Hai vạn dặm dưới đáy biển" của Jules Verne.',
-  },
-  'truyen-ngu-ngon': {
-    term: 'Truyện Ngụ Ngôn',
-    emoji: '🦊',
-    definition: 'Truyện ngắn dùng con vật, đồ vật để ngụ ý nói về chuyện người, nhằm đưa ra những bài học đạo đức hoặc kinh nghiệm sống sâu sắc.',
-    example: 'Truyện "Rùa và Thỏ", "Ếch ngồi đáy giếng".',
-  },
+  "kim-dong-ho": {
+    "term": "Kim Đồng Hồ",
+    "emoji": "⏲️",
+    "definition": "Đồng hồ thường có 2 kim chính: Kim ngắn (chỉ giờ) và Kim dài (chỉ phút). Kim dài quay 1 vòng thì kim ngắn nhích đi 1 số.",
+    "example": "Kim dài chỉ số 6 là đã trôi qua 30 phút (một nửa giờ)."
+  }
 };

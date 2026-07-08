@@ -614,33 +614,11 @@ function TopicList({ grade, subject, onSelectSubject, onSelect, onBack, onHome }
 
 function QuizPage({ grade, topic, onBack, onHome, onAddStars, onRestart }) {
   const isExam = topic.id.includes('midterm') || topic.id.includes('final');
-  const isGrade7 = grade.id === 7;
-  const sessionSize = isGrade7 ? 20 : 10;
+  const sessionSize = 10;
 
-  // Khởi tạo danh sách câu hỏi:
-  // - Lớp 7: lấy 20 câu, không lặp lại câu đã làm cho đến khi hết toàn bộ đề cương
+  // Khởi tạo danh sách câu hỏi: trộn ngẫu nhiên và lấy đúng số lượng
   const [problemList] = useState(() => {
     const all = topic.problemIds.map(id => problems[id]).filter(Boolean);
-    if (isGrade7) {
-      const storageKey = `toanvui-used-${topic.id}`;
-      let usedIds = [];
-      try { usedIds = JSON.parse(localStorage.getItem(storageKey) || '[]'); } catch {}
-      // Lọc những câu chưa làm
-      let unused = all.filter(p => !usedIds.includes(p.id));
-      // Nếu đã dùng hết hoặc không đủ, reset lại
-      if (unused.length < sessionSize) {
-        usedIds = [];
-        unused = all;
-        localStorage.removeItem(storageKey);
-      }
-      // Trộn ngẫu nhiên và lấy đúng số lượng
-      const shuffled = [...unused].sort(() => Math.random() - 0.5);
-      const picked = shuffled.slice(0, sessionSize);
-      // Lưu lại những câu vừa lấy là "đã làm"
-      const newUsed = [...usedIds, ...picked.map(p => p.id)];
-      try { localStorage.setItem(storageKey, JSON.stringify(newUsed)); } catch {}
-      return picked;
-    }
     const shuffled = [...all].sort(() => Math.random() - 0.5);
     return shuffled.slice(0, sessionSize);
   });
@@ -851,22 +829,12 @@ function QuizPage({ grade, topic, onBack, onHome, onAddStars, onRestart }) {
                   🕒 Dùng Đồng Hồ
                 </button>
               )}
-              {grade.id === 7 && topic.subject === "Toán Học" && (
-                <button 
-                  className={`btn-tool ${activeTool === 'draw' ? 'active' : ''}`} 
-                  onClick={() => setActiveTool(activeTool === 'draw' ? null : 'draw')}
-                >
-                  📐 Vẽ Hình Hình Học
-                </button>
-              )}
-              {grade.id !== 7 && (
-                <button 
-                  className={`btn-tool ${activeTool === 'draw' ? 'active' : ''}`} 
-                  onClick={() => setActiveTool(activeTool === 'draw' ? null : 'draw')}
-                >
-                  🎨 Bảng Vẽ Nháp
-                </button>
-              )}
+              <button 
+                className={`btn-tool ${activeTool === 'draw' ? 'active' : ''}`} 
+                onClick={() => setActiveTool(activeTool === 'draw' ? null : 'draw')}
+              >
+                🎨 Bảng Vẽ Nháp
+              </button>
             </div>
             {activeTool === 'sticks' && <StickTool />}
             {activeTool === 'draw' && <DrawingBoard />}
