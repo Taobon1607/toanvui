@@ -357,318 +357,6 @@ export const problems = {
       }
     ]
   },
-  "g2-add-1": {
-    "id": "g2-add-1",
-    "topicId": "g2-add",
-    "question": "28 + 35 = ?",
-    "choices": [
-      "53",
-      "63",
-      "62",
-      "73"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Cộng hàng đơn vị: 8 + 5 = 13. Viết 3, nhớ 1.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Cộng hàng chục: 2 + 3 = 5, cộng thêm 1 nhớ = 6.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 63 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-2": {
-    "id": "g2-add-2",
-    "topicId": "g2-add",
-    "question": "47 + 26 = ?",
-    "choices": [
-      "63",
-      "73",
-      "72",
-      "74"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 7 + 6 = 13. Viết 3, nhớ 1.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Hàng chục: 4 + 2 + 1(nhớ) = 7.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 73 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-3": {
-    "id": "g2-add-3",
-    "topicId": "g2-add",
-    "question": "56 + 37 = ?",
-    "choices": [
-      "83",
-      "93",
-      "94",
-      "84"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 6 + 7 = 13. Viết 3, nhớ 1.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Hàng chục: 5 + 3 + 1(nhớ) = 9.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 93 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-4": {
-    "id": "g2-add-4",
-    "topicId": "g2-add",
-    "question": "19 + 13 = ?",
-    "choices": [
-      "31",
-      "32",
-      "33",
-      "34"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 9 + 3 = 12. Viết 2, nhớ 1.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Hàng chục: 1 + 1 + 1(nhớ) = 3.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 32 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-1": {
-    "id": "g2-sub-1",
-    "topicId": "g2-sub",
-    "question": "52 - 27 = ?",
-    "choices": [
-      "26",
-      "24",
-      "25",
-      "35"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 2 < 7 nên mượn 1 từ hàng chục. 12 - 7 = 5.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 5 - 1(mượn) - 2 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 25 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-2": {
-    "id": "g2-sub-2",
-    "topicId": "g2-sub",
-    "question": "63 - 38 = ?",
-    "choices": [
-      "35",
-      "25",
-      "15",
-      "45"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 3 < 8 nên mượn 1. 13 - 8 = 5.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 6 - 1(mượn) - 3 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 25 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-3": {
-    "id": "g2-sub-3",
-    "topicId": "g2-sub",
-    "question": "80 - 45 = ?",
-    "choices": [
-      "25",
-      "35",
-      "45",
-      "15"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 0 < 5 nên mượn 1. 10 - 5 = 5.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 8 - 1(mượn) - 4 = 3.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 35 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-4": {
-    "id": "g2-sub-4",
-    "topicId": "g2-sub",
-    "question": "71 - 46 = ?",
-    "choices": [
-      "35",
-      "15",
-      "25",
-      "45"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 1 < 6 nên mượn 1. 11 - 6 = 5.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 7 - 1(mượn) - 4 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 25 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-1": {
-    "id": "g2-mul-1",
-    "topicId": "g2-mul",
-    "question": "4 × 3 = ?",
-    "choices": [
-      "10",
-      "15",
-      "12",
-      "7"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "4 × 3 có nghĩa là cộng số 4 ba lần:",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "4 + 4 + 4 = 12",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 4 × 3 = 12 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-2": {
-    "id": "g2-mul-2",
-    "topicId": "g2-mul",
-    "question": "6 × 5 = ?",
-    "choices": [
-      "30",
-      "25",
-      "35",
-      "11"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "6 × 5 là 6 nhóm, mỗi nhóm 5 vật.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "5 + 5 + 5 + 5 + 5 + 5 = 30",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 6 × 5 = 30 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-3": {
-    "id": "g2-mul-3",
-    "topicId": "g2-mul",
-    "question": "7 × 2 = ?",
-    "choices": [
-      "12",
-      "15",
-      "14",
-      "9"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "7 × 2 = 7 cộng 2 lần:",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "7 + 7 = 14",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 14 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-4": {
-    "id": "g2-mul-4",
-    "topicId": "g2-mul",
-    "question": "8 × 3 = ?",
-    "choices": [
-      "22",
-      "24",
-      "26",
-      "28"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "8 × 3 = 8 cộng 3 lần:",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "8 + 8 + 8 = 24",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 24 ✅",
-        "highlight": null
-      }
-    ]
-  },
   "g3-mul-1": {
     "id": "g3-mul-1",
     "topicId": "g3-mul",
@@ -1603,102 +1291,6 @@ export const problems = {
       }
     ]
   },
-  "g2-findx-1": {
-    "id": "g2-findx-1",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 15 = 45",
-    "choices": [
-      "30",
-      "40",
-      "50",
-      "60"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x là số hạng chưa biết.",
-        "highlight": null
-      },
-      {
-        "text": "Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 45 - 15 = 30 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-2": {
-    "id": "g2-findx-2",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 50 - x = 20",
-    "choices": [
-      "20",
-      "30",
-      "40",
-      "70"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "x là số trừ.",
-        "highlight": null
-      },
-      {
-        "text": "Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 50 - 20 = 30 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mes-1": {
-    "id": "g2-mes-1",
-    "topicId": "g2-measure",
-    "question": "Con lợn cân nặng 50kg, con chó nhẹ hơn lợn 30kg. Hỏi con chó cân nặng bao nhiêu?",
-    "choices": [
-      "80kg",
-      "30kg",
-      "20kg",
-      "10kg"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Bài toán \"nhẹ hơn\" -> Dùng phép trừ.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "50 - 30 = 20 (kg). Con chó nặng 20kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mes-2": {
-    "id": "g2-mes-2",
-    "topicId": "g2-measure",
-    "question": "Có 15 lít nước mắm chia đều vào 3 can. Mỗi can có bao nhiêu lít?",
-    "choices": [
-      "5 lít",
-      "6 lít",
-      "4 lít",
-      "3 lít"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều thì dùng phép chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "15 ÷ 3 = 5 (lít) ✅",
-        "highlight": null
-      }
-    ]
-  },
   "g3-chuvi-1": {
     "id": "g3-chuvi-1",
     "topicId": "g3-chuvi",
@@ -2463,618 +2055,6 @@ export const problems = {
     "steps": [
       {
         "text": "7cm + 2cm = 9cm.",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-add-gen-4": {
-    "id": "g2-add-gen-4",
-    "topicId": "g2-add",
-    "question": "Tính: 66 + 14 = ?",
-    "choices": [
-      "82",
-      "95",
-      "66",
-      "80"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Cộng từ phải sang trái. Hàng đơn vị: 6 + 4 có nhớ. 66 + 14 = 80.",
-        "highlight": "co-nho"
-      }
-    ]
-  },
-  "g2-add-gen-5": {
-    "id": "g2-add-gen-5",
-    "topicId": "g2-add",
-    "question": "Tính: 46 + 25 = ?",
-    "choices": [
-      "71",
-      "76",
-      "56",
-      "63"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Cộng từ phải sang trái. Hàng đơn vị: 6 + 5 có nhớ. 46 + 25 = 71.",
-        "highlight": "co-nho"
-      }
-    ]
-  },
-  "g2-add-gen-6": {
-    "id": "g2-add-gen-6",
-    "topicId": "g2-add",
-    "question": "Tính: 56 + 24 = ?",
-    "choices": [
-      "90",
-      "69",
-      "95",
-      "80"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Cộng từ phải sang trái. Hàng đơn vị: 6 + 4 có nhớ. 56 + 24 = 80.",
-        "highlight": "co-nho"
-      }
-    ]
-  },
-  "g2-add-gen-7": {
-    "id": "g2-add-gen-7",
-    "topicId": "g2-add",
-    "question": "Tính: 54 + 28 = ?",
-    "choices": [
-      "82",
-      "75",
-      "79",
-      "86"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Cộng từ phải sang trái. Hàng đơn vị: 4 + 8 có nhớ. 54 + 28 = 82.",
-        "highlight": "co-nho"
-      }
-    ]
-  },
-  "g2-add-gen-8": {
-    "id": "g2-add-gen-8",
-    "topicId": "g2-add",
-    "question": "Tính: 65 + 25 = ?",
-    "choices": [
-      "90",
-      "96",
-      "79",
-      "101"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Cộng từ phải sang trái. Hàng đơn vị: 5 + 5 có nhớ. 65 + 25 = 90.",
-        "highlight": "co-nho"
-      }
-    ]
-  },
-  "g2-add-gen-9": {
-    "id": "g2-add-gen-9",
-    "topicId": "g2-add",
-    "question": "Tính: 15 + 75 = ?",
-    "choices": [
-      "90",
-      "96",
-      "95",
-      "89"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Cộng từ phải sang trái. Hàng đơn vị: 5 + 5 có nhớ. 15 + 75 = 90.",
-        "highlight": "co-nho"
-      }
-    ]
-  },
-  "g2-sub-gen-4": {
-    "id": "g2-sub-gen-4",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 49 - 56",
-    "choices": [
-      "4",
-      "1",
-      "-7",
-      "8"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 49 - 56 = -7.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-sub-gen-5": {
-    "id": "g2-sub-gen-5",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 32 - 29",
-    "choices": [
-      "3",
-      "12",
-      "8",
-      "6"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 32 - 29 = 3.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-sub-gen-6": {
-    "id": "g2-sub-gen-6",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 92 - 36",
-    "choices": [
-      "67",
-      "52",
-      "45",
-      "56"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 92 - 36 = 56.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-sub-gen-7": {
-    "id": "g2-sub-gen-7",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 29 - 23",
-    "choices": [
-      "18",
-      "6",
-      "21",
-      "7"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 29 - 23 = 6.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-sub-gen-8": {
-    "id": "g2-sub-gen-8",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 62 - 34",
-    "choices": [
-      "37",
-      "28",
-      "14",
-      "31"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 62 - 34 = 28.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-sub-gen-9": {
-    "id": "g2-sub-gen-9",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 64 - 38",
-    "choices": [
-      "17",
-      "19",
-      "14",
-      "26"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 64 - 38 = 26.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-mul-gen-4": {
-    "id": "g2-mul-gen-4",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 5 × 9",
-    "choices": [
-      "48",
-      "45",
-      "57",
-      "53"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "5 nhân 9 bằng 45.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen-5": {
-    "id": "g2-mul-gen-5",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 4 × 7",
-    "choices": [
-      "43",
-      "38",
-      "28",
-      "18"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "4 nhân 7 bằng 28.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen-6": {
-    "id": "g2-mul-gen-6",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 3 × 9",
-    "choices": [
-      "34",
-      "13",
-      "16",
-      "27"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "3 nhân 9 bằng 27.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen-7": {
-    "id": "g2-mul-gen-7",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 2 × 5",
-    "choices": [
-      "3",
-      "2",
-      "10",
-      "11"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "2 nhân 5 bằng 10.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen-8": {
-    "id": "g2-mul-gen-8",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 3 × 2",
-    "choices": [
-      "15",
-      "20",
-      "6",
-      "21"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "3 nhân 2 bằng 6.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen-9": {
-    "id": "g2-mul-gen-9",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 5 × 7",
-    "choices": [
-      "35",
-      "44",
-      "49",
-      "23"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "5 nhân 7 bằng 35.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-findx-gen-2": {
-    "id": "g2-findx-gen-2",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 31 = 34",
-    "choices": [
-      "59",
-      "53",
-      "58",
-      "65"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "x = 34 + 31 = 65",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-findx-gen-3": {
-    "id": "g2-findx-gen-3",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 19 = 55",
-    "choices": [
-      "29",
-      "36",
-      "34",
-      "26"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "x = 55 - 19 = 36",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen-4": {
-    "id": "g2-findx-gen-4",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 17 = 47",
-    "choices": [
-      "30",
-      "40",
-      "15",
-      "38"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x = 47 - 17 = 30",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen-5": {
-    "id": "g2-findx-gen-5",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 22 = 17",
-    "choices": [
-      "39",
-      "34",
-      "53",
-      "52"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x = 17 + 22 = 39",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-findx-gen-6": {
-    "id": "g2-findx-gen-6",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 46 = 34",
-    "choices": [
-      "92",
-      "80",
-      "89",
-      "65"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "x = 34 + 46 = 80",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-findx-gen-7": {
-    "id": "g2-findx-gen-7",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 12 = 25",
-    "choices": [
-      "37",
-      "24",
-      "48",
-      "41"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x = 25 + 12 = 37",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-findx-gen-8": {
-    "id": "g2-findx-gen-8",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 50 = 50",
-    "choices": [
-      "100",
-      "110",
-      "92",
-      "109"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x = 50 + 50 = 100",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-findx-gen-9": {
-    "id": "g2-findx-gen-9",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 32 = 17",
-    "choices": [
-      "49",
-      "54",
-      "51",
-      "57"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x = 17 + 32 = 49",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-measure-gen-2": {
-    "id": "g2-measure-gen-2",
-    "topicId": "g2-measure",
-    "question": "Lợn cân nặng 5kg. Chó nặng thêm 9kg. Cả hai nặng bao nhiêu?",
-    "choices": [
-      "34kg",
-      "22kg",
-      "23kg",
-      "19kg"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Chó: 5 + 9 = 14kg. Tổng = 5 + 14 = 19kg.",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-measure-gen-3": {
-    "id": "g2-measure-gen-3",
-    "topicId": "g2-measure",
-    "question": "Lợn cân nặng 17kg. Chó nặng thêm 7kg. Cả hai nặng bao nhiêu?",
-    "choices": [
-      "50kg",
-      "60kg",
-      "41kg",
-      "43kg"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Chó: 17 + 7 = 24kg. Tổng = 17 + 24 = 41kg.",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-measure-gen-4": {
-    "id": "g2-measure-gen-4",
-    "topicId": "g2-measure",
-    "question": "Lợn cân nặng 14kg. Chó nặng thêm 11kg. Cả hai nặng bao nhiêu?",
-    "choices": [
-      "23kg",
-      "39kg",
-      "49kg",
-      "40kg"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Chó: 14 + 11 = 25kg. Tổng = 14 + 25 = 39kg.",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-measure-gen-5": {
-    "id": "g2-measure-gen-5",
-    "topicId": "g2-measure",
-    "question": "Lợn cân nặng 8kg. Chó nặng thêm 8kg. Cả hai nặng bao nhiêu?",
-    "choices": [
-      "36kg",
-      "10kg",
-      "24kg",
-      "19kg"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Chó: 8 + 8 = 16kg. Tổng = 8 + 16 = 24kg.",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-measure-gen-6": {
-    "id": "g2-measure-gen-6",
-    "topicId": "g2-measure",
-    "question": "Lợn cân nặng 15kg. Chó nặng thêm 8kg. Cả hai nặng bao nhiêu?",
-    "choices": [
-      "52kg",
-      "38kg",
-      "29kg",
-      "41kg"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Chó: 15 + 8 = 23kg. Tổng = 15 + 23 = 38kg.",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-measure-gen-7": {
-    "id": "g2-measure-gen-7",
-    "topicId": "g2-measure",
-    "question": "Lợn cân nặng 8kg. Chó nặng thêm 12kg. Cả hai nặng bao nhiêu?",
-    "choices": [
-      "45kg",
-      "28kg",
-      "38kg",
-      "12kg"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Chó: 8 + 12 = 20kg. Tổng = 8 + 20 = 28kg.",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-measure-gen-8": {
-    "id": "g2-measure-gen-8",
-    "topicId": "g2-measure",
-    "question": "Lợn cân nặng 14kg. Chó nặng thêm 8kg. Cả hai nặng bao nhiêu?",
-    "choices": [
-      "36kg",
-      "39kg",
-      "22kg",
-      "30kg"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chó: 14 + 8 = 22kg. Tổng = 14 + 22 = 36kg.",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-measure-gen-9": {
-    "id": "g2-measure-gen-9",
-    "topicId": "g2-measure",
-    "question": "Lợn cân nặng 5kg. Chó nặng thêm 15kg. Cả hai nặng bao nhiêu?",
-    "choices": [
-      "8kg",
-      "22kg",
-      "44kg",
-      "25kg"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Chó: 5 + 15 = 20kg. Tổng = 5 + 20 = 25kg.",
         "highlight": "phep-cong"
       }
     ]
@@ -5521,154 +4501,6 @@ export const problems = {
       }
     ]
   },
-  "g2-midterm-1": {
-    "id": "g2-midterm-1",
-    "topicId": "g2-midterm",
-    "question": "Dãy số nào gồm các số từ 900 đến 910?",
-    "choices": [
-      "900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910",
-      "900, 910, 920, 930, 940",
-      "899, 900, 901, 902",
-      "900, 902, 904, 906, 908, 910"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 900 đến 910.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-2": {
-    "id": "g2-midterm-2",
-    "topicId": "g2-midterm",
-    "question": "Tính: 456 + 378 = ?",
-    "choices": [
-      "824",
-      "834",
-      "734",
-      "835"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "6 + 8 = 14, viết 4 nhớ 1.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "5 + 7 = 12, thêm 1 là 13, viết 3 nhớ 1.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "4 + 3 = 7, thêm 1 là 8.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 834 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-3": {
-    "id": "g2-midterm-3",
-    "topicId": "g2-midterm",
-    "question": "Một lớp có 36 học sinh, chia đều thành 4 tổ. Hỏi mỗi tổ có bao nhiêu học sinh?",
-    "choices": [
-      "7 học sinh",
-      "8 học sinh",
-      "9 học sinh",
-      "10 học sinh"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 36 ÷ 4 = 9.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 9 học sinh ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-1": {
-    "id": "g2-final-1",
-    "topicId": "g2-final",
-    "question": "So sánh: 789 ... 798",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Hàng trăm bằng nhau (7 = 7).",
-        "highlight": null
-      },
-      {
-        "text": "Hàng chục: 8 < 9.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 789 < 798 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-2": {
-    "id": "g2-final-2",
-    "topicId": "g2-final",
-    "question": "Đổi đơn vị: 5000g = ... kg",
-    "choices": [
-      "5 kg",
-      "50 kg",
-      "500 kg",
-      "0.5 kg"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Ta biết 1000g = 1kg.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 5000g = 5000 ÷ 1000 = 5kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-3": {
-    "id": "g2-final-3",
-    "topicId": "g2-final",
-    "question": "Mẹ mua 3 kg cam, mỗi kg giá 25.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "50.000 đồng",
-      "70.000 đồng",
-      "75.000 đồng",
-      "80.000 đồng"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 25.000 × 3 = 75.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 75.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
   "g3-midterm-1": {
     "id": "g3-midterm-1",
     "topicId": "g3-midterm",
@@ -6037,58 +4869,6 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-1": {
-    "id": "g2-clock-1",
-    "topicId": "g2-clock",
-    "question": "Kim ngắn chỉ giữa số 4 và 5, kim dài chỉ số 6. Bây giờ là mấy giờ?",
-    "choices": [
-      "4 giờ 30 phút",
-      "5 giờ 30 phút",
-      "4 giờ 6 phút",
-      "6 giờ 4 phút"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Kim ngắn ở giữa 4 và 5 nghĩa là hơn 4 giờ nhưng chưa đến 5 giờ.",
-        "highlight": "xem-gio"
-      },
-      {
-        "text": "Kim dài chỉ số 6 tương ứng với 30 phút (vì 5 × 6 = 30).",
-        "highlight": null
-      },
-      {
-        "text": "Vậy là 4 giờ 30 phút (hay 4 giờ rưỡi). ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-2": {
-    "id": "g2-clock-2",
-    "topicId": "g2-clock",
-    "question": "Đồng hồ chỉ 9 giờ 15 phút. Kim dài đang chỉ vào số mấy?",
-    "choices": [
-      "Số 1",
-      "Số 3",
-      "Số 5",
-      "Số 9"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Mỗi số trên đồng hồ cách nhau 5 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "15 phút tương ứng với 15 ÷ 5 = 3.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy kim dài chỉ vào số 3. ✅",
-        "highlight": null
-      }
-    ]
-  },
   "g1-clock-3": {
     "id": "g1-clock-3",
     "topicId": "g1-clock",
@@ -6140,78 +4920,6 @@ export const problems = {
       {
         "text": "Kim ngắn chỉ số nào thì đó là giờ đó khi kim dài ở số 12. ✅",
         "highlight": "xem-gio"
-      }
-    ]
-  },
-  "g2-clock-3": {
-    "id": "g2-clock-3",
-    "topicId": "g2-clock",
-    "question": "Đồng hồ chỉ 7 giờ rưỡi. '7 giờ rưỡi' còn được gọi là mấy giờ mấy phút?",
-    "choices": [
-      "7 giờ 15 phút",
-      "7 giờ 30 phút",
-      "7 giờ 45 phút",
-      "8 giờ 30 phút"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "'Giờ rưỡi' tương ứng với 30 phút. Vậy là 7 giờ 30 phút. ✅",
-        "highlight": "xem-gio"
-      }
-    ]
-  },
-  "g2-clock-4": {
-    "id": "g2-clock-4",
-    "topicId": "g2-clock",
-    "question": "An bắt đầu làm bài tập lúc 8 giờ và làm xong lúc 8 giờ 30 phút. An đã làm bài trong bao lâu?",
-    "choices": [
-      "15 phút",
-      "30 phút",
-      "45 phút",
-      "1 giờ"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Từ 8 giờ đến 8 giờ 30 phút là trôi qua 30 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-5": {
-    "id": "g2-clock-5",
-    "topicId": "g2-clock",
-    "question": "Đồng hồ có kim ngắn chỉ giữa số 10 và 11, kim dài chỉ số 6. Đó là mấy giờ?",
-    "choices": [
-      "10 giờ đúng",
-      "10 giờ rưỡi",
-      "11 giờ đúng",
-      "11 giờ rưỡi"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Kim ngắn giữa 10 và 11 là hơn 10 giờ. Kim dài số 6 là 30 phút (giờ rưỡi). ✅",
-        "highlight": "xem-gio"
-      }
-    ]
-  },
-  "g2-clock-6": {
-    "id": "g2-clock-6",
-    "topicId": "g2-clock",
-    "question": "Mỗi vạch nhỏ trên mặt đồng hồ tương ứng với bao nhiêu phút?",
-    "choices": [
-      "1 phút",
-      "5 phút",
-      "10 phút",
-      "60 phút"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Mặt đồng hồ chia làm 60 vạch nhỏ, mỗi vạch là 1 phút. Giữa hai số lớn là 5 vạch nhỏ (5 phút). ✅",
-        "highlight": "kim-dong-ho"
       }
     ]
   },
@@ -16892,9 +15600,133 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-7": {
-    "id": "g2-clock-gen2-7",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-1": {
+    "id": "g2-clockstats-migrated-1",
+    "topicId": "g2-clockstats",
+    "question": "Kim ngắn chỉ giữa số 4 và 5, kim dài chỉ số 6. Bây giờ là mấy giờ?",
+    "choices": [
+      "4 giờ 30 phút",
+      "5 giờ 30 phút",
+      "4 giờ 6 phút",
+      "6 giờ 4 phút"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Kim ngắn ở giữa 4 và 5 nghĩa là hơn 4 giờ nhưng chưa đến 5 giờ.",
+        "highlight": "xem-gio"
+      },
+      {
+        "text": "Kim dài chỉ số 6 tương ứng với 30 phút (vì 5 × 6 = 30).",
+        "highlight": null
+      },
+      {
+        "text": "Vậy là 4 giờ 30 phút (hay 4 giờ rưỡi). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-migrated-2": {
+    "id": "g2-clockstats-migrated-2",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ chỉ 9 giờ 15 phút. Kim dài đang chỉ vào số mấy?",
+    "choices": [
+      "Số 1",
+      "Số 3",
+      "Số 5",
+      "Số 9"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Mỗi số trên đồng hồ cách nhau 5 phút.",
+        "highlight": "kim-dong-ho"
+      },
+      {
+        "text": "15 phút tương ứng với 15 ÷ 5 = 3.",
+        "highlight": null
+      },
+      {
+        "text": "Vậy kim dài chỉ vào số 3. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-migrated-3": {
+    "id": "g2-clockstats-migrated-3",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ chỉ 7 giờ rưỡi. '7 giờ rưỡi' còn được gọi là mấy giờ mấy phút?",
+    "choices": [
+      "7 giờ 15 phút",
+      "7 giờ 30 phút",
+      "7 giờ 45 phút",
+      "8 giờ 30 phút"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "'Giờ rưỡi' tương ứng với 30 phút. Vậy là 7 giờ 30 phút. ✅",
+        "highlight": "xem-gio"
+      }
+    ]
+  },
+  "g2-clockstats-migrated-4": {
+    "id": "g2-clockstats-migrated-4",
+    "topicId": "g2-clockstats",
+    "question": "An bắt đầu làm bài tập lúc 8 giờ và làm xong lúc 8 giờ 30 phút. An đã làm bài trong bao lâu?",
+    "choices": [
+      "15 phút",
+      "30 phút",
+      "45 phút",
+      "1 giờ"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Từ 8 giờ đến 8 giờ 30 phút là trôi qua 30 phút. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-migrated-5": {
+    "id": "g2-clockstats-migrated-5",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ có kim ngắn chỉ giữa số 10 và 11, kim dài chỉ số 6. Đó là mấy giờ?",
+    "choices": [
+      "10 giờ đúng",
+      "10 giờ rưỡi",
+      "11 giờ đúng",
+      "11 giờ rưỡi"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Kim ngắn giữa 10 và 11 là hơn 10 giờ. Kim dài số 6 là 30 phút (giờ rưỡi). ✅",
+        "highlight": "xem-gio"
+      }
+    ]
+  },
+  "g2-clockstats-migrated-6": {
+    "id": "g2-clockstats-migrated-6",
+    "topicId": "g2-clockstats",
+    "question": "Mỗi vạch nhỏ trên mặt đồng hồ tương ứng với bao nhiêu phút?",
+    "choices": [
+      "1 phút",
+      "5 phút",
+      "10 phút",
+      "60 phút"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Mặt đồng hồ chia làm 60 vạch nhỏ, mỗi vạch là 1 phút. Giữa hai số lớn là 5 vạch nhỏ (5 phút). ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-clockstats-migrated-7": {
+    "id": "g2-clockstats-migrated-7",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 11 giờ 50 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 1",
@@ -16918,9 +15750,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-8": {
-    "id": "g2-clock-gen2-8",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-8": {
+    "id": "g2-clockstats-migrated-8",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 4 giờ rưỡi. '4 giờ rưỡi' còn được gọi là mấy giờ mấy phút?",
     "choices": [
       "4 giờ 15 phút",
@@ -16940,9 +15772,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-9": {
-    "id": "g2-clock-gen2-9",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-9": {
+    "id": "g2-clockstats-migrated-9",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 8 giờ 15 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 6",
@@ -16966,9 +15798,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-10": {
-    "id": "g2-clock-gen2-10",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-10": {
+    "id": "g2-clockstats-migrated-10",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 1 giờ rưỡi. '1 giờ rưỡi' còn được gọi là mấy giờ mấy phút?",
     "choices": [
       "1 giờ 15 phút",
@@ -16988,9 +15820,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-11": {
-    "id": "g2-clock-gen2-11",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-11": {
+    "id": "g2-clockstats-migrated-11",
+    "topicId": "g2-clockstats",
     "question": "Kim ngắn chỉ giữa số 8 và 9, kim dài chỉ số 10. Bây giờ là mấy giờ?",
     "choices": [
       "8 giờ 35 phút",
@@ -17014,9 +15846,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-12": {
-    "id": "g2-clock-gen2-12",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-12": {
+    "id": "g2-clockstats-migrated-12",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 11 giờ rưỡi. '11 giờ rưỡi' còn được gọi là mấy giờ mấy phút?",
     "choices": [
       "11 giờ 45 phút",
@@ -17036,9 +15868,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-13": {
-    "id": "g2-clock-gen2-13",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-13": {
+    "id": "g2-clockstats-migrated-13",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 5 giờ 15 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 9",
@@ -17062,9 +15894,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-14": {
-    "id": "g2-clock-gen2-14",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-14": {
+    "id": "g2-clockstats-migrated-14",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 10 giờ 5 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 1",
@@ -17088,9 +15920,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-15": {
-    "id": "g2-clock-gen2-15",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-15": {
+    "id": "g2-clockstats-migrated-15",
+    "topicId": "g2-clockstats",
     "question": "Kim ngắn chỉ giữa số 6 và 7, kim dài chỉ số 7. Bây giờ là mấy giờ?",
     "choices": [
       "6 giờ 5 phút",
@@ -17114,9 +15946,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-16": {
-    "id": "g2-clock-gen2-16",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-16": {
+    "id": "g2-clockstats-migrated-16",
+    "topicId": "g2-clockstats",
     "question": "Minh bắt đầu vẽ tranh lúc 5 giờ và làm xong lúc 5 giờ 45 phút. Minh đã làm trong bao lâu?",
     "choices": [
       "52 phút",
@@ -17132,9 +15964,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-17": {
-    "id": "g2-clock-gen2-17",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-17": {
+    "id": "g2-clockstats-migrated-17",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 3 giờ rưỡi. '3 giờ rưỡi' còn được gọi là mấy giờ mấy phút?",
     "choices": [
       "3 giờ 45 phút",
@@ -17154,9 +15986,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-18": {
-    "id": "g2-clock-gen2-18",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-18": {
+    "id": "g2-clockstats-migrated-18",
+    "topicId": "g2-clockstats",
     "question": "Bình bắt đầu làm bài tập lúc 6 giờ 15 phút và làm xong lúc 6 giờ 30 phút. Bình đã làm trong bao lâu?",
     "choices": [
       "12 phút",
@@ -17172,9 +16004,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-19": {
-    "id": "g2-clock-gen2-19",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-19": {
+    "id": "g2-clockstats-migrated-19",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 1 giờ 25 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 11",
@@ -17198,9 +16030,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-20": {
-    "id": "g2-clock-gen2-20",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-20": {
+    "id": "g2-clockstats-migrated-20",
+    "topicId": "g2-clockstats",
     "question": "Hương bắt đầu chơi cờ vua lúc 3 giờ 30 phút và làm xong lúc 3 giờ 45 phút. Hương đã làm trong bao lâu?",
     "choices": [
       "14 phút",
@@ -17216,9 +16048,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-21": {
-    "id": "g2-clock-gen2-21",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-21": {
+    "id": "g2-clockstats-migrated-21",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 3 giờ 10 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 10",
@@ -17242,9 +16074,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-22": {
-    "id": "g2-clock-gen2-22",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-22": {
+    "id": "g2-clockstats-migrated-22",
+    "topicId": "g2-clockstats",
     "question": "Hùng bắt đầu vẽ tranh lúc 2 giờ và làm xong lúc 2 giờ 45 phút. Hùng đã làm trong bao lâu?",
     "choices": [
       "45 phút",
@@ -17260,9 +16092,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-23": {
-    "id": "g2-clock-gen2-23",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-23": {
+    "id": "g2-clockstats-migrated-23",
+    "topicId": "g2-clockstats",
     "question": "Kim ngắn chỉ giữa số 9 và 10, kim dài chỉ số 5. Bây giờ là mấy giờ?",
     "choices": [
       "9 giờ 50 phút",
@@ -17286,9 +16118,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-24": {
-    "id": "g2-clock-gen2-24",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-24": {
+    "id": "g2-clockstats-migrated-24",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 11 giờ 25 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 5",
@@ -17312,9 +16144,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-25": {
-    "id": "g2-clock-gen2-25",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-25": {
+    "id": "g2-clockstats-migrated-25",
+    "topicId": "g2-clockstats",
     "question": "Kim ngắn chỉ giữa số 1 và 2, kim dài chỉ số 3. Bây giờ là mấy giờ?",
     "choices": [
       "1 giờ 5 phút",
@@ -17338,9 +16170,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-26": {
-    "id": "g2-clock-gen2-26",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-26": {
+    "id": "g2-clockstats-migrated-26",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 3 giờ 5 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 4",
@@ -17364,9 +16196,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-27": {
-    "id": "g2-clock-gen2-27",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-27": {
+    "id": "g2-clockstats-migrated-27",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 9 giờ 10 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 2",
@@ -17390,9 +16222,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-28": {
-    "id": "g2-clock-gen2-28",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-28": {
+    "id": "g2-clockstats-migrated-28",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 6 giờ 25 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 4",
@@ -17416,9 +16248,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-29": {
-    "id": "g2-clock-gen2-29",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-29": {
+    "id": "g2-clockstats-migrated-29",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 9 giờ rưỡi. '9 giờ rưỡi' còn được gọi là mấy giờ mấy phút?",
     "choices": [
       "9 giờ 45 phút",
@@ -17438,9 +16270,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-30": {
-    "id": "g2-clock-gen2-30",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-30": {
+    "id": "g2-clockstats-migrated-30",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 1 giờ 55 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 11",
@@ -17464,9 +16296,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-31": {
-    "id": "g2-clock-gen2-31",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-31": {
+    "id": "g2-clockstats-migrated-31",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 6 giờ 50 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 7",
@@ -17490,9 +16322,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-32": {
-    "id": "g2-clock-gen2-32",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-32": {
+    "id": "g2-clockstats-migrated-32",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 2 giờ 35 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 10",
@@ -17516,9 +16348,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-33": {
-    "id": "g2-clock-gen2-33",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-33": {
+    "id": "g2-clockstats-migrated-33",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 6 giờ 40 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 7",
@@ -17542,9 +16374,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-34": {
-    "id": "g2-clock-gen2-34",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-34": {
+    "id": "g2-clockstats-migrated-34",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 2 giờ 20 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 8",
@@ -17568,9 +16400,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-35": {
-    "id": "g2-clock-gen2-35",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-35": {
+    "id": "g2-clockstats-migrated-35",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 10 giờ rưỡi. '10 giờ rưỡi' còn được gọi là mấy giờ mấy phút?",
     "choices": [
       "10 giờ 45 phút",
@@ -17590,9 +16422,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-36": {
-    "id": "g2-clock-gen2-36",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-36": {
+    "id": "g2-clockstats-migrated-36",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 4 giờ 25 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 4",
@@ -17616,9 +16448,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-37": {
-    "id": "g2-clock-gen2-37",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-37": {
+    "id": "g2-clockstats-migrated-37",
+    "topicId": "g2-clockstats",
     "question": "Huy bắt đầu làm bài tập lúc 3 giờ và làm xong lúc 3 giờ 45 phút. Huy đã làm trong bao lâu?",
     "choices": [
       "38 phút",
@@ -17634,9 +16466,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-38": {
-    "id": "g2-clock-gen2-38",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-38": {
+    "id": "g2-clockstats-migrated-38",
+    "topicId": "g2-clockstats",
     "question": "Mai bắt đầu chơi cờ vua lúc 4 giờ 15 phút và làm xong lúc 5 giờ. Mai đã làm trong bao lâu?",
     "choices": [
       "42 phút",
@@ -17652,9 +16484,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-39": {
-    "id": "g2-clock-gen2-39",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-39": {
+    "id": "g2-clockstats-migrated-39",
+    "topicId": "g2-clockstats",
     "question": "Bình bắt đầu chơi cờ vua lúc 8 giờ và làm xong lúc 8 giờ 45 phút. Bình đã làm trong bao lâu?",
     "choices": [
       "52 phút",
@@ -17670,9 +16502,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-40": {
-    "id": "g2-clock-gen2-40",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-40": {
+    "id": "g2-clockstats-migrated-40",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 1 giờ 30 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 6",
@@ -17696,9 +16528,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-41": {
-    "id": "g2-clock-gen2-41",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-41": {
+    "id": "g2-clockstats-migrated-41",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 11 giờ 15 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 9",
@@ -17722,9 +16554,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-42": {
-    "id": "g2-clock-gen2-42",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-42": {
+    "id": "g2-clockstats-migrated-42",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 2 giờ rưỡi. '2 giờ rưỡi' còn được gọi là mấy giờ mấy phút?",
     "choices": [
       "2 giờ 30 phút",
@@ -17744,9 +16576,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-43": {
-    "id": "g2-clock-gen2-43",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-43": {
+    "id": "g2-clockstats-migrated-43",
+    "topicId": "g2-clockstats",
     "question": "Lan bắt đầu chơi cờ vua lúc 2 giờ 30 phút và làm xong lúc 2 giờ 45 phút. Lan đã làm trong bao lâu?",
     "choices": [
       "15 phút",
@@ -17762,9 +16594,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-44": {
-    "id": "g2-clock-gen2-44",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-44": {
+    "id": "g2-clockstats-migrated-44",
+    "topicId": "g2-clockstats",
     "question": "Huy bắt đầu làm bài tập lúc 5 giờ 30 phút và làm xong lúc 6 giờ. Huy đã làm trong bao lâu?",
     "choices": [
       "29 phút",
@@ -17780,9 +16612,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-45": {
-    "id": "g2-clock-gen2-45",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-45": {
+    "id": "g2-clockstats-migrated-45",
+    "topicId": "g2-clockstats",
     "question": "Huy bắt đầu làm bài tập lúc 9 giờ 15 phút và làm xong lúc 10 giờ. Huy đã làm trong bao lâu?",
     "choices": [
       "47 phút",
@@ -17798,9 +16630,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-46": {
-    "id": "g2-clock-gen2-46",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-46": {
+    "id": "g2-clockstats-migrated-46",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 2 giờ 25 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 5",
@@ -17824,9 +16656,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-47": {
-    "id": "g2-clock-gen2-47",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-47": {
+    "id": "g2-clockstats-migrated-47",
+    "topicId": "g2-clockstats",
     "question": "Kim ngắn chỉ giữa số 1 và 2, kim dài chỉ số 5. Bây giờ là mấy giờ?",
     "choices": [
       "1 giờ 25 phút",
@@ -17850,9 +16682,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-48": {
-    "id": "g2-clock-gen2-48",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-48": {
+    "id": "g2-clockstats-migrated-48",
+    "topicId": "g2-clockstats",
     "question": "Kim ngắn chỉ giữa số 5 và 6, kim dài chỉ số 11. Bây giờ là mấy giờ?",
     "choices": [
       "5 giờ 40 phút",
@@ -17876,9 +16708,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-49": {
-    "id": "g2-clock-gen2-49",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-49": {
+    "id": "g2-clockstats-migrated-49",
+    "topicId": "g2-clockstats",
     "question": "Kim ngắn chỉ giữa số 2 và 3, kim dài chỉ số 9. Bây giờ là mấy giờ?",
     "choices": [
       "2 giờ 55 phút",
@@ -17902,9 +16734,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-50": {
-    "id": "g2-clock-gen2-50",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-50": {
+    "id": "g2-clockstats-migrated-50",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 8 giờ 10 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 2",
@@ -17928,9 +16760,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-51": {
-    "id": "g2-clock-gen2-51",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-51": {
+    "id": "g2-clockstats-migrated-51",
+    "topicId": "g2-clockstats",
     "question": "Kim ngắn chỉ giữa số 8 và 9, kim dài chỉ số 2. Bây giờ là mấy giờ?",
     "choices": [
       "8 giờ 40 phút",
@@ -17954,9 +16786,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-52": {
-    "id": "g2-clock-gen2-52",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-52": {
+    "id": "g2-clockstats-migrated-52",
+    "topicId": "g2-clockstats",
     "question": "Minh bắt đầu đọc sách lúc 6 giờ 15 phút và làm xong lúc 6 giờ 45 phút. Minh đã làm trong bao lâu?",
     "choices": [
       "30 phút",
@@ -17972,9 +16804,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-53": {
-    "id": "g2-clock-gen2-53",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-53": {
+    "id": "g2-clockstats-migrated-53",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 1 giờ 10 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 11",
@@ -17998,9 +16830,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-54": {
-    "id": "g2-clock-gen2-54",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-54": {
+    "id": "g2-clockstats-migrated-54",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 10 giờ 10 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 10",
@@ -18024,9 +16856,9 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-55": {
-    "id": "g2-clock-gen2-55",
-    "topicId": "g2-clock",
+  "g2-clockstats-migrated-55": {
+    "id": "g2-clockstats-migrated-55",
+    "topicId": "g2-clockstats",
     "question": "Đồng hồ chỉ 7 giờ 30 phút. Kim dài đang chỉ vào số mấy?",
     "choices": [
       "Số 10",
@@ -18050,1023 +16882,221 @@ export const problems = {
       }
     ]
   },
-  "g2-clock-gen2-56": {
-    "id": "g2-clock-gen2-56",
-    "topicId": "g2-clock",
-    "question": "Kim ngắn chỉ giữa số 7 và 8, kim dài chỉ số 10. Bây giờ là mấy giờ?",
+  "g2-addsub100-migrated-56": {
+    "id": "g2-addsub100-migrated-56",
+    "topicId": "g2-addsub100",
+    "question": "28 + 35 = ?",
     "choices": [
-      "7 giờ 40 phút",
-      "7 giờ 50 phút",
-      "7 giờ 5 phút",
-      "7 giờ 15 phút"
+      "53",
+      "63",
+      "62",
+      "73"
     ],
     "answer": 1,
     "steps": [
       {
-        "text": "Kim ngắn ở giữa 7 và 8 nghĩa là hơn 7 giờ.",
-        "highlight": "xem-gio"
+        "text": "Cộng hàng đơn vị: 8 + 5 = 13. Viết 3, nhớ 1.",
+        "highlight": "co-nho"
       },
       {
-        "text": "Kim dài chỉ số 10 tương ứng với 10 × 5 = 50 phút.",
-        "highlight": "kim-dong-ho"
+        "text": "Cộng hàng chục: 2 + 3 = 5, cộng thêm 1 nhớ = 6.",
+        "highlight": "co-nho"
       },
       {
-        "text": "Vậy là 7 giờ 50 phút. ✅",
+        "text": "Kết quả: 63 ✅",
         "highlight": null
       }
     ]
   },
-  "g2-clock-gen2-57": {
-    "id": "g2-clock-gen2-57",
-    "topicId": "g2-clock",
-    "question": "Kim ngắn chỉ giữa số 10 và 11, kim dài chỉ số 9. Bây giờ là mấy giờ?",
+  "g2-addsub100-migrated-57": {
+    "id": "g2-addsub100-migrated-57",
+    "topicId": "g2-addsub100",
+    "question": "47 + 26 = ?",
     "choices": [
-      "10 giờ 40 phút",
-      "10 giờ 45 phút",
-      "10 giờ 30 phút",
-      "10 giờ 55 phút"
+      "63",
+      "73",
+      "72",
+      "74"
     ],
     "answer": 1,
     "steps": [
       {
-        "text": "Kim ngắn ở giữa 10 và 11 nghĩa là hơn 10 giờ.",
-        "highlight": "xem-gio"
+        "text": "Hàng đơn vị: 7 + 6 = 13. Viết 3, nhớ 1.",
+        "highlight": "co-nho"
       },
       {
-        "text": "Kim dài chỉ số 9 tương ứng với 9 × 5 = 45 phút.",
-        "highlight": "kim-dong-ho"
+        "text": "Hàng chục: 4 + 2 + 1(nhớ) = 7.",
+        "highlight": "co-nho"
       },
       {
-        "text": "Vậy là 10 giờ 45 phút. ✅",
+        "text": "Kết quả: 73 ✅",
         "highlight": null
       }
     ]
   },
-  "g2-clock-gen2-58": {
-    "id": "g2-clock-gen2-58",
-    "topicId": "g2-clock",
-    "question": "Kim ngắn chỉ giữa số 3 và 4, kim dài chỉ số 10. Bây giờ là mấy giờ?",
+  "g2-addsub100-migrated-58": {
+    "id": "g2-addsub100-migrated-58",
+    "topicId": "g2-addsub100",
+    "question": "56 + 37 = ?",
     "choices": [
-      "3 giờ 20 phút",
-      "3 giờ 55 phút",
-      "3 giờ 40 phút",
-      "3 giờ 50 phút"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Kim ngắn ở giữa 3 và 4 nghĩa là hơn 3 giờ.",
-        "highlight": "xem-gio"
-      },
-      {
-        "text": "Kim dài chỉ số 10 tương ứng với 10 × 5 = 50 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "Vậy là 3 giờ 50 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-59": {
-    "id": "g2-clock-gen2-59",
-    "topicId": "g2-clock",
-    "question": "Đồng hồ chỉ 10 giờ 55 phút. Kim dài đang chỉ vào số mấy?",
-    "choices": [
-      "Số 3",
-      "Số 4",
-      "Số 8",
-      "Số 11"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Mỗi số trên đồng hồ cách nhau 5 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "55 phút tương ứng với 55 ÷ 5 = 11.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy kim dài chỉ vào số 11. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-60": {
-    "id": "g2-clock-gen2-60",
-    "topicId": "g2-clock",
-    "question": "Đồng hồ chỉ 4 giờ 30 phút. Kim dài đang chỉ vào số mấy?",
-    "choices": [
-      "Số 10",
-      "Số 9",
-      "Số 6",
-      "Số 5"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Mỗi số trên đồng hồ cách nhau 5 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "30 phút tương ứng với 30 ÷ 5 = 6.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy kim dài chỉ vào số 6. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-61": {
-    "id": "g2-clock-gen2-61",
-    "topicId": "g2-clock",
-    "question": "Đồng hồ chỉ 2 giờ 45 phút. Kim dài đang chỉ vào số mấy?",
-    "choices": [
-      "Số 7",
-      "Số 9",
-      "Số 2",
-      "Số 4"
+      "83",
+      "93",
+      "94",
+      "84"
     ],
     "answer": 1,
     "steps": [
       {
-        "text": "Mỗi số trên đồng hồ cách nhau 5 phút.",
-        "highlight": "kim-dong-ho"
+        "text": "Hàng đơn vị: 6 + 7 = 13. Viết 3, nhớ 1.",
+        "highlight": "co-nho"
       },
       {
-        "text": "45 phút tương ứng với 45 ÷ 5 = 9.",
-        "highlight": null
+        "text": "Hàng chục: 5 + 3 + 1(nhớ) = 9.",
+        "highlight": "co-nho"
       },
       {
-        "text": "Vậy kim dài chỉ vào số 9. ✅",
+        "text": "Kết quả: 93 ✅",
         "highlight": null
       }
     ]
   },
-  "g2-clock-gen2-62": {
-    "id": "g2-clock-gen2-62",
-    "topicId": "g2-clock",
-    "question": "Huy bắt đầu vẽ tranh lúc 9 giờ 30 phút và làm xong lúc 10 giờ. Huy đã làm trong bao lâu?",
+  "g2-addsub100-migrated-59": {
+    "id": "g2-addsub100-migrated-59",
+    "topicId": "g2-addsub100",
+    "question": "19 + 13 = ?",
     "choices": [
-      "19 phút",
-      "30 phút",
-      "21 phút",
-      "39 phút"
+      "31",
+      "32",
+      "33",
+      "34"
     ],
     "answer": 1,
     "steps": [
       {
-        "text": "Từ 9 giờ 30 phút đến 10 giờ là trôi qua 30 phút. ✅",
+        "text": "Hàng đơn vị: 9 + 3 = 12. Viết 2, nhớ 1.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Hàng chục: 1 + 1 + 1(nhớ) = 3.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 32 ✅",
         "highlight": null
       }
     ]
   },
-  "g2-clock-gen2-63": {
-    "id": "g2-clock-gen2-63",
-    "topicId": "g2-clock",
-    "question": "Đồng hồ chỉ 2 giờ 15 phút. Kim dài đang chỉ vào số mấy?",
+  "g2-addsub100-migrated-60": {
+    "id": "g2-addsub100-migrated-60",
+    "topicId": "g2-addsub100",
+    "question": "Tính: 66 + 14 = ?",
     "choices": [
-      "Số 2",
-      "Số 7",
-      "Số 9",
-      "Số 3"
+      "82",
+      "95",
+      "66",
+      "80"
     ],
     "answer": 3,
     "steps": [
       {
-        "text": "Mỗi số trên đồng hồ cách nhau 5 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "15 phút tương ứng với 15 ÷ 5 = 3.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy kim dài chỉ vào số 3. ✅",
-        "highlight": null
+        "text": "Cộng từ phải sang trái. Hàng đơn vị: 6 + 4 có nhớ. 66 + 14 = 80.",
+        "highlight": "co-nho"
       }
     ]
   },
-  "g2-clock-gen2-64": {
-    "id": "g2-clock-gen2-64",
-    "topicId": "g2-clock",
-    "question": "Đồng hồ chỉ 8 giờ rưỡi. '8 giờ rưỡi' còn được gọi là mấy giờ mấy phút?",
+  "g2-addsub100-migrated-61": {
+    "id": "g2-addsub100-migrated-61",
+    "topicId": "g2-addsub100",
+    "question": "Tính: 46 + 25 = ?",
     "choices": [
-      "8 giờ 45 phút",
-      "9 giờ 30 phút",
-      "8 giờ 15 phút",
-      "8 giờ 30 phút"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "'Giờ rưỡi' tương ứng với 30 phút.",
-        "highlight": "xem-gio"
-      },
-      {
-        "text": "Vậy là 8 giờ 30 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-65": {
-    "id": "g2-clock-gen2-65",
-    "topicId": "g2-clock",
-    "question": "Đồng hồ chỉ 4 giờ 5 phút. Kim dài đang chỉ vào số mấy?",
-    "choices": [
-      "Số 11",
-      "Số 5",
-      "Số 1",
-      "Số 6"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Mỗi số trên đồng hồ cách nhau 5 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "5 phút tương ứng với 5 ÷ 5 = 1.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy kim dài chỉ vào số 1. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-66": {
-    "id": "g2-clock-gen2-66",
-    "topicId": "g2-clock",
-    "question": "Kim ngắn chỉ giữa số 4 và 5, kim dài chỉ số 8. Bây giờ là mấy giờ?",
-    "choices": [
-      "4 giờ 5 phút",
-      "4 giờ 50 phút",
-      "4 giờ 45 phút",
-      "4 giờ 40 phút"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Kim ngắn ở giữa 4 và 5 nghĩa là hơn 4 giờ.",
-        "highlight": "xem-gio"
-      },
-      {
-        "text": "Kim dài chỉ số 8 tương ứng với 8 × 5 = 40 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "Vậy là 4 giờ 40 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-67": {
-    "id": "g2-clock-gen2-67",
-    "topicId": "g2-clock",
-    "question": "Kim ngắn chỉ giữa số 2 và 3, kim dài chỉ số 2. Bây giờ là mấy giờ?",
-    "choices": [
-      "2 giờ 15 phút",
-      "2 giờ 10 phút",
-      "2 giờ 30 phút",
-      "2 giờ 55 phút"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Kim ngắn ở giữa 2 và 3 nghĩa là hơn 2 giờ.",
-        "highlight": "xem-gio"
-      },
-      {
-        "text": "Kim dài chỉ số 2 tương ứng với 2 × 5 = 10 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "Vậy là 2 giờ 10 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-68": {
-    "id": "g2-clock-gen2-68",
-    "topicId": "g2-clock",
-    "question": "Kim ngắn chỉ giữa số 1 và 2, kim dài chỉ số 11. Bây giờ là mấy giờ?",
-    "choices": [
-      "1 giờ 55 phút",
-      "1 giờ 20 phút",
-      "1 giờ 25 phút",
-      "1 giờ 45 phút"
+      "71",
+      "76",
+      "56",
+      "63"
     ],
     "answer": 0,
     "steps": [
       {
-        "text": "Kim ngắn ở giữa 1 và 2 nghĩa là hơn 1 giờ.",
-        "highlight": "xem-gio"
-      },
-      {
-        "text": "Kim dài chỉ số 11 tương ứng với 11 × 5 = 55 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "Vậy là 1 giờ 55 phút. ✅",
-        "highlight": null
+        "text": "Cộng từ phải sang trái. Hàng đơn vị: 6 + 5 có nhớ. 46 + 25 = 71.",
+        "highlight": "co-nho"
       }
     ]
   },
-  "g2-clock-gen2-69": {
-    "id": "g2-clock-gen2-69",
-    "topicId": "g2-clock",
-    "question": "Kim ngắn chỉ giữa số 2 và 3, kim dài chỉ số 3. Bây giờ là mấy giờ?",
+  "g2-addsub100-migrated-62": {
+    "id": "g2-addsub100-migrated-62",
+    "topicId": "g2-addsub100",
+    "question": "Tính: 56 + 24 = ?",
     "choices": [
-      "2 giờ 40 phút",
-      "2 giờ 35 phút",
-      "2 giờ 15 phút",
-      "2 giờ 30 phút"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Kim ngắn ở giữa 2 và 3 nghĩa là hơn 2 giờ.",
-        "highlight": "xem-gio"
-      },
-      {
-        "text": "Kim dài chỉ số 3 tương ứng với 3 × 5 = 15 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "Vậy là 2 giờ 15 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-70": {
-    "id": "g2-clock-gen2-70",
-    "topicId": "g2-clock",
-    "question": "Đồng hồ chỉ 1 giờ 35 phút. Kim dài đang chỉ vào số mấy?",
-    "choices": [
-      "Số 11",
-      "Số 7",
-      "Số 10",
-      "Số 4"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Mỗi số trên đồng hồ cách nhau 5 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "35 phút tương ứng với 35 ÷ 5 = 7.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy kim dài chỉ vào số 7. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-71": {
-    "id": "g2-clock-gen2-71",
-    "topicId": "g2-clock",
-    "question": "Đồng hồ chỉ 6 giờ rưỡi. '6 giờ rưỡi' còn được gọi là mấy giờ mấy phút?",
-    "choices": [
-      "6 giờ 30 phút",
-      "6 giờ 15 phút",
-      "7 giờ 30 phút",
-      "6 giờ 45 phút"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "'Giờ rưỡi' tương ứng với 30 phút.",
-        "highlight": "xem-gio"
-      },
-      {
-        "text": "Vậy là 6 giờ 30 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-72": {
-    "id": "g2-clock-gen2-72",
-    "topicId": "g2-clock",
-    "question": "Kim ngắn chỉ giữa số 1 và 2, kim dài chỉ số 6. Bây giờ là mấy giờ?",
-    "choices": [
-      "1 giờ 30 phút",
-      "1 giờ 20 phút",
-      "1 giờ 55 phút",
-      "1 giờ 50 phút"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Kim ngắn ở giữa 1 và 2 nghĩa là hơn 1 giờ.",
-        "highlight": "xem-gio"
-      },
-      {
-        "text": "Kim dài chỉ số 6 tương ứng với 6 × 5 = 30 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "Vậy là 1 giờ 30 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-73": {
-    "id": "g2-clock-gen2-73",
-    "topicId": "g2-clock",
-    "question": "Đồng hồ chỉ 3 giờ 15 phút. Kim dài đang chỉ vào số mấy?",
-    "choices": [
-      "Số 10",
-      "Số 3",
-      "Số 1",
-      "Số 5"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Mỗi số trên đồng hồ cách nhau 5 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "15 phút tương ứng với 15 ÷ 5 = 3.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy kim dài chỉ vào số 3. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-74": {
-    "id": "g2-clock-gen2-74",
-    "topicId": "g2-clock",
-    "question": "Kim ngắn chỉ giữa số 6 và 7, kim dài chỉ số 5. Bây giờ là mấy giờ?",
-    "choices": [
-      "6 giờ 25 phút",
-      "6 giờ 40 phút",
-      "6 giờ 30 phút",
-      "6 giờ 5 phút"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Kim ngắn ở giữa 6 và 7 nghĩa là hơn 6 giờ.",
-        "highlight": "xem-gio"
-      },
-      {
-        "text": "Kim dài chỉ số 5 tương ứng với 5 × 5 = 25 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "Vậy là 6 giờ 25 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-75": {
-    "id": "g2-clock-gen2-75",
-    "topicId": "g2-clock",
-    "question": "Kim ngắn chỉ giữa số 10 và 11, kim dài chỉ số 8. Bây giờ là mấy giờ?",
-    "choices": [
-      "10 giờ 15 phút",
-      "10 giờ 25 phút",
-      "10 giờ 20 phút",
-      "10 giờ 40 phút"
+      "90",
+      "69",
+      "95",
+      "80"
     ],
     "answer": 3,
     "steps": [
       {
-        "text": "Kim ngắn ở giữa 10 và 11 nghĩa là hơn 10 giờ.",
-        "highlight": "xem-gio"
-      },
-      {
-        "text": "Kim dài chỉ số 8 tương ứng với 8 × 5 = 40 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "Vậy là 10 giờ 40 phút. ✅",
-        "highlight": null
+        "text": "Cộng từ phải sang trái. Hàng đơn vị: 6 + 4 có nhớ. 56 + 24 = 80.",
+        "highlight": "co-nho"
       }
     ]
   },
-  "g2-clock-gen2-76": {
-    "id": "g2-clock-gen2-76",
-    "topicId": "g2-clock",
-    "question": "Minh bắt đầu đọc sách lúc 1 giờ 30 phút và làm xong lúc 1 giờ 45 phút. Minh đã làm trong bao lâu?",
+  "g2-addsub100-migrated-63": {
+    "id": "g2-addsub100-migrated-63",
+    "topicId": "g2-addsub100",
+    "question": "Tính: 54 + 28 = ?",
     "choices": [
-      "17 phút",
-      "19 phút",
-      "15 phút",
-      "7 phút"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Từ 1 giờ 30 phút đến 1 giờ 45 phút là trôi qua 15 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-77": {
-    "id": "g2-clock-gen2-77",
-    "topicId": "g2-clock",
-    "question": "Đồng hồ chỉ 2 giờ 50 phút. Kim dài đang chỉ vào số mấy?",
-    "choices": [
-      "Số 11",
-      "Số 10",
-      "Số 1",
-      "Số 9"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Mỗi số trên đồng hồ cách nhau 5 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "50 phút tương ứng với 50 ÷ 5 = 10.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy kim dài chỉ vào số 10. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-78": {
-    "id": "g2-clock-gen2-78",
-    "topicId": "g2-clock",
-    "question": "Minh bắt đầu tập thể dục lúc 1 giờ 15 phút và làm xong lúc 1 giờ 45 phút. Minh đã làm trong bao lâu?",
-    "choices": [
-      "29 phút",
-      "38 phút",
-      "28 phút",
-      "30 phút"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Từ 1 giờ 15 phút đến 1 giờ 45 phút là trôi qua 30 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-79": {
-    "id": "g2-clock-gen2-79",
-    "topicId": "g2-clock",
-    "question": "Đồng hồ chỉ 10 giờ 40 phút. Kim dài đang chỉ vào số mấy?",
-    "choices": [
-      "Số 8",
-      "Số 10",
-      "Số 3",
-      "Số 1"
+      "82",
+      "75",
+      "79",
+      "86"
     ],
     "answer": 0,
     "steps": [
       {
-        "text": "Mỗi số trên đồng hồ cách nhau 5 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "40 phút tương ứng với 40 ÷ 5 = 8.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy kim dài chỉ vào số 8. ✅",
-        "highlight": null
+        "text": "Cộng từ phải sang trái. Hàng đơn vị: 4 + 8 có nhớ. 54 + 28 = 82.",
+        "highlight": "co-nho"
       }
     ]
   },
-  "g2-clock-gen2-80": {
-    "id": "g2-clock-gen2-80",
-    "topicId": "g2-clock",
-    "question": "Bình bắt đầu chơi cờ vua lúc 2 giờ 15 phút và làm xong lúc 3 giờ. Bình đã làm trong bao lâu?",
+  "g2-addsub100-migrated-64": {
+    "id": "g2-addsub100-migrated-64",
+    "topicId": "g2-addsub100",
+    "question": "Tính: 65 + 25 = ?",
     "choices": [
-      "32 phút",
-      "30 phút",
-      "45 phút",
-      "37 phút"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Từ 2 giờ 15 phút đến 3 giờ là trôi qua 45 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-81": {
-    "id": "g2-clock-gen2-81",
-    "topicId": "g2-clock",
-    "question": "Nam bắt đầu đọc sách lúc 7 giờ và làm xong lúc 7 giờ 30 phút. Nam đã làm trong bao lâu?",
-    "choices": [
-      "45 phút",
-      "30 phút",
-      "24 phút",
-      "44 phút"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Từ 7 giờ đến 7 giờ 30 phút là trôi qua 30 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-82": {
-    "id": "g2-clock-gen2-82",
-    "topicId": "g2-clock",
-    "question": "Hoa bắt đầu đọc sách lúc 9 giờ 30 phút và làm xong lúc 9 giờ 45 phút. Hoa đã làm trong bao lâu?",
-    "choices": [
-      "26 phút",
-      "18 phút",
-      "15 phút",
-      "22 phút"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Từ 9 giờ 30 phút đến 9 giờ 45 phút là trôi qua 15 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-83": {
-    "id": "g2-clock-gen2-83",
-    "topicId": "g2-clock",
-    "question": "Đồng hồ chỉ 4 giờ 45 phút. Kim dài đang chỉ vào số mấy?",
-    "choices": [
-      "Số 4",
-      "Số 9",
-      "Số 3",
-      "Số 6"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Mỗi số trên đồng hồ cách nhau 5 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "45 phút tương ứng với 45 ÷ 5 = 9.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy kim dài chỉ vào số 9. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-84": {
-    "id": "g2-clock-gen2-84",
-    "topicId": "g2-clock",
-    "question": "Hoa bắt đầu vẽ tranh lúc 5 giờ và làm xong lúc 5 giờ 15 phút. Hoa đã làm trong bao lâu?",
-    "choices": [
-      "7 phút",
-      "19 phút",
-      "30 phút",
-      "15 phút"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Từ 5 giờ đến 5 giờ 15 phút là trôi qua 15 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-85": {
-    "id": "g2-clock-gen2-85",
-    "topicId": "g2-clock",
-    "question": "Nam bắt đầu chơi cờ vua lúc 9 giờ 30 phút và làm xong lúc 9 giờ 45 phút. Nam đã làm trong bao lâu?",
-    "choices": [
-      "12 phút",
-      "22 phút",
-      "15 phút",
-      "20 phút"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Từ 9 giờ 30 phút đến 9 giờ 45 phút là trôi qua 15 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-86": {
-    "id": "g2-clock-gen2-86",
-    "topicId": "g2-clock",
-    "question": "Linh bắt đầu chơi cờ vua lúc 8 giờ 30 phút và làm xong lúc 8 giờ 45 phút. Linh đã làm trong bao lâu?",
-    "choices": [
-      "8 phút",
-      "19 phút",
-      "26 phút",
-      "15 phút"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Từ 8 giờ 30 phút đến 8 giờ 45 phút là trôi qua 15 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-87": {
-    "id": "g2-clock-gen2-87",
-    "topicId": "g2-clock",
-    "question": "Kim ngắn chỉ giữa số 3 và 4, kim dài chỉ số 8. Bây giờ là mấy giờ?",
-    "choices": [
-      "3 giờ 35 phút",
-      "3 giờ 45 phút",
-      "3 giờ 10 phút",
-      "3 giờ 40 phút"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Kim ngắn ở giữa 3 và 4 nghĩa là hơn 3 giờ.",
-        "highlight": "xem-gio"
-      },
-      {
-        "text": "Kim dài chỉ số 8 tương ứng với 8 × 5 = 40 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "Vậy là 3 giờ 40 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-88": {
-    "id": "g2-clock-gen2-88",
-    "topicId": "g2-clock",
-    "question": "Bình bắt đầu tập thể dục lúc 4 giờ 15 phút và làm xong lúc 4 giờ 45 phút. Bình đã làm trong bao lâu?",
-    "choices": [
-      "45 phút",
-      "18 phút",
-      "30 phút",
-      "34 phút"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Từ 4 giờ 15 phút đến 4 giờ 45 phút là trôi qua 30 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-89": {
-    "id": "g2-clock-gen2-89",
-    "topicId": "g2-clock",
-    "question": "Mai bắt đầu vẽ tranh lúc 5 giờ 30 phút và làm xong lúc 6 giờ 15 phút. Mai đã làm trong bao lâu?",
-    "choices": [
-      "56 phút",
-      "50 phút",
-      "45 phút",
-      "42 phút"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Từ 5 giờ 30 phút đến 6 giờ 15 phút là trôi qua 45 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-90": {
-    "id": "g2-clock-gen2-90",
-    "topicId": "g2-clock",
-    "question": "Đồng hồ chỉ 5 giờ rưỡi. '5 giờ rưỡi' còn được gọi là mấy giờ mấy phút?",
-    "choices": [
-      "5 giờ 45 phút",
-      "5 giờ 30 phút",
-      "6 giờ 30 phút",
-      "5 giờ 15 phút"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "'Giờ rưỡi' tương ứng với 30 phút.",
-        "highlight": "xem-gio"
-      },
-      {
-        "text": "Vậy là 5 giờ 30 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-91": {
-    "id": "g2-clock-gen2-91",
-    "topicId": "g2-clock",
-    "question": "Hoa bắt đầu vẽ tranh lúc 4 giờ 15 phút và làm xong lúc 4 giờ 45 phút. Hoa đã làm trong bao lâu?",
-    "choices": [
-      "22 phút",
-      "41 phút",
-      "30 phút",
-      "40 phút"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Từ 4 giờ 15 phút đến 4 giờ 45 phút là trôi qua 30 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-92": {
-    "id": "g2-clock-gen2-92",
-    "topicId": "g2-clock",
-    "question": "Đồng hồ chỉ 7 giờ 45 phút. Kim dài đang chỉ vào số mấy?",
-    "choices": [
-      "Số 1",
-      "Số 10",
-      "Số 9",
-      "Số 8"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Mỗi số trên đồng hồ cách nhau 5 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "45 phút tương ứng với 45 ÷ 5 = 9.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy kim dài chỉ vào số 9. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-93": {
-    "id": "g2-clock-gen2-93",
-    "topicId": "g2-clock",
-    "question": "Huy bắt đầu đọc sách lúc 5 giờ và làm xong lúc 5 giờ 15 phút. Huy đã làm trong bao lâu?",
-    "choices": [
-      "16 phút",
-      "27 phút",
-      "15 phút",
-      "26 phút"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Từ 5 giờ đến 5 giờ 15 phút là trôi qua 15 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-94": {
-    "id": "g2-clock-gen2-94",
-    "topicId": "g2-clock",
-    "question": "Đồng hồ chỉ 8 giờ 50 phút. Kim dài đang chỉ vào số mấy?",
-    "choices": [
-      "Số 4",
-      "Số 10",
-      "Số 8",
-      "Số 1"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Mỗi số trên đồng hồ cách nhau 5 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "50 phút tương ứng với 50 ÷ 5 = 10.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy kim dài chỉ vào số 10. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-95": {
-    "id": "g2-clock-gen2-95",
-    "topicId": "g2-clock",
-    "question": "Huy bắt đầu vẽ tranh lúc 9 giờ và làm xong lúc 9 giờ 15 phút. Huy đã làm trong bao lâu?",
-    "choices": [
-      "15 phút",
-      "6 phút",
-      "11 phút",
-      "9 phút"
+      "90",
+      "96",
+      "79",
+      "101"
     ],
     "answer": 0,
     "steps": [
       {
-        "text": "Từ 9 giờ đến 9 giờ 15 phút là trôi qua 15 phút. ✅",
-        "highlight": null
+        "text": "Cộng từ phải sang trái. Hàng đơn vị: 5 + 5 có nhớ. 65 + 25 = 90.",
+        "highlight": "co-nho"
       }
     ]
   },
-  "g2-clock-gen2-96": {
-    "id": "g2-clock-gen2-96",
-    "topicId": "g2-clock",
-    "question": "Vy bắt đầu tập thể dục lúc 6 giờ và làm xong lúc 6 giờ 45 phút. Vy đã làm trong bao lâu?",
+  "g2-addsub100-migrated-65": {
+    "id": "g2-addsub100-migrated-65",
+    "topicId": "g2-addsub100",
+    "question": "Tính: 15 + 75 = ?",
     "choices": [
-      "52 phút",
-      "50 phút",
-      "43 phút",
-      "45 phút"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Từ 6 giờ đến 6 giờ 45 phút là trôi qua 45 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-97": {
-    "id": "g2-clock-gen2-97",
-    "topicId": "g2-clock",
-    "question": "Đồng hồ chỉ 11 giờ 5 phút. Kim dài đang chỉ vào số mấy?",
-    "choices": [
-      "Số 1",
-      "Số 10",
-      "Số 3",
-      "Số 11"
+      "90",
+      "96",
+      "95",
+      "89"
     ],
     "answer": 0,
     "steps": [
       {
-        "text": "Mỗi số trên đồng hồ cách nhau 5 phút.",
-        "highlight": "kim-dong-ho"
-      },
-      {
-        "text": "5 phút tương ứng với 5 ÷ 5 = 1.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy kim dài chỉ vào số 1. ✅",
-        "highlight": null
+        "text": "Cộng từ phải sang trái. Hàng đơn vị: 5 + 5 có nhớ. 15 + 75 = 90.",
+        "highlight": "co-nho"
       }
     ]
   },
-  "g2-clock-gen2-98": {
-    "id": "g2-clock-gen2-98",
-    "topicId": "g2-clock",
-    "question": "Hoa bắt đầu chơi cờ vua lúc 8 giờ và làm xong lúc 8 giờ 30 phút. Hoa đã làm trong bao lâu?",
-    "choices": [
-      "30 phút",
-      "36 phút",
-      "31 phút",
-      "23 phút"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Từ 8 giờ đến 8 giờ 30 phút là trôi qua 30 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-99": {
-    "id": "g2-clock-gen2-99",
-    "topicId": "g2-clock",
-    "question": "Lan bắt đầu chơi cờ vua lúc 7 giờ 30 phút và làm xong lúc 8 giờ 15 phút. Lan đã làm trong bao lâu?",
-    "choices": [
-      "54 phút",
-      "45 phút",
-      "60 phút",
-      "49 phút"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Từ 7 giờ 30 phút đến 8 giờ 15 phút là trôi qua 45 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-clock-gen2-100": {
-    "id": "g2-clock-gen2-100",
-    "topicId": "g2-clock",
-    "question": "An bắt đầu vẽ tranh lúc 9 giờ 15 phút và làm xong lúc 10 giờ. An đã làm trong bao lâu?",
-    "choices": [
-      "34 phút",
-      "51 phút",
-      "45 phút",
-      "31 phút"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Từ 9 giờ 15 phút đến 10 giờ là trôi qua 45 phút. ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-11": {
-    "id": "g2-add-gen2-11",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-66": {
+    "id": "g2-addsub100-migrated-66",
+    "topicId": "g2-addsub100",
     "question": "Tính: 62 + 28 = ?",
     "choices": [
       "93",
@@ -19090,9 +17120,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-12": {
-    "id": "g2-add-gen2-12",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-67": {
+    "id": "g2-addsub100-migrated-67",
+    "topicId": "g2-addsub100",
     "question": "Tính: 60 + 89 = ?",
     "choices": [
       "143",
@@ -19116,9 +17146,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-13": {
-    "id": "g2-add-gen2-13",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-68": {
+    "id": "g2-addsub100-migrated-68",
+    "topicId": "g2-addsub100",
     "question": "87 + 83 = ?",
     "choices": [
       "170",
@@ -19142,139 +17172,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-14": {
-    "id": "g2-add-gen2-14",
-    "topicId": "g2-add",
-    "question": "Tính: 244 + 496 = ?",
-    "choices": [
-      "740",
-      "749",
-      "734",
-      "744"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "4 + 6 = 10, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 740 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-15": {
-    "id": "g2-add-gen2-15",
-    "topicId": "g2-add",
-    "question": "Tính: 376 + 124 = ?",
-    "choices": [
-      "499",
-      "511",
-      "502",
-      "500"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "6 + 4 = 10, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 500 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-16": {
-    "id": "g2-add-gen2-16",
-    "topicId": "g2-add",
-    "question": "Tính: 768 + 195 = ?",
-    "choices": [
-      "965",
-      "963",
-      "959",
-      "968"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "8 + 5 = 13, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 963 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-17": {
-    "id": "g2-add-gen2-17",
-    "topicId": "g2-add",
-    "question": "Tính: 600 + 565 = ?",
-    "choices": [
-      "1176",
-      "1156",
-      "1172",
-      "1165"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "0 + 5 = 5, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 1165 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-18": {
-    "id": "g2-add-gen2-18",
-    "topicId": "g2-add",
-    "question": "Tính: 299 + 287 = ?",
-    "choices": [
-      "597",
-      "590",
-      "598",
-      "586"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "9 + 7 = 16, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 586 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-19": {
-    "id": "g2-add-gen2-19",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-69": {
+    "id": "g2-addsub100-migrated-69",
+    "topicId": "g2-addsub100",
     "question": "Tính: 65 + 48 = ?",
     "choices": [
       "116",
@@ -19298,35 +17198,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-20": {
-    "id": "g2-add-gen2-20",
-    "topicId": "g2-add",
-    "question": "Tính: 406 + 378 = ?",
-    "choices": [
-      "777",
-      "785",
-      "775",
-      "784"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "6 + 8 = 14, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 784 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-21": {
-    "id": "g2-add-gen2-21",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-70": {
+    "id": "g2-addsub100-migrated-70",
+    "topicId": "g2-addsub100",
     "question": "28 + 59 = ?",
     "choices": [
       "80",
@@ -19350,9 +17224,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-22": {
-    "id": "g2-add-gen2-22",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-71": {
+    "id": "g2-addsub100-migrated-71",
+    "topicId": "g2-addsub100",
     "question": "85 + 28 = ?",
     "choices": [
       "117",
@@ -19376,9 +17250,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-23": {
-    "id": "g2-add-gen2-23",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-72": {
+    "id": "g2-addsub100-migrated-72",
+    "topicId": "g2-addsub100",
     "question": "45 + 79 = ?",
     "choices": [
       "123",
@@ -19402,35 +17276,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-24": {
-    "id": "g2-add-gen2-24",
-    "topicId": "g2-add",
-    "question": "Tính: 619 + 254 = ?",
-    "choices": [
-      "882",
-      "885",
-      "877",
-      "873"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "9 + 4 = 13, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 873 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-25": {
-    "id": "g2-add-gen2-25",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-73": {
+    "id": "g2-addsub100-migrated-73",
+    "topicId": "g2-addsub100",
     "question": "42 + 58 = ?",
     "choices": [
       "93",
@@ -19454,9 +17302,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-26": {
-    "id": "g2-add-gen2-26",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-74": {
+    "id": "g2-addsub100-migrated-74",
+    "topicId": "g2-addsub100",
     "question": "47 + 73 = ?",
     "choices": [
       "120",
@@ -19480,9 +17328,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-27": {
-    "id": "g2-add-gen2-27",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-75": {
+    "id": "g2-addsub100-migrated-75",
+    "topicId": "g2-addsub100",
     "question": "Tính: 46 + 54 = ?",
     "choices": [
       "98",
@@ -19506,87 +17354,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-28": {
-    "id": "g2-add-gen2-28",
-    "topicId": "g2-add",
-    "question": "Tính: 639 + 422 = ?",
-    "choices": [
-      "1058",
-      "1061",
-      "1068",
-      "1069"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "9 + 2 = 11, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 1061 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-29": {
-    "id": "g2-add-gen2-29",
-    "topicId": "g2-add",
-    "question": "Tính: 296 + 145 = ?",
-    "choices": [
-      "434",
-      "446",
-      "441",
-      "431"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "6 + 5 = 11, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 441 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-30": {
-    "id": "g2-add-gen2-30",
-    "topicId": "g2-add",
-    "question": "Tính: 705 + 149 = ?",
-    "choices": [
-      "854",
-      "843",
-      "858",
-      "845"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "5 + 9 = 14, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 854 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-31": {
-    "id": "g2-add-gen2-31",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-76": {
+    "id": "g2-addsub100-migrated-76",
+    "topicId": "g2-addsub100",
     "question": "Tính: 27 + 33 = ?",
     "choices": [
       "65",
@@ -19610,9 +17380,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-32": {
-    "id": "g2-add-gen2-32",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-77": {
+    "id": "g2-addsub100-migrated-77",
+    "topicId": "g2-addsub100",
     "question": "53 + 27 = ?",
     "choices": [
       "77",
@@ -19636,9 +17406,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-33": {
-    "id": "g2-add-gen2-33",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-78": {
+    "id": "g2-addsub100-migrated-78",
+    "topicId": "g2-addsub100",
     "question": "24 + 76 = ?",
     "choices": [
       "104",
@@ -19662,9 +17432,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-34": {
-    "id": "g2-add-gen2-34",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-79": {
+    "id": "g2-addsub100-migrated-79",
+    "topicId": "g2-addsub100",
     "question": "70 + 73 = ?",
     "choices": [
       "137",
@@ -19688,9 +17458,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-35": {
-    "id": "g2-add-gen2-35",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-80": {
+    "id": "g2-addsub100-migrated-80",
+    "topicId": "g2-addsub100",
     "question": "Tính: 36 + 79 = ?",
     "choices": [
       "118",
@@ -19714,61 +17484,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-36": {
-    "id": "g2-add-gen2-36",
-    "topicId": "g2-add",
-    "question": "Tính: 291 + 521 = ?",
-    "choices": [
-      "818",
-      "812",
-      "811",
-      "819"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "1 + 1 = 2, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 812 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-37": {
-    "id": "g2-add-gen2-37",
-    "topicId": "g2-add",
-    "question": "Tính: 333 + 346 = ?",
-    "choices": [
-      "669",
-      "683",
-      "679",
-      "687"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "3 + 6 = 9, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 679 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-38": {
-    "id": "g2-add-gen2-38",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-81": {
+    "id": "g2-addsub100-migrated-81",
+    "topicId": "g2-addsub100",
     "question": "38 + 84 = ?",
     "choices": [
       "127",
@@ -19792,87 +17510,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-39": {
-    "id": "g2-add-gen2-39",
-    "topicId": "g2-add",
-    "question": "Tính: 260 + 553 = ?",
-    "choices": [
-      "805",
-      "803",
-      "813",
-      "818"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "0 + 3 = 3, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 813 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-40": {
-    "id": "g2-add-gen2-40",
-    "topicId": "g2-add",
-    "question": "Tính: 226 + 155 = ?",
-    "choices": [
-      "369",
-      "377",
-      "388",
-      "381"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "6 + 5 = 11, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 381 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-41": {
-    "id": "g2-add-gen2-41",
-    "topicId": "g2-add",
-    "question": "Tính: 366 + 419 = ?",
-    "choices": [
-      "785",
-      "782",
-      "788",
-      "792"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "6 + 9 = 15, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 785 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-42": {
-    "id": "g2-add-gen2-42",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-82": {
+    "id": "g2-addsub100-migrated-82",
+    "topicId": "g2-addsub100",
     "question": "Tính: 89 + 44 = ?",
     "choices": [
       "136",
@@ -19896,35 +17536,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-43": {
-    "id": "g2-add-gen2-43",
-    "topicId": "g2-add",
-    "question": "Tính: 397 + 117 = ?",
-    "choices": [
-      "505",
-      "514",
-      "519",
-      "524"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "7 + 7 = 14, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 514 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-44": {
-    "id": "g2-add-gen2-44",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-83": {
+    "id": "g2-addsub100-migrated-83",
+    "topicId": "g2-addsub100",
     "question": "Tính: 59 + 52 = ?",
     "choices": [
       "108",
@@ -19948,35 +17562,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-45": {
-    "id": "g2-add-gen2-45",
-    "topicId": "g2-add",
-    "question": "Tính: 569 + 332 = ?",
-    "choices": [
-      "901",
-      "896",
-      "892",
-      "895"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "9 + 2 = 11, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 901 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-46": {
-    "id": "g2-add-gen2-46",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-84": {
+    "id": "g2-addsub100-migrated-84",
+    "topicId": "g2-addsub100",
     "question": "Tính: 76 + 74 = ?",
     "choices": [
       "157",
@@ -20000,9 +17588,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-47": {
-    "id": "g2-add-gen2-47",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-85": {
+    "id": "g2-addsub100-migrated-85",
+    "topicId": "g2-addsub100",
     "question": "15 + 28 = ?",
     "choices": [
       "43",
@@ -20026,113 +17614,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-48": {
-    "id": "g2-add-gen2-48",
-    "topicId": "g2-add",
-    "question": "Tính: 761 + 295 = ?",
-    "choices": [
-      "1062",
-      "1055",
-      "1056",
-      "1045"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "1 + 5 = 6, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 1056 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-49": {
-    "id": "g2-add-gen2-49",
-    "topicId": "g2-add",
-    "question": "Tính: 745 + 215 = ?",
-    "choices": [
-      "962",
-      "960",
-      "963",
-      "951"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "5 + 5 = 10, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 960 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-50": {
-    "id": "g2-add-gen2-50",
-    "topicId": "g2-add",
-    "question": "Tính: 480 + 591 = ?",
-    "choices": [
-      "1068",
-      "1074",
-      "1071",
-      "1065"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "0 + 1 = 1, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 1071 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-51": {
-    "id": "g2-add-gen2-51",
-    "topicId": "g2-add",
-    "question": "Tính: 528 + 113 = ?",
-    "choices": [
-      "652",
-      "641",
-      "642",
-      "638"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "8 + 3 = 11, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 641 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-52": {
-    "id": "g2-add-gen2-52",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-86": {
+    "id": "g2-addsub100-migrated-86",
+    "topicId": "g2-addsub100",
     "question": "61 + 69 = ?",
     "choices": [
       "130",
@@ -20156,9 +17640,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-53": {
-    "id": "g2-add-gen2-53",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-87": {
+    "id": "g2-addsub100-migrated-87",
+    "topicId": "g2-addsub100",
     "question": "Tính: 38 + 62 = ?",
     "choices": [
       "100",
@@ -20182,9 +17666,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-54": {
-    "id": "g2-add-gen2-54",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-88": {
+    "id": "g2-addsub100-migrated-88",
+    "topicId": "g2-addsub100",
     "question": "Tính: 16 + 34 = ?",
     "choices": [
       "50",
@@ -20208,9 +17692,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-55": {
-    "id": "g2-add-gen2-55",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-89": {
+    "id": "g2-addsub100-migrated-89",
+    "topicId": "g2-addsub100",
     "question": "79 + 81 = ?",
     "choices": [
       "160",
@@ -20234,9 +17718,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-56": {
-    "id": "g2-add-gen2-56",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-90": {
+    "id": "g2-addsub100-migrated-90",
+    "topicId": "g2-addsub100",
     "question": "Tính: 69 + 31 = ?",
     "choices": [
       "103",
@@ -20260,9 +17744,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-57": {
-    "id": "g2-add-gen2-57",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-91": {
+    "id": "g2-addsub100-migrated-91",
+    "topicId": "g2-addsub100",
     "question": "Tính: 47 + 35 = ?",
     "choices": [
       "78",
@@ -20286,9 +17770,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-58": {
-    "id": "g2-add-gen2-58",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-92": {
+    "id": "g2-addsub100-migrated-92",
+    "topicId": "g2-addsub100",
     "question": "70 + 66 = ?",
     "choices": [
       "135",
@@ -20312,9 +17796,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-59": {
-    "id": "g2-add-gen2-59",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-93": {
+    "id": "g2-addsub100-migrated-93",
+    "topicId": "g2-addsub100",
     "question": "Tính: 36 + 46 = ?",
     "choices": [
       "88",
@@ -20338,9 +17822,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-60": {
-    "id": "g2-add-gen2-60",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-94": {
+    "id": "g2-addsub100-migrated-94",
+    "topicId": "g2-addsub100",
     "question": "38 + 62 = ?",
     "choices": [
       "105",
@@ -20364,9 +17848,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-61": {
-    "id": "g2-add-gen2-61",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-95": {
+    "id": "g2-addsub100-migrated-95",
+    "topicId": "g2-addsub100",
     "question": "Tính: 68 + 74 = ?",
     "choices": [
       "139",
@@ -20390,9 +17874,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-62": {
-    "id": "g2-add-gen2-62",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-96": {
+    "id": "g2-addsub100-migrated-96",
+    "topicId": "g2-addsub100",
     "question": "44 + 76 = ?",
     "choices": [
       "120",
@@ -20416,9 +17900,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-63": {
-    "id": "g2-add-gen2-63",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-97": {
+    "id": "g2-addsub100-migrated-97",
+    "topicId": "g2-addsub100",
     "question": "44 + 29 = ?",
     "choices": [
       "73",
@@ -20442,9 +17926,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-64": {
-    "id": "g2-add-gen2-64",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-98": {
+    "id": "g2-addsub100-migrated-98",
+    "topicId": "g2-addsub100",
     "question": "24 + 16 = ?",
     "choices": [
       "43",
@@ -20468,87 +17952,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-65": {
-    "id": "g2-add-gen2-65",
-    "topicId": "g2-add",
-    "question": "Tính: 212 + 262 = ?",
-    "choices": [
-      "469",
-      "474",
-      "462",
-      "464"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "2 + 2 = 4, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 474 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-66": {
-    "id": "g2-add-gen2-66",
-    "topicId": "g2-add",
-    "question": "Tính: 498 + 320 = ?",
-    "choices": [
-      "806",
-      "812",
-      "810",
-      "818"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "8 + 0 = 8, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 818 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-67": {
-    "id": "g2-add-gen2-67",
-    "topicId": "g2-add",
-    "question": "Tính: 588 + 290 = ?",
-    "choices": [
-      "881",
-      "888",
-      "878",
-      "890"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "8 + 0 = 8, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 878 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-68": {
-    "id": "g2-add-gen2-68",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-99": {
+    "id": "g2-addsub100-migrated-99",
+    "topicId": "g2-addsub100",
     "question": "Tính: 59 + 83 = ?",
     "choices": [
       "145",
@@ -20572,35 +17978,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-69": {
-    "id": "g2-add-gen2-69",
-    "topicId": "g2-add",
-    "question": "Tính: 679 + 281 = ?",
-    "choices": [
-      "960",
-      "951",
-      "955",
-      "963"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "9 + 1 = 10, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 960 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-70": {
-    "id": "g2-add-gen2-70",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-100": {
+    "id": "g2-addsub100-migrated-100",
+    "topicId": "g2-addsub100",
     "question": "Tính: 48 + 42 = ?",
     "choices": [
       "89",
@@ -20624,9 +18004,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-71": {
-    "id": "g2-add-gen2-71",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-101": {
+    "id": "g2-addsub100-migrated-101",
+    "topicId": "g2-addsub100",
     "question": "75 + 75 = ?",
     "choices": [
       "150",
@@ -20650,35 +18030,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-72": {
-    "id": "g2-add-gen2-72",
-    "topicId": "g2-add",
-    "question": "Tính: 285 + 238 = ?",
-    "choices": [
-      "512",
-      "522",
-      "521",
-      "523"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "5 + 8 = 13, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 523 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-73": {
-    "id": "g2-add-gen2-73",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-102": {
+    "id": "g2-addsub100-migrated-102",
+    "topicId": "g2-addsub100",
     "question": "Tính: 46 + 44 = ?",
     "choices": [
       "98",
@@ -20702,9 +18056,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-74": {
-    "id": "g2-add-gen2-74",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-103": {
+    "id": "g2-addsub100-migrated-103",
+    "topicId": "g2-addsub100",
     "question": "85 + 55 = ?",
     "choices": [
       "144",
@@ -20728,9 +18082,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-75": {
-    "id": "g2-add-gen2-75",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-104": {
+    "id": "g2-addsub100-migrated-104",
+    "topicId": "g2-addsub100",
     "question": "73 + 69 = ?",
     "choices": [
       "150",
@@ -20754,9 +18108,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-76": {
-    "id": "g2-add-gen2-76",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-105": {
+    "id": "g2-addsub100-migrated-105",
+    "topicId": "g2-addsub100",
     "question": "Tính: 59 + 34 = ?",
     "choices": [
       "94",
@@ -20780,9 +18134,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-77": {
-    "id": "g2-add-gen2-77",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-106": {
+    "id": "g2-addsub100-migrated-106",
+    "topicId": "g2-addsub100",
     "question": "Tính: 86 + 27 = ?",
     "choices": [
       "109",
@@ -20806,35 +18160,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-78": {
-    "id": "g2-add-gen2-78",
-    "topicId": "g2-add",
-    "question": "Tính: 270 + 171 = ?",
-    "choices": [
-      "441",
-      "434",
-      "442",
-      "451"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "0 + 1 = 1, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 441 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-79": {
-    "id": "g2-add-gen2-79",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-107": {
+    "id": "g2-addsub100-migrated-107",
+    "topicId": "g2-addsub100",
     "question": "Tính: 85 + 75 = ?",
     "choices": [
       "162",
@@ -20858,35 +18186,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-80": {
-    "id": "g2-add-gen2-80",
-    "topicId": "g2-add",
-    "question": "Tính: 530 + 201 = ?",
-    "choices": [
-      "729",
-      "731",
-      "726",
-      "738"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "0 + 1 = 1, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 731 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-81": {
-    "id": "g2-add-gen2-81",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-108": {
+    "id": "g2-addsub100-migrated-108",
+    "topicId": "g2-addsub100",
     "question": "73 + 87 = ?",
     "choices": [
       "152",
@@ -20910,9 +18212,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-82": {
-    "id": "g2-add-gen2-82",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-109": {
+    "id": "g2-addsub100-migrated-109",
+    "topicId": "g2-addsub100",
     "question": "52 + 88 = ?",
     "choices": [
       "140",
@@ -20936,9 +18238,9 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-83": {
-    "id": "g2-add-gen2-83",
-    "topicId": "g2-add",
+  "g2-addsub100-migrated-110": {
+    "id": "g2-addsub100-migrated-110",
+    "topicId": "g2-addsub100",
     "question": "56 + 54 = ?",
     "choices": [
       "112",
@@ -20962,451 +18264,221 @@ export const problems = {
       }
     ]
   },
-  "g2-add-gen2-84": {
-    "id": "g2-add-gen2-84",
-    "topicId": "g2-add",
-    "question": "Tính: 24 + 26 = ?",
+  "g2-addsub100-migrated-111": {
+    "id": "g2-addsub100-migrated-111",
+    "topicId": "g2-addsub100",
+    "question": "52 - 27 = ?",
     "choices": [
-      "43",
-      "54",
-      "50",
-      "57"
+      "26",
+      "24",
+      "25",
+      "35"
     ],
     "answer": 2,
     "steps": [
       {
-        "text": "Cộng hàng đơn vị: 4 + 6 = 10. Viết 0, nhớ 1.",
-        "highlight": "co-nho"
+        "text": "Hàng đơn vị: 2 < 7 nên mượn 1 từ hàng chục. 12 - 7 = 5.",
+        "highlight": "phep-tru"
       },
       {
-        "text": "Cộng hàng chục: 2 + 2 + 1(nhớ) = 5.",
-        "highlight": "co-nho"
+        "text": "Hàng chục: 5 - 1(mượn) - 2 = 2.",
+        "highlight": null
       },
       {
-        "text": "Kết quả: 50 ✅",
+        "text": "Kết quả: 25 ✅",
         "highlight": null
       }
     ]
   },
-  "g2-add-gen2-85": {
-    "id": "g2-add-gen2-85",
-    "topicId": "g2-add",
-    "question": "32 + 28 = ?",
+  "g2-addsub100-migrated-112": {
+    "id": "g2-addsub100-migrated-112",
+    "topicId": "g2-addsub100",
+    "question": "63 - 38 = ?",
     "choices": [
-      "61",
-      "56",
-      "60",
-      "57"
+      "35",
+      "25",
+      "15",
+      "45"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Hàng đơn vị: 3 < 8 nên mượn 1. 13 - 8 = 5.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Hàng chục: 6 - 1(mượn) - 3 = 2.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả: 25 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub100-migrated-113": {
+    "id": "g2-addsub100-migrated-113",
+    "topicId": "g2-addsub100",
+    "question": "80 - 45 = ?",
+    "choices": [
+      "25",
+      "35",
+      "45",
+      "15"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Hàng đơn vị: 0 < 5 nên mượn 1. 10 - 5 = 5.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Hàng chục: 8 - 1(mượn) - 4 = 3.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả: 35 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub100-migrated-114": {
+    "id": "g2-addsub100-migrated-114",
+    "topicId": "g2-addsub100",
+    "question": "71 - 46 = ?",
+    "choices": [
+      "35",
+      "15",
+      "25",
+      "45"
     ],
     "answer": 2,
     "steps": [
       {
-        "text": "Cộng hàng đơn vị: 2 + 8 = 10. Viết 0, nhớ 1.",
-        "highlight": "co-nho"
+        "text": "Hàng đơn vị: 1 < 6 nên mượn 1. 11 - 6 = 5.",
+        "highlight": "phep-tru"
       },
       {
-        "text": "Cộng hàng chục: 3 + 2 + 1(nhớ) = 6.",
-        "highlight": "co-nho"
+        "text": "Hàng chục: 7 - 1(mượn) - 4 = 2.",
+        "highlight": null
       },
       {
-        "text": "Kết quả: 60 ✅",
+        "text": "Kết quả: 25 ✅",
         "highlight": null
       }
     ]
   },
-  "g2-add-gen2-86": {
-    "id": "g2-add-gen2-86",
-    "topicId": "g2-add",
-    "question": "41 + 89 = ?",
+  "g2-addsub100-migrated-115": {
+    "id": "g2-addsub100-migrated-115",
+    "topicId": "g2-addsub100",
+    "question": "Tìm M: M = 49 - 56",
     "choices": [
-      "130",
-      "136",
-      "131",
-      "129"
+      "4",
+      "1",
+      "-7",
+      "8"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trừ có mượn: 49 - 56 = -7.",
+        "highlight": "phep-tru"
+      }
+    ]
+  },
+  "g2-addsub100-migrated-116": {
+    "id": "g2-addsub100-migrated-116",
+    "topicId": "g2-addsub100",
+    "question": "Tìm M: M = 32 - 29",
+    "choices": [
+      "3",
+      "12",
+      "8",
+      "6"
     ],
     "answer": 0,
     "steps": [
       {
-        "text": "Cộng hàng đơn vị: 1 + 9 = 10. Viết 0, nhớ 1.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Cộng hàng chục: 4 + 8 + 1(nhớ) = 13.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 130 ✅",
-        "highlight": null
+        "text": "Trừ có mượn: 32 - 29 = 3.",
+        "highlight": "phep-tru"
       }
     ]
   },
-  "g2-add-gen2-87": {
-    "id": "g2-add-gen2-87",
-    "topicId": "g2-add",
-    "question": "35 + 47 = ?",
+  "g2-addsub100-migrated-117": {
+    "id": "g2-addsub100-migrated-117",
+    "topicId": "g2-addsub100",
+    "question": "Tìm M: M = 92 - 36",
     "choices": [
-      "77",
-      "74",
-      "82",
-      "86"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Cộng hàng đơn vị: 5 + 7 = 12. Viết 2, nhớ 1.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Cộng hàng chục: 3 + 4 + 1(nhớ) = 8.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 82 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-88": {
-    "id": "g2-add-gen2-88",
-    "topicId": "g2-add",
-    "question": "Tính: 436 + 255 = ?",
-    "choices": [
-      "682",
-      "694",
-      "692",
-      "691"
+      "67",
+      "52",
+      "45",
+      "56"
     ],
     "answer": 3,
     "steps": [
       {
-        "text": "6 + 5 = 11, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 691 ✅",
-        "highlight": null
+        "text": "Trừ có mượn: 92 - 36 = 56.",
+        "highlight": "phep-tru"
       }
     ]
   },
-  "g2-add-gen2-89": {
-    "id": "g2-add-gen2-89",
-    "topicId": "g2-add",
-    "question": "15 + 18 = ?",
+  "g2-addsub100-migrated-118": {
+    "id": "g2-addsub100-migrated-118",
+    "topicId": "g2-addsub100",
+    "question": "Tìm M: M = 29 - 23",
     "choices": [
-      "33",
-      "32",
-      "35",
+      "18",
+      "6",
+      "21",
+      "7"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trừ có mượn: 29 - 23 = 6.",
+        "highlight": "phep-tru"
+      }
+    ]
+  },
+  "g2-addsub100-migrated-119": {
+    "id": "g2-addsub100-migrated-119",
+    "topicId": "g2-addsub100",
+    "question": "Tìm M: M = 62 - 34",
+    "choices": [
+      "37",
+      "28",
+      "14",
+      "31"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trừ có mượn: 62 - 34 = 28.",
+        "highlight": "phep-tru"
+      }
+    ]
+  },
+  "g2-addsub100-migrated-120": {
+    "id": "g2-addsub100-migrated-120",
+    "topicId": "g2-addsub100",
+    "question": "Tìm M: M = 64 - 38",
+    "choices": [
+      "17",
+      "19",
+      "14",
       "26"
     ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Cộng hàng đơn vị: 5 + 8 = 13. Viết 3, nhớ 1.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Cộng hàng chục: 1 + 1 + 1(nhớ) = 3.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 33 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-90": {
-    "id": "g2-add-gen2-90",
-    "topicId": "g2-add",
-    "question": "Tính: 76 + 19 = ?",
-    "choices": [
-      "99",
-      "101",
-      "91",
-      "95"
-    ],
     "answer": 3,
     "steps": [
       {
-        "text": "Cộng hàng đơn vị: 6 + 9 = 15. Viết 5, nhớ 1.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Cộng hàng chục: 7 + 1 + 1(nhớ) = 9.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 95 ✅",
-        "highlight": null
+        "text": "Trừ có mượn: 64 - 38 = 26.",
+        "highlight": "phep-tru"
       }
     ]
   },
-  "g2-add-gen2-91": {
-    "id": "g2-add-gen2-91",
-    "topicId": "g2-add",
-    "question": "Tính: 43 + 77 = ?",
-    "choices": [
-      "125",
-      "117",
-      "120",
-      "119"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Cộng hàng đơn vị: 3 + 7 = 10. Viết 0, nhớ 1.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Cộng hàng chục: 4 + 7 + 1(nhớ) = 12.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 120 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-92": {
-    "id": "g2-add-gen2-92",
-    "topicId": "g2-add",
-    "question": "Tính: 61 + 59 = ?",
-    "choices": [
-      "123",
-      "124",
-      "120",
-      "128"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Cộng hàng đơn vị: 1 + 9 = 10. Viết 0, nhớ 1.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Cộng hàng chục: 6 + 5 + 1(nhớ) = 12.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 120 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-93": {
-    "id": "g2-add-gen2-93",
-    "topicId": "g2-add",
-    "question": "Tính: 355 + 530 = ?",
-    "choices": [
-      "883",
-      "885",
-      "889",
-      "895"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "5 + 0 = 5, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 885 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-94": {
-    "id": "g2-add-gen2-94",
-    "topicId": "g2-add",
-    "question": "88 + 29 = ?",
-    "choices": [
-      "117",
-      "123",
-      "122",
-      "124"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Cộng hàng đơn vị: 8 + 9 = 17. Viết 7, nhớ 1.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Cộng hàng chục: 8 + 2 + 1(nhớ) = 11.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 117 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-95": {
-    "id": "g2-add-gen2-95",
-    "topicId": "g2-add",
-    "question": "45 + 47 = ?",
-    "choices": [
-      "95",
-      "99",
-      "100",
-      "92"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Cộng hàng đơn vị: 5 + 7 = 12. Viết 2, nhớ 1.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Cộng hàng chục: 4 + 4 + 1(nhớ) = 9.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 92 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-96": {
-    "id": "g2-add-gen2-96",
-    "topicId": "g2-add",
-    "question": "Tính: 643 + 186 = ?",
-    "choices": [
-      "826",
-      "825",
-      "829",
-      "823"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "3 + 6 = 9, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 829 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-97": {
-    "id": "g2-add-gen2-97",
-    "topicId": "g2-add",
-    "question": "76 + 89 = ?",
-    "choices": [
-      "165",
-      "171",
-      "161",
-      "169"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Cộng hàng đơn vị: 6 + 9 = 15. Viết 5, nhớ 1.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Cộng hàng chục: 7 + 8 + 1(nhớ) = 16.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 165 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-98": {
-    "id": "g2-add-gen2-98",
-    "topicId": "g2-add",
-    "question": "58 + 72 = ?",
-    "choices": [
-      "130",
-      "129",
-      "128",
-      "132"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Cộng hàng đơn vị: 8 + 2 = 10. Viết 0, nhớ 1.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Cộng hàng chục: 5 + 7 + 1(nhớ) = 13.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 130 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-99": {
-    "id": "g2-add-gen2-99",
-    "topicId": "g2-add",
-    "question": "69 + 63 = ?",
-    "choices": [
-      "132",
-      "134",
-      "137",
-      "138"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Cộng hàng đơn vị: 9 + 3 = 12. Viết 2, nhớ 1.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Cộng hàng chục: 6 + 6 + 1(nhớ) = 13.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 132 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-add-gen2-100": {
-    "id": "g2-add-gen2-100",
-    "topicId": "g2-add",
-    "question": "61 + 49 = ?",
-    "choices": [
-      "118",
-      "110",
-      "111",
-      "117"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Cộng hàng đơn vị: 1 + 9 = 10. Viết 0, nhớ 1.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Cộng hàng chục: 6 + 4 + 1(nhớ) = 11.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 110 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-11": {
-    "id": "g2-sub-gen2-11",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-121": {
+    "id": "g2-addsub100-migrated-121",
+    "topicId": "g2-addsub100",
     "question": "Tìm M: M = 68 - 19",
     "choices": [
       "51",
@@ -21430,9 +18502,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-12": {
-    "id": "g2-sub-gen2-12",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-122": {
+    "id": "g2-addsub100-migrated-122",
+    "topicId": "g2-addsub100",
     "question": "Đặt tính rồi tính: 46 - 41 = ?",
     "choices": [
       "3",
@@ -21456,9 +18528,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-13": {
-    "id": "g2-sub-gen2-13",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-123": {
+    "id": "g2-addsub100-migrated-123",
+    "topicId": "g2-addsub100",
     "question": "91 - 33 = ?",
     "choices": [
       "65",
@@ -21482,9 +18554,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-14": {
-    "id": "g2-sub-gen2-14",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-124": {
+    "id": "g2-addsub100-migrated-124",
+    "topicId": "g2-addsub100",
     "question": "51 - 27 = ?",
     "choices": [
       "29",
@@ -21508,9 +18580,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-15": {
-    "id": "g2-sub-gen2-15",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-125": {
+    "id": "g2-addsub100-migrated-125",
+    "topicId": "g2-addsub100",
     "question": "61 - 38 = ?",
     "choices": [
       "23",
@@ -21534,9 +18606,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-16": {
-    "id": "g2-sub-gen2-16",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-126": {
+    "id": "g2-addsub100-migrated-126",
+    "topicId": "g2-addsub100",
     "question": "69 - 40 = ?",
     "choices": [
       "23",
@@ -21560,9 +18632,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-17": {
-    "id": "g2-sub-gen2-17",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-127": {
+    "id": "g2-addsub100-migrated-127",
+    "topicId": "g2-addsub100",
     "question": "Tìm M: M = 73 - 46",
     "choices": [
       "19",
@@ -21586,9 +18658,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-18": {
-    "id": "g2-sub-gen2-18",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-128": {
+    "id": "g2-addsub100-migrated-128",
+    "topicId": "g2-addsub100",
     "question": "Tìm M: M = 74 - 48",
     "choices": [
       "24",
@@ -21612,9 +18684,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-19": {
-    "id": "g2-sub-gen2-19",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-129": {
+    "id": "g2-addsub100-migrated-129",
+    "topicId": "g2-addsub100",
     "question": "Đặt tính rồi tính: 48 - 39 = ?",
     "choices": [
       "14",
@@ -21638,9 +18710,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-20": {
-    "id": "g2-sub-gen2-20",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-130": {
+    "id": "g2-addsub100-migrated-130",
+    "topicId": "g2-addsub100",
     "question": "Tìm M: M = 76 - 47",
     "choices": [
       "36",
@@ -21664,9 +18736,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-21": {
-    "id": "g2-sub-gen2-21",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-131": {
+    "id": "g2-addsub100-migrated-131",
+    "topicId": "g2-addsub100",
     "question": "Đặt tính rồi tính: 55 - 26 = ?",
     "choices": [
       "23",
@@ -21690,9 +18762,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-22": {
-    "id": "g2-sub-gen2-22",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-132": {
+    "id": "g2-addsub100-migrated-132",
+    "topicId": "g2-addsub100",
     "question": "Tìm M: M = 64 - 46",
     "choices": [
       "20",
@@ -21716,9 +18788,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-23": {
-    "id": "g2-sub-gen2-23",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-133": {
+    "id": "g2-addsub100-migrated-133",
+    "topicId": "g2-addsub100",
     "question": "Tìm M: M = 50 - 26",
     "choices": [
       "21",
@@ -21742,9 +18814,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-24": {
-    "id": "g2-sub-gen2-24",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-134": {
+    "id": "g2-addsub100-migrated-134",
+    "topicId": "g2-addsub100",
     "question": "63 - 39 = ?",
     "choices": [
       "31",
@@ -21768,9 +18840,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-25": {
-    "id": "g2-sub-gen2-25",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-135": {
+    "id": "g2-addsub100-migrated-135",
+    "topicId": "g2-addsub100",
     "question": "Tìm M: M = 47 - 42",
     "choices": [
       "5",
@@ -21794,9 +18866,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-26": {
-    "id": "g2-sub-gen2-26",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-136": {
+    "id": "g2-addsub100-migrated-136",
+    "topicId": "g2-addsub100",
     "question": "Đặt tính rồi tính: 62 - 53 = ?",
     "choices": [
       "1",
@@ -21820,9 +18892,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-27": {
-    "id": "g2-sub-gen2-27",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-137": {
+    "id": "g2-addsub100-migrated-137",
+    "topicId": "g2-addsub100",
     "question": "Tìm M: M = 89 - 20",
     "choices": [
       "65",
@@ -21846,9 +18918,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-28": {
-    "id": "g2-sub-gen2-28",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-138": {
+    "id": "g2-addsub100-migrated-138",
+    "topicId": "g2-addsub100",
     "question": "Đặt tính rồi tính: 65 - 28 = ?",
     "choices": [
       "39",
@@ -21872,9 +18944,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-29": {
-    "id": "g2-sub-gen2-29",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-139": {
+    "id": "g2-addsub100-migrated-139",
+    "topicId": "g2-addsub100",
     "question": "Tìm M: M = 91 - 48",
     "choices": [
       "43",
@@ -21898,9 +18970,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-30": {
-    "id": "g2-sub-gen2-30",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-140": {
+    "id": "g2-addsub100-migrated-140",
+    "topicId": "g2-addsub100",
     "question": "51 - 32 = ?",
     "choices": [
       "25",
@@ -21924,9 +18996,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-31": {
-    "id": "g2-sub-gen2-31",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-141": {
+    "id": "g2-addsub100-migrated-141",
+    "topicId": "g2-addsub100",
     "question": "Tìm M: M = 58 - 29",
     "choices": [
       "28",
@@ -21950,9 +19022,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-32": {
-    "id": "g2-sub-gen2-32",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-142": {
+    "id": "g2-addsub100-migrated-142",
+    "topicId": "g2-addsub100",
     "question": "62 - 33 = ?",
     "choices": [
       "31",
@@ -21976,9 +19048,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-33": {
-    "id": "g2-sub-gen2-33",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-143": {
+    "id": "g2-addsub100-migrated-143",
+    "topicId": "g2-addsub100",
     "question": "64 - 35 = ?",
     "choices": [
       "26",
@@ -22002,9 +19074,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-34": {
-    "id": "g2-sub-gen2-34",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-144": {
+    "id": "g2-addsub100-migrated-144",
+    "topicId": "g2-addsub100",
     "question": "Tìm M: M = 94 - 65",
     "choices": [
       "37",
@@ -22028,9 +19100,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-35": {
-    "id": "g2-sub-gen2-35",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-145": {
+    "id": "g2-addsub100-migrated-145",
+    "topicId": "g2-addsub100",
     "question": "41 - 24 = ?",
     "choices": [
       "25",
@@ -22054,9 +19126,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-36": {
-    "id": "g2-sub-gen2-36",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-146": {
+    "id": "g2-addsub100-migrated-146",
+    "topicId": "g2-addsub100",
     "question": "Đặt tính rồi tính: 71 - 57 = ?",
     "choices": [
       "14",
@@ -22080,9 +19152,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-37": {
-    "id": "g2-sub-gen2-37",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-147": {
+    "id": "g2-addsub100-migrated-147",
+    "topicId": "g2-addsub100",
     "question": "Tìm M: M = 60 - 22",
     "choices": [
       "32",
@@ -22106,9 +19178,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-38": {
-    "id": "g2-sub-gen2-38",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-148": {
+    "id": "g2-addsub100-migrated-148",
+    "topicId": "g2-addsub100",
     "question": "77 - 48 = ?",
     "choices": [
       "31",
@@ -22132,9 +19204,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-39": {
-    "id": "g2-sub-gen2-39",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-149": {
+    "id": "g2-addsub100-migrated-149",
+    "topicId": "g2-addsub100",
     "question": "68 - 39 = ?",
     "choices": [
       "29",
@@ -22158,9 +19230,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-40": {
-    "id": "g2-sub-gen2-40",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-150": {
+    "id": "g2-addsub100-migrated-150",
+    "topicId": "g2-addsub100",
     "question": "Tìm M: M = 87 - 48",
     "choices": [
       "43",
@@ -22184,9 +19256,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-41": {
-    "id": "g2-sub-gen2-41",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-151": {
+    "id": "g2-addsub100-migrated-151",
+    "topicId": "g2-addsub100",
     "question": "Tìm M: M = 52 - 45",
     "choices": [
       "9",
@@ -22210,9 +19282,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-42": {
-    "id": "g2-sub-gen2-42",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-152": {
+    "id": "g2-addsub100-migrated-152",
+    "topicId": "g2-addsub100",
     "question": "Tìm M: M = 46 - 37",
     "choices": [
       "7",
@@ -22236,9 +19308,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-43": {
-    "id": "g2-sub-gen2-43",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-153": {
+    "id": "g2-addsub100-migrated-153",
+    "topicId": "g2-addsub100",
     "question": "Tìm M: M = 35 - 19",
     "choices": [
       "23",
@@ -22262,9 +19334,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-44": {
-    "id": "g2-sub-gen2-44",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-154": {
+    "id": "g2-addsub100-migrated-154",
+    "topicId": "g2-addsub100",
     "question": "60 - 38 = ?",
     "choices": [
       "18",
@@ -22288,9 +19360,9 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-45": {
-    "id": "g2-sub-gen2-45",
-    "topicId": "g2-sub",
+  "g2-addsub100-migrated-155": {
+    "id": "g2-addsub100-migrated-155",
+    "topicId": "g2-addsub100",
     "question": "Tìm M: M = 49 - 30",
     "choices": [
       "20",
@@ -22314,1038 +19386,830 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-46": {
-    "id": "g2-sub-gen2-46",
-    "topicId": "g2-sub",
-    "question": "66 - 37 = ?",
+  "g2-addsub1000-migrated-166": {
+    "id": "g2-addsub1000-migrated-166",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 244 + 496 = ?",
     "choices": [
-      "22",
-      "34",
-      "31",
-      "29"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 6 < 7 nên mượn 1 từ hàng chục. 16 - 7 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 6 - 1(mượn) - 3 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 29 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-47": {
-    "id": "g2-sub-gen2-47",
-    "topicId": "g2-sub",
-    "question": "31 - 22 = ?",
-    "choices": [
-      "9",
-      "6",
-      "13",
-      "16"
+      "740",
+      "749",
+      "734",
+      "744"
     ],
     "answer": 0,
     "steps": [
       {
-        "text": "Hàng đơn vị: 1 < 2 nên mượn 1 từ hàng chục. 11 - 2 = 9.",
-        "highlight": "phep-tru"
+        "text": "4 + 6 = 10, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
       },
       {
-        "text": "Hàng chục: 3 - 1(mượn) - 2 = 0.",
-        "highlight": null
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
       },
       {
-        "text": "Kết quả: 9 ✅",
+        "text": "Kết quả: 740 ✅",
         "highlight": null
       }
     ]
   },
-  "g2-sub-gen2-48": {
-    "id": "g2-sub-gen2-48",
-    "topicId": "g2-sub",
-    "question": "Đặt tính rồi tính: 59 - 40 = ?",
+  "g2-addsub1000-migrated-167": {
+    "id": "g2-addsub1000-migrated-167",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 376 + 124 = ?",
     "choices": [
-      "18",
-      "11",
-      "19",
-      "21"
+      "499",
+      "511",
+      "502",
+      "500"
     ],
-    "answer": 2,
+    "answer": 3,
     "steps": [
       {
-        "text": "Hàng đơn vị: 9 < 0 nên mượn 1 từ hàng chục. 19 - 0 = 19.",
-        "highlight": "phep-tru"
+        "text": "6 + 4 = 10, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
       },
       {
-        "text": "Hàng chục: 5 - 1(mượn) - 4 = 1.",
-        "highlight": null
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
       },
       {
-        "text": "Kết quả: 19 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-49": {
-    "id": "g2-sub-gen2-49",
-    "topicId": "g2-sub",
-    "question": "51 - 35 = ?",
-    "choices": [
-      "9",
-      "18",
-      "16",
-      "24"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 1 < 5 nên mượn 1 từ hàng chục. 11 - 5 = 6.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 5 - 1(mượn) - 3 = 1.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 16 ✅",
+        "text": "Kết quả: 500 ✅",
         "highlight": null
       }
     ]
   },
-  "g2-sub-gen2-50": {
-    "id": "g2-sub-gen2-50",
-    "topicId": "g2-sub",
-    "question": "63 - 29 = ?",
+  "g2-addsub1000-migrated-168": {
+    "id": "g2-addsub1000-migrated-168",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 768 + 195 = ?",
     "choices": [
-      "28",
-      "34",
-      "39",
-      "40"
+      "965",
+      "963",
+      "959",
+      "968"
     ],
     "answer": 1,
     "steps": [
       {
-        "text": "Hàng đơn vị: 3 < 9 nên mượn 1 từ hàng chục. 13 - 9 = 4.",
-        "highlight": "phep-tru"
+        "text": "8 + 5 = 13, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
       },
       {
-        "text": "Hàng chục: 6 - 1(mượn) - 2 = 3.",
-        "highlight": null
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
       },
       {
-        "text": "Kết quả: 34 ✅",
+        "text": "Kết quả: 963 ✅",
         "highlight": null
       }
     ]
   },
-  "g2-sub-gen2-51": {
-    "id": "g2-sub-gen2-51",
-    "topicId": "g2-sub",
-    "question": "Đặt tính rồi tính: 80 - 71 = ?",
+  "g2-addsub1000-migrated-169": {
+    "id": "g2-addsub1000-migrated-169",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 600 + 565 = ?",
     "choices": [
-      "9",
-      "10",
+      "1176",
+      "1156",
+      "1172",
+      "1165"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "0 + 5 = 5, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 1165 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-170": {
+    "id": "g2-addsub1000-migrated-170",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 299 + 287 = ?",
+    "choices": [
+      "597",
+      "590",
+      "598",
+      "586"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "9 + 7 = 16, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 586 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-171": {
+    "id": "g2-addsub1000-migrated-171",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 406 + 378 = ?",
+    "choices": [
+      "777",
+      "785",
+      "775",
+      "784"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "6 + 8 = 14, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 784 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-172": {
+    "id": "g2-addsub1000-migrated-172",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 619 + 254 = ?",
+    "choices": [
+      "882",
+      "885",
+      "877",
+      "873"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "9 + 4 = 13, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 873 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-173": {
+    "id": "g2-addsub1000-migrated-173",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 639 + 422 = ?",
+    "choices": [
+      "1058",
+      "1061",
+      "1068",
+      "1069"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "9 + 2 = 11, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 1061 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-174": {
+    "id": "g2-addsub1000-migrated-174",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 296 + 145 = ?",
+    "choices": [
+      "434",
+      "446",
+      "441",
+      "431"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "6 + 5 = 11, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 441 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-175": {
+    "id": "g2-addsub1000-migrated-175",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 705 + 149 = ?",
+    "choices": [
+      "854",
+      "843",
+      "858",
+      "845"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "5 + 9 = 14, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 854 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-176": {
+    "id": "g2-addsub1000-migrated-176",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 291 + 521 = ?",
+    "choices": [
+      "818",
+      "812",
+      "811",
+      "819"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "1 + 1 = 2, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 812 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-177": {
+    "id": "g2-addsub1000-migrated-177",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 333 + 346 = ?",
+    "choices": [
+      "669",
+      "683",
+      "679",
+      "687"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "3 + 6 = 9, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 679 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-178": {
+    "id": "g2-addsub1000-migrated-178",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 260 + 553 = ?",
+    "choices": [
+      "805",
+      "803",
+      "813",
+      "818"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "0 + 3 = 3, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 813 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-179": {
+    "id": "g2-addsub1000-migrated-179",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 226 + 155 = ?",
+    "choices": [
+      "369",
+      "377",
+      "388",
+      "381"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "6 + 5 = 11, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 381 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-180": {
+    "id": "g2-addsub1000-migrated-180",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 366 + 419 = ?",
+    "choices": [
+      "785",
+      "782",
+      "788",
+      "792"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "6 + 9 = 15, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 785 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-181": {
+    "id": "g2-addsub1000-migrated-181",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 397 + 117 = ?",
+    "choices": [
+      "505",
+      "514",
+      "519",
+      "524"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "7 + 7 = 14, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 514 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-182": {
+    "id": "g2-addsub1000-migrated-182",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 569 + 332 = ?",
+    "choices": [
+      "901",
+      "896",
+      "892",
+      "895"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "9 + 2 = 11, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 901 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-183": {
+    "id": "g2-addsub1000-migrated-183",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 761 + 295 = ?",
+    "choices": [
+      "1062",
+      "1055",
+      "1056",
+      "1045"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "1 + 5 = 6, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 1056 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-184": {
+    "id": "g2-addsub1000-migrated-184",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 745 + 215 = ?",
+    "choices": [
+      "962",
+      "960",
+      "963",
+      "951"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "5 + 5 = 10, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 960 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-185": {
+    "id": "g2-addsub1000-migrated-185",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 480 + 591 = ?",
+    "choices": [
+      "1068",
+      "1074",
+      "1071",
+      "1065"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "0 + 1 = 1, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 1071 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-186": {
+    "id": "g2-addsub1000-migrated-186",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 528 + 113 = ?",
+    "choices": [
+      "652",
+      "641",
+      "642",
+      "638"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "8 + 3 = 11, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 641 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-187": {
+    "id": "g2-addsub1000-migrated-187",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 212 + 262 = ?",
+    "choices": [
+      "469",
+      "474",
+      "462",
+      "464"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "2 + 2 = 4, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 474 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-188": {
+    "id": "g2-addsub1000-migrated-188",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 498 + 320 = ?",
+    "choices": [
+      "806",
+      "812",
+      "810",
+      "818"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "8 + 0 = 8, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 818 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-189": {
+    "id": "g2-addsub1000-migrated-189",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 588 + 290 = ?",
+    "choices": [
+      "881",
+      "888",
+      "878",
+      "890"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "8 + 0 = 8, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 878 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-190": {
+    "id": "g2-addsub1000-migrated-190",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 679 + 281 = ?",
+    "choices": [
+      "960",
+      "951",
+      "955",
+      "963"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "9 + 1 = 10, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 960 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-191": {
+    "id": "g2-addsub1000-migrated-191",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 285 + 238 = ?",
+    "choices": [
+      "512",
+      "522",
+      "521",
+      "523"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "5 + 8 = 13, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 523 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-192": {
+    "id": "g2-addsub1000-migrated-192",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 270 + 171 = ?",
+    "choices": [
+      "441",
+      "434",
+      "442",
+      "451"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "0 + 1 = 1, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 441 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-193": {
+    "id": "g2-addsub1000-migrated-193",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 530 + 201 = ?",
+    "choices": [
+      "729",
+      "731",
+      "726",
+      "738"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "0 + 1 = 1, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 731 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-194": {
+    "id": "g2-addsub1000-migrated-194",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 436 + 255 = ?",
+    "choices": [
+      "682",
+      "694",
+      "692",
+      "691"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "6 + 5 = 11, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 691 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-migrated-195": {
+    "id": "g2-addsub1000-migrated-195",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 355 + 530 = ?",
+    "choices": [
+      "883",
+      "885",
+      "889",
+      "895"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "5 + 0 = 5, viết và nhớ như cộng có nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 885 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-muldiv25-migrated-196": {
+    "id": "g2-muldiv25-migrated-196",
+    "topicId": "g2-muldiv25",
+    "question": "6 × 5 = ?",
+    "choices": [
+      "30",
+      "25",
+      "35",
+      "11"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "6 × 5 là 6 nhóm, mỗi nhóm 5 vật.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "5 + 5 + 5 + 5 + 5 + 5 = 30",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả: 6 × 5 = 30 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-muldiv25-migrated-197": {
+    "id": "g2-muldiv25-migrated-197",
+    "topicId": "g2-muldiv25",
+    "question": "7 × 2 = ?",
+    "choices": [
+      "12",
+      "15",
       "14",
-      "17"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 0 < 1 nên mượn 1 từ hàng chục. 10 - 1 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 8 - 1(mượn) - 7 = 0.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 9 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-52": {
-    "id": "g2-sub-gen2-52",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 77 - 28",
-    "choices": [
-      "41",
-      "56",
-      "51",
-      "49"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 7 < 8 nên mượn 1 từ hàng chục. 17 - 8 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 7 - 1(mượn) - 2 = 4.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 49 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-53": {
-    "id": "g2-sub-gen2-53",
-    "topicId": "g2-sub",
-    "question": "56 - 29 = ?",
-    "choices": [
-      "27",
-      "32",
-      "28",
-      "33"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 6 < 9 nên mượn 1 từ hàng chục. 16 - 9 = 7.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 5 - 1(mượn) - 2 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 27 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-54": {
-    "id": "g2-sub-gen2-54",
-    "topicId": "g2-sub",
-    "question": "65 - 18 = ?",
-    "choices": [
-      "54",
-      "47",
-      "52",
-      "49"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 5 < 8 nên mượn 1 từ hàng chục. 15 - 8 = 7.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 6 - 1(mượn) - 1 = 4.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 47 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-55": {
-    "id": "g2-sub-gen2-55",
-    "topicId": "g2-sub",
-    "question": "Đặt tính rồi tính: 49 - 40 = ?",
-    "choices": [
-      "17",
-      "5",
-      "3",
       "9"
     ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 9 < 0 nên mượn 1 từ hàng chục. 19 - 0 = 19.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 4 - 1(mượn) - 4 = 0.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 9 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-56": {
-    "id": "g2-sub-gen2-56",
-    "topicId": "g2-sub",
-    "question": "Đặt tính rồi tính: 82 - 77 = ?",
-    "choices": [
-      "9",
-      "5",
-      "8",
-      "7"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 2 < 7 nên mượn 1 từ hàng chục. 12 - 7 = 5.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 8 - 1(mượn) - 7 = 0.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 5 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-57": {
-    "id": "g2-sub-gen2-57",
-    "topicId": "g2-sub",
-    "question": "Đặt tính rồi tính: 36 - 27 = ?",
-    "choices": [
-      "8",
-      "16",
-      "9",
-      "11"
-    ],
     "answer": 2,
     "steps": [
       {
-        "text": "Hàng đơn vị: 6 < 7 nên mượn 1 từ hàng chục. 16 - 7 = 9.",
-        "highlight": "phep-tru"
+        "text": "7 × 2 = 7 cộng 2 lần:",
+        "highlight": "phep-nhan"
       },
       {
-        "text": "Hàng chục: 3 - 1(mượn) - 2 = 0.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 9 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-58": {
-    "id": "g2-sub-gen2-58",
-    "topicId": "g2-sub",
-    "question": "Đặt tính rồi tính: 73 - 58 = ?",
-    "choices": [
-      "8",
-      "13",
-      "22",
-      "15"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 3 < 8 nên mượn 1 từ hàng chục. 13 - 8 = 5.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 7 - 1(mượn) - 5 = 1.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 15 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-59": {
-    "id": "g2-sub-gen2-59",
-    "topicId": "g2-sub",
-    "question": "61 - 52 = ?",
-    "choices": [
-      "9",
-      "7",
-      "2",
-      "8"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 1 < 2 nên mượn 1 từ hàng chục. 11 - 2 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 6 - 1(mượn) - 5 = 0.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 9 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-60": {
-    "id": "g2-sub-gen2-60",
-    "topicId": "g2-sub",
-    "question": "Đặt tính rồi tính: 65 - 36 = ?",
-    "choices": [
-      "33",
-      "29",
-      "36",
-      "22"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 5 < 6 nên mượn 1 từ hàng chục. 15 - 6 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 6 - 1(mượn) - 3 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 29 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-61": {
-    "id": "g2-sub-gen2-61",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 45 - 16",
-    "choices": [
-      "29",
-      "24",
-      "37",
-      "26"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 5 < 6 nên mượn 1 từ hàng chục. 15 - 6 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 4 - 1(mượn) - 1 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 29 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-62": {
-    "id": "g2-sub-gen2-62",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 86 - 57",
-    "choices": [
-      "24",
-      "36",
-      "29",
-      "35"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 6 < 7 nên mượn 1 từ hàng chục. 16 - 7 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 8 - 1(mượn) - 5 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 29 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-63": {
-    "id": "g2-sub-gen2-63",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 88 - 79",
-    "choices": [
-      "9",
-      "6",
-      "4",
-      "14"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 8 < 9 nên mượn 1 từ hàng chục. 18 - 9 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 8 - 1(mượn) - 7 = 0.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 9 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-64": {
-    "id": "g2-sub-gen2-64",
-    "topicId": "g2-sub",
-    "question": "54 - 25 = ?",
-    "choices": [
-      "28",
-      "30",
-      "36",
-      "29"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 4 < 5 nên mượn 1 từ hàng chục. 14 - 5 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 5 - 1(mượn) - 2 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 29 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-65": {
-    "id": "g2-sub-gen2-65",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 71 - 53",
-    "choices": [
-      "19",
-      "17",
-      "18",
-      "23"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 1 < 3 nên mượn 1 từ hàng chục. 11 - 3 = 8.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 7 - 1(mượn) - 5 = 1.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 18 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-66": {
-    "id": "g2-sub-gen2-66",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 51 - 45",
-    "choices": [
-      "13",
-      "6",
-      "2",
-      "1"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 1 < 5 nên mượn 1 từ hàng chục. 11 - 5 = 6.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 5 - 1(mượn) - 4 = 0.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 6 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-67": {
-    "id": "g2-sub-gen2-67",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 60 - 36",
-    "choices": [
-      "24",
-      "19",
-      "16",
-      "31"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 0 < 6 nên mượn 1 từ hàng chục. 10 - 6 = 4.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 6 - 1(mượn) - 3 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 24 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-68": {
-    "id": "g2-sub-gen2-68",
-    "topicId": "g2-sub",
-    "question": "45 - 16 = ?",
-    "choices": [
-      "29",
-      "33",
-      "27",
-      "36"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 5 < 6 nên mượn 1 từ hàng chục. 15 - 6 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 4 - 1(mượn) - 1 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 29 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-69": {
-    "id": "g2-sub-gen2-69",
-    "topicId": "g2-sub",
-    "question": "37 - 28 = ?",
-    "choices": [
-      "10",
-      "9",
-      "1",
-      "7"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 7 < 8 nên mượn 1 từ hàng chục. 17 - 8 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 3 - 1(mượn) - 2 = 0.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 9 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-70": {
-    "id": "g2-sub-gen2-70",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 72 - 38",
-    "choices": [
-      "30",
-      "27",
-      "34",
-      "31"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 2 < 8 nên mượn 1 từ hàng chục. 12 - 8 = 4.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 7 - 1(mượn) - 3 = 3.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 34 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-71": {
-    "id": "g2-sub-gen2-71",
-    "topicId": "g2-sub",
-    "question": "73 - 35 = ?",
-    "choices": [
-      "33",
-      "30",
-      "31",
-      "38"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 3 < 5 nên mượn 1 từ hàng chục. 13 - 5 = 8.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 7 - 1(mượn) - 3 = 3.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 38 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-72": {
-    "id": "g2-sub-gen2-72",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 69 - 50",
-    "choices": [
-      "23",
-      "19",
-      "12",
-      "25"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 9 < 0 nên mượn 1 từ hàng chục. 19 - 0 = 19.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 6 - 1(mượn) - 5 = 1.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 19 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-73": {
-    "id": "g2-sub-gen2-73",
-    "topicId": "g2-sub",
-    "question": "95 - 27 = ?",
-    "choices": [
-      "64",
-      "71",
-      "68",
-      "72"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 5 < 7 nên mượn 1 từ hàng chục. 15 - 7 = 8.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 9 - 1(mượn) - 2 = 6.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 68 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-74": {
-    "id": "g2-sub-gen2-74",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 30 - 18",
-    "choices": [
-      "20",
-      "11",
-      "19",
-      "12"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 0 < 8 nên mượn 1 từ hàng chục. 10 - 8 = 2.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 3 - 1(mượn) - 1 = 1.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 12 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-75": {
-    "id": "g2-sub-gen2-75",
-    "topicId": "g2-sub",
-    "question": "Đặt tính rồi tính: 34 - 18 = ?",
-    "choices": [
-      "20",
-      "16",
-      "19",
-      "13"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 4 < 8 nên mượn 1 từ hàng chục. 14 - 8 = 6.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 3 - 1(mượn) - 1 = 1.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 16 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-76": {
-    "id": "g2-sub-gen2-76",
-    "topicId": "g2-sub",
-    "question": "67 - 28 = ?",
-    "choices": [
-      "36",
-      "39",
-      "32",
-      "34"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 7 < 8 nên mượn 1 từ hàng chục. 17 - 8 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 6 - 1(mượn) - 2 = 3.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 39 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-77": {
-    "id": "g2-sub-gen2-77",
-    "topicId": "g2-sub",
-    "question": "55 - 26 = ?",
-    "choices": [
-      "28",
-      "32",
-      "33",
-      "29"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 5 < 6 nên mượn 1 từ hàng chục. 15 - 6 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 5 - 1(mượn) - 2 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 29 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-78": {
-    "id": "g2-sub-gen2-78",
-    "topicId": "g2-sub",
-    "question": "Đặt tính rồi tính: 91 - 28 = ?",
-    "choices": [
-      "61",
-      "71",
-      "63",
-      "70"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 1 < 8 nên mượn 1 từ hàng chục. 11 - 8 = 3.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 9 - 1(mượn) - 2 = 6.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 63 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-79": {
-    "id": "g2-sub-gen2-79",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 95 - 76",
-    "choices": [
-      "27",
-      "19",
-      "16",
-      "11"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 5 < 6 nên mượn 1 từ hàng chục. 15 - 6 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 9 - 1(mượn) - 7 = 1.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 19 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-80": {
-    "id": "g2-sub-gen2-80",
-    "topicId": "g2-sub",
-    "question": "52 - 17 = ?",
-    "choices": [
-      "35",
-      "33",
-      "32",
-      "41"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 2 < 7 nên mượn 1 từ hàng chục. 12 - 7 = 5.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 5 - 1(mượn) - 1 = 3.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 35 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-81": {
-    "id": "g2-sub-gen2-81",
-    "topicId": "g2-sub",
-    "question": "39 - 34 = ?",
-    "choices": [
-      "12",
-      "5",
-      "1",
-      "6"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 9 < 4 nên mượn 1 từ hàng chục. 19 - 4 = 15.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 3 - 1(mượn) - 3 = 0.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 5 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-82": {
-    "id": "g2-sub-gen2-82",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 80 - 54",
-    "choices": [
-      "26",
-      "34",
-      "25",
-      "21"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 0 < 4 nên mượn 1 từ hàng chục. 10 - 4 = 6.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 8 - 1(mượn) - 5 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 26 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-83": {
-    "id": "g2-sub-gen2-83",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 69 - 64",
-    "choices": [
-      "5",
-      "13",
-      "10",
-      "12"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 9 < 4 nên mượn 1 từ hàng chục. 19 - 4 = 15.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 6 - 1(mượn) - 6 = 0.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 5 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-84": {
-    "id": "g2-sub-gen2-84",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 36 - 19",
-    "choices": [
-      "17",
-      "12",
-      "20",
-      "18"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 6 < 9 nên mượn 1 từ hàng chục. 16 - 9 = 7.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 3 - 1(mượn) - 1 = 1.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 17 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-85": {
-    "id": "g2-sub-gen2-85",
-    "topicId": "g2-sub",
-    "question": "90 - 76 = ?",
-    "choices": [
-      "20",
-      "17",
-      "14",
-      "11"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 0 < 6 nên mượn 1 từ hàng chục. 10 - 6 = 4.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 9 - 1(mượn) - 7 = 1.",
+        "text": "7 + 7 = 14",
         "highlight": null
       },
       {
@@ -23354,421 +20218,81 @@ export const problems = {
       }
     ]
   },
-  "g2-sub-gen2-86": {
-    "id": "g2-sub-gen2-86",
-    "topicId": "g2-sub",
-    "question": "Đặt tính rồi tính: 59 - 30 = ?",
+  "g2-muldiv25-migrated-198": {
+    "id": "g2-muldiv25-migrated-198",
+    "topicId": "g2-muldiv25",
+    "question": "Tính phép nhân: 5 × 9",
     "choices": [
-      "29",
-      "22",
-      "32",
-      "31"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 9 < 0 nên mượn 1 từ hàng chục. 19 - 0 = 19.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 5 - 1(mượn) - 3 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 29 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-87": {
-    "id": "g2-sub-gen2-87",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 71 - 34",
-    "choices": [
-      "37",
+      "48",
       "45",
-      "39",
-      "30"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 1 < 4 nên mượn 1 từ hàng chục. 11 - 4 = 7.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 7 - 1(mượn) - 3 = 3.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 37 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-88": {
-    "id": "g2-sub-gen2-88",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 33 - 18",
-    "choices": [
-      "15",
-      "8",
-      "7",
-      "14"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 3 < 8 nên mượn 1 từ hàng chục. 13 - 8 = 5.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 3 - 1(mượn) - 1 = 1.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 15 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-89": {
-    "id": "g2-sub-gen2-89",
-    "topicId": "g2-sub",
-    "question": "37 - 18 = ?",
-    "choices": [
-      "19",
-      "21",
-      "11",
-      "27"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 7 < 8 nên mượn 1 từ hàng chục. 17 - 8 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 3 - 1(mượn) - 1 = 1.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 19 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-90": {
-    "id": "g2-sub-gen2-90",
-    "topicId": "g2-sub",
-    "question": "85 - 28 = ?",
-    "choices": [
-      "50",
-      "53",
       "57",
-      "54"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 5 < 8 nên mượn 1 từ hàng chục. 15 - 8 = 7.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 8 - 1(mượn) - 2 = 5.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 57 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-91": {
-    "id": "g2-sub-gen2-91",
-    "topicId": "g2-sub",
-    "question": "Đặt tính rồi tính: 60 - 24 = ?",
-    "choices": [
-      "36",
-      "40",
-      "41",
-      "35"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 0 < 4 nên mượn 1 từ hàng chục. 10 - 4 = 6.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 6 - 1(mượn) - 2 = 3.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 36 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-92": {
-    "id": "g2-sub-gen2-92",
-    "topicId": "g2-sub",
-    "question": "Đặt tính rồi tính: 37 - 28 = ?",
-    "choices": [
-      "10",
-      "17",
-      "9",
-      "6"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 7 < 8 nên mượn 1 từ hàng chục. 17 - 8 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 3 - 1(mượn) - 2 = 0.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 9 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-93": {
-    "id": "g2-sub-gen2-93",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 84 - 75",
-    "choices": [
-      "9",
-      "3",
-      "6",
-      "2"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 4 < 5 nên mượn 1 từ hàng chục. 14 - 5 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 8 - 1(mượn) - 7 = 0.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 9 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-94": {
-    "id": "g2-sub-gen2-94",
-    "topicId": "g2-sub",
-    "question": "Tìm M: M = 38 - 29",
-    "choices": [
-      "12",
-      "15",
-      "10",
-      "9"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 8 < 9 nên mượn 1 từ hàng chục. 18 - 9 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 3 - 1(mượn) - 2 = 0.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 9 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-95": {
-    "id": "g2-sub-gen2-95",
-    "topicId": "g2-sub",
-    "question": "Đặt tính rồi tính: 58 - 19 = ?",
-    "choices": [
-      "39",
-      "31",
-      "42",
-      "37"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 8 < 9 nên mượn 1 từ hàng chục. 18 - 9 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 5 - 1(mượn) - 1 = 3.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 39 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-96": {
-    "id": "g2-sub-gen2-96",
-    "topicId": "g2-sub",
-    "question": "44 - 39 = ?",
-    "choices": [
-      "2",
-      "5",
-      "12",
-      "13"
+      "53"
     ],
     "answer": 1,
     "steps": [
       {
-        "text": "Hàng đơn vị: 4 < 9 nên mượn 1 từ hàng chục. 14 - 9 = 5.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 4 - 1(mượn) - 3 = 0.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 5 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-97": {
-    "id": "g2-sub-gen2-97",
-    "topicId": "g2-sub",
-    "question": "Đặt tính rồi tính: 73 - 34 = ?",
-    "choices": [
-      "38",
-      "41",
-      "39",
-      "47"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 3 < 4 nên mượn 1 từ hàng chục. 13 - 4 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 7 - 1(mượn) - 3 = 3.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 39 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-98": {
-    "id": "g2-sub-gen2-98",
-    "topicId": "g2-sub",
-    "question": "Đặt tính rồi tính: 51 - 28 = ?",
-    "choices": [
-      "19",
-      "23",
-      "31",
-      "20"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 1 < 8 nên mượn 1 từ hàng chục. 11 - 8 = 3.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 5 - 1(mượn) - 2 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 23 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-99": {
-    "id": "g2-sub-gen2-99",
-    "topicId": "g2-sub",
-    "question": "Đặt tính rồi tính: 52 - 43 = ?",
-    "choices": [
-      "5",
-      "9",
-      "2",
-      "1"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 2 < 3 nên mượn 1 từ hàng chục. 12 - 3 = 9.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 5 - 1(mượn) - 4 = 0.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 9 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-sub-gen2-100": {
-    "id": "g2-sub-gen2-100",
-    "topicId": "g2-sub",
-    "question": "Đặt tính rồi tính: 74 - 36 = ?",
-    "choices": [
-      "37",
-      "31",
-      "38",
-      "44"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Hàng đơn vị: 4 < 6 nên mượn 1 từ hàng chục. 14 - 6 = 8.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "Hàng chục: 7 - 1(mượn) - 3 = 3.",
-        "highlight": null
-      },
-      {
-        "text": "Kết quả: 38 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-11": {
-    "id": "g2-mul-gen2-11",
-    "topicId": "g2-mul",
-    "question": "Mỗi thùng có 8 quả dâu 🍓. Có 10 thùng. Hỏi tất cả có bao nhiêu dâu?",
-    "choices": [
-      "76",
-      "84",
-      "86",
-      "80"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Có 10 thùng, mỗi thùng 8 quả -> dùng phép nhân.",
+        "text": "5 nhân 9 bằng 45.",
         "highlight": "phep-nhan"
-      },
-      {
-        "text": "8 × 10 = 80 ✅",
-        "highlight": null
       }
     ]
   },
-  "g2-mul-gen2-12": {
-    "id": "g2-mul-gen2-12",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-199": {
+    "id": "g2-muldiv25-migrated-199",
+    "topicId": "g2-muldiv25",
+    "question": "Tính phép nhân: 2 × 5",
+    "choices": [
+      "3",
+      "2",
+      "10",
+      "11"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "2 nhân 5 bằng 10.",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-migrated-200": {
+    "id": "g2-muldiv25-migrated-200",
+    "topicId": "g2-muldiv25",
+    "question": "Tính phép nhân: 3 × 2",
+    "choices": [
+      "15",
+      "20",
+      "6",
+      "21"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "3 nhân 2 bằng 6.",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-migrated-201": {
+    "id": "g2-muldiv25-migrated-201",
+    "topicId": "g2-muldiv25",
+    "question": "Tính phép nhân: 5 × 7",
+    "choices": [
+      "35",
+      "44",
+      "49",
+      "23"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "5 nhân 7 bằng 35.",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-migrated-202": {
+    "id": "g2-muldiv25-migrated-202",
+    "topicId": "g2-muldiv25",
     "question": "Tính phép nhân: 4 × 2",
     "choices": [
       "13",
@@ -23784,53 +20308,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-13": {
-    "id": "g2-mul-gen2-13",
-    "topicId": "g2-mul",
-    "question": "Mỗi thùng có 10 quả cam 🍊. Có 3 thùng. Hỏi tất cả có bao nhiêu cam?",
-    "choices": [
-      "34",
-      "33",
-      "30",
-      "31"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Có 3 thùng, mỗi thùng 10 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "10 × 3 = 30 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-14": {
-    "id": "g2-mul-gen2-14",
-    "topicId": "g2-mul",
-    "question": "Mỗi giỏ có 9 quả bưởi 🍈. Có 3 giỏ. Hỏi tất cả có bao nhiêu bưởi?",
-    "choices": [
-      "27",
-      "29",
-      "33",
-      "26"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Có 3 giỏ, mỗi giỏ 9 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "9 × 3 = 27 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-15": {
-    "id": "g2-mul-gen2-15",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-203": {
+    "id": "g2-muldiv25-migrated-203",
+    "topicId": "g2-muldiv25",
     "question": "Tính phép nhân: 5 × 2",
     "choices": [
       "10",
@@ -23846,9 +20326,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-16": {
-    "id": "g2-mul-gen2-16",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-204": {
+    "id": "g2-muldiv25-migrated-204",
+    "topicId": "g2-muldiv25",
     "question": "2 × 5 = ?",
     "choices": [
       "10",
@@ -23868,71 +20348,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-17": {
-    "id": "g2-mul-gen2-17",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 6 × 10",
-    "choices": [
-      "58",
-      "59",
-      "60",
-      "57"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "6 nhân 10 bằng 60.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen2-18": {
-    "id": "g2-mul-gen2-18",
-    "topicId": "g2-mul",
-    "question": "Mỗi rổ có 3 quả bưởi 🍈. Có 7 rổ. Hỏi tất cả có bao nhiêu bưởi?",
-    "choices": [
-      "21",
-      "19",
-      "22",
-      "20"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Có 7 rổ, mỗi rổ 3 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "3 × 7 = 21 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-19": {
-    "id": "g2-mul-gen2-19",
-    "topicId": "g2-mul",
-    "question": "Mỗi rổ có 7 quả cam 🍊. Có 7 rổ. Hỏi tất cả có bao nhiêu cam?",
-    "choices": [
-      "51",
-      "49",
-      "55",
-      "50"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Có 7 rổ, mỗi rổ 7 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "7 × 7 = 49 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-20": {
-    "id": "g2-mul-gen2-20",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-205": {
+    "id": "g2-muldiv25-migrated-205",
+    "topicId": "g2-muldiv25",
     "question": "Mỗi rổ có 9 quả dâu 🍓. Có 5 rổ. Hỏi tất cả có bao nhiêu dâu?",
     "choices": [
       "49",
@@ -23952,9 +20370,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-21": {
-    "id": "g2-mul-gen2-21",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-206": {
+    "id": "g2-muldiv25-migrated-206",
+    "topicId": "g2-muldiv25",
     "question": "3 × 2 = ?",
     "choices": [
       "11",
@@ -23974,9 +20392,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-22": {
-    "id": "g2-mul-gen2-22",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-207": {
+    "id": "g2-muldiv25-migrated-207",
+    "topicId": "g2-muldiv25",
     "question": "Mỗi giỏ có 8 quả táo 🍎. Có 2 giỏ. Hỏi tất cả có bao nhiêu táo?",
     "choices": [
       "17",
@@ -23996,31 +20414,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-23": {
-    "id": "g2-mul-gen2-23",
-    "topicId": "g2-mul",
-    "question": "Mỗi rổ có 10 quả chuối 🍌. Có 4 rổ. Hỏi tất cả có bao nhiêu chuối?",
-    "choices": [
-      "34",
-      "39",
-      "40",
-      "35"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Có 4 rổ, mỗi rổ 10 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "10 × 4 = 40 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-24": {
-    "id": "g2-mul-gen2-24",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-208": {
+    "id": "g2-muldiv25-migrated-208",
+    "topicId": "g2-muldiv25",
     "question": "Mỗi rổ có 5 quả táo 🍎. Có 8 rổ. Hỏi tất cả có bao nhiêu táo?",
     "choices": [
       "40",
@@ -24040,9 +20436,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-25": {
-    "id": "g2-mul-gen2-25",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-209": {
+    "id": "g2-muldiv25-migrated-209",
+    "topicId": "g2-muldiv25",
     "question": "6 × 2 = ?",
     "choices": [
       "18",
@@ -24062,67 +20458,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-26": {
-    "id": "g2-mul-gen2-26",
-    "topicId": "g2-mul",
-    "question": "8 × 8 = ?",
-    "choices": [
-      "64",
-      "67",
-      "68",
-      "58"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "8 × 8 có nghĩa là cộng số 8 8 lần.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Kết quả: 8 × 8 = 64 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-27": {
-    "id": "g2-mul-gen2-27",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 8 × 8",
-    "choices": [
-      "66",
-      "61",
-      "64",
-      "62"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "8 nhân 8 bằng 64.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen2-28": {
-    "id": "g2-mul-gen2-28",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 10 × 9",
-    "choices": [
-      "91",
-      "90",
-      "84",
-      "86"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "10 nhân 9 bằng 90.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen2-29": {
-    "id": "g2-mul-gen2-29",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-210": {
+    "id": "g2-muldiv25-migrated-210",
+    "topicId": "g2-muldiv25",
     "question": "Tính phép nhân: 2 × 3",
     "choices": [
       "4",
@@ -24138,75 +20476,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-30": {
-    "id": "g2-mul-gen2-30",
-    "topicId": "g2-mul",
-    "question": "8 × 7 = ?",
-    "choices": [
-      "52",
-      "59",
-      "58",
-      "56"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "8 × 7 có nghĩa là cộng số 8 7 lần.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Kết quả: 8 × 7 = 56 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-31": {
-    "id": "g2-mul-gen2-31",
-    "topicId": "g2-mul",
-    "question": "Mỗi rổ có 4 quả quýt 🍊. Có 7 rổ. Hỏi tất cả có bao nhiêu quýt?",
-    "choices": [
-      "33",
-      "28",
-      "25",
-      "32"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Có 7 rổ, mỗi rổ 4 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "4 × 7 = 28 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-32": {
-    "id": "g2-mul-gen2-32",
-    "topicId": "g2-mul",
-    "question": "7 × 9 = ?",
-    "choices": [
-      "57",
-      "63",
-      "62",
-      "64"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "7 × 9 có nghĩa là cộng số 7 9 lần.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Kết quả: 7 × 9 = 63 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-33": {
-    "id": "g2-mul-gen2-33",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-211": {
+    "id": "g2-muldiv25-migrated-211",
+    "topicId": "g2-muldiv25",
     "question": "Mỗi rổ có 4 quả táo 🍎. Có 5 rổ. Hỏi tất cả có bao nhiêu táo?",
     "choices": [
       "21",
@@ -24226,71 +20498,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-34": {
-    "id": "g2-mul-gen2-34",
-    "topicId": "g2-mul",
-    "question": "Mỗi thùng có 9 quả táo 🍎. Có 4 thùng. Hỏi tất cả có bao nhiêu táo?",
-    "choices": [
-      "42",
-      "34",
-      "36",
-      "35"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Có 4 thùng, mỗi thùng 9 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "9 × 4 = 36 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-35": {
-    "id": "g2-mul-gen2-35",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 7 × 6",
-    "choices": [
-      "43",
-      "36",
-      "44",
-      "42"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "7 nhân 6 bằng 42.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen2-36": {
-    "id": "g2-mul-gen2-36",
-    "topicId": "g2-mul",
-    "question": "10 × 8 = ?",
-    "choices": [
-      "81",
-      "80",
-      "76",
-      "86"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "10 × 8 có nghĩa là cộng số 10 8 lần.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Kết quả: 10 × 8 = 80 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-37": {
-    "id": "g2-mul-gen2-37",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-212": {
+    "id": "g2-muldiv25-migrated-212",
+    "topicId": "g2-muldiv25",
     "question": "Mỗi hộp có 9 quả cam 🍊. Có 5 hộp. Hỏi tất cả có bao nhiêu cam?",
     "choices": [
       "44",
@@ -24310,9 +20520,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-38": {
-    "id": "g2-mul-gen2-38",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-213": {
+    "id": "g2-muldiv25-migrated-213",
+    "topicId": "g2-muldiv25",
     "question": "Tính phép nhân: 7 × 2",
     "choices": [
       "19",
@@ -24328,9 +20538,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-39": {
-    "id": "g2-mul-gen2-39",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-214": {
+    "id": "g2-muldiv25-migrated-214",
+    "topicId": "g2-muldiv25",
     "question": "5 × 3 = ?",
     "choices": [
       "12",
@@ -24350,27 +20560,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-40": {
-    "id": "g2-mul-gen2-40",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 4 × 8",
-    "choices": [
-      "36",
-      "33",
-      "28",
-      "32"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "4 nhân 8 bằng 32.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen2-41": {
-    "id": "g2-mul-gen2-41",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-215": {
+    "id": "g2-muldiv25-migrated-215",
+    "topicId": "g2-muldiv25",
     "question": "5 × 4 = ?",
     "choices": [
       "20",
@@ -24390,9 +20582,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-42": {
-    "id": "g2-mul-gen2-42",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-216": {
+    "id": "g2-muldiv25-migrated-216",
+    "topicId": "g2-muldiv25",
     "question": "2 × 10 = ?",
     "choices": [
       "20",
@@ -24412,71 +20604,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-43": {
-    "id": "g2-mul-gen2-43",
-    "topicId": "g2-mul",
-    "question": "Mỗi túi có 10 quả bưởi 🍈. Có 4 túi. Hỏi tất cả có bao nhiêu bưởi?",
-    "choices": [
-      "35",
-      "38",
-      "40",
-      "37"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Có 4 túi, mỗi túi 10 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "10 × 4 = 40 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-44": {
-    "id": "g2-mul-gen2-44",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 4 × 10",
-    "choices": [
-      "39",
-      "36",
-      "40",
-      "43"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "4 nhân 10 bằng 40.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen2-45": {
-    "id": "g2-mul-gen2-45",
-    "topicId": "g2-mul",
-    "question": "6 × 7 = ?",
-    "choices": [
-      "45",
-      "42",
-      "41",
-      "36"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "6 × 7 có nghĩa là cộng số 6 7 lần.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Kết quả: 6 × 7 = 42 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-46": {
-    "id": "g2-mul-gen2-46",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-217": {
+    "id": "g2-muldiv25-migrated-217",
+    "topicId": "g2-muldiv25",
     "question": "5 × 6 = ?",
     "choices": [
       "31",
@@ -24496,31 +20626,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-47": {
-    "id": "g2-mul-gen2-47",
-    "topicId": "g2-mul",
-    "question": "9 × 10 = ?",
-    "choices": [
-      "93",
-      "90",
-      "95",
-      "84"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "9 × 10 có nghĩa là cộng số 9 10 lần.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Kết quả: 9 × 10 = 90 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-48": {
-    "id": "g2-mul-gen2-48",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-218": {
+    "id": "g2-muldiv25-migrated-218",
+    "topicId": "g2-muldiv25",
     "question": "Mỗi giỏ có 2 quả táo 🍎. Có 3 giỏ. Hỏi tất cả có bao nhiêu táo?",
     "choices": [
       "6",
@@ -24540,93 +20648,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-49": {
-    "id": "g2-mul-gen2-49",
-    "topicId": "g2-mul",
-    "question": "Mỗi thùng có 8 quả lê 🍐. Có 4 thùng. Hỏi tất cả có bao nhiêu lê?",
-    "choices": [
-      "27",
-      "37",
-      "32",
-      "29"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Có 4 thùng, mỗi thùng 8 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "8 × 4 = 32 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-50": {
-    "id": "g2-mul-gen2-50",
-    "topicId": "g2-mul",
-    "question": "Mỗi rổ có 8 quả dâu 🍓. Có 3 rổ. Hỏi tất cả có bao nhiêu dâu?",
-    "choices": [
-      "19",
-      "30",
-      "20",
-      "24"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Có 3 rổ, mỗi rổ 8 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "8 × 3 = 24 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-51": {
-    "id": "g2-mul-gen2-51",
-    "topicId": "g2-mul",
-    "question": "9 × 7 = ?",
-    "choices": [
-      "69",
-      "62",
-      "64",
-      "63"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "9 × 7 có nghĩa là cộng số 9 7 lần.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Kết quả: 9 × 7 = 63 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-52": {
-    "id": "g2-mul-gen2-52",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 6 × 4",
-    "choices": [
-      "28",
-      "24",
-      "29",
-      "18"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "6 nhân 4 bằng 24.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen2-53": {
-    "id": "g2-mul-gen2-53",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-219": {
+    "id": "g2-muldiv25-migrated-219",
+    "topicId": "g2-muldiv25",
     "question": "Tính phép nhân: 2 × 4",
     "choices": [
       "8",
@@ -24642,9 +20666,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-54": {
-    "id": "g2-mul-gen2-54",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-220": {
+    "id": "g2-muldiv25-migrated-220",
+    "topicId": "g2-muldiv25",
     "question": "Tính phép nhân: 8 × 2",
     "choices": [
       "13",
@@ -24660,9 +20684,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-55": {
-    "id": "g2-mul-gen2-55",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-221": {
+    "id": "g2-muldiv25-migrated-221",
+    "topicId": "g2-muldiv25",
     "question": "8 × 5 = ?",
     "choices": [
       "46",
@@ -24682,9 +20706,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-56": {
-    "id": "g2-mul-gen2-56",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-222": {
+    "id": "g2-muldiv25-migrated-222",
+    "topicId": "g2-muldiv25",
     "question": "Tính phép nhân: 2 × 8",
     "choices": [
       "16",
@@ -24700,9 +20724,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-57": {
-    "id": "g2-mul-gen2-57",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-223": {
+    "id": "g2-muldiv25-migrated-223",
+    "topicId": "g2-muldiv25",
     "question": "Tính phép nhân: 5 × 8",
     "choices": [
       "40",
@@ -24718,9 +20742,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-58": {
-    "id": "g2-mul-gen2-58",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-224": {
+    "id": "g2-muldiv25-migrated-224",
+    "topicId": "g2-muldiv25",
     "question": "Mỗi thùng có 5 quả chuối 🍌. Có 8 thùng. Hỏi tất cả có bao nhiêu chuối?",
     "choices": [
       "39",
@@ -24740,31 +20764,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-59": {
-    "id": "g2-mul-gen2-59",
-    "topicId": "g2-mul",
-    "question": "10 × 9 = ?",
-    "choices": [
-      "95",
-      "87",
-      "94",
-      "90"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "10 × 9 có nghĩa là cộng số 10 9 lần.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Kết quả: 10 × 9 = 90 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-60": {
-    "id": "g2-mul-gen2-60",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-225": {
+    "id": "g2-muldiv25-migrated-225",
+    "topicId": "g2-muldiv25",
     "question": "2 × 6 = ?",
     "choices": [
       "10",
@@ -24784,9 +20786,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-61": {
-    "id": "g2-mul-gen2-61",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-226": {
+    "id": "g2-muldiv25-migrated-226",
+    "topicId": "g2-muldiv25",
     "question": "Mỗi hộp có 2 quả dâu 🍓. Có 4 hộp. Hỏi tất cả có bao nhiêu dâu?",
     "choices": [
       "8",
@@ -24806,31 +20808,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-62": {
-    "id": "g2-mul-gen2-62",
-    "topicId": "g2-mul",
-    "question": "Mỗi giỏ có 6 quả táo 🍎. Có 7 giỏ. Hỏi tất cả có bao nhiêu táo?",
-    "choices": [
-      "42",
-      "39",
-      "40",
-      "38"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Có 7 giỏ, mỗi giỏ 6 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "6 × 7 = 42 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-63": {
-    "id": "g2-mul-gen2-63",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-227": {
+    "id": "g2-muldiv25-migrated-227",
+    "topicId": "g2-muldiv25",
     "question": "4 × 5 = ?",
     "choices": [
       "22",
@@ -24850,9 +20830,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-64": {
-    "id": "g2-mul-gen2-64",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-228": {
+    "id": "g2-muldiv25-migrated-228",
+    "topicId": "g2-muldiv25",
     "question": "Mỗi hộp có 2 quả chuối 🍌. Có 9 hộp. Hỏi tất cả có bao nhiêu chuối?",
     "choices": [
       "19",
@@ -24872,67 +20852,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-65": {
-    "id": "g2-mul-gen2-65",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 3 × 7",
-    "choices": [
-      "23",
-      "21",
-      "19",
-      "24"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "3 nhân 7 bằng 21.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen2-66": {
-    "id": "g2-mul-gen2-66",
-    "topicId": "g2-mul",
-    "question": "10 × 7 = ?",
-    "choices": [
-      "68",
-      "66",
-      "74",
-      "70"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "10 × 7 có nghĩa là cộng số 10 7 lần.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Kết quả: 10 × 7 = 70 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-67": {
-    "id": "g2-mul-gen2-67",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 8 × 7",
-    "choices": [
-      "56",
-      "53",
-      "59",
-      "60"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "8 nhân 7 bằng 56.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen2-68": {
-    "id": "g2-mul-gen2-68",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-229": {
+    "id": "g2-muldiv25-migrated-229",
+    "topicId": "g2-muldiv25",
     "question": "Mỗi thùng có 3 quả lê 🍐. Có 2 thùng. Hỏi tất cả có bao nhiêu lê?",
     "choices": [
       "5",
@@ -24952,49 +20874,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-69": {
-    "id": "g2-mul-gen2-69",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 7 × 8",
-    "choices": [
-      "62",
-      "50",
-      "55",
-      "56"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "7 nhân 8 bằng 56.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen2-70": {
-    "id": "g2-mul-gen2-70",
-    "topicId": "g2-mul",
-    "question": "Mỗi giỏ có 8 quả đào 🍑. Có 3 giỏ. Hỏi tất cả có bao nhiêu đào?",
-    "choices": [
-      "24",
-      "20",
-      "29",
-      "25"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Có 3 giỏ, mỗi giỏ 8 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "8 × 3 = 24 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-71": {
-    "id": "g2-mul-gen2-71",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-230": {
+    "id": "g2-muldiv25-migrated-230",
+    "topicId": "g2-muldiv25",
     "question": "2 × 4 = ?",
     "choices": [
       "12",
@@ -25014,9 +20896,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-72": {
-    "id": "g2-mul-gen2-72",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-231": {
+    "id": "g2-muldiv25-migrated-231",
+    "topicId": "g2-muldiv25",
     "question": "Tính phép nhân: 9 × 5",
     "choices": [
       "43",
@@ -25032,9 +20914,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-73": {
-    "id": "g2-mul-gen2-73",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-232": {
+    "id": "g2-muldiv25-migrated-232",
+    "topicId": "g2-muldiv25",
     "question": "Tính phép nhân: 3 × 5",
     "choices": [
       "14",
@@ -25050,9 +20932,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-74": {
-    "id": "g2-mul-gen2-74",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-233": {
+    "id": "g2-muldiv25-migrated-233",
+    "topicId": "g2-muldiv25",
     "question": "Mỗi hộp có 6 quả quýt 🍊. Có 5 hộp. Hỏi tất cả có bao nhiêu quýt?",
     "choices": [
       "32",
@@ -25072,31 +20954,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-75": {
-    "id": "g2-mul-gen2-75",
-    "topicId": "g2-mul",
-    "question": "Mỗi rổ có 10 quả dâu 🍓. Có 7 rổ. Hỏi tất cả có bao nhiêu dâu?",
-    "choices": [
-      "66",
-      "70",
-      "73",
-      "64"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Có 7 rổ, mỗi rổ 10 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "10 × 7 = 70 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-76": {
-    "id": "g2-mul-gen2-76",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-234": {
+    "id": "g2-muldiv25-migrated-234",
+    "topicId": "g2-muldiv25",
     "question": "10 × 5 = ?",
     "choices": [
       "46",
@@ -25116,53 +20976,9 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-77": {
-    "id": "g2-mul-gen2-77",
-    "topicId": "g2-mul",
-    "question": "7 × 6 = ?",
-    "choices": [
-      "42",
-      "43",
-      "45",
-      "47"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "7 × 6 có nghĩa là cộng số 7 6 lần.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Kết quả: 7 × 6 = 42 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-78": {
-    "id": "g2-mul-gen2-78",
-    "topicId": "g2-mul",
-    "question": "Mỗi thùng có 7 quả quýt 🍊. Có 3 thùng. Hỏi tất cả có bao nhiêu quýt?",
-    "choices": [
-      "20",
-      "26",
-      "27",
-      "21"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Có 3 thùng, mỗi thùng 7 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "7 × 3 = 21 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-79": {
-    "id": "g2-mul-gen2-79",
-    "topicId": "g2-mul",
+  "g2-muldiv25-migrated-235": {
+    "id": "g2-muldiv25-migrated-235",
+    "topicId": "g2-muldiv25",
     "question": "2 × 9 = ?",
     "choices": [
       "14",
@@ -25182,2343 +20998,175 @@ export const problems = {
       }
     ]
   },
-  "g2-mul-gen2-80": {
-    "id": "g2-mul-gen2-80",
-    "topicId": "g2-mul",
-    "question": "10 × 4 = ?",
+  "g2-measureadv-migrated-236": {
+    "id": "g2-measureadv-migrated-236",
+    "topicId": "g2-measureadv",
+    "question": "Con lợn cân nặng 50kg, con chó nhẹ hơn lợn 30kg. Hỏi con chó cân nặng bao nhiêu?",
     "choices": [
-      "43",
-      "40",
-      "46",
-      "37"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "10 × 4 có nghĩa là cộng số 10 4 lần.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Kết quả: 10 × 4 = 40 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-81": {
-    "id": "g2-mul-gen2-81",
-    "topicId": "g2-mul",
-    "question": "Mỗi rổ có 2 quả cam 🍊. Có 3 rổ. Hỏi tất cả có bao nhiêu cam?",
-    "choices": [
-      "9",
-      "7",
-      "6",
-      "5"
+      "80kg",
+      "30kg",
+      "20kg",
+      "10kg"
     ],
     "answer": 2,
     "steps": [
       {
-        "text": "Có 3 rổ, mỗi rổ 2 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "2 × 3 = 6 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-82": {
-    "id": "g2-mul-gen2-82",
-    "topicId": "g2-mul",
-    "question": "Mỗi rổ có 6 quả bưởi 🍈. Có 2 rổ. Hỏi tất cả có bao nhiêu bưởi?",
-    "choices": [
-      "12",
-      "14",
-      "6",
-      "18"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Có 2 rổ, mỗi rổ 6 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "6 × 2 = 12 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-83": {
-    "id": "g2-mul-gen2-83",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 10 × 6",
-    "choices": [
-      "58",
-      "61",
-      "60",
-      "55"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "10 nhân 6 bằng 60.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen2-84": {
-    "id": "g2-mul-gen2-84",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 9 × 3",
-    "choices": [
-      "24",
-      "27",
-      "30",
-      "28"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "9 nhân 3 bằng 27.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen2-85": {
-    "id": "g2-mul-gen2-85",
-    "topicId": "g2-mul",
-    "question": "Mỗi giỏ có 8 quả chuối 🍌. Có 3 giỏ. Hỏi tất cả có bao nhiêu chuối?",
-    "choices": [
-      "20",
-      "27",
-      "24",
-      "22"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Có 3 giỏ, mỗi giỏ 8 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "8 × 3 = 24 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-86": {
-    "id": "g2-mul-gen2-86",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 4 × 3",
-    "choices": [
-      "16",
-      "8",
-      "15",
-      "12"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "4 nhân 3 bằng 12.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen2-87": {
-    "id": "g2-mul-gen2-87",
-    "topicId": "g2-mul",
-    "question": "Mỗi túi có 5 quả dâu 🍓. Có 8 túi. Hỏi tất cả có bao nhiêu dâu?",
-    "choices": [
-      "39",
-      "43",
-      "44",
-      "40"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Có 8 túi, mỗi túi 5 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "5 × 8 = 40 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-88": {
-    "id": "g2-mul-gen2-88",
-    "topicId": "g2-mul",
-    "question": "Mỗi hộp có 7 quả quýt 🍊. Có 6 hộp. Hỏi tất cả có bao nhiêu quýt?",
-    "choices": [
-      "42",
-      "48",
-      "39",
-      "41"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Có 6 hộp, mỗi hộp 7 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "7 × 6 = 42 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-89": {
-    "id": "g2-mul-gen2-89",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 2 × 9",
-    "choices": [
-      "20",
-      "15",
-      "18",
-      "22"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "2 nhân 9 bằng 18.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen2-90": {
-    "id": "g2-mul-gen2-90",
-    "topicId": "g2-mul",
-    "question": "Mỗi giỏ có 8 quả cam 🍊. Có 4 giỏ. Hỏi tất cả có bao nhiêu cam?",
-    "choices": [
-      "38",
-      "30",
-      "37",
-      "32"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Có 4 giỏ, mỗi giỏ 8 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "8 × 4 = 32 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-91": {
-    "id": "g2-mul-gen2-91",
-    "topicId": "g2-mul",
-    "question": "Mỗi rổ có 3 quả táo 🍎. Có 2 rổ. Hỏi tất cả có bao nhiêu táo?",
-    "choices": [
-      "7",
-      "5",
-      "10",
-      "6"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Có 2 rổ, mỗi rổ 3 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "3 × 2 = 6 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-92": {
-    "id": "g2-mul-gen2-92",
-    "topicId": "g2-mul",
-    "question": "6 × 10 = ?",
-    "choices": [
-      "58",
-      "62",
-      "60",
-      "59"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "6 × 10 có nghĩa là cộng số 6 10 lần.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Kết quả: 6 × 10 = 60 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-93": {
-    "id": "g2-mul-gen2-93",
-    "topicId": "g2-mul",
-    "question": "5 × 8 = ?",
-    "choices": [
-      "44",
-      "40",
-      "45",
-      "46"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "5 × 8 có nghĩa là cộng số 5 8 lần.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Kết quả: 5 × 8 = 40 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-94": {
-    "id": "g2-mul-gen2-94",
-    "topicId": "g2-mul",
-    "question": "Mỗi túi có 9 quả cam 🍊. Có 10 túi. Hỏi tất cả có bao nhiêu cam?",
-    "choices": [
-      "90",
-      "89",
-      "94",
-      "95"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Có 10 túi, mỗi túi 9 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "9 × 10 = 90 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-95": {
-    "id": "g2-mul-gen2-95",
-    "topicId": "g2-mul",
-    "question": "4 × 7 = ?",
-    "choices": [
-      "22",
-      "23",
-      "32",
-      "28"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "4 × 7 có nghĩa là cộng số 4 7 lần.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Kết quả: 4 × 7 = 28 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-96": {
-    "id": "g2-mul-gen2-96",
-    "topicId": "g2-mul",
-    "question": "Mỗi túi có 6 quả quýt 🍊. Có 8 túi. Hỏi tất cả có bao nhiêu quýt?",
-    "choices": [
-      "51",
-      "48",
-      "42",
-      "45"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Có 8 túi, mỗi túi 6 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "6 × 8 = 48 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-97": {
-    "id": "g2-mul-gen2-97",
-    "topicId": "g2-mul",
-    "question": "Mỗi rổ có 7 quả dâu 🍓. Có 8 rổ. Hỏi tất cả có bao nhiêu dâu?",
-    "choices": [
-      "52",
-      "56",
-      "59",
-      "62"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Có 8 rổ, mỗi rổ 7 quả -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "7 × 8 = 56 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-98": {
-    "id": "g2-mul-gen2-98",
-    "topicId": "g2-mul",
-    "question": "Tính phép nhân: 3 × 3",
-    "choices": [
-      "7",
-      "13",
-      "8",
-      "9"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "3 nhân 3 bằng 9.",
-        "highlight": "phep-nhan"
-      }
-    ]
-  },
-  "g2-mul-gen2-99": {
-    "id": "g2-mul-gen2-99",
-    "topicId": "g2-mul",
-    "question": "2 × 2 = ?",
-    "choices": [
-      "8",
-      "10",
-      "4",
-      "6"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "2 × 2 có nghĩa là cộng số 2 2 lần.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Kết quả: 2 × 2 = 4 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-mul-gen2-100": {
-    "id": "g2-mul-gen2-100",
-    "topicId": "g2-mul",
-    "question": "9 × 4 = ?",
-    "choices": [
-      "33",
-      "41",
-      "37",
-      "36"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "9 × 4 có nghĩa là cộng số 9 4 lần.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Kết quả: 9 × 4 = 36 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-11": {
-    "id": "g2-findx-gen2-11",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 61 - x = 46",
-    "choices": [
-      "11",
-      "15",
-      "21",
-      "12"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
+        "text": "Bài toán \"nhẹ hơn\" -> Dùng phép trừ.",
         "highlight": "phep-tru"
       },
       {
-        "text": "x = 61 - 46 = 15 ✅",
+        "text": "50 - 30 = 20 (kg). Con chó nặng 20kg ✅",
         "highlight": null
       }
     ]
   },
-  "g2-findx-gen2-12": {
-    "id": "g2-findx-gen2-12",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 48 - 20",
+  "g2-measureadv-migrated-237": {
+    "id": "g2-measureadv-migrated-237",
+    "topicId": "g2-measureadv",
+    "question": "Lợn cân nặng 5kg. Chó nặng thêm 9kg. Cả hai nặng bao nhiêu?",
     "choices": [
-      "34",
-      "31",
-      "28",
-      "35"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 48 - 20 = 28.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-13": {
-    "id": "g2-findx-gen2-13",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 52 - 27",
-    "choices": [
-      "29",
-      "32",
-      "25",
-      "18"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 52 - 27 = 25.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-14": {
-    "id": "g2-findx-gen2-14",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 22 = 31",
-    "choices": [
-      "17",
-      "8",
-      "11",
-      "9"
+      "34kg",
+      "22kg",
+      "23kg",
+      "19kg"
     ],
     "answer": 3,
     "steps": [
       {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 31 - 22 = 9 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-15": {
-    "id": "g2-findx-gen2-15",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 47 = 95",
-    "choices": [
-      "46",
-      "50",
-      "47",
-      "48"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 95 - 47 = 48 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-16": {
-    "id": "g2-findx-gen2-16",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 39 = 48",
-    "choices": [
-      "87",
-      "90",
-      "86",
-      "85"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
+        "text": "Chó: 5 + 9 = 14kg. Tổng = 5 + 14 = 19kg.",
         "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 48 + 39 = 87 ✅",
-        "highlight": null
       }
     ]
   },
-  "g2-findx-gen2-17": {
-    "id": "g2-findx-gen2-17",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 83 - x = 50",
+  "g2-measureadv-migrated-238": {
+    "id": "g2-measureadv-migrated-238",
+    "topicId": "g2-measureadv",
+    "question": "Lợn cân nặng 17kg. Chó nặng thêm 7kg. Cả hai nặng bao nhiêu?",
     "choices": [
-      "41",
-      "33",
-      "31",
-      "26"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 83 - 50 = 33 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-18": {
-    "id": "g2-findx-gen2-18",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 58 = 84",
-    "choices": [
-      "29",
-      "22",
-      "20",
-      "26"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 84 - 58 = 26 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-19": {
-    "id": "g2-findx-gen2-19",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 58 - x = 23",
-    "choices": [
-      "43",
-      "35",
-      "39",
-      "42"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 58 - 23 = 35 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-20": {
-    "id": "g2-findx-gen2-20",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 54 = 70",
-    "choices": [
-      "16",
-      "9",
-      "19",
-      "24"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 70 - 54 = 16 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-21": {
-    "id": "g2-findx-gen2-21",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 27 - 11",
-    "choices": [
-      "17",
-      "12",
-      "9",
-      "16"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 27 - 11 = 16.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-22": {
-    "id": "g2-findx-gen2-22",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 45 = 67",
-    "choices": [
-      "112",
-      "114",
-      "109",
-      "105"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
-        "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 67 + 45 = 112 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-23": {
-    "id": "g2-findx-gen2-23",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 24 = 32",
-    "choices": [
-      "56",
-      "57",
-      "64",
-      "62"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
-        "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 32 + 24 = 56 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-24": {
-    "id": "g2-findx-gen2-24",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 65 - 38",
-    "choices": [
-      "33",
-      "31",
-      "30",
-      "27"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 65 - 38 = 27.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-25": {
-    "id": "g2-findx-gen2-25",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 17 = 26",
-    "choices": [
-      "43",
-      "38",
-      "41",
-      "42"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
-        "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 26 + 17 = 43 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-26": {
-    "id": "g2-findx-gen2-26",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 15 = 27",
-    "choices": [
-      "20",
-      "18",
-      "19",
-      "12"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 27 - 15 = 12 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-27": {
-    "id": "g2-findx-gen2-27",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 34 = 59",
-    "choices": [
-      "31",
-      "24",
-      "25",
-      "27"
+      "50kg",
+      "60kg",
+      "41kg",
+      "43kg"
     ],
     "answer": 2,
     "steps": [
       {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 59 - 34 = 25 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-28": {
-    "id": "g2-findx-gen2-28",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 12 = 38",
-    "choices": [
-      "54",
-      "44",
-      "50",
-      "55"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
+        "text": "Chó: 17 + 7 = 24kg. Tổng = 17 + 24 = 41kg.",
         "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 38 + 12 = 50 ✅",
-        "highlight": null
       }
     ]
   },
-  "g2-findx-gen2-29": {
-    "id": "g2-findx-gen2-29",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 46 = 85",
+  "g2-measureadv-migrated-239": {
+    "id": "g2-measureadv-migrated-239",
+    "topicId": "g2-measureadv",
+    "question": "Lợn cân nặng 14kg. Chó nặng thêm 11kg. Cả hai nặng bao nhiêu?",
     "choices": [
-      "127",
-      "131",
-      "125",
-      "126"
+      "23kg",
+      "39kg",
+      "49kg",
+      "40kg"
     ],
     "answer": 1,
     "steps": [
       {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
+        "text": "Chó: 14 + 11 = 25kg. Tổng = 14 + 25 = 39kg.",
         "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 85 + 46 = 131 ✅",
-        "highlight": null
       }
     ]
   },
-  "g2-findx-gen2-30": {
-    "id": "g2-findx-gen2-30",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 21 - x = 11",
+  "g2-measureadv-migrated-240": {
+    "id": "g2-measureadv-migrated-240",
+    "topicId": "g2-measureadv",
+    "question": "Lợn cân nặng 8kg. Chó nặng thêm 8kg. Cả hai nặng bao nhiêu?",
     "choices": [
-      "10",
-      "16",
-      "5",
-      "15"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 21 - 11 = 10 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-31": {
-    "id": "g2-findx-gen2-31",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 65 - 59",
-    "choices": [
-      "6",
-      "7",
-      "0",
-      "13"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 65 - 59 = 6.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-32": {
-    "id": "g2-findx-gen2-32",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 64 - x = 37",
-    "choices": [
-      "27",
-      "30",
-      "20",
-      "25"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 64 - 37 = 27 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-33": {
-    "id": "g2-findx-gen2-33",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 44 = 49",
-    "choices": [
-      "7",
-      "2",
-      "5",
-      "10"
+      "36kg",
+      "10kg",
+      "24kg",
+      "19kg"
     ],
     "answer": 2,
     "steps": [
       {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 49 - 44 = 5 ✅",
-        "highlight": null
+        "text": "Chó: 8 + 8 = 16kg. Tổng = 8 + 16 = 24kg.",
+        "highlight": "phep-cong"
       }
     ]
   },
-  "g2-findx-gen2-34": {
-    "id": "g2-findx-gen2-34",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 32 = 38",
+  "g2-measureadv-migrated-241": {
+    "id": "g2-measureadv-migrated-241",
+    "topicId": "g2-measureadv",
+    "question": "Lợn cân nặng 15kg. Chó nặng thêm 8kg. Cả hai nặng bao nhiêu?",
     "choices": [
-      "13",
-      "6",
-      "10",
-      "7"
+      "52kg",
+      "38kg",
+      "29kg",
+      "41kg"
     ],
     "answer": 1,
     "steps": [
       {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 38 - 32 = 6 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-35": {
-    "id": "g2-findx-gen2-35",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 25 = 49",
-    "choices": [
-      "72",
-      "67",
-      "81",
-      "74"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
+        "text": "Chó: 15 + 8 = 23kg. Tổng = 15 + 23 = 38kg.",
         "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 49 + 25 = 74 ✅",
-        "highlight": null
       }
     ]
   },
-  "g2-findx-gen2-36": {
-    "id": "g2-findx-gen2-36",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 59 = 111",
+  "g2-measureadv-migrated-242": {
+    "id": "g2-measureadv-migrated-242",
+    "topicId": "g2-measureadv",
+    "question": "Lợn cân nặng 8kg. Chó nặng thêm 12kg. Cả hai nặng bao nhiêu?",
     "choices": [
-      "52",
-      "60",
-      "50",
-      "47"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 111 - 59 = 52 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-37": {
-    "id": "g2-findx-gen2-37",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 24 = 46",
-    "choices": [
-      "24",
-      "15",
-      "19",
-      "22"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 46 - 24 = 22 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-38": {
-    "id": "g2-findx-gen2-38",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 49 = 76",
-    "choices": [
-      "132",
-      "133",
-      "125",
-      "126"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
-        "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 76 + 49 = 125 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-39": {
-    "id": "g2-findx-gen2-39",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 55 = 68",
-    "choices": [
-      "121",
-      "129",
-      "124",
-      "123"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
-        "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 68 + 55 = 123 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-40": {
-    "id": "g2-findx-gen2-40",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 31 = 46",
-    "choices": [
-      "77",
-      "71",
-      "82",
-      "80"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
-        "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 46 + 31 = 77 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-41": {
-    "id": "g2-findx-gen2-41",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 27 = 21",
-    "choices": [
-      "47",
-      "40",
-      "43",
-      "48"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
-        "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 21 + 27 = 48 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-42": {
-    "id": "g2-findx-gen2-42",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 40 - 21",
-    "choices": [
-      "22",
-      "25",
-      "26",
-      "19"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 40 - 21 = 19.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-43": {
-    "id": "g2-findx-gen2-43",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 84 - 23",
-    "choices": [
-      "66",
-      "57",
-      "69",
-      "61"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 84 - 23 = 61.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-44": {
-    "id": "g2-findx-gen2-44",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 38 = 43",
-    "choices": [
-      "6",
-      "5",
-      "12",
-      "10"
+      "45kg",
+      "28kg",
+      "38kg",
+      "12kg"
     ],
     "answer": 1,
     "steps": [
       {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 43 - 38 = 5 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-45": {
-    "id": "g2-findx-gen2-45",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 57 - 32",
-    "choices": [
-      "25",
-      "28",
-      "21",
-      "19"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 57 - 32 = 25.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-46": {
-    "id": "g2-findx-gen2-46",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 78 - 70",
-    "choices": [
-      "10",
-      "8",
-      "14",
-      "7"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 78 - 70 = 8.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-47": {
-    "id": "g2-findx-gen2-47",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 31 = 45",
-    "choices": [
-      "68",
-      "72",
-      "76",
-      "73"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
+        "text": "Chó: 8 + 12 = 20kg. Tổng = 8 + 20 = 28kg.",
         "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 45 + 31 = 76 ✅",
-        "highlight": null
       }
     ]
   },
-  "g2-findx-gen2-48": {
-    "id": "g2-findx-gen2-48",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 27 = 60",
+  "g2-measureadv-migrated-243": {
+    "id": "g2-measureadv-migrated-243",
+    "topicId": "g2-measureadv",
+    "question": "Lợn cân nặng 14kg. Chó nặng thêm 8kg. Cả hai nặng bao nhiêu?",
     "choices": [
-      "25",
-      "38",
-      "33",
-      "31"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 60 - 27 = 33 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-49": {
-    "id": "g2-findx-gen2-49",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 65 - 54",
-    "choices": [
-      "13",
-      "4",
-      "11",
-      "17"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 65 - 54 = 11.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-50": {
-    "id": "g2-findx-gen2-50",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 65 - x = 42",
-    "choices": [
-      "20",
-      "28",
-      "22",
-      "23"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 65 - 42 = 23 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-51": {
-    "id": "g2-findx-gen2-51",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 108 - x = 60",
-    "choices": [
-      "41",
-      "52",
-      "45",
-      "48"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 108 - 60 = 48 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-52": {
-    "id": "g2-findx-gen2-52",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 50 = 80",
-    "choices": [
-      "30",
-      "34",
-      "26",
-      "27"
+      "36kg",
+      "39kg",
+      "22kg",
+      "30kg"
     ],
     "answer": 0,
     "steps": [
       {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 80 - 50 = 30 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-53": {
-    "id": "g2-findx-gen2-53",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 29 = 40",
-    "choices": [
-      "6",
-      "7",
-      "11",
-      "9"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 40 - 29 = 11 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-54": {
-    "id": "g2-findx-gen2-54",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 55 = 107",
-    "choices": [
-      "48",
-      "45",
-      "51",
-      "52"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 107 - 55 = 52 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-55": {
-    "id": "g2-findx-gen2-55",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 46 = 67",
-    "choices": [
-      "13",
-      "21",
-      "20",
-      "25"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 67 - 46 = 21 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-56": {
-    "id": "g2-findx-gen2-56",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 57 - x = 21",
-    "choices": [
-      "35",
-      "42",
-      "36",
-      "41"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 57 - 21 = 36 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-57": {
-    "id": "g2-findx-gen2-57",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 28 = 86",
-    "choices": [
-      "61",
-      "51",
-      "58",
-      "52"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 86 - 28 = 58 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-58": {
-    "id": "g2-findx-gen2-58",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 82 - x = 38",
-    "choices": [
-      "43",
-      "40",
-      "47",
-      "44"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 82 - 38 = 44 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-59": {
-    "id": "g2-findx-gen2-59",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 76 - x = 43",
-    "choices": [
-      "29",
-      "33",
-      "36",
-      "39"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 76 - 43 = 33 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-60": {
-    "id": "g2-findx-gen2-60",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 51 - 22",
-    "choices": [
-      "21",
-      "32",
-      "34",
-      "29"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 51 - 22 = 29.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-61": {
-    "id": "g2-findx-gen2-61",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 60 = 114",
-    "choices": [
-      "49",
-      "54",
-      "55",
-      "60"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 114 - 60 = 54 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-62": {
-    "id": "g2-findx-gen2-62",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 65 - x = 31",
-    "choices": [
-      "30",
-      "34",
-      "27",
-      "32"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 65 - 31 = 34 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-63": {
-    "id": "g2-findx-gen2-63",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 12 = 57",
-    "choices": [
-      "45",
-      "38",
-      "40",
-      "47"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 57 - 12 = 45 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-64": {
-    "id": "g2-findx-gen2-64",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 45 - 34",
-    "choices": [
-      "12",
-      "4",
-      "5",
-      "11"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 45 - 34 = 11.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-65": {
-    "id": "g2-findx-gen2-65",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 29 = 18",
-    "choices": [
-      "46",
-      "52",
-      "47",
-      "53"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
+        "text": "Chó: 14 + 8 = 22kg. Tổng = 14 + 22 = 36kg.",
         "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 18 + 29 = 47 ✅",
-        "highlight": null
       }
     ]
   },
-  "g2-findx-gen2-66": {
-    "id": "g2-findx-gen2-66",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 30 - x = 16",
+  "g2-measureadv-migrated-244": {
+    "id": "g2-measureadv-migrated-244",
+    "topicId": "g2-measureadv",
+    "question": "Lợn cân nặng 5kg. Chó nặng thêm 15kg. Cả hai nặng bao nhiêu?",
     "choices": [
-      "14",
-      "10",
-      "20",
-      "17"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 30 - 16 = 14 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-67": {
-    "id": "g2-findx-gen2-67",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 55 = 109",
-    "choices": [
-      "158",
-      "159",
-      "169",
-      "164"
+      "8kg",
+      "22kg",
+      "44kg",
+      "25kg"
     ],
     "answer": 3,
     "steps": [
       {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
+        "text": "Chó: 5 + 15 = 20kg. Tổng = 5 + 20 = 25kg.",
         "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 109 + 55 = 164 ✅",
-        "highlight": null
       }
     ]
   },
-  "g2-findx-gen2-68": {
-    "id": "g2-findx-gen2-68",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 99 - x = 56",
-    "choices": [
-      "46",
-      "51",
-      "43",
-      "39"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 99 - 56 = 43 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-69": {
-    "id": "g2-findx-gen2-69",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 73 - x = 41",
-    "choices": [
-      "40",
-      "28",
-      "29",
-      "32"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 73 - 41 = 32 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-70": {
-    "id": "g2-findx-gen2-70",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 36 = 85",
-    "choices": [
-      "43",
-      "47",
-      "49",
-      "57"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 85 - 36 = 49 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-71": {
-    "id": "g2-findx-gen2-71",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 41 = 60",
-    "choices": [
-      "19",
-      "14",
-      "27",
-      "13"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 60 - 41 = 19 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-72": {
-    "id": "g2-findx-gen2-72",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 43 = 85",
-    "choices": [
-      "41",
-      "45",
-      "42",
-      "38"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 85 - 43 = 42 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-73": {
-    "id": "g2-findx-gen2-73",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 57 - x = 23",
-    "choices": [
-      "34",
-      "37",
-      "42",
-      "26"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 57 - 23 = 34 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-74": {
-    "id": "g2-findx-gen2-74",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 54 - 34",
-    "choices": [
-      "23",
-      "20",
-      "28",
-      "25"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 54 - 34 = 20.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-75": {
-    "id": "g2-findx-gen2-75",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 17 = 10",
-    "choices": [
-      "27",
-      "25",
-      "31",
-      "21"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
-        "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 10 + 17 = 27 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-76": {
-    "id": "g2-findx-gen2-76",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 43 - 23",
-    "choices": [
-      "20",
-      "21",
-      "27",
-      "28"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 43 - 23 = 20.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-77": {
-    "id": "g2-findx-gen2-77",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 75 - x = 52",
-    "choices": [
-      "21",
-      "23",
-      "16",
-      "17"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 75 - 52 = 23 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-78": {
-    "id": "g2-findx-gen2-78",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 63 - x = 19",
-    "choices": [
-      "36",
-      "39",
-      "43",
-      "44"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 63 - 19 = 44 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-79": {
-    "id": "g2-findx-gen2-79",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 22 = 82",
-    "choices": [
-      "60",
-      "53",
-      "55",
-      "57"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 82 - 22 = 60 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-80": {
-    "id": "g2-findx-gen2-80",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 66 - 23",
-    "choices": [
-      "37",
-      "43",
-      "44",
-      "47"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 66 - 23 = 43.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-81": {
-    "id": "g2-findx-gen2-81",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 70 - 37",
-    "choices": [
-      "35",
-      "28",
-      "33",
-      "26"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 70 - 37 = 33.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-82": {
-    "id": "g2-findx-gen2-82",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 15 = 1",
-    "choices": [
-      "13",
-      "17",
-      "16",
-      "23"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
-        "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 1 + 15 = 16 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-83": {
-    "id": "g2-findx-gen2-83",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 66 - x = 44",
-    "choices": [
-      "14",
-      "19",
-      "27",
-      "22"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 66 - 44 = 22 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-84": {
-    "id": "g2-findx-gen2-84",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 97 - x = 58",
-    "choices": [
-      "37",
-      "39",
-      "40",
-      "33"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 97 - 58 = 39 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-85": {
-    "id": "g2-findx-gen2-85",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 45 - 23",
-    "choices": [
-      "22",
-      "30",
-      "28",
-      "16"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 45 - 23 = 22.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-86": {
-    "id": "g2-findx-gen2-86",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 75 - x = 48",
-    "choices": [
-      "34",
-      "27",
-      "31",
-      "21"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 75 - 48 = 27 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-87": {
-    "id": "g2-findx-gen2-87",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 31 - 19",
-    "choices": [
-      "12",
-      "11",
-      "6",
-      "5"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 31 - 19 = 12.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-88": {
-    "id": "g2-findx-gen2-88",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 72 - x = 49",
-    "choices": [
-      "23",
-      "18",
-      "15",
-      "27"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 72 - 49 = 23 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-89": {
-    "id": "g2-findx-gen2-89",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 41 - 33",
-    "choices": [
-      "1",
-      "8",
-      "7",
-      "4"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 41 - 33 = 8.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-90": {
-    "id": "g2-findx-gen2-90",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 40 - 23",
-    "choices": [
-      "17",
-      "25",
-      "23",
-      "12"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 40 - 23 = 17.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-91": {
-    "id": "g2-findx-gen2-91",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 45 - x = 28",
-    "choices": [
-      "22",
-      "17",
-      "18",
-      "14"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 45 - 28 = 17 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-92": {
-    "id": "g2-findx-gen2-92",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 46 = 54",
-    "choices": [
-      "94",
-      "98",
-      "100",
-      "104"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
-        "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 54 + 46 = 100 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-93": {
-    "id": "g2-findx-gen2-93",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 30 - 12",
-    "choices": [
-      "17",
-      "23",
-      "14",
-      "18"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 30 - 12 = 18.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-94": {
-    "id": "g2-findx-gen2-94",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 36 = 70",
-    "choices": [
-      "106",
-      "109",
-      "100",
-      "114"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
-        "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 70 + 36 = 106 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-95": {
-    "id": "g2-findx-gen2-95",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 51 = 63",
-    "choices": [
-      "120",
-      "112",
-      "107",
-      "114"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
-        "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 63 + 51 = 114 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-96": {
-    "id": "g2-findx-gen2-96",
-    "topicId": "g2-findx",
-    "question": "Tìm x: 59 - x = 31",
-    "choices": [
-      "26",
-      "34",
-      "36",
-      "28"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "x là số trừ. Muốn tìm số trừ, ta lấy số bị trừ trừ đi hiệu.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 59 - 31 = 28 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-97": {
-    "id": "g2-findx-gen2-97",
-    "topicId": "g2-findx",
-    "question": "Tìm M: M = 58 - 44",
-    "choices": [
-      "15",
-      "17",
-      "9",
-      "14"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Trừ có mượn: 58 - 44 = 14.",
-        "highlight": "phep-tru"
-      }
-    ]
-  },
-  "g2-findx-gen2-98": {
-    "id": "g2-findx-gen2-98",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x + 31 = 91",
-    "choices": [
-      "54",
-      "60",
-      "53",
-      "65"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "x là số hạng chưa biết. Muốn tìm số hạng chưa biết, ta lấy tổng trừ đi số hạng đã biết.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "x = 91 - 31 = 60 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-99": {
-    "id": "g2-findx-gen2-99",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 37 = 52",
-    "choices": [
-      "89",
-      "90",
-      "86",
-      "97"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
-        "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 52 + 37 = 89 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-findx-gen2-100": {
-    "id": "g2-findx-gen2-100",
-    "topicId": "g2-findx",
-    "question": "Tìm x: x - 20 = 25",
-    "choices": [
-      "43",
-      "51",
-      "37",
-      "45"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "x là số bị trừ. Muốn tìm số bị trừ, ta lấy hiệu cộng với số trừ.",
-        "highlight": "phep-cong"
-      },
-      {
-        "text": "x = 25 + 20 = 45 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-11": {
-    "id": "g2-measure-gen2-11",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-245": {
+    "id": "g2-measureadv-migrated-245",
+    "topicId": "g2-measureadv",
     "question": "Mỗi túi ngô nặng 7kg. Có 8 túi. Tất cả nặng bao nhiêu kg?",
     "choices": [
       "56kg",
@@ -27538,9 +21186,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-12": {
-    "id": "g2-measure-gen2-12",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-246": {
+    "id": "g2-measureadv-migrated-246",
+    "topicId": "g2-measureadv",
     "question": "Con lợn cân nặng 52kg, con chó nhẹ hơn lợn 3kg. Hỏi con chó cân nặng bao nhiêu?",
     "choices": [
       "48kg",
@@ -27560,31 +21208,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-13": {
-    "id": "g2-measure-gen2-13",
-    "topicId": "g2-measure",
-    "question": "Có 36 lít nước cam chia đều vào 6 can. Mỗi can có bao nhiêu lít?",
-    "choices": [
-      "5 lít",
-      "7 lít",
-      "3 lít",
-      "6 lít"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Chia đều thì dùng phép chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "36 ÷ 6 = 6 (lít) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-14": {
-    "id": "g2-measure-gen2-14",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-247": {
+    "id": "g2-measureadv-migrated-247",
+    "topicId": "g2-measureadv",
     "question": "Con ngựa cân nặng 100kg, con dê nhẹ hơn ngựa 19kg. Hỏi con dê cân nặng bao nhiêu?",
     "choices": [
       "74kg",
@@ -27604,31 +21230,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-15": {
-    "id": "g2-measure-gen2-15",
-    "topicId": "g2-measure",
-    "question": "Có 28 lít sữa chia đều vào 4 can. Mỗi can có bao nhiêu lít?",
-    "choices": [
-      "4 lít",
-      "9 lít",
-      "7 lít",
-      "10 lít"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Chia đều thì dùng phép chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "28 ÷ 4 = 7 (lít) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-16": {
-    "id": "g2-measure-gen2-16",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-248": {
+    "id": "g2-measureadv-migrated-248",
+    "topicId": "g2-measureadv",
     "question": "Con ngựa cân nặng 221kg, con dê nhẹ hơn ngựa 48kg. Hỏi con dê cân nặng bao nhiêu?",
     "choices": [
       "172kg",
@@ -27648,31 +21252,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-17": {
-    "id": "g2-measure-gen2-17",
-    "topicId": "g2-measure",
-    "question": "Có 12 lít nước cam chia đều vào 4 can. Mỗi can có bao nhiêu lít?",
-    "choices": [
-      "5 lít",
-      "6 lít",
-      "3 lít",
-      "2 lít"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Chia đều thì dùng phép chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "12 ÷ 4 = 3 (lít) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-18": {
-    "id": "g2-measure-gen2-18",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-249": {
+    "id": "g2-measureadv-migrated-249",
+    "topicId": "g2-measureadv",
     "question": "Kho có 58kg đường. Người ta lấy ra 31kg. Trong kho còn lại bao nhiêu kg đường?",
     "choices": [
       "22kg",
@@ -27692,9 +21274,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-19": {
-    "id": "g2-measure-gen2-19",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-250": {
+    "id": "g2-measureadv-migrated-250",
+    "topicId": "g2-measureadv",
     "question": "Con gà cân nặng 3kg, con vịt nhẹ hơn gà 2kg. Hỏi con vịt cân nặng bao nhiêu?",
     "choices": [
       "2kg",
@@ -27714,31 +21296,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-20": {
-    "id": "g2-measure-gen2-20",
-    "topicId": "g2-measure",
-    "question": "Có 12 lít nước chia đều vào 3 can. Mỗi can có bao nhiêu lít?",
-    "choices": [
-      "4 lít",
-      "2 lít",
-      "7 lít",
-      "5 lít"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều thì dùng phép chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "12 ÷ 3 = 4 (lít) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-21": {
-    "id": "g2-measure-gen2-21",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-251": {
+    "id": "g2-measureadv-migrated-251",
+    "topicId": "g2-measureadv",
     "question": "Kho có 90kg bột mì. Người ta lấy ra 35kg. Trong kho còn lại bao nhiêu kg bột mì?",
     "choices": [
       "52kg",
@@ -27758,9 +21318,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-22": {
-    "id": "g2-measure-gen2-22",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-252": {
+    "id": "g2-measureadv-migrated-252",
+    "topicId": "g2-measureadv",
     "question": "Kho có 47kg ngô. Người ta lấy ra 41kg. Trong kho còn lại bao nhiêu kg ngô?",
     "choices": [
       "12kg",
@@ -27780,31 +21340,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-23": {
-    "id": "g2-measure-gen2-23",
-    "topicId": "g2-measure",
-    "question": "Có 14 lít dầu ăn chia đều vào 2 can. Mỗi can có bao nhiêu lít?",
-    "choices": [
-      "4 lít",
-      "9 lít",
-      "6 lít",
-      "7 lít"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Chia đều thì dùng phép chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "14 ÷ 2 = 7 (lít) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-24": {
-    "id": "g2-measure-gen2-24",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-253": {
+    "id": "g2-measureadv-migrated-253",
+    "topicId": "g2-measureadv",
     "question": "Lợn cân nặng 26kg. Chó nặng thêm 11kg. Cả hai nặng bao nhiêu?",
     "choices": [
       "58kg",
@@ -27820,9 +21358,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-25": {
-    "id": "g2-measure-gen2-25",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-254": {
+    "id": "g2-measureadv-migrated-254",
+    "topicId": "g2-measureadv",
     "question": "Mỗi túi bột mì nặng 3kg. Có 5 túi. Tất cả nặng bao nhiêu kg?",
     "choices": [
       "15kg",
@@ -27842,9 +21380,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-26": {
-    "id": "g2-measure-gen2-26",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-255": {
+    "id": "g2-measureadv-migrated-255",
+    "topicId": "g2-measureadv",
     "question": "Trâu cân nặng 155kg. Bò nặng thêm 93kg. Cả hai nặng bao nhiêu?",
     "choices": [
       "409kg",
@@ -27860,9 +21398,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-27": {
-    "id": "g2-measure-gen2-27",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-256": {
+    "id": "g2-measureadv-migrated-256",
+    "topicId": "g2-measureadv",
     "question": "Con ngựa cân nặng 155kg, con dê nhẹ hơn ngựa 61kg. Hỏi con dê cân nặng bao nhiêu?",
     "choices": [
       "100kg",
@@ -27882,31 +21420,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-28": {
-    "id": "g2-measure-gen2-28",
-    "topicId": "g2-measure",
-    "question": "Có 21 lít dầu ăn chia đều vào 3 can. Mỗi can có bao nhiêu lít?",
-    "choices": [
-      "6 lít",
-      "7 lít",
-      "8 lít",
-      "5 lít"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Chia đều thì dùng phép chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "21 ÷ 3 = 7 (lít) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-29": {
-    "id": "g2-measure-gen2-29",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-257": {
+    "id": "g2-measureadv-migrated-257",
+    "topicId": "g2-measureadv",
     "question": "Mỗi túi gạo nặng 9kg. Có 2 túi. Tất cả nặng bao nhiêu kg?",
     "choices": [
       "24kg",
@@ -27926,9 +21442,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-30": {
-    "id": "g2-measure-gen2-30",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-258": {
+    "id": "g2-measureadv-migrated-258",
+    "topicId": "g2-measureadv",
     "question": "Mỗi túi đường nặng 8kg. Có 6 túi. Tất cả nặng bao nhiêu kg?",
     "choices": [
       "48kg",
@@ -27948,53 +21464,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-31": {
-    "id": "g2-measure-gen2-31",
-    "topicId": "g2-measure",
-    "question": "Có 36 lít dầu ăn chia đều vào 6 can. Mỗi can có bao nhiêu lít?",
-    "choices": [
-      "9 lít",
-      "4 lít",
-      "8 lít",
-      "6 lít"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Chia đều thì dùng phép chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "36 ÷ 6 = 6 (lít) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-32": {
-    "id": "g2-measure-gen2-32",
-    "topicId": "g2-measure",
-    "question": "Có 28 lít nước cam chia đều vào 4 can. Mỗi can có bao nhiêu lít?",
-    "choices": [
-      "8 lít",
-      "7 lít",
-      "9 lít",
-      "5 lít"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Chia đều thì dùng phép chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "28 ÷ 4 = 7 (lít) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-33": {
-    "id": "g2-measure-gen2-33",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-259": {
+    "id": "g2-measureadv-migrated-259",
+    "topicId": "g2-measureadv",
     "question": "Lợn cân nặng 25kg. Chó nặng thêm 13kg. Cả hai nặng bao nhiêu?",
     "choices": [
       "58kg",
@@ -28010,9 +21482,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-34": {
-    "id": "g2-measure-gen2-34",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-260": {
+    "id": "g2-measureadv-migrated-260",
+    "topicId": "g2-measureadv",
     "question": "Mỗi túi gạo nặng 7kg. Có 6 túi. Tất cả nặng bao nhiêu kg?",
     "choices": [
       "45kg",
@@ -28032,9 +21504,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-35": {
-    "id": "g2-measure-gen2-35",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-261": {
+    "id": "g2-measureadv-migrated-261",
+    "topicId": "g2-measureadv",
     "question": "Ngựa cân nặng 100kg. Dê nặng thêm 8kg. Cả hai nặng bao nhiêu?",
     "choices": [
       "208kg",
@@ -28050,9 +21522,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-36": {
-    "id": "g2-measure-gen2-36",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-262": {
+    "id": "g2-measureadv-migrated-262",
+    "topicId": "g2-measureadv",
     "question": "Mỗi túi gạo nặng 7kg. Có 9 túi. Tất cả nặng bao nhiêu kg?",
     "choices": [
       "70kg",
@@ -28072,9 +21544,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-37": {
-    "id": "g2-measure-gen2-37",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-263": {
+    "id": "g2-measureadv-migrated-263",
+    "topicId": "g2-measureadv",
     "question": "Mỗi túi đường nặng 4kg. Có 2 túi. Tất cả nặng bao nhiêu kg?",
     "choices": [
       "6kg",
@@ -28094,9 +21566,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-38": {
-    "id": "g2-measure-gen2-38",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-264": {
+    "id": "g2-measureadv-migrated-264",
+    "topicId": "g2-measureadv",
     "question": "Kho có 78kg ngô. Người ta lấy ra 11kg. Trong kho còn lại bao nhiêu kg ngô?",
     "choices": [
       "62kg",
@@ -28116,9 +21588,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-39": {
-    "id": "g2-measure-gen2-39",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-265": {
+    "id": "g2-measureadv-migrated-265",
+    "topicId": "g2-measureadv",
     "question": "Kho có 63kg ngô. Người ta lấy ra 54kg. Trong kho còn lại bao nhiêu kg ngô?",
     "choices": [
       "14kg",
@@ -28138,9 +21610,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-40": {
-    "id": "g2-measure-gen2-40",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-266": {
+    "id": "g2-measureadv-migrated-266",
+    "topicId": "g2-measureadv",
     "question": "Mỗi túi gạo nặng 8kg. Có 2 túi. Tất cả nặng bao nhiêu kg?",
     "choices": [
       "16kg",
@@ -28160,9 +21632,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-41": {
-    "id": "g2-measure-gen2-41",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-267": {
+    "id": "g2-measureadv-migrated-267",
+    "topicId": "g2-measureadv",
     "question": "Kho có 49kg bột mì. Người ta lấy ra 39kg. Trong kho còn lại bao nhiêu kg bột mì?",
     "choices": [
       "4kg",
@@ -28182,9 +21654,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-42": {
-    "id": "g2-measure-gen2-42",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-268": {
+    "id": "g2-measureadv-migrated-268",
+    "topicId": "g2-measureadv",
     "question": "Trâu cân nặng 170kg. Bò nặng thêm 65kg. Cả hai nặng bao nhiêu?",
     "choices": [
       "396kg",
@@ -28200,9 +21672,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-43": {
-    "id": "g2-measure-gen2-43",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-269": {
+    "id": "g2-measureadv-migrated-269",
+    "topicId": "g2-measureadv",
     "question": "Kho có 80kg đường. Người ta lấy ra 67kg. Trong kho còn lại bao nhiêu kg đường?",
     "choices": [
       "7kg",
@@ -28222,9 +21694,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-44": {
-    "id": "g2-measure-gen2-44",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-270": {
+    "id": "g2-measureadv-migrated-270",
+    "topicId": "g2-measureadv",
     "question": "Con lợn cân nặng 45kg, con chó nhẹ hơn lợn 3kg. Hỏi con chó cân nặng bao nhiêu?",
     "choices": [
       "38kg",
@@ -28244,9 +21716,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-45": {
-    "id": "g2-measure-gen2-45",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-271": {
+    "id": "g2-measureadv-migrated-271",
+    "topicId": "g2-measureadv",
     "question": "Mỗi túi gạo nặng 5kg. Có 4 túi. Tất cả nặng bao nhiêu kg?",
     "choices": [
       "22kg",
@@ -28266,9 +21738,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-46": {
-    "id": "g2-measure-gen2-46",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-272": {
+    "id": "g2-measureadv-migrated-272",
+    "topicId": "g2-measureadv",
     "question": "Gà cân nặng 3kg. Vịt nặng thêm 1kg. Cả hai nặng bao nhiêu?",
     "choices": [
       "15kg",
@@ -28284,9 +21756,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-47": {
-    "id": "g2-measure-gen2-47",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-273": {
+    "id": "g2-measureadv-migrated-273",
+    "topicId": "g2-measureadv",
     "question": "Con trâu cân nặng 152kg, con bò nhẹ hơn trâu 61kg. Hỏi con bò cân nặng bao nhiêu?",
     "choices": [
       "96kg",
@@ -28306,9 +21778,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-48": {
-    "id": "g2-measure-gen2-48",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-274": {
+    "id": "g2-measureadv-migrated-274",
+    "topicId": "g2-measureadv",
     "question": "Mỗi túi bột mì nặng 5kg. Có 6 túi. Tất cả nặng bao nhiêu kg?",
     "choices": [
       "25kg",
@@ -28328,31 +21800,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-49": {
-    "id": "g2-measure-gen2-49",
-    "topicId": "g2-measure",
-    "question": "Có 24 lít sữa chia đều vào 4 can. Mỗi can có bao nhiêu lít?",
-    "choices": [
-      "5 lít",
-      "9 lít",
-      "6 lít",
-      "4 lít"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Chia đều thì dùng phép chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "24 ÷ 4 = 6 (lít) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-50": {
-    "id": "g2-measure-gen2-50",
-    "topicId": "g2-measure",
+  "g2-measureadv-migrated-275": {
+    "id": "g2-measureadv-migrated-275",
+    "topicId": "g2-measureadv",
     "question": "Kho có 29kg ngô. Người ta lấy ra 11kg. Trong kho còn lại bao nhiêu kg ngô?",
     "choices": [
       "25kg",
@@ -28372,107 +21822,229 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-51": {
-    "id": "g2-measure-gen2-51",
-    "topicId": "g2-measure",
-    "question": "Con gà cân nặng 2kg, con vịt nhẹ hơn gà 1kg. Hỏi con vịt cân nặng bao nhiêu?",
+  "g2-geomeasure-migrated-276": {
+    "id": "g2-geomeasure-migrated-276",
+    "topicId": "g2-geomeasure",
+    "question": "Có 15 lít nước mắm chia đều vào 3 can. Mỗi can có bao nhiêu lít?",
     "choices": [
-      "3kg",
-      "2kg",
-      "9kg",
-      "1kg"
+      "5 lít",
+      "6 lít",
+      "4 lít",
+      "3 lít"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "15 ÷ 3 = 5 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-migrated-277": {
+    "id": "g2-geomeasure-migrated-277",
+    "topicId": "g2-geomeasure",
+    "question": "Có 36 lít nước cam chia đều vào 6 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "5 lít",
+      "7 lít",
+      "3 lít",
+      "6 lít"
     ],
     "answer": 3,
     "steps": [
       {
-        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
-        "highlight": "phep-tru"
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
       },
       {
-        "text": "2 - 1 = 1 (kg). Con vịt nặng 1kg ✅",
+        "text": "36 ÷ 6 = 6 (lít) ✅",
         "highlight": null
       }
     ]
   },
-  "g2-measure-gen2-52": {
-    "id": "g2-measure-gen2-52",
-    "topicId": "g2-measure",
-    "question": "Gà cân nặng 2kg. Vịt nặng thêm 2kg. Cả hai nặng bao nhiêu?",
+  "g2-geomeasure-migrated-278": {
+    "id": "g2-geomeasure-migrated-278",
+    "topicId": "g2-geomeasure",
+    "question": "Có 28 lít sữa chia đều vào 4 can. Mỗi can có bao nhiêu lít?",
     "choices": [
-      "12kg",
-      "6kg",
-      "16kg",
-      "11kg"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Vịt: 2 + 2 = 4kg. Tổng = 2 + 4 = 6kg.",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-measure-gen2-53": {
-    "id": "g2-measure-gen2-53",
-    "topicId": "g2-measure",
-    "question": "Mỗi túi gạo nặng 4kg. Có 4 túi. Tất cả nặng bao nhiêu kg?",
-    "choices": [
-      "15kg",
-      "13kg",
-      "16kg",
-      "23kg"
+      "4 lít",
+      "9 lít",
+      "7 lít",
+      "10 lít"
     ],
     "answer": 2,
     "steps": [
       {
-        "text": "Nhiều túi cùng khối lượng -> dùng phép nhân.",
-        "highlight": "phep-nhan"
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
       },
       {
-        "text": "4 × 4 = 16 (kg) ✅",
+        "text": "28 ÷ 4 = 7 (lít) ✅",
         "highlight": null
       }
     ]
   },
-  "g2-measure-gen2-54": {
-    "id": "g2-measure-gen2-54",
-    "topicId": "g2-measure",
-    "question": "Ngựa cân nặng 111kg. Dê nặng thêm 19kg. Cả hai nặng bao nhiêu?",
+  "g2-geomeasure-migrated-279": {
+    "id": "g2-geomeasure-migrated-279",
+    "topicId": "g2-geomeasure",
+    "question": "Có 12 lít nước cam chia đều vào 4 can. Mỗi can có bao nhiêu lít?",
     "choices": [
-      "239kg",
-      "241kg",
-      "244kg",
-      "240kg"
+      "5 lít",
+      "6 lít",
+      "3 lít",
+      "2 lít"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "12 ÷ 4 = 3 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-migrated-280": {
+    "id": "g2-geomeasure-migrated-280",
+    "topicId": "g2-geomeasure",
+    "question": "Có 12 lít nước chia đều vào 3 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "4 lít",
+      "2 lít",
+      "7 lít",
+      "5 lít"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "12 ÷ 3 = 4 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-migrated-281": {
+    "id": "g2-geomeasure-migrated-281",
+    "topicId": "g2-geomeasure",
+    "question": "Có 14 lít dầu ăn chia đều vào 2 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "4 lít",
+      "9 lít",
+      "6 lít",
+      "7 lít"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "14 ÷ 2 = 7 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-migrated-282": {
+    "id": "g2-geomeasure-migrated-282",
+    "topicId": "g2-geomeasure",
+    "question": "Có 21 lít dầu ăn chia đều vào 3 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "6 lít",
+      "7 lít",
+      "8 lít",
+      "5 lít"
     ],
     "answer": 1,
     "steps": [
       {
-        "text": "Dê: 111 + 19 = 130kg. Tổng = 111 + 130 = 241kg.",
-        "highlight": "phep-cong"
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "21 ÷ 3 = 7 (lít) ✅",
+        "highlight": null
       }
     ]
   },
-  "g2-measure-gen2-55": {
-    "id": "g2-measure-gen2-55",
-    "topicId": "g2-measure",
-    "question": "Gà cân nặng 3kg. Vịt nặng thêm 2kg. Cả hai nặng bao nhiêu?",
+  "g2-geomeasure-migrated-283": {
+    "id": "g2-geomeasure-migrated-283",
+    "topicId": "g2-geomeasure",
+    "question": "Có 36 lít dầu ăn chia đều vào 6 can. Mỗi can có bao nhiêu lít?",
     "choices": [
-      "7kg",
-      "8kg",
-      "17kg",
-      "12kg"
+      "9 lít",
+      "4 lít",
+      "8 lít",
+      "6 lít"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "36 ÷ 6 = 6 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-migrated-284": {
+    "id": "g2-geomeasure-migrated-284",
+    "topicId": "g2-geomeasure",
+    "question": "Có 28 lít nước cam chia đều vào 4 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "8 lít",
+      "7 lít",
+      "9 lít",
+      "5 lít"
     ],
     "answer": 1,
     "steps": [
       {
-        "text": "Vịt: 3 + 2 = 5kg. Tổng = 3 + 5 = 8kg.",
-        "highlight": "phep-cong"
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "28 ÷ 4 = 7 (lít) ✅",
+        "highlight": null
       }
     ]
   },
-  "g2-measure-gen2-56": {
-    "id": "g2-measure-gen2-56",
-    "topicId": "g2-measure",
+  "g2-geomeasure-migrated-285": {
+    "id": "g2-geomeasure-migrated-285",
+    "topicId": "g2-geomeasure",
+    "question": "Có 24 lít sữa chia đều vào 4 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "5 lít",
+      "9 lít",
+      "6 lít",
+      "4 lít"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "24 ÷ 4 = 6 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-migrated-286": {
+    "id": "g2-geomeasure-migrated-286",
+    "topicId": "g2-geomeasure",
     "question": "Có 30 lít nước cam chia đều vào 5 can. Mỗi can có bao nhiêu lít?",
     "choices": [
       "5 lít",
@@ -28492,305 +22064,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-57": {
-    "id": "g2-measure-gen2-57",
-    "topicId": "g2-measure",
-    "question": "Mỗi túi ngô nặng 8kg. Có 9 túi. Tất cả nặng bao nhiêu kg?",
-    "choices": [
-      "73kg",
-      "72kg",
-      "79kg",
-      "64kg"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Nhiều túi cùng khối lượng -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "8 × 9 = 72 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-58": {
-    "id": "g2-measure-gen2-58",
-    "topicId": "g2-measure",
-    "question": "Trâu cân nặng 198kg. Bò nặng thêm 61kg. Cả hai nặng bao nhiêu?",
-    "choices": [
-      "459kg",
-      "457kg",
-      "451kg",
-      "464kg"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Bò: 198 + 61 = 259kg. Tổng = 198 + 259 = 457kg.",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-measure-gen2-59": {
-    "id": "g2-measure-gen2-59",
-    "topicId": "g2-measure",
-    "question": "Mỗi túi muối nặng 8kg. Có 5 túi. Tất cả nặng bao nhiêu kg?",
-    "choices": [
-      "47kg",
-      "32kg",
-      "40kg",
-      "36kg"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Nhiều túi cùng khối lượng -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "8 × 5 = 40 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-60": {
-    "id": "g2-measure-gen2-60",
-    "topicId": "g2-measure",
-    "question": "Kho có 82kg gạo. Người ta lấy ra 10kg. Trong kho còn lại bao nhiêu kg gạo?",
-    "choices": [
-      "72kg",
-      "65kg",
-      "79kg",
-      "66kg"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Lấy ra làm giảm số lượng -> dùng phép trừ.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "82 - 10 = 72 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-61": {
-    "id": "g2-measure-gen2-61",
-    "topicId": "g2-measure",
-    "question": "Mỗi túi muối nặng 6kg. Có 9 túi. Tất cả nặng bao nhiêu kg?",
-    "choices": [
-      "56kg",
-      "59kg",
-      "54kg",
-      "48kg"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Nhiều túi cùng khối lượng -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "6 × 9 = 54 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-62": {
-    "id": "g2-measure-gen2-62",
-    "topicId": "g2-measure",
-    "question": "Lợn cân nặng 16kg. Chó nặng thêm 10kg. Cả hai nặng bao nhiêu?",
-    "choices": [
-      "36kg",
-      "39kg",
-      "32kg",
-      "42kg"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Chó: 16 + 10 = 26kg. Tổng = 16 + 26 = 42kg.",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-measure-gen2-63": {
-    "id": "g2-measure-gen2-63",
-    "topicId": "g2-measure",
-    "question": "Mỗi túi gạo nặng 6kg. Có 9 túi. Tất cả nặng bao nhiêu kg?",
-    "choices": [
-      "53kg",
-      "59kg",
-      "54kg",
-      "60kg"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Nhiều túi cùng khối lượng -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "6 × 9 = 54 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-64": {
-    "id": "g2-measure-gen2-64",
-    "topicId": "g2-measure",
-    "question": "Mỗi túi đường nặng 6kg. Có 6 túi. Tất cả nặng bao nhiêu kg?",
-    "choices": [
-      "34kg",
-      "36kg",
-      "37kg",
-      "42kg"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Nhiều túi cùng khối lượng -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "6 × 6 = 36 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-65": {
-    "id": "g2-measure-gen2-65",
-    "topicId": "g2-measure",
-    "question": "Mỗi túi gạo nặng 4kg. Có 9 túi. Tất cả nặng bao nhiêu kg?",
-    "choices": [
-      "36kg",
-      "41kg",
-      "35kg",
-      "33kg"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Nhiều túi cùng khối lượng -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "4 × 9 = 36 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-66": {
-    "id": "g2-measure-gen2-66",
-    "topicId": "g2-measure",
-    "question": "Con ngựa cân nặng 206kg, con dê nhẹ hơn ngựa 32kg. Hỏi con dê cân nặng bao nhiêu?",
-    "choices": [
-      "175kg",
-      "173kg",
-      "169kg",
-      "174kg"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "206 - 32 = 174 (kg). Con dê nặng 174kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-67": {
-    "id": "g2-measure-gen2-67",
-    "topicId": "g2-measure",
-    "question": "Mỗi túi bột mì nặng 2kg. Có 6 túi. Tất cả nặng bao nhiêu kg?",
-    "choices": [
-      "8kg",
-      "12kg",
-      "15kg",
-      "13kg"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Nhiều túi cùng khối lượng -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "2 × 6 = 12 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-68": {
-    "id": "g2-measure-gen2-68",
-    "topicId": "g2-measure",
-    "question": "Con ngựa cân nặng 107kg, con dê nhẹ hơn ngựa 31kg. Hỏi con dê cân nặng bao nhiêu?",
-    "choices": [
-      "73kg",
-      "71kg",
-      "69kg",
-      "76kg"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "107 - 31 = 76 (kg). Con dê nặng 76kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-69": {
-    "id": "g2-measure-gen2-69",
-    "topicId": "g2-measure",
-    "question": "Gà cân nặng 2kg. Vịt nặng thêm 1kg. Cả hai nặng bao nhiêu?",
-    "choices": [
-      "9kg",
-      "12kg",
-      "14kg",
-      "5kg"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Vịt: 2 + 1 = 3kg. Tổng = 2 + 3 = 5kg.",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-measure-gen2-70": {
-    "id": "g2-measure-gen2-70",
-    "topicId": "g2-measure",
-    "question": "Mỗi túi bột mì nặng 2kg. Có 4 túi. Tất cả nặng bao nhiêu kg?",
-    "choices": [
-      "15kg",
-      "10kg",
-      "8kg",
-      "13kg"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Nhiều túi cùng khối lượng -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "2 × 4 = 8 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-71": {
-    "id": "g2-measure-gen2-71",
-    "topicId": "g2-measure",
+  "g2-geomeasure-migrated-287": {
+    "id": "g2-geomeasure-migrated-287",
+    "topicId": "g2-geomeasure",
     "question": "Có 10 lít dầu ăn chia đều vào 2 can. Mỗi can có bao nhiêu lít?",
     "choices": [
       "4 lít",
@@ -28810,119 +22086,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-72": {
-    "id": "g2-measure-gen2-72",
-    "topicId": "g2-measure",
-    "question": "Kho có 73kg gạo. Người ta lấy ra 18kg. Trong kho còn lại bao nhiêu kg gạo?",
-    "choices": [
-      "55kg",
-      "56kg",
-      "50kg",
-      "57kg"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Lấy ra làm giảm số lượng -> dùng phép trừ.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "73 - 18 = 55 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-73": {
-    "id": "g2-measure-gen2-73",
-    "topicId": "g2-measure",
-    "question": "Mỗi túi gạo nặng 4kg. Có 3 túi. Tất cả nặng bao nhiêu kg?",
-    "choices": [
-      "11kg",
-      "8kg",
-      "12kg",
-      "9kg"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Nhiều túi cùng khối lượng -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "4 × 3 = 12 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-74": {
-    "id": "g2-measure-gen2-74",
-    "topicId": "g2-measure",
-    "question": "Mỗi túi muối nặng 3kg. Có 9 túi. Tất cả nặng bao nhiêu kg?",
-    "choices": [
-      "33kg",
-      "23kg",
-      "27kg",
-      "19kg"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Nhiều túi cùng khối lượng -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "3 × 9 = 27 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-75": {
-    "id": "g2-measure-gen2-75",
-    "topicId": "g2-measure",
-    "question": "Kho có 56kg đường. Người ta lấy ra 33kg. Trong kho còn lại bao nhiêu kg đường?",
-    "choices": [
-      "28kg",
-      "31kg",
-      "23kg",
-      "17kg"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Lấy ra làm giảm số lượng -> dùng phép trừ.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "56 - 33 = 23 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-76": {
-    "id": "g2-measure-gen2-76",
-    "topicId": "g2-measure",
-    "question": "Mỗi túi bột mì nặng 7kg. Có 8 túi. Tất cả nặng bao nhiêu kg?",
-    "choices": [
-      "56kg",
-      "57kg",
-      "58kg",
-      "62kg"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Nhiều túi cùng khối lượng -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "7 × 8 = 56 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-77": {
-    "id": "g2-measure-gen2-77",
-    "topicId": "g2-measure",
+  "g2-geomeasure-migrated-288": {
+    "id": "g2-geomeasure-migrated-288",
+    "topicId": "g2-geomeasure",
     "question": "Có 6 lít nước mắm chia đều vào 3 can. Mỗi can có bao nhiêu lít?",
     "choices": [
       "3 lít",
@@ -28942,31 +22108,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-78": {
-    "id": "g2-measure-gen2-78",
-    "topicId": "g2-measure",
-    "question": "Kho có 55kg ngô. Người ta lấy ra 9kg. Trong kho còn lại bao nhiêu kg ngô?",
-    "choices": [
-      "42kg",
-      "46kg",
-      "47kg",
-      "39kg"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Lấy ra làm giảm số lượng -> dùng phép trừ.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "55 - 9 = 46 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-79": {
-    "id": "g2-measure-gen2-79",
-    "topicId": "g2-measure",
+  "g2-geomeasure-migrated-289": {
+    "id": "g2-geomeasure-migrated-289",
+    "topicId": "g2-geomeasure",
     "question": "Có 18 lít nước cam chia đều vào 3 can. Mỗi can có bao nhiêu lít?",
     "choices": [
       "4 lít",
@@ -28986,9 +22130,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-80": {
-    "id": "g2-measure-gen2-80",
-    "topicId": "g2-measure",
+  "g2-geomeasure-migrated-290": {
+    "id": "g2-geomeasure-migrated-290",
+    "topicId": "g2-geomeasure",
     "question": "Có 48 lít nước mắm chia đều vào 6 can. Mỗi can có bao nhiêu lít?",
     "choices": [
       "5 lít",
@@ -29008,9 +22152,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-81": {
-    "id": "g2-measure-gen2-81",
-    "topicId": "g2-measure",
+  "g2-geomeasure-migrated-291": {
+    "id": "g2-geomeasure-migrated-291",
+    "topicId": "g2-geomeasure",
     "question": "Có 54 lít sữa chia đều vào 6 can. Mỗi can có bao nhiêu lít?",
     "choices": [
       "6 lít",
@@ -29030,181 +22174,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-82": {
-    "id": "g2-measure-gen2-82",
-    "topicId": "g2-measure",
-    "question": "Kho có 52kg gạo. Người ta lấy ra 7kg. Trong kho còn lại bao nhiêu kg gạo?",
-    "choices": [
-      "51kg",
-      "42kg",
-      "53kg",
-      "45kg"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Lấy ra làm giảm số lượng -> dùng phép trừ.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "52 - 7 = 45 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-83": {
-    "id": "g2-measure-gen2-83",
-    "topicId": "g2-measure",
-    "question": "Ngựa cân nặng 91kg. Dê nặng thêm 29kg. Cả hai nặng bao nhiêu?",
-    "choices": [
-      "201kg",
-      "211kg",
-      "205kg",
-      "220kg"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Dê: 91 + 29 = 120kg. Tổng = 91 + 120 = 211kg.",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-measure-gen2-84": {
-    "id": "g2-measure-gen2-84",
-    "topicId": "g2-measure",
-    "question": "Mỗi túi đường nặng 5kg. Có 8 túi. Tất cả nặng bao nhiêu kg?",
-    "choices": [
-      "40kg",
-      "38kg",
-      "33kg",
-      "43kg"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Nhiều túi cùng khối lượng -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "5 × 8 = 40 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-85": {
-    "id": "g2-measure-gen2-85",
-    "topicId": "g2-measure",
-    "question": "Kho có 76kg gạo. Người ta lấy ra 55kg. Trong kho còn lại bao nhiêu kg gạo?",
-    "choices": [
-      "21kg",
-      "20kg",
-      "16kg",
-      "13kg"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Lấy ra làm giảm số lượng -> dùng phép trừ.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "76 - 55 = 21 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-86": {
-    "id": "g2-measure-gen2-86",
-    "topicId": "g2-measure",
-    "question": "Kho có 75kg gạo. Người ta lấy ra 34kg. Trong kho còn lại bao nhiêu kg gạo?",
-    "choices": [
-      "45kg",
-      "41kg",
-      "33kg",
-      "44kg"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Lấy ra làm giảm số lượng -> dùng phép trừ.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "75 - 34 = 41 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-87": {
-    "id": "g2-measure-gen2-87",
-    "topicId": "g2-measure",
-    "question": "Con trâu cân nặng 365kg, con bò nhẹ hơn trâu 36kg. Hỏi con bò cân nặng bao nhiêu?",
-    "choices": [
-      "324kg",
-      "336kg",
-      "337kg",
-      "329kg"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "365 - 36 = 329 (kg). Con bò nặng 329kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-88": {
-    "id": "g2-measure-gen2-88",
-    "topicId": "g2-measure",
-    "question": "Mỗi túi muối nặng 5kg. Có 4 túi. Tất cả nặng bao nhiêu kg?",
-    "choices": [
-      "27kg",
-      "20kg",
-      "12kg",
-      "21kg"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Nhiều túi cùng khối lượng -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "5 × 4 = 20 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-89": {
-    "id": "g2-measure-gen2-89",
-    "topicId": "g2-measure",
-    "question": "Mỗi túi ngô nặng 6kg. Có 3 túi. Tất cả nặng bao nhiêu kg?",
-    "choices": [
-      "11kg",
-      "23kg",
-      "18kg",
-      "25kg"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Nhiều túi cùng khối lượng -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "6 × 3 = 18 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-90": {
-    "id": "g2-measure-gen2-90",
-    "topicId": "g2-measure",
+  "g2-geomeasure-migrated-292": {
+    "id": "g2-geomeasure-migrated-292",
+    "topicId": "g2-geomeasure",
     "question": "Có 20 lít nước cam chia đều vào 4 can. Mỗi can có bao nhiêu lít?",
     "choices": [
       "3 lít",
@@ -29224,71 +22196,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-91": {
-    "id": "g2-measure-gen2-91",
-    "topicId": "g2-measure",
-    "question": "Con trâu cân nặng 260kg, con bò nhẹ hơn trâu 96kg. Hỏi con bò cân nặng bao nhiêu?",
-    "choices": [
-      "158kg",
-      "162kg",
-      "164kg",
-      "159kg"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "260 - 96 = 164 (kg). Con bò nặng 164kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-92": {
-    "id": "g2-measure-gen2-92",
-    "topicId": "g2-measure",
-    "question": "Mỗi túi đường nặng 4kg. Có 3 túi. Tất cả nặng bao nhiêu kg?",
-    "choices": [
-      "17kg",
-      "5kg",
-      "6kg",
-      "12kg"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Nhiều túi cùng khối lượng -> dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "4 × 3 = 12 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-93": {
-    "id": "g2-measure-gen2-93",
-    "topicId": "g2-measure",
-    "question": "Lợn cân nặng 25kg. Chó nặng thêm 11kg. Cả hai nặng bao nhiêu?",
-    "choices": [
-      "62kg",
-      "64kg",
-      "70kg",
-      "61kg"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Chó: 25 + 11 = 36kg. Tổng = 25 + 36 = 61kg.",
-        "highlight": "phep-cong"
-      }
-    ]
-  },
-  "g2-measure-gen2-94": {
-    "id": "g2-measure-gen2-94",
-    "topicId": "g2-measure",
+  "g2-geomeasure-migrated-293": {
+    "id": "g2-geomeasure-migrated-293",
+    "topicId": "g2-geomeasure",
     "question": "Có 20 lít nước cam chia đều vào 5 can. Mỗi can có bao nhiêu lít?",
     "choices": [
       "2 lít",
@@ -29308,119 +22218,9 @@ export const problems = {
       }
     ]
   },
-  "g2-measure-gen2-95": {
-    "id": "g2-measure-gen2-95",
-    "topicId": "g2-measure",
-    "question": "Con ngựa cân nặng 233kg, con dê nhẹ hơn ngựa 55kg. Hỏi con dê cân nặng bao nhiêu?",
-    "choices": [
-      "178kg",
-      "182kg",
-      "186kg",
-      "180kg"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "233 - 55 = 178 (kg). Con dê nặng 178kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-96": {
-    "id": "g2-measure-gen2-96",
-    "topicId": "g2-measure",
-    "question": "Con trâu cân nặng 164kg, con bò nhẹ hơn trâu 77kg. Hỏi con bò cân nặng bao nhiêu?",
-    "choices": [
-      "82kg",
-      "87kg",
-      "92kg",
-      "91kg"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "164 - 77 = 87 (kg). Con bò nặng 87kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-97": {
-    "id": "g2-measure-gen2-97",
-    "topicId": "g2-measure",
-    "question": "Con lợn cân nặng 51kg, con chó nhẹ hơn lợn 2kg. Hỏi con chó cân nặng bao nhiêu?",
-    "choices": [
-      "56kg",
-      "49kg",
-      "46kg",
-      "41kg"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "51 - 2 = 49 (kg). Con chó nặng 49kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-98": {
-    "id": "g2-measure-gen2-98",
-    "topicId": "g2-measure",
-    "question": "Kho có 20kg bột mì. Người ta lấy ra 13kg. Trong kho còn lại bao nhiêu kg bột mì?",
-    "choices": [
-      "7kg",
-      "1kg",
-      "11kg",
-      "2kg"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Lấy ra làm giảm số lượng -> dùng phép trừ.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "20 - 13 = 7 (kg) ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-99": {
-    "id": "g2-measure-gen2-99",
-    "topicId": "g2-measure",
-    "question": "Con lợn cân nặng 28kg, con chó nhẹ hơn lợn 9kg. Hỏi con chó cân nặng bao nhiêu?",
-    "choices": [
-      "15kg",
-      "13kg",
-      "19kg",
-      "16kg"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
-        "highlight": "phep-tru"
-      },
-      {
-        "text": "28 - 9 = 19 (kg). Con chó nặng 19kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-measure-gen2-100": {
-    "id": "g2-measure-gen2-100",
-    "topicId": "g2-measure",
+  "g2-geomeasure-migrated-294": {
+    "id": "g2-geomeasure-migrated-294",
+    "topicId": "g2-geomeasure",
     "question": "Có 16 lít nước mắm chia đều vào 2 can. Mỗi can có bao nhiêu lít?",
     "choices": [
       "11 lít",
@@ -29440,184 +22240,18484 @@ export const problems = {
       }
     ]
   },
-  "g2-midterm-gen2-4": {
-    "id": "g2-midterm-gen2-4",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 30 cây bút, chia đều thành 5 tổ. Hỏi mỗi tổ có bao nhiêu cây bút?",
+  "g2-numbers100-gen3-1": {
+    "id": "g2-numbers100-gen3-1",
+    "topicId": "g2-numbers100",
+    "question": "Dãy số nào dưới đây được sắp xếp theo thứ tự từ bé đến lớn: 12, 50, 55, 90?",
     "choices": [
-      "6 cây bút",
-      "5 cây bút",
-      "4 cây bút",
-      "9 cây bút"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 30 ÷ 5 = 6.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 6 cây bút ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-5": {
-    "id": "g2-midterm-gen2-5",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Đổi đơn vị: 6000g = ... kg",
-    "choices": [
-      "6 kg",
-      "600 kg",
-      "0.6 kg",
-      "60 kg"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Ta biết 1000g = 1kg.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 6000g = 6000 ÷ 1000 = 6kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-6": {
-    "id": "g2-midterm-gen2-6",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 7 kg xoài, mỗi kg giá 7.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "35.000 đồng",
-      "42.000 đồng",
-      "63.000 đồng",
-      "49.000 đồng"
+      "16, 38, 87, 88",
+      "12, 55, 90, 50",
+      "90, 55, 50, 12",
+      "12, 50, 55, 90"
     ],
     "answer": 3,
     "steps": [
       {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 7.000 đồng × 7 = 49.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 49.000 đồng ✅",
+        "text": "Sắp xếp các số theo thứ tự từ bé đến lớn: 12, 50, 55, 90. ✅",
         "highlight": null
       }
     ]
   },
-  "g2-midterm-gen2-7": {
-    "id": "g2-midterm-gen2-7",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 9 chiếc kẹo, chia đều thành 3 tổ. Hỏi mỗi tổ có bao nhiêu chiếc kẹo?",
+  "g2-numbers100-gen3-2": {
+    "id": "g2-numbers100-gen3-2",
+    "topicId": "g2-numbers100",
+    "question": "Số liền sau của số 48 là:",
     "choices": [
-      "4 chiếc kẹo",
-      "3 chiếc kẹo",
-      "2 chiếc kẹo",
-      "1 chiếc kẹo"
+      "49",
+      "48",
+      "52",
+      "51"
     ],
-    "answer": 1,
+    "answer": 0,
     "steps": [
       {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 9 ÷ 3 = 3.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 3 chiếc kẹo ✅",
+        "text": "Số liền sau hơn số đã cho 1 đơn vị: 48 + 1 = 49. ✅",
         "highlight": null
       }
     ]
   },
-  "g2-midterm-gen2-8": {
-    "id": "g2-midterm-gen2-8",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Đổi đơn vị: 5000g = ... kg",
+  "g2-numbers100-gen3-3": {
+    "id": "g2-numbers100-gen3-3",
+    "topicId": "g2-numbers100",
+    "question": "Số liền sau của số 58 là:",
     "choices": [
-      "500 kg",
-      "50 kg",
-      "5 kg",
-      "0.5 kg"
+      "58",
+      "61",
+      "56",
+      "59"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Số liền sau hơn số đã cho 1 đơn vị: 58 + 1 = 59. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-4": {
+    "id": "g2-numbers100-gen3-4",
+    "topicId": "g2-numbers100",
+    "question": "Số 26 gồm mấy chục và mấy đơn vị?",
+    "choices": [
+      "6 chục và 2 đơn vị",
+      "1 chục và 9 đơn vị",
+      "2 chục và 6 đơn vị",
+      "8 chục và 3 đơn vị"
     ],
     "answer": 2,
     "steps": [
       {
-        "text": "Ta biết 1000g = 1kg.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 5000g = 5000 ÷ 1000 = 5kg ✅",
+        "text": "26 = 20 + 6, tức 2 chục và 6 đơn vị. ✅",
         "highlight": null
       }
     ]
   },
-  "g2-midterm-gen2-9": {
-    "id": "g2-midterm-gen2-9",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 2 kg táo, mỗi kg giá 19.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
+  "g2-numbers100-gen3-5": {
+    "id": "g2-numbers100-gen3-5",
+    "topicId": "g2-numbers100",
+    "question": "Số liền trước của số 71 là:",
     "choices": [
-      "57.000 đồng",
-      "38.000 đồng",
-      "76.000 đồng",
-      "19.000 đồng"
+      "71",
+      "70",
+      "72",
+      "69"
     ],
     "answer": 1,
     "steps": [
       {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 19.000 đồng × 2 = 38.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 38.000 đồng ✅",
+        "text": "Số liền trước kém số đã cho 1 đơn vị: 71 - 1 = 70. ✅",
         "highlight": null
       }
     ]
   },
-  "g2-midterm-gen2-10": {
-    "id": "g2-midterm-gen2-10",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 7 kg táo, mỗi kg giá 27.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
+  "g2-numbers100-gen3-6": {
+    "id": "g2-numbers100-gen3-6",
+    "topicId": "g2-numbers100",
+    "question": "Số liền sau của số 19 là:",
     "choices": [
-      "135.000 đồng",
-      "108.000 đồng",
-      "216.000 đồng",
-      "189.000 đồng"
+      "17",
+      "21",
+      "23",
+      "20"
     ],
     "answer": 3,
     "steps": [
       {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 27.000 đồng × 7 = 189.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 189.000 đồng ✅",
+        "text": "Số liền sau hơn số đã cho 1 đơn vị: 19 + 1 = 20. ✅",
         "highlight": null
       }
     ]
   },
-  "g2-midterm-gen2-11": {
-    "id": "g2-midterm-gen2-11",
+  "g2-numbers100-gen3-7": {
+    "id": "g2-numbers100-gen3-7",
+    "topicId": "g2-numbers100",
+    "question": "Số liền trước của số 34 là:",
+    "choices": [
+      "31",
+      "33",
+      "35",
+      "34"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Số liền trước kém số đã cho 1 đơn vị: 34 - 1 = 33. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-8": {
+    "id": "g2-numbers100-gen3-8",
+    "topicId": "g2-numbers100",
+    "question": "Số liền trước của số 52 là:",
+    "choices": [
+      "52",
+      "48",
+      "51",
+      "50"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Số liền trước kém số đã cho 1 đơn vị: 52 - 1 = 51. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-9": {
+    "id": "g2-numbers100-gen3-9",
+    "topicId": "g2-numbers100",
+    "question": "So sánh: 57 ... 74",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng chục trước, rồi đến hàng đơn vị. Vậy 57 < 74. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-10": {
+    "id": "g2-numbers100-gen3-10",
+    "topicId": "g2-numbers100",
+    "question": "Số liền trước của số 16 là:",
+    "choices": [
+      "18",
+      "12",
+      "16",
+      "15"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Số liền trước kém số đã cho 1 đơn vị: 16 - 1 = 15. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-11": {
+    "id": "g2-numbers100-gen3-11",
+    "topicId": "g2-numbers100",
+    "question": "Số 14 gồm mấy chục và mấy đơn vị?",
+    "choices": [
+      "2 chục và 6 đơn vị",
+      "7 chục và 2 đơn vị",
+      "2 chục và 8 đơn vị",
+      "1 chục và 4 đơn vị"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "14 = 10 + 4, tức 1 chục và 4 đơn vị. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-12": {
+    "id": "g2-numbers100-gen3-12",
+    "topicId": "g2-numbers100",
+    "question": "Dãy số nào dưới đây được sắp xếp theo thứ tự từ bé đến lớn: 63, 74, 97, 98?",
+    "choices": [
+      "52, 56, 93, 96",
+      "98, 74, 63, 97",
+      "98, 97, 74, 63",
+      "63, 74, 97, 98"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ bé đến lớn: 63, 74, 97, 98. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-13": {
+    "id": "g2-numbers100-gen3-13",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Ba mươi sáu\" được viết là:",
+    "choices": [
+      "35",
+      "36",
+      "33",
+      "32"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "\"Ba mươi sáu\" viết bằng số là 36. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-14": {
+    "id": "g2-numbers100-gen3-14",
+    "topicId": "g2-numbers100",
+    "question": "Số 13 gồm mấy chục và mấy đơn vị?",
+    "choices": [
+      "1 chục và 3 đơn vị",
+      "9 chục và 6 đơn vị",
+      "1 chục và 6 đơn vị",
+      "4 chục và 9 đơn vị"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "13 = 10 + 3, tức 1 chục và 3 đơn vị. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-15": {
+    "id": "g2-numbers100-gen3-15",
+    "topicId": "g2-numbers100",
+    "question": "... gồm 50 và 5?",
+    "choices": [
+      "54",
+      "55",
+      "56",
+      "59"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "55 = 50 + 5. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-16": {
+    "id": "g2-numbers100-gen3-16",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Bốn mươi chín\" được viết là:",
+    "choices": [
+      "50",
+      "57",
+      "48",
+      "49"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "\"Bốn mươi chín\" viết bằng số là 49. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-17": {
+    "id": "g2-numbers100-gen3-17",
+    "topicId": "g2-numbers100",
+    "question": "Dãy số nào dưới đây được sắp xếp theo thứ tự từ lớn đến bé: 19, 36, 44, 75?",
+    "choices": [
+      "75, 44, 36, 19",
+      "44, 19, 36, 75",
+      "12, 58, 89, 90",
+      "19, 36, 44, 75"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ lớn đến bé: 75, 44, 36, 19. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-18": {
+    "id": "g2-numbers100-gen3-18",
+    "topicId": "g2-numbers100",
+    "question": "Số liền trước của số 55 là:",
+    "choices": [
+      "51",
+      "54",
+      "56",
+      "57"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Số liền trước kém số đã cho 1 đơn vị: 55 - 1 = 54. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-19": {
+    "id": "g2-numbers100-gen3-19",
+    "topicId": "g2-numbers100",
+    "question": "Số liền trước của số 75 là:",
+    "choices": [
+      "72",
+      "76",
+      "75",
+      "74"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Số liền trước kém số đã cho 1 đơn vị: 75 - 1 = 74. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-20": {
+    "id": "g2-numbers100-gen3-20",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Tám mươi tám\" được viết là:",
+    "choices": [
+      "83",
+      "96",
+      "88",
+      "80"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "\"Tám mươi tám\" viết bằng số là 88. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-21": {
+    "id": "g2-numbers100-gen3-21",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Chín mươi tư\" được viết là:",
+    "choices": [
+      "86",
+      "101",
+      "87",
+      "94"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "\"Chín mươi tư\" viết bằng số là 94. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-22": {
+    "id": "g2-numbers100-gen3-22",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Tám mươi\" được viết là:",
+    "choices": [
+      "80",
+      "88",
+      "75",
+      "72"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "\"Tám mươi\" viết bằng số là 80. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-23": {
+    "id": "g2-numbers100-gen3-23",
+    "topicId": "g2-numbers100",
+    "question": "Số 65 gồm mấy chục và mấy đơn vị?",
+    "choices": [
+      "3 chục và 9 đơn vị",
+      "6 chục và 5 đơn vị",
+      "9 chục và 7 đơn vị",
+      "8 chục và 7 đơn vị"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "65 = 60 + 5, tức 6 chục và 5 đơn vị. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-24": {
+    "id": "g2-numbers100-gen3-24",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Bảy mươi hai\" được viết là:",
+    "choices": [
+      "76",
+      "72",
+      "66",
+      "73"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "\"Bảy mươi hai\" viết bằng số là 72. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-25": {
+    "id": "g2-numbers100-gen3-25",
+    "topicId": "g2-numbers100",
+    "question": "So sánh: 96 ... 53",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh hàng chục trước, rồi đến hàng đơn vị. Vậy 96 > 53. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-26": {
+    "id": "g2-numbers100-gen3-26",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Sáu mươi bảy\" được viết là:",
+    "choices": [
+      "72",
+      "75",
+      "59",
+      "67"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "\"Sáu mươi bảy\" viết bằng số là 67. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-27": {
+    "id": "g2-numbers100-gen3-27",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Bốn mươi bảy\" được viết là:",
+    "choices": [
+      "42",
+      "46",
+      "53",
+      "47"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "\"Bốn mươi bảy\" viết bằng số là 47. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-28": {
+    "id": "g2-numbers100-gen3-28",
+    "topicId": "g2-numbers100",
+    "question": "Dãy số nào dưới đây được sắp xếp theo thứ tự từ lớn đến bé: 43, 47, 49, 63?",
+    "choices": [
+      "49, 43, 47, 63",
+      "43, 47, 49, 63",
+      "12, 20, 51, 77",
+      "63, 49, 47, 43"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ lớn đến bé: 63, 49, 47, 43. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-29": {
+    "id": "g2-numbers100-gen3-29",
+    "topicId": "g2-numbers100",
+    "question": "Số liền sau của số 95 là:",
+    "choices": [
+      "93",
+      "96",
+      "94",
+      "98"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Số liền sau hơn số đã cho 1 đơn vị: 95 + 1 = 96. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-30": {
+    "id": "g2-numbers100-gen3-30",
+    "topicId": "g2-numbers100",
+    "question": "Dãy số nào dưới đây được sắp xếp theo thứ tự từ lớn đến bé: 45, 71, 76, 98?",
+    "choices": [
+      "85, 69, 33, 28",
+      "98, 76, 71, 45",
+      "45, 71, 76, 98",
+      "45, 63, 74, 80"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ lớn đến bé: 98, 76, 71, 45. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-31": {
+    "id": "g2-numbers100-gen3-31",
+    "topicId": "g2-numbers100",
+    "question": "Dãy số nào dưới đây được sắp xếp theo thứ tự từ lớn đến bé: 49, 56, 74, 76?",
+    "choices": [
+      "76, 74, 49, 56",
+      "10, 52, 53, 61",
+      "76, 74, 56, 49",
+      "49, 56, 74, 76"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ lớn đến bé: 76, 74, 56, 49. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-32": {
+    "id": "g2-numbers100-gen3-32",
+    "topicId": "g2-numbers100",
+    "question": "Số 93 gồm mấy chục và mấy đơn vị?",
+    "choices": [
+      "4 chục và 1 đơn vị",
+      "9 chục và 4 đơn vị",
+      "8 chục và 7 đơn vị",
+      "9 chục và 3 đơn vị"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "93 = 90 + 3, tức 9 chục và 3 đơn vị. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-33": {
+    "id": "g2-numbers100-gen3-33",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Sáu mươi tám\" được viết là:",
+    "choices": [
+      "62",
+      "60",
+      "68",
+      "74"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "\"Sáu mươi tám\" viết bằng số là 68. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-34": {
+    "id": "g2-numbers100-gen3-34",
+    "topicId": "g2-numbers100",
+    "question": "Dãy số nào dưới đây được sắp xếp theo thứ tự từ lớn đến bé: 32, 36, 45, 78?",
+    "choices": [
+      "78, 45, 36, 32",
+      "78, 45, 32, 36",
+      "32, 36, 45, 78",
+      "30, 37, 51, 53"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ lớn đến bé: 78, 45, 36, 32. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-35": {
+    "id": "g2-numbers100-gen3-35",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Bốn mươi sáu\" được viết là:",
+    "choices": [
+      "41",
+      "51",
+      "48",
+      "46"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "\"Bốn mươi sáu\" viết bằng số là 46. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-36": {
+    "id": "g2-numbers100-gen3-36",
+    "topicId": "g2-numbers100",
+    "question": "Số 84 gồm mấy chục và mấy đơn vị?",
+    "choices": [
+      "1 chục và 6 đơn vị",
+      "9 chục và 9 đơn vị",
+      "4 chục và 7 đơn vị",
+      "8 chục và 4 đơn vị"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "84 = 80 + 4, tức 8 chục và 4 đơn vị. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-37": {
+    "id": "g2-numbers100-gen3-37",
+    "topicId": "g2-numbers100",
+    "question": "So sánh: 86 ... 26",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh hàng chục trước, rồi đến hàng đơn vị. Vậy 86 > 26. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-38": {
+    "id": "g2-numbers100-gen3-38",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Năm mươi lăm\" được viết là:",
+    "choices": [
+      "58",
+      "61",
+      "55",
+      "63"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "\"Năm mươi lăm\" viết bằng số là 55. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-39": {
+    "id": "g2-numbers100-gen3-39",
+    "topicId": "g2-numbers100",
+    "question": "So sánh: 66 ... 50",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh hàng chục trước, rồi đến hàng đơn vị. Vậy 66 > 50. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-40": {
+    "id": "g2-numbers100-gen3-40",
+    "topicId": "g2-numbers100",
+    "question": "Số liền sau của số 52 là:",
+    "choices": [
+      "53",
+      "55",
+      "54",
+      "50"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Số liền sau hơn số đã cho 1 đơn vị: 52 + 1 = 53. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-41": {
+    "id": "g2-numbers100-gen3-41",
+    "topicId": "g2-numbers100",
+    "question": "Dãy số nào dưới đây được sắp xếp theo thứ tự từ bé đến lớn: 33, 35, 45, 66?",
+    "choices": [
+      "10, 14, 54, 53",
+      "13, 39, 59, 90",
+      "33, 35, 45, 66",
+      "66, 45, 35, 33"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ bé đến lớn: 33, 35, 45, 66. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-42": {
+    "id": "g2-numbers100-gen3-42",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Bảy mươi tám\" được viết là:",
+    "choices": [
+      "79",
+      "80",
+      "78",
+      "74"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "\"Bảy mươi tám\" viết bằng số là 78. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-43": {
+    "id": "g2-numbers100-gen3-43",
+    "topicId": "g2-numbers100",
+    "question": "Dãy số nào dưới đây được sắp xếp theo thứ tự từ bé đến lớn: 11, 33, 84, 90?",
+    "choices": [
+      "90, 84, 33, 11",
+      "17, 22, 75, 89",
+      "33, 11, 84, 90",
+      "11, 33, 84, 90"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ bé đến lớn: 11, 33, 84, 90. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-44": {
+    "id": "g2-numbers100-gen3-44",
+    "topicId": "g2-numbers100",
+    "question": "Số 81 gồm mấy chục và mấy đơn vị?",
+    "choices": [
+      "8 chục và 1 đơn vị",
+      "9 chục và 6 đơn vị",
+      "1 chục và 1 đơn vị",
+      "1 chục và 7 đơn vị"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "81 = 80 + 1, tức 8 chục và 1 đơn vị. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-45": {
+    "id": "g2-numbers100-gen3-45",
+    "topicId": "g2-numbers100",
+    "question": "Số 77 gồm mấy chục và mấy đơn vị?",
+    "choices": [
+      "6 chục và 3 đơn vị",
+      "1 chục và 9 đơn vị",
+      "7 chục và 7 đơn vị",
+      "9 chục và 9 đơn vị"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "77 = 70 + 7, tức 7 chục và 7 đơn vị. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-46": {
+    "id": "g2-numbers100-gen3-46",
+    "topicId": "g2-numbers100",
+    "question": "So sánh: 76 ... 60",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh hàng chục trước, rồi đến hàng đơn vị. Vậy 76 > 60. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-47": {
+    "id": "g2-numbers100-gen3-47",
+    "topicId": "g2-numbers100",
+    "question": "... gồm 30 và 1?",
+    "choices": [
+      "31",
+      "26",
+      "34",
+      "30"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "31 = 30 + 1. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-48": {
+    "id": "g2-numbers100-gen3-48",
+    "topicId": "g2-numbers100",
+    "question": "Số 47 gồm mấy chục và mấy đơn vị?",
+    "choices": [
+      "4 chục và 7 đơn vị",
+      "6 chục và 3 đơn vị",
+      "1 chục và 0 đơn vị",
+      "1 chục và 2 đơn vị"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "47 = 40 + 7, tức 4 chục và 7 đơn vị. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-49": {
+    "id": "g2-numbers100-gen3-49",
+    "topicId": "g2-numbers100",
+    "question": "So sánh: 73 ... 78",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng chục trước, rồi đến hàng đơn vị. Vậy 73 < 78. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-50": {
+    "id": "g2-numbers100-gen3-50",
+    "topicId": "g2-numbers100",
+    "question": "Dãy số nào dưới đây được sắp xếp theo thứ tự từ lớn đến bé: 12, 20, 23, 82?",
+    "choices": [
+      "83, 19, 98, 35",
+      "12, 20, 23, 82",
+      "82, 23, 20, 12",
+      "11, 42, 57, 61"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ lớn đến bé: 82, 23, 20, 12. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-51": {
+    "id": "g2-numbers100-gen3-51",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Năm mươi mốt\" được viết là:",
+    "choices": [
+      "51",
+      "57",
+      "44",
+      "47"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "\"Năm mươi mốt\" viết bằng số là 51. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-52": {
+    "id": "g2-numbers100-gen3-52",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Chín mươi bảy\" được viết là:",
+    "choices": [
+      "95",
+      "97",
+      "96",
+      "91"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "\"Chín mươi bảy\" viết bằng số là 97. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-53": {
+    "id": "g2-numbers100-gen3-53",
+    "topicId": "g2-numbers100",
+    "question": "Dãy số nào dưới đây được sắp xếp theo thứ tự từ bé đến lớn: 36, 38, 57, 72?",
+    "choices": [
+      "36, 38, 57, 72",
+      "39, 45, 69, 93",
+      "72, 36, 38, 57",
+      "72, 57, 38, 36"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ bé đến lớn: 36, 38, 57, 72. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-54": {
+    "id": "g2-numbers100-gen3-54",
+    "topicId": "g2-numbers100",
+    "question": "So sánh: 48 ... 15",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh hàng chục trước, rồi đến hàng đơn vị. Vậy 48 > 15. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-55": {
+    "id": "g2-numbers100-gen3-55",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Năm mươi sáu\" được viết là:",
+    "choices": [
+      "51",
+      "63",
+      "56",
+      "48"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "\"Năm mươi sáu\" viết bằng số là 56. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-56": {
+    "id": "g2-numbers100-gen3-56",
+    "topicId": "g2-numbers100",
+    "question": "Số liền sau của số 68 là:",
+    "choices": [
+      "70",
+      "72",
+      "69",
+      "67"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Số liền sau hơn số đã cho 1 đơn vị: 68 + 1 = 69. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-57": {
+    "id": "g2-numbers100-gen3-57",
+    "topicId": "g2-numbers100",
+    "question": "So sánh: 66 ... 42",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh hàng chục trước, rồi đến hàng đơn vị. Vậy 66 > 42. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-58": {
+    "id": "g2-numbers100-gen3-58",
+    "topicId": "g2-numbers100",
+    "question": "Dãy số nào dưới đây được sắp xếp theo thứ tự từ lớn đến bé: 10, 15, 47, 98?",
+    "choices": [
+      "98, 47, 15, 10",
+      "98, 15, 47, 10",
+      "10, 15, 47, 98",
+      "25, 49, 50, 81"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ lớn đến bé: 98, 47, 15, 10. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-59": {
+    "id": "g2-numbers100-gen3-59",
+    "topicId": "g2-numbers100",
+    "question": "44 gồm 40 và ...?",
+    "choices": [
+      "7",
+      "4",
+      "9",
+      "3"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "44 = 40 + 4. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-60": {
+    "id": "g2-numbers100-gen3-60",
+    "topicId": "g2-numbers100",
+    "question": "Dãy số nào dưới đây được sắp xếp theo thứ tự từ lớn đến bé: 16, 47, 61, 82?",
+    "choices": [
+      "47, 82, 16, 61",
+      "16, 47, 61, 82",
+      "82, 61, 47, 16",
+      "29, 36, 49, 84"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ lớn đến bé: 82, 61, 47, 16. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-61": {
+    "id": "g2-numbers100-gen3-61",
+    "topicId": "g2-numbers100",
+    "question": "So sánh: 15 ... 96",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng chục trước, rồi đến hàng đơn vị. Vậy 15 < 96. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-62": {
+    "id": "g2-numbers100-gen3-62",
+    "topicId": "g2-numbers100",
+    "question": "So sánh: 51 ... 27",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh hàng chục trước, rồi đến hàng đơn vị. Vậy 51 > 27. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-63": {
+    "id": "g2-numbers100-gen3-63",
+    "topicId": "g2-numbers100",
+    "question": "Dãy số nào dưới đây được sắp xếp theo thứ tự từ bé đến lớn: 10, 16, 19, 96?",
+    "choices": [
+      "96, 19, 16, 10",
+      "10, 16, 19, 96",
+      "96, 10, 19, 16",
+      "56, 71, 88, 90"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ bé đến lớn: 10, 16, 19, 96. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-64": {
+    "id": "g2-numbers100-gen3-64",
+    "topicId": "g2-numbers100",
+    "question": "So sánh: 45 ... 51",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng chục trước, rồi đến hàng đơn vị. Vậy 45 < 51. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-65": {
+    "id": "g2-numbers100-gen3-65",
+    "topicId": "g2-numbers100",
+    "question": "Dãy số nào dưới đây được sắp xếp theo thứ tự từ bé đến lớn: 18, 47, 63, 72?",
+    "choices": [
+      "72, 63, 47, 18",
+      "31, 50, 57, 89",
+      "18, 47, 63, 72",
+      "18, 47, 72, 63"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ bé đến lớn: 18, 47, 63, 72. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-66": {
+    "id": "g2-numbers100-gen3-66",
+    "topicId": "g2-numbers100",
+    "question": "Số liền sau của số 25 là:",
+    "choices": [
+      "29",
+      "26",
+      "24",
+      "25"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Số liền sau hơn số đã cho 1 đơn vị: 25 + 1 = 26. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-67": {
+    "id": "g2-numbers100-gen3-67",
+    "topicId": "g2-numbers100",
+    "question": "So sánh: 67 ... 24",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh hàng chục trước, rồi đến hàng đơn vị. Vậy 67 > 24. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-68": {
+    "id": "g2-numbers100-gen3-68",
+    "topicId": "g2-numbers100",
+    "question": "31 gồm 30 và ...?",
+    "choices": [
+      "1",
+      "3",
+      "5",
+      "2"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "31 = 30 + 1. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-69": {
+    "id": "g2-numbers100-gen3-69",
+    "topicId": "g2-numbers100",
+    "question": "Số 67 gồm mấy chục và mấy đơn vị?",
+    "choices": [
+      "6 chục và 2 đơn vị",
+      "6 chục và 7 đơn vị",
+      "6 chục và 6 đơn vị",
+      "4 chục và 3 đơn vị"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "67 = 60 + 7, tức 6 chục và 7 đơn vị. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-70": {
+    "id": "g2-numbers100-gen3-70",
+    "topicId": "g2-numbers100",
+    "question": "Dãy số nào dưới đây được sắp xếp theo thứ tự từ lớn đến bé: 13, 76, 85, 89?",
+    "choices": [
+      "76, 85, 89, 13",
+      "89, 85, 76, 13",
+      "13, 76, 85, 89",
+      "17, 27, 50, 60"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ lớn đến bé: 89, 85, 76, 13. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-71": {
+    "id": "g2-numbers100-gen3-71",
+    "topicId": "g2-numbers100",
+    "question": "Số liền sau của số 91 là:",
+    "choices": [
+      "89",
+      "92",
+      "95",
+      "94"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Số liền sau hơn số đã cho 1 đơn vị: 91 + 1 = 92. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-72": {
+    "id": "g2-numbers100-gen3-72",
+    "topicId": "g2-numbers100",
+    "question": "Dãy số nào dưới đây được sắp xếp theo thứ tự từ lớn đến bé: 12, 43, 47, 57?",
+    "choices": [
+      "12, 43, 47, 57",
+      "12, 27, 53, 88",
+      "57, 47, 43, 12",
+      "43, 47, 57, 12"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ lớn đến bé: 57, 47, 43, 12. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-73": {
+    "id": "g2-numbers100-gen3-73",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Tám mươi lăm\" được viết là:",
+    "choices": [
+      "85",
+      "93",
+      "86",
+      "90"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "\"Tám mươi lăm\" viết bằng số là 85. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-74": {
+    "id": "g2-numbers100-gen3-74",
+    "topicId": "g2-numbers100",
+    "question": "Dãy số nào dưới đây được sắp xếp theo thứ tự từ bé đến lớn: 44, 51, 81, 93?",
+    "choices": [
+      "93, 81, 51, 44",
+      "44, 51, 93, 81",
+      "44, 51, 81, 93",
+      "38, 48, 63, 75"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ bé đến lớn: 44, 51, 81, 93. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-75": {
+    "id": "g2-numbers100-gen3-75",
+    "topicId": "g2-numbers100",
+    "question": "Số 54 gồm mấy chục và mấy đơn vị?",
+    "choices": [
+      "8 chục và 4 đơn vị",
+      "3 chục và 9 đơn vị",
+      "6 chục và 5 đơn vị",
+      "5 chục và 4 đơn vị"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "54 = 50 + 4, tức 5 chục và 4 đơn vị. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-76": {
+    "id": "g2-numbers100-gen3-76",
+    "topicId": "g2-numbers100",
+    "question": "Số liền sau của số 81 là:",
+    "choices": [
+      "85",
+      "83",
+      "82",
+      "81"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Số liền sau hơn số đã cho 1 đơn vị: 81 + 1 = 82. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-77": {
+    "id": "g2-numbers100-gen3-77",
+    "topicId": "g2-numbers100",
+    "question": "82 gồm 80 và ...?",
+    "choices": [
+      "6",
+      "0",
+      "3",
+      "2"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "82 = 80 + 2. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-78": {
+    "id": "g2-numbers100-gen3-78",
+    "topicId": "g2-numbers100",
+    "question": "... gồm 90 và 3?",
+    "choices": [
+      "90",
+      "98",
+      "91",
+      "93"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "93 = 90 + 3. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-79": {
+    "id": "g2-numbers100-gen3-79",
+    "topicId": "g2-numbers100",
+    "question": "Số 94 gồm mấy chục và mấy đơn vị?",
+    "choices": [
+      "5 chục và 4 đơn vị",
+      "9 chục và 4 đơn vị",
+      "8 chục và 1 đơn vị",
+      "3 chục và 0 đơn vị"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "94 = 90 + 4, tức 9 chục và 4 đơn vị. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-80": {
+    "id": "g2-numbers100-gen3-80",
+    "topicId": "g2-numbers100",
+    "question": "Số liền sau của số 24 là:",
+    "choices": [
+      "24",
+      "28",
+      "27",
+      "25"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Số liền sau hơn số đã cho 1 đơn vị: 24 + 1 = 25. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-81": {
+    "id": "g2-numbers100-gen3-81",
+    "topicId": "g2-numbers100",
+    "question": "So sánh: 41 ... 94",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng chục trước, rồi đến hàng đơn vị. Vậy 41 < 94. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-82": {
+    "id": "g2-numbers100-gen3-82",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Bảy mươi tư\" được viết là:",
+    "choices": [
+      "81",
+      "67",
+      "70",
+      "74"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "\"Bảy mươi tư\" viết bằng số là 74. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-83": {
+    "id": "g2-numbers100-gen3-83",
+    "topicId": "g2-numbers100",
+    "question": "Số liền trước của số 32 là:",
+    "choices": [
+      "32",
+      "31",
+      "30",
+      "34"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Số liền trước kém số đã cho 1 đơn vị: 32 - 1 = 31. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-84": {
+    "id": "g2-numbers100-gen3-84",
+    "topicId": "g2-numbers100",
+    "question": "Số 95 gồm mấy chục và mấy đơn vị?",
+    "choices": [
+      "8 chục và 7 đơn vị",
+      "5 chục và 4 đơn vị",
+      "9 chục và 5 đơn vị",
+      "9 chục và 1 đơn vị"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "95 = 90 + 5, tức 9 chục và 5 đơn vị. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-85": {
+    "id": "g2-numbers100-gen3-85",
+    "topicId": "g2-numbers100",
+    "question": "So sánh: 46 ... 90",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng chục trước, rồi đến hàng đơn vị. Vậy 46 < 90. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-86": {
+    "id": "g2-numbers100-gen3-86",
+    "topicId": "g2-numbers100",
+    "question": "Số liền sau của số 38 là:",
+    "choices": [
+      "36",
+      "37",
+      "40",
+      "39"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Số liền sau hơn số đã cho 1 đơn vị: 38 + 1 = 39. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-87": {
+    "id": "g2-numbers100-gen3-87",
+    "topicId": "g2-numbers100",
+    "question": "... gồm 70 và 7?",
+    "choices": [
+      "79",
+      "78",
+      "77",
+      "73"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "77 = 70 + 7. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-88": {
+    "id": "g2-numbers100-gen3-88",
+    "topicId": "g2-numbers100",
+    "question": "Số liền sau của số 78 là:",
+    "choices": [
+      "80",
+      "77",
+      "79",
+      "81"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Số liền sau hơn số đã cho 1 đơn vị: 78 + 1 = 79. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-89": {
+    "id": "g2-numbers100-gen3-89",
+    "topicId": "g2-numbers100",
+    "question": "Dãy số nào dưới đây được sắp xếp theo thứ tự từ bé đến lớn: 22, 46, 64, 71?",
+    "choices": [
+      "22, 46, 64, 71",
+      "71, 22, 46, 64",
+      "29, 36, 58, 65",
+      "71, 64, 46, 22"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ bé đến lớn: 22, 46, 64, 71. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-90": {
+    "id": "g2-numbers100-gen3-90",
+    "topicId": "g2-numbers100",
+    "question": "37 gồm 30 và ...?",
+    "choices": [
+      "12",
+      "9",
+      "5",
+      "7"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "37 = 30 + 7. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-91": {
+    "id": "g2-numbers100-gen3-91",
+    "topicId": "g2-numbers100",
+    "question": "63 gồm 60 và ...?",
+    "choices": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "63 = 60 + 3. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-92": {
+    "id": "g2-numbers100-gen3-92",
+    "topicId": "g2-numbers100",
+    "question": "... gồm 80 và 7?",
+    "choices": [
+      "91",
+      "88",
+      "82",
+      "87"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "87 = 80 + 7. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-93": {
+    "id": "g2-numbers100-gen3-93",
+    "topicId": "g2-numbers100",
+    "question": "Số 57 gồm mấy chục và mấy đơn vị?",
+    "choices": [
+      "5 chục và 7 đơn vị",
+      "1 chục và 8 đơn vị",
+      "3 chục và 3 đơn vị",
+      "4 chục và 9 đơn vị"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "57 = 50 + 7, tức 5 chục và 7 đơn vị. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-94": {
+    "id": "g2-numbers100-gen3-94",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Bảy mươi ba\" được viết là:",
+    "choices": [
+      "77",
+      "76",
+      "73",
+      "79"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "\"Bảy mươi ba\" viết bằng số là 73. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-95": {
+    "id": "g2-numbers100-gen3-95",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Ba mươi hai\" được viết là:",
+    "choices": [
+      "33",
+      "30",
+      "32",
+      "39"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "\"Ba mươi hai\" viết bằng số là 32. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-96": {
+    "id": "g2-numbers100-gen3-96",
+    "topicId": "g2-numbers100",
+    "question": "Số \"Chín mươi mốt\" được viết là:",
+    "choices": [
+      "85",
+      "91",
+      "94",
+      "89"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "\"Chín mươi mốt\" viết bằng số là 91. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-97": {
+    "id": "g2-numbers100-gen3-97",
+    "topicId": "g2-numbers100",
+    "question": "Số liền sau của số 88 là:",
+    "choices": [
+      "89",
+      "87",
+      "88",
+      "91"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Số liền sau hơn số đã cho 1 đơn vị: 88 + 1 = 89. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-98": {
+    "id": "g2-numbers100-gen3-98",
+    "topicId": "g2-numbers100",
+    "question": "Số liền sau của số 56 là:",
+    "choices": [
+      "55",
+      "58",
+      "57",
+      "60"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Số liền sau hơn số đã cho 1 đơn vị: 56 + 1 = 57. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-99": {
+    "id": "g2-numbers100-gen3-99",
+    "topicId": "g2-numbers100",
+    "question": "98 gồm 90 và ...?",
+    "choices": [
+      "9",
+      "11",
+      "3",
+      "8"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "98 = 90 + 8. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers100-gen3-100": {
+    "id": "g2-numbers100-gen3-100",
+    "topicId": "g2-numbers100",
+    "question": "Số liền sau của số 37 là:",
+    "choices": [
+      "38",
+      "41",
+      "39",
+      "37"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Số liền sau hơn số đã cho 1 đơn vị: 37 + 1 = 38. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-1": {
+    "id": "g2-geomeasure-gen3-1",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 20cm, đoạn thẳng BC dài 38cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "55 cm",
+      "58 cm",
+      "64 cm",
+      "53 cm"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 20 + 38 = 58 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-2": {
+    "id": "g2-geomeasure-gen3-2",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 31cm, đoạn thẳng BC dài 21cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "53 cm",
+      "50 cm",
+      "46 cm",
+      "52 cm"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 31 + 21 = 52 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-3": {
+    "id": "g2-geomeasure-gen3-3",
+    "topicId": "g2-geomeasure",
+    "question": "Đổi đơn vị: 40 cm = ... dm",
+    "choices": [
+      "4",
+      "6",
+      "2",
+      "3"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Ta biết 1 dm = 10 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Vậy kết quả là 4. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-4": {
+    "id": "g2-geomeasure-gen3-4",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 3cm, đoạn thẳng BC dài 12cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "18 cm",
+      "13 cm",
+      "14 cm",
+      "15 cm"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 3 + 12 = 15 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-5": {
+    "id": "g2-geomeasure-gen3-5",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 9cm, đoạn thẳng BC dài 5cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "12 cm",
+      "20 cm",
+      "14 cm",
+      "16 cm"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 9 + 5 = 14 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-6": {
+    "id": "g2-geomeasure-gen3-6",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc ABCD có các đoạn thẳng: AB = 4cm, BC = 1cm, CD = 3cm.",
+    "choices": [
+      "8 cm",
+      "11 cm",
+      "9 cm",
+      "6 cm"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 4 + 1 + 3 = 8 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-7": {
+    "id": "g2-geomeasure-gen3-7",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc MNPQ có các đoạn thẳng: MN = 1cm, NP = 2cm, PQ = 5cm.",
+    "choices": [
+      "7 cm",
+      "8 cm",
+      "9 cm",
+      "4 cm"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 1 + 2 + 5 = 8 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-8": {
+    "id": "g2-geomeasure-gen3-8",
+    "topicId": "g2-geomeasure",
+    "question": "Có 24 lít nước cam chia đều vào 6 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "7 lít",
+      "5 lít",
+      "1 lít",
+      "4 lít"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "24 ÷ 6 = 4 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-9": {
+    "id": "g2-geomeasure-gen3-9",
+    "topicId": "g2-geomeasure",
+    "question": "Có 16 lít nước cam chia đều vào 4 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "5 lít",
+      "4 lít",
+      "3 lít",
+      "1 lít"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "16 ÷ 4 = 4 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-10": {
+    "id": "g2-geomeasure-gen3-10",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc MNPQ có các đoạn thẳng: MN = 2cm, NP = 3cm, PQ = 8cm.",
+    "choices": [
+      "11 cm",
+      "12 cm",
+      "16 cm",
+      "13 cm"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 2 + 3 + 8 = 13 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-11": {
+    "id": "g2-geomeasure-gen3-11",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc MNPQ có các đoạn thẳng: MN = 3cm, NP = 6cm, PQ = 2cm.",
+    "choices": [
+      "13 cm",
+      "14 cm",
+      "11 cm",
+      "9 cm"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 3 + 6 + 2 = 11 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-12": {
+    "id": "g2-geomeasure-gen3-12",
+    "topicId": "g2-geomeasure",
+    "question": "Có 18 lít nước chia đều vào 3 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "9 lít",
+      "6 lít",
+      "8 lít",
+      "3 lít"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "18 ÷ 3 = 6 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-13": {
+    "id": "g2-geomeasure-gen3-13",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc MNPQ có các đoạn thẳng: MN = 9cm, NP = 5cm, PQ = 9cm.",
+    "choices": [
+      "19 cm",
+      "25 cm",
+      "26 cm",
+      "23 cm"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 9 + 5 + 9 = 23 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-14": {
+    "id": "g2-geomeasure-gen3-14",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc ABCD có các đoạn thẳng: AB = 8cm, BC = 2cm, CD = 1cm.",
+    "choices": [
+      "9 cm",
+      "13 cm",
+      "12 cm",
+      "11 cm"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 8 + 2 + 1 = 11 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-15": {
+    "id": "g2-geomeasure-gen3-15",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 21cm, đoạn thẳng BC dài 40cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "58 cm",
+      "61 cm",
+      "63 cm",
+      "65 cm"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 21 + 40 = 61 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-16": {
+    "id": "g2-geomeasure-gen3-16",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc ABCD có các đoạn thẳng: AB = 6cm, BC = 7cm, CD = 5cm.",
+    "choices": [
+      "18 cm",
+      "21 cm",
+      "14 cm",
+      "17 cm"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 6 + 7 + 5 = 18 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-17": {
+    "id": "g2-geomeasure-gen3-17",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 11cm, đoạn thẳng BC dài 12cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "23 cm",
+      "22 cm",
+      "26 cm",
+      "24 cm"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 11 + 12 = 23 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-18": {
+    "id": "g2-geomeasure-gen3-18",
+    "topicId": "g2-geomeasure",
+    "question": "Có 12 lít nước chia đều vào 4 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "4 lít",
+      "1 lít",
+      "6 lít",
+      "3 lít"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "12 ÷ 4 = 3 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-19": {
+    "id": "g2-geomeasure-gen3-19",
+    "topicId": "g2-geomeasure",
+    "question": "Có 18 lít nước mắm chia đều vào 2 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "9 lít",
+      "6 lít",
+      "10 lít",
+      "8 lít"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "18 ÷ 2 = 9 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-20": {
+    "id": "g2-geomeasure-gen3-20",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 11cm, đoạn thẳng BC dài 34cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "42 cm",
+      "47 cm",
+      "46 cm",
+      "45 cm"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 11 + 34 = 45 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-21": {
+    "id": "g2-geomeasure-gen3-21",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc MNPQ có các đoạn thẳng: MN = 9cm, NP = 1cm, PQ = 1cm.",
+    "choices": [
+      "7 cm",
+      "8 cm",
+      "11 cm",
+      "15 cm"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 9 + 1 + 1 = 11 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-22": {
+    "id": "g2-geomeasure-gen3-22",
+    "topicId": "g2-geomeasure",
+    "question": "Có 25 lít sữa chia đều vào 5 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "4 lít",
+      "2 lít",
+      "7 lít",
+      "5 lít"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "25 ÷ 5 = 5 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-23": {
+    "id": "g2-geomeasure-gen3-23",
+    "topicId": "g2-geomeasure",
+    "question": "Có 12 lít sữa chia đều vào 3 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "4 lít",
+      "6 lít",
+      "1 lít",
+      "3 lít"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "12 ÷ 3 = 4 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-24": {
+    "id": "g2-geomeasure-gen3-24",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc MNPQ có các đoạn thẳng: MN = 6cm, NP = 1cm, PQ = 9cm.",
+    "choices": [
+      "16 cm",
+      "17 cm",
+      "12 cm",
+      "14 cm"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 6 + 1 + 9 = 16 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-25": {
+    "id": "g2-geomeasure-gen3-25",
+    "topicId": "g2-geomeasure",
+    "question": "Có 12 lít nước cam chia đều vào 2 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "6 lít",
+      "8 lít",
+      "3 lít",
+      "9 lít"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "12 ÷ 2 = 6 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-26": {
+    "id": "g2-geomeasure-gen3-26",
+    "topicId": "g2-geomeasure",
+    "question": "Có 24 lít dầu ăn chia đều vào 6 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "4 lít",
+      "3 lít",
+      "2 lít",
+      "6 lít"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "24 ÷ 6 = 4 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-27": {
+    "id": "g2-geomeasure-gen3-27",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 9cm, đoạn thẳng BC dài 9cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "16 cm",
+      "21 cm",
+      "14 cm",
+      "18 cm"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 9 + 9 = 18 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-28": {
+    "id": "g2-geomeasure-gen3-28",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 7cm, đoạn thẳng BC dài 10cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "16 cm",
+      "15 cm",
+      "17 cm",
+      "12 cm"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 7 + 10 = 17 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-29": {
+    "id": "g2-geomeasure-gen3-29",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc MNPQ có các đoạn thẳng: MN = 7cm, NP = 6cm, PQ = 3cm.",
+    "choices": [
+      "15 cm",
+      "17 cm",
+      "12 cm",
+      "16 cm"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 7 + 6 + 3 = 16 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-30": {
+    "id": "g2-geomeasure-gen3-30",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc MNPQ có các đoạn thẳng: MN = 1cm, NP = 4cm, PQ = 7cm.",
+    "choices": [
+      "14 cm",
+      "12 cm",
+      "11 cm",
+      "13 cm"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 1 + 4 + 7 = 12 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-31": {
+    "id": "g2-geomeasure-gen3-31",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 7cm, đoạn thẳng BC dài 24cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "35 cm",
+      "31 cm",
+      "28 cm",
+      "33 cm"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 7 + 24 = 31 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-32": {
+    "id": "g2-geomeasure-gen3-32",
+    "topicId": "g2-geomeasure",
+    "question": "Có 42 lít nước chia đều vào 6 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "8 lít",
+      "7 lít",
+      "4 lít",
+      "5 lít"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "42 ÷ 6 = 7 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-33": {
+    "id": "g2-geomeasure-gen3-33",
+    "topicId": "g2-geomeasure",
+    "question": "Có 8 lít nước mắm chia đều vào 4 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "2 lít",
+      "3 lít",
+      "5 lít",
+      "1 lít"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "8 ÷ 4 = 2 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-34": {
+    "id": "g2-geomeasure-gen3-34",
+    "topicId": "g2-geomeasure",
+    "question": "Có 16 lít nước cam chia đều vào 2 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "11 lít",
+      "7 lít",
+      "8 lít",
+      "6 lít"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "16 ÷ 2 = 8 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-35": {
+    "id": "g2-geomeasure-gen3-35",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc MNPQ có các đoạn thẳng: MN = 4cm, NP = 2cm, PQ = 8cm.",
+    "choices": [
+      "10 cm",
+      "15 cm",
+      "14 cm",
+      "12 cm"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 4 + 2 + 8 = 14 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-36": {
+    "id": "g2-geomeasure-gen3-36",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc MNPQ có các đoạn thẳng: MN = 1cm, NP = 4cm, PQ = 5cm.",
+    "choices": [
+      "14 cm",
+      "13 cm",
+      "8 cm",
+      "10 cm"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 1 + 4 + 5 = 10 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-37": {
+    "id": "g2-geomeasure-gen3-37",
+    "topicId": "g2-geomeasure",
+    "question": "Đổi đơn vị: 6 dm = ... cm",
+    "choices": [
+      "58",
+      "63",
+      "60",
+      "59"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Ta biết 1 dm = 10 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Vậy kết quả là 60. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-38": {
+    "id": "g2-geomeasure-gen3-38",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 36cm, đoạn thẳng BC dài 25cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "59 cm",
+      "65 cm",
+      "58 cm",
+      "61 cm"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 36 + 25 = 61 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-39": {
+    "id": "g2-geomeasure-gen3-39",
+    "topicId": "g2-geomeasure",
+    "question": "Đổi đơn vị: 50 cm = ... dm",
+    "choices": [
+      "7",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Ta biết 1 dm = 10 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Vậy kết quả là 5. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-40": {
+    "id": "g2-geomeasure-gen3-40",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc MNPQ có các đoạn thẳng: MN = 5cm, NP = 5cm, PQ = 4cm.",
+    "choices": [
+      "14 cm",
+      "18 cm",
+      "10 cm",
+      "13 cm"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 5 + 5 + 4 = 14 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-41": {
+    "id": "g2-geomeasure-gen3-41",
+    "topicId": "g2-geomeasure",
+    "question": "Đổi đơn vị: 10 cm = ... dm",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Ta biết 1 dm = 10 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Vậy kết quả là 1. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-42": {
+    "id": "g2-geomeasure-gen3-42",
+    "topicId": "g2-geomeasure",
+    "question": "Đổi đơn vị: 30 cm = ... dm",
+    "choices": [
+      "4",
+      "6",
+      "1",
+      "3"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Ta biết 1 dm = 10 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Vậy kết quả là 3. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-43": {
+    "id": "g2-geomeasure-gen3-43",
+    "topicId": "g2-geomeasure",
+    "question": "Có 30 lít sữa chia đều vào 6 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "2 lít",
+      "6 lít",
+      "5 lít",
+      "4 lít"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "30 ÷ 6 = 5 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-44": {
+    "id": "g2-geomeasure-gen3-44",
+    "topicId": "g2-geomeasure",
+    "question": "Đổi đơn vị: 1 dm = ... cm",
+    "choices": [
+      "5",
+      "10",
+      "14",
+      "13"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Ta biết 1 dm = 10 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Vậy kết quả là 10. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-45": {
+    "id": "g2-geomeasure-gen3-45",
+    "topicId": "g2-geomeasure",
+    "question": "Có 20 lít nước mắm chia đều vào 5 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "4 lít",
+      "6 lít",
+      "1 lít",
+      "5 lít"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "20 ÷ 5 = 4 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-46": {
+    "id": "g2-geomeasure-gen3-46",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc ABCD có các đoạn thẳng: AB = 3cm, BC = 8cm, CD = 2cm.",
+    "choices": [
+      "14 cm",
+      "9 cm",
+      "13 cm",
+      "16 cm"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 3 + 8 + 2 = 13 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-47": {
+    "id": "g2-geomeasure-gen3-47",
+    "topicId": "g2-geomeasure",
+    "question": "Có 6 lít sữa chia đều vào 3 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "2 lít",
+      "1 lít",
+      "4 lít",
+      "5 lít"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "6 ÷ 3 = 2 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-48": {
+    "id": "g2-geomeasure-gen3-48",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 37cm, đoạn thẳng BC dài 29cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "63 cm",
+      "62 cm",
+      "69 cm",
+      "66 cm"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 37 + 29 = 66 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-49": {
+    "id": "g2-geomeasure-gen3-49",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 32cm, đoạn thẳng BC dài 9cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "36 cm",
+      "42 cm",
+      "41 cm",
+      "47 cm"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 32 + 9 = 41 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-50": {
+    "id": "g2-geomeasure-gen3-50",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc MNPQ có các đoạn thẳng: MN = 8cm, NP = 7cm, PQ = 3cm.",
+    "choices": [
+      "15 cm",
+      "18 cm",
+      "17 cm",
+      "20 cm"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 8 + 7 + 3 = 18 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-51": {
+    "id": "g2-geomeasure-gen3-51",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc MNPQ có các đoạn thẳng: MN = 4cm, NP = 9cm, PQ = 5cm.",
+    "choices": [
+      "19 cm",
+      "22 cm",
+      "21 cm",
+      "18 cm"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 4 + 9 + 5 = 18 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-52": {
+    "id": "g2-geomeasure-gen3-52",
+    "topicId": "g2-geomeasure",
+    "question": "Có 20 lít sữa chia đều vào 4 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "6 lít",
+      "3 lít",
+      "8 lít",
+      "5 lít"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "20 ÷ 4 = 5 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-53": {
+    "id": "g2-geomeasure-gen3-53",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc ABCD có các đoạn thẳng: AB = 8cm, BC = 3cm, CD = 3cm.",
+    "choices": [
+      "14 cm",
+      "13 cm",
+      "16 cm",
+      "17 cm"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 8 + 3 + 3 = 14 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-54": {
+    "id": "g2-geomeasure-gen3-54",
+    "topicId": "g2-geomeasure",
+    "question": "Có 25 lít nước cam chia đều vào 5 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "6 lít",
+      "5 lít",
+      "7 lít",
+      "3 lít"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "25 ÷ 5 = 5 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-55": {
+    "id": "g2-geomeasure-gen3-55",
+    "topicId": "g2-geomeasure",
+    "question": "Đổi đơn vị: 2 dm = ... cm",
+    "choices": [
+      "18",
+      "21",
+      "23",
+      "20"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Ta biết 1 dm = 10 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Vậy kết quả là 20. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-56": {
+    "id": "g2-geomeasure-gen3-56",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc ABCD có các đoạn thẳng: AB = 1cm, BC = 9cm, CD = 5cm.",
+    "choices": [
+      "19 cm",
+      "15 cm",
+      "13 cm",
+      "11 cm"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 1 + 9 + 5 = 15 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-57": {
+    "id": "g2-geomeasure-gen3-57",
+    "topicId": "g2-geomeasure",
+    "question": "Đổi đơn vị: 8 dm = ... cm",
+    "choices": [
+      "79",
+      "78",
+      "80",
+      "76"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Ta biết 1 dm = 10 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Vậy kết quả là 80. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-58": {
+    "id": "g2-geomeasure-gen3-58",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 10cm, đoạn thẳng BC dài 29cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "44 cm",
+      "39 cm",
+      "33 cm",
+      "37 cm"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 10 + 29 = 39 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-59": {
+    "id": "g2-geomeasure-gen3-59",
+    "topicId": "g2-geomeasure",
+    "question": "Có 14 lít nước mắm chia đều vào 2 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "7 lít",
+      "6 lít",
+      "8 lít",
+      "5 lít"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "14 ÷ 2 = 7 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-60": {
+    "id": "g2-geomeasure-gen3-60",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 18cm, đoạn thẳng BC dài 36cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "55 cm",
+      "50 cm",
+      "49 cm",
+      "54 cm"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 18 + 36 = 54 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-61": {
+    "id": "g2-geomeasure-gen3-61",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 26cm, đoạn thẳng BC dài 21cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "45 cm",
+      "43 cm",
+      "44 cm",
+      "47 cm"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 26 + 21 = 47 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-62": {
+    "id": "g2-geomeasure-gen3-62",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc ABCD có các đoạn thẳng: AB = 8cm, BC = 3cm, CD = 6cm.",
+    "choices": [
+      "18 cm",
+      "13 cm",
+      "16 cm",
+      "17 cm"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 8 + 3 + 6 = 17 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-63": {
+    "id": "g2-geomeasure-gen3-63",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc ABCD có các đoạn thẳng: AB = 2cm, BC = 3cm, CD = 4cm.",
+    "choices": [
+      "9 cm",
+      "8 cm",
+      "12 cm",
+      "7 cm"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 2 + 3 + 4 = 9 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-64": {
+    "id": "g2-geomeasure-gen3-64",
+    "topicId": "g2-geomeasure",
+    "question": "Có 6 lít nước chia đều vào 2 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "5 lít",
+      "6 lít",
+      "4 lít",
+      "3 lít"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "6 ÷ 2 = 3 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-65": {
+    "id": "g2-geomeasure-gen3-65",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 17cm, đoạn thẳng BC dài 31cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "47 cm",
+      "48 cm",
+      "43 cm",
+      "49 cm"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 17 + 31 = 48 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-66": {
+    "id": "g2-geomeasure-gen3-66",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 13cm, đoạn thẳng BC dài 24cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "32 cm",
+      "37 cm",
+      "35 cm",
+      "36 cm"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 13 + 24 = 37 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-67": {
+    "id": "g2-geomeasure-gen3-67",
+    "topicId": "g2-geomeasure",
+    "question": "Có 28 lít dầu ăn chia đều vào 4 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "7 lít",
+      "6 lít",
+      "4 lít",
+      "8 lít"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "28 ÷ 4 = 7 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-68": {
+    "id": "g2-geomeasure-gen3-68",
+    "topicId": "g2-geomeasure",
+    "question": "Có 42 lít nước cam chia đều vào 6 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "7 lít",
+      "4 lít",
+      "5 lít",
+      "6 lít"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "42 ÷ 6 = 7 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-69": {
+    "id": "g2-geomeasure-gen3-69",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 24cm, đoạn thẳng BC dài 24cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "54 cm",
+      "42 cm",
+      "48 cm",
+      "49 cm"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 24 + 24 = 48 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-70": {
+    "id": "g2-geomeasure-gen3-70",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc MNPQ có các đoạn thẳng: MN = 4cm, NP = 9cm, PQ = 7cm.",
+    "choices": [
+      "20 cm",
+      "19 cm",
+      "24 cm",
+      "23 cm"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 4 + 9 + 7 = 20 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-71": {
+    "id": "g2-geomeasure-gen3-71",
+    "topicId": "g2-geomeasure",
+    "question": "Đổi đơn vị: 80 cm = ... dm",
+    "choices": [
+      "5",
+      "10",
+      "8",
+      "6"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Ta biết 1 dm = 10 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Vậy kết quả là 8. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-72": {
+    "id": "g2-geomeasure-gen3-72",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc MNPQ có các đoạn thẳng: MN = 1cm, NP = 4cm, PQ = 9cm.",
+    "choices": [
+      "10 cm",
+      "17 cm",
+      "14 cm",
+      "12 cm"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 1 + 4 + 9 = 14 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-73": {
+    "id": "g2-geomeasure-gen3-73",
+    "topicId": "g2-geomeasure",
+    "question": "Đổi đơn vị: 60 cm = ... dm",
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "3"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Ta biết 1 dm = 10 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Vậy kết quả là 6. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-74": {
+    "id": "g2-geomeasure-gen3-74",
+    "topicId": "g2-geomeasure",
+    "question": "Tính độ dài đường gấp khúc ABCD có các đoạn thẳng: AB = 3cm, BC = 1cm, CD = 8cm.",
+    "choices": [
+      "13 cm",
+      "16 cm",
+      "12 cm",
+      "9 cm"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 3 + 1 + 8 = 12 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-75": {
+    "id": "g2-geomeasure-gen3-75",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 26cm, đoạn thẳng BC dài 33cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "63 cm",
+      "65 cm",
+      "62 cm",
+      "59 cm"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 26 + 33 = 59 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-76": {
+    "id": "g2-geomeasure-gen3-76",
+    "topicId": "g2-geomeasure",
+    "question": "Đổi đơn vị: 90 cm = ... dm",
+    "choices": [
+      "11",
+      "8",
+      "7",
+      "9"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Ta biết 1 dm = 10 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Vậy kết quả là 9. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-77": {
+    "id": "g2-geomeasure-gen3-77",
+    "topicId": "g2-geomeasure",
+    "question": "Có 27 lít sữa chia đều vào 3 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "9 lít",
+      "11 lít",
+      "6 lít",
+      "7 lít"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "27 ÷ 3 = 9 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-78": {
+    "id": "g2-geomeasure-gen3-78",
+    "topicId": "g2-geomeasure",
+    "question": "Có 28 lít nước chia đều vào 4 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "4 lít",
+      "7 lít",
+      "5 lít",
+      "6 lít"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "28 ÷ 4 = 7 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-79": {
+    "id": "g2-geomeasure-gen3-79",
+    "topicId": "g2-geomeasure",
+    "question": "Đoạn thẳng AB dài 33cm, đoạn thẳng BC dài 9cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "46 cm",
+      "42 cm",
+      "38 cm",
+      "39 cm"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 33 + 9 = 42 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-80": {
+    "id": "g2-geomeasure-gen3-80",
+    "topicId": "g2-geomeasure",
+    "question": "Đổi đơn vị: 9 dm = ... cm",
+    "choices": [
+      "90",
+      "86",
+      "89",
+      "93"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Ta biết 1 dm = 10 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Vậy kết quả là 90. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-geomeasure-gen3-81": {
+    "id": "g2-geomeasure-gen3-81",
+    "topicId": "g2-geomeasure",
+    "question": "Có 10 lít nước mắm chia đều vào 5 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "3 lít",
+      "1 lít",
+      "5 lít",
+      "2 lít"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "10 ÷ 5 = 2 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-1": {
+    "id": "g2-wordproblem-gen3-1",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 3A quyên góp được 60 quả bóng bay. Lớp 2B quyên góp được nhiều hơn lớp 3A là 28 quả bóng bay. Hỏi lớp 2B quyên góp được bao nhiêu quả bóng bay?",
+    "choices": [
+      "81",
+      "79",
+      "88",
+      "92"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "60 + 28 = 88 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-2": {
+    "id": "g2-wordproblem-gen3-2",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 2B quyên góp được 66 quả bóng bay. Lớp 2C quyên góp được nhiều hơn lớp 2B là 12 quả bóng bay. Hỏi lớp 2C quyên góp được bao nhiêu quả bóng bay?",
+    "choices": [
+      "85",
+      "78",
+      "83",
+      "68"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "66 + 12 = 78 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-3": {
+    "id": "g2-wordproblem-gen3-3",
+    "topicId": "g2-wordproblem",
+    "question": "Hương có 55 bông hoa, mẹ cho Hương thêm 8 bông hoa nữa. Hỏi Hương có tất cả bao nhiêu bông hoa?",
+    "choices": [
+      "57",
+      "62",
+      "64",
+      "63"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"thêm\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "55 + 8 = 63 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-4": {
+    "id": "g2-wordproblem-gen3-4",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 2A quyên góp được 25 quả bóng bay. Lớp 2C quyên góp được nhiều hơn lớp 2A là 13 quả bóng bay. Hỏi lớp 2C quyên góp được bao nhiêu quả bóng bay?",
+    "choices": [
+      "48",
+      "42",
+      "38",
+      "36"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "25 + 13 = 38 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-5": {
+    "id": "g2-wordproblem-gen3-5",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 2C quyên góp được 20 quyển vở. Lớp 1A quyên góp được nhiều hơn lớp 2C là 12 quyển vở. Hỏi lớp 1A quyên góp được bao nhiêu quyển vở?",
+    "choices": [
+      "26",
+      "32",
+      "42",
+      "27"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "20 + 12 = 32 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-6": {
+    "id": "g2-wordproblem-gen3-6",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Trang có 30 bông hoa. Bạn Đức có ít hơn 13 bông hoa. Hỏi bạn đó có bao nhiêu bông hoa?",
+    "choices": [
+      "20",
+      "26",
+      "22",
+      "17"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "30 - 13 = 17 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-7": {
+    "id": "g2-wordproblem-gen3-7",
+    "topicId": "g2-wordproblem",
+    "question": "Vy có 25 bông hoa, mẹ cho Vy thêm 17 bông hoa nữa. Hỏi Vy có tất cả bao nhiêu bông hoa?",
+    "choices": [
+      "36",
+      "51",
+      "42",
+      "35"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"thêm\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "25 + 17 = 42 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-8": {
+    "id": "g2-wordproblem-gen3-8",
+    "topicId": "g2-wordproblem",
+    "question": "Tuấn có 36 cây bút, Tuấn cho bạn 9 cây bút. Hỏi Tuấn còn lại bao nhiêu cây bút?",
+    "choices": [
+      "25",
+      "26",
+      "27",
+      "29"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "36 - 9 = 27 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-9": {
+    "id": "g2-wordproblem-gen3-9",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Phong có 32 cây bút. Bạn Lan có ít hơn 17 cây bút. Hỏi bạn đó có bao nhiêu cây bút?",
+    "choices": [
+      "8",
+      "15",
+      "20",
+      "13"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "32 - 17 = 15 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-10": {
+    "id": "g2-wordproblem-gen3-10",
+    "topicId": "g2-wordproblem",
+    "question": "Phong có 58 chiếc kẹo, mẹ cho Phong thêm 14 chiếc kẹo nữa. Hỏi Phong có tất cả bao nhiêu chiếc kẹo?",
+    "choices": [
+      "76",
+      "72",
+      "77",
+      "68"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"thêm\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "58 + 14 = 72 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-11": {
+    "id": "g2-wordproblem-gen3-11",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Nam có 63 chiếc kẹo. Bạn Mai có ít hơn 21 chiếc kẹo. Hỏi bạn đó có bao nhiêu chiếc kẹo?",
+    "choices": [
+      "42",
+      "52",
+      "40",
+      "49"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "63 - 21 = 42 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-12": {
+    "id": "g2-wordproblem-gen3-12",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 3A quyên góp được 39 quả bóng bay. Lớp 2B quyên góp được nhiều hơn lớp 3A là 20 quả bóng bay. Hỏi lớp 2B quyên góp được bao nhiêu quả bóng bay?",
+    "choices": [
+      "59",
+      "65",
+      "56",
+      "49"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "39 + 20 = 59 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-13": {
+    "id": "g2-wordproblem-gen3-13",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Tuấn có 78 chiếc kẹo. Bạn Vy có ít hơn 20 chiếc kẹo. Hỏi bạn đó có bao nhiêu chiếc kẹo?",
+    "choices": [
+      "61",
+      "65",
+      "58",
+      "63"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "78 - 20 = 58 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-14": {
+    "id": "g2-wordproblem-gen3-14",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Minh có 42 chiếc kẹo. Bạn Hoa có ít hơn 10 chiếc kẹo. Hỏi bạn đó có bao nhiêu chiếc kẹo?",
+    "choices": [
+      "32",
+      "37",
+      "25",
+      "30"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "42 - 10 = 32 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-15": {
+    "id": "g2-wordproblem-gen3-15",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Huy có 44 cây bút. Bạn Tuấn có ít hơn 6 cây bút. Hỏi bạn đó có bao nhiêu cây bút?",
+    "choices": [
+      "30",
+      "38",
+      "36",
+      "31"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "44 - 6 = 38 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-16": {
+    "id": "g2-wordproblem-gen3-16",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Trang có 75 bông hoa. Bạn Lan có ít hơn 19 bông hoa. Hỏi bạn đó có bao nhiêu bông hoa?",
+    "choices": [
+      "56",
+      "60",
+      "57",
+      "53"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "75 - 19 = 56 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-17": {
+    "id": "g2-wordproblem-gen3-17",
+    "topicId": "g2-wordproblem",
+    "question": "Huy có 56 cây bút, Huy cho bạn 18 cây bút. Hỏi Huy còn lại bao nhiêu cây bút?",
+    "choices": [
+      "31",
+      "33",
+      "38",
+      "34"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "56 - 18 = 38 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-18": {
+    "id": "g2-wordproblem-gen3-18",
+    "topicId": "g2-wordproblem",
+    "question": "Bình có 78 quả bóng bay, Bình cho bạn 9 quả bóng bay. Hỏi Bình còn lại bao nhiêu quả bóng bay?",
+    "choices": [
+      "69",
+      "68",
+      "72",
+      "64"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "78 - 9 = 69 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-19": {
+    "id": "g2-wordproblem-gen3-19",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Lan có 69 chiếc kẹo. Bạn Huy có ít hơn 22 chiếc kẹo. Hỏi bạn đó có bao nhiêu chiếc kẹo?",
+    "choices": [
+      "48",
+      "52",
+      "56",
+      "47"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "69 - 22 = 47 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-20": {
+    "id": "g2-wordproblem-gen3-20",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 2B quyên góp được 54 quả bóng bay. Lớp 3A quyên góp được nhiều hơn lớp 2B là 13 quả bóng bay. Hỏi lớp 3A quyên góp được bao nhiêu quả bóng bay?",
+    "choices": [
+      "68",
+      "65",
+      "67",
+      "58"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "54 + 13 = 67 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-21": {
+    "id": "g2-wordproblem-gen3-21",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 1A quyên góp được 35 cái bánh. Lớp 2A quyên góp được nhiều hơn lớp 1A là 24 cái bánh. Hỏi lớp 2A quyên góp được bao nhiêu cái bánh?",
+    "choices": [
+      "54",
+      "62",
+      "59",
+      "56"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "35 + 24 = 59 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-22": {
+    "id": "g2-wordproblem-gen3-22",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 2C quyên góp được 69 bông hoa. Lớp 1A quyên góp được nhiều hơn lớp 2C là 12 bông hoa. Hỏi lớp 1A quyên góp được bao nhiêu bông hoa?",
+    "choices": [
+      "80",
+      "81",
+      "76",
+      "85"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "69 + 12 = 81 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-23": {
+    "id": "g2-wordproblem-gen3-23",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Hoa có 61 quyển sách. Bạn Hương có ít hơn 22 quyển sách. Hỏi bạn đó có bao nhiêu quyển sách?",
+    "choices": [
+      "39",
+      "41",
+      "42",
+      "47"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "61 - 22 = 39 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-24": {
+    "id": "g2-wordproblem-gen3-24",
+    "topicId": "g2-wordproblem",
+    "question": "Hương có 48 quyển vở, Hương cho bạn 19 quyển vở. Hỏi Hương còn lại bao nhiêu quyển vở?",
+    "choices": [
+      "29",
+      "25",
+      "38",
+      "22"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "48 - 19 = 29 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-25": {
+    "id": "g2-wordproblem-gen3-25",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Trang có 60 cây bút. Bạn Linh có ít hơn 19 cây bút. Hỏi bạn đó có bao nhiêu cây bút?",
+    "choices": [
+      "41",
+      "43",
+      "36",
+      "50"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "60 - 19 = 41 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-26": {
+    "id": "g2-wordproblem-gen3-26",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 2C quyên góp được 19 quả bóng bay. Lớp 3A quyên góp được nhiều hơn lớp 2C là 9 quả bóng bay. Hỏi lớp 3A quyên góp được bao nhiêu quả bóng bay?",
+    "choices": [
+      "19",
+      "21",
+      "38",
+      "28"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "19 + 9 = 28 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-27": {
+    "id": "g2-wordproblem-gen3-27",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Bình có 36 chiếc kẹo. Bạn Nam có ít hơn 24 chiếc kẹo. Hỏi bạn đó có bao nhiêu chiếc kẹo?",
+    "choices": [
+      "9",
+      "12",
+      "19",
+      "7"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "36 - 24 = 12 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-28": {
+    "id": "g2-wordproblem-gen3-28",
+    "topicId": "g2-wordproblem",
+    "question": "Trang có 21 chiếc kẹo, Trang cho bạn 16 chiếc kẹo. Hỏi Trang còn lại bao nhiêu chiếc kẹo?",
+    "choices": [
+      "5",
+      "8",
+      "6",
+      "4"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "21 - 16 = 5 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-29": {
+    "id": "g2-wordproblem-gen3-29",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 3A quyên góp được 58 cái bánh. Lớp 2A quyên góp được nhiều hơn lớp 3A là 13 cái bánh. Hỏi lớp 2A quyên góp được bao nhiêu cái bánh?",
+    "choices": [
+      "79",
+      "80",
+      "73",
+      "71"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "58 + 13 = 71 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-30": {
+    "id": "g2-wordproblem-gen3-30",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 2A quyên góp được 26 quyển vở. Lớp 1A quyên góp được nhiều hơn lớp 2A là 6 quyển vở. Hỏi lớp 1A quyên góp được bao nhiêu quyển vở?",
+    "choices": [
+      "32",
+      "30",
+      "25",
+      "31"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "26 + 6 = 32 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-31": {
+    "id": "g2-wordproblem-gen3-31",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Nam có 68 cái bánh. Bạn Tuấn có ít hơn 7 cái bánh. Hỏi bạn đó có bao nhiêu cái bánh?",
+    "choices": [
+      "67",
+      "61",
+      "66",
+      "54"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "68 - 7 = 61 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-32": {
+    "id": "g2-wordproblem-gen3-32",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn An có 30 bông hoa. Bạn Phong có ít hơn 15 bông hoa. Hỏi bạn đó có bao nhiêu bông hoa?",
+    "choices": [
+      "19",
+      "7",
+      "6",
+      "15"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "30 - 15 = 15 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-33": {
+    "id": "g2-wordproblem-gen3-33",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 1A quyên góp được 36 quyển vở. Lớp 2B quyên góp được nhiều hơn lớp 1A là 29 quyển vở. Hỏi lớp 2B quyên góp được bao nhiêu quyển vở?",
+    "choices": [
+      "59",
+      "67",
+      "72",
+      "65"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "36 + 29 = 65 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-34": {
+    "id": "g2-wordproblem-gen3-34",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 1A quyên góp được 62 chiếc kẹo. Lớp 2B quyên góp được nhiều hơn lớp 1A là 26 chiếc kẹo. Hỏi lớp 2B quyên góp được bao nhiêu chiếc kẹo?",
+    "choices": [
+      "85",
+      "88",
+      "80",
+      "89"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "62 + 26 = 88 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-35": {
+    "id": "g2-wordproblem-gen3-35",
+    "topicId": "g2-wordproblem",
+    "question": "Vy có 79 cái bánh, Vy cho bạn 15 cái bánh. Hỏi Vy còn lại bao nhiêu cái bánh?",
+    "choices": [
+      "70",
+      "69",
+      "62",
+      "64"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "79 - 15 = 64 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-36": {
+    "id": "g2-wordproblem-gen3-36",
+    "topicId": "g2-wordproblem",
+    "question": "Đức có 28 quyển vở, Đức cho bạn 18 quyển vở. Hỏi Đức còn lại bao nhiêu quyển vở?",
+    "choices": [
+      "4",
+      "20",
+      "10",
+      "5"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "28 - 18 = 10 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-37": {
+    "id": "g2-wordproblem-gen3-37",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 2A quyên góp được 42 chiếc kẹo. Lớp 3A quyên góp được nhiều hơn lớp 2A là 8 chiếc kẹo. Hỏi lớp 3A quyên góp được bao nhiêu chiếc kẹo?",
+    "choices": [
+      "50",
+      "42",
+      "60",
+      "52"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "42 + 8 = 50 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-38": {
+    "id": "g2-wordproblem-gen3-38",
+    "topicId": "g2-wordproblem",
+    "question": "Tuấn có 26 quyển vở, mẹ cho Tuấn thêm 5 quyển vở nữa. Hỏi Tuấn có tất cả bao nhiêu quyển vở?",
+    "choices": [
+      "36",
+      "38",
+      "31",
+      "29"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"thêm\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "26 + 5 = 31 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-39": {
+    "id": "g2-wordproblem-gen3-39",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Linh có 71 quyển sách. Bạn Đức có ít hơn 10 quyển sách. Hỏi bạn đó có bao nhiêu quyển sách?",
+    "choices": [
+      "61",
+      "55",
+      "63",
+      "68"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "71 - 10 = 61 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-40": {
+    "id": "g2-wordproblem-gen3-40",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 2B quyên góp được 22 quyển vở. Lớp 2C quyên góp được nhiều hơn lớp 2B là 12 quyển vở. Hỏi lớp 2C quyên góp được bao nhiêu quyển vở?",
+    "choices": [
+      "34",
+      "37",
+      "26",
+      "28"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "22 + 12 = 34 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-41": {
+    "id": "g2-wordproblem-gen3-41",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 1A quyên góp được 66 chiếc kẹo. Lớp 2B quyên góp được nhiều hơn lớp 1A là 20 chiếc kẹo. Hỏi lớp 2B quyên góp được bao nhiêu chiếc kẹo?",
+    "choices": [
+      "93",
+      "90",
+      "87",
+      "86"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "66 + 20 = 86 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-42": {
+    "id": "g2-wordproblem-gen3-42",
+    "topicId": "g2-wordproblem",
+    "question": "An có 49 quyển sách, mẹ cho An thêm 6 quyển sách nữa. Hỏi An có tất cả bao nhiêu quyển sách?",
+    "choices": [
+      "52",
+      "61",
+      "64",
+      "55"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"thêm\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "49 + 6 = 55 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-43": {
+    "id": "g2-wordproblem-gen3-43",
+    "topicId": "g2-wordproblem",
+    "question": "Nam có 22 cái bánh, Nam cho bạn 11 cái bánh. Hỏi Nam còn lại bao nhiêu cái bánh?",
+    "choices": [
+      "11",
+      "6",
+      "1",
+      "20"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "22 - 11 = 11 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-44": {
+    "id": "g2-wordproblem-gen3-44",
+    "topicId": "g2-wordproblem",
+    "question": "Tuấn có 64 quả bóng bay, Tuấn cho bạn 13 quả bóng bay. Hỏi Tuấn còn lại bao nhiêu quả bóng bay?",
+    "choices": [
+      "61",
+      "52",
+      "51",
+      "55"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "64 - 13 = 51 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-45": {
+    "id": "g2-wordproblem-gen3-45",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Tuấn có 55 quyển vở. Bạn Bình có ít hơn 20 quyển vở. Hỏi bạn đó có bao nhiêu quyển vở?",
+    "choices": [
+      "33",
+      "32",
+      "35",
+      "39"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "55 - 20 = 35 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-46": {
+    "id": "g2-wordproblem-gen3-46",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 1A quyên góp được 49 cây bút. Lớp 2B quyên góp được nhiều hơn lớp 1A là 28 cây bút. Hỏi lớp 2B quyên góp được bao nhiêu cây bút?",
+    "choices": [
+      "85",
+      "87",
+      "69",
+      "77"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "49 + 28 = 77 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-47": {
+    "id": "g2-wordproblem-gen3-47",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 2B quyên góp được 69 quả bóng bay. Lớp 1A quyên góp được nhiều hơn lớp 2B là 10 quả bóng bay. Hỏi lớp 1A quyên góp được bao nhiêu quả bóng bay?",
+    "choices": [
+      "79",
+      "83",
+      "82",
+      "85"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "69 + 10 = 79 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-48": {
+    "id": "g2-wordproblem-gen3-48",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 3A quyên góp được 47 cây bút. Lớp 1A quyên góp được nhiều hơn lớp 3A là 10 cây bút. Hỏi lớp 1A quyên góp được bao nhiêu cây bút?",
+    "choices": [
+      "57",
+      "64",
+      "53",
+      "59"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "47 + 10 = 57 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-49": {
+    "id": "g2-wordproblem-gen3-49",
+    "topicId": "g2-wordproblem",
+    "question": "Minh có 37 bông hoa, Minh cho bạn 5 bông hoa. Hỏi Minh còn lại bao nhiêu bông hoa?",
+    "choices": [
+      "22",
+      "38",
+      "39",
+      "32"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "37 - 5 = 32 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-50": {
+    "id": "g2-wordproblem-gen3-50",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Minh có 82 quả bóng bay. Bạn Đức có ít hơn 12 quả bóng bay. Hỏi bạn đó có bao nhiêu quả bóng bay?",
+    "choices": [
+      "79",
+      "70",
+      "62",
+      "71"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "82 - 12 = 70 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-51": {
+    "id": "g2-wordproblem-gen3-51",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 1A quyên góp được 57 quả bóng bay. Lớp 2C quyên góp được nhiều hơn lớp 1A là 19 quả bóng bay. Hỏi lớp 2C quyên góp được bao nhiêu quả bóng bay?",
+    "choices": [
+      "76",
+      "83",
+      "66",
+      "77"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "57 + 19 = 76 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-52": {
+    "id": "g2-wordproblem-gen3-52",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Hùng có 41 bông hoa. Bạn Linh có ít hơn 21 bông hoa. Hỏi bạn đó có bao nhiêu bông hoa?",
+    "choices": [
+      "26",
+      "17",
+      "20",
+      "14"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "41 - 21 = 20 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-53": {
+    "id": "g2-wordproblem-gen3-53",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 2A quyên góp được 37 quả bóng bay. Lớp 1A quyên góp được nhiều hơn lớp 2A là 18 quả bóng bay. Hỏi lớp 1A quyên góp được bao nhiêu quả bóng bay?",
+    "choices": [
+      "54",
+      "62",
+      "51",
+      "55"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "37 + 18 = 55 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-54": {
+    "id": "g2-wordproblem-gen3-54",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Hoa có 39 bông hoa. Bạn Hùng có ít hơn 9 bông hoa. Hỏi bạn đó có bao nhiêu bông hoa?",
+    "choices": [
+      "25",
+      "20",
+      "40",
+      "30"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "39 - 9 = 30 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-55": {
+    "id": "g2-wordproblem-gen3-55",
+    "topicId": "g2-wordproblem",
+    "question": "Phong có 62 quyển vở, mẹ cho Phong thêm 6 quyển vở nữa. Hỏi Phong có tất cả bao nhiêu quyển vở?",
+    "choices": [
+      "76",
+      "68",
+      "66",
+      "70"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"thêm\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "62 + 6 = 68 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-56": {
+    "id": "g2-wordproblem-gen3-56",
+    "topicId": "g2-wordproblem",
+    "question": "Vy có 60 quả bóng bay, mẹ cho Vy thêm 19 quả bóng bay nữa. Hỏi Vy có tất cả bao nhiêu quả bóng bay?",
+    "choices": [
+      "69",
+      "72",
+      "79",
+      "86"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"thêm\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "60 + 19 = 79 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-57": {
+    "id": "g2-wordproblem-gen3-57",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Hương có 84 cây bút. Bạn Lan có ít hơn 20 cây bút. Hỏi bạn đó có bao nhiêu cây bút?",
+    "choices": [
+      "60",
+      "62",
+      "73",
+      "64"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "84 - 20 = 64 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-58": {
+    "id": "g2-wordproblem-gen3-58",
+    "topicId": "g2-wordproblem",
+    "question": "Hoa có 69 quyển sách, Hoa cho bạn 20 quyển sách. Hỏi Hoa còn lại bao nhiêu quyển sách?",
+    "choices": [
+      "54",
+      "51",
+      "49",
+      "58"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "69 - 20 = 49 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-59": {
+    "id": "g2-wordproblem-gen3-59",
+    "topicId": "g2-wordproblem",
+    "question": "Phong có 50 quả bóng bay, Phong cho bạn 15 quả bóng bay. Hỏi Phong còn lại bao nhiêu quả bóng bay?",
+    "choices": [
+      "44",
+      "35",
+      "32",
+      "36"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "50 - 15 = 35 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-60": {
+    "id": "g2-wordproblem-gen3-60",
+    "topicId": "g2-wordproblem",
+    "question": "Nam có 54 quyển vở, Nam cho bạn 17 quyển vở. Hỏi Nam còn lại bao nhiêu quyển vở?",
+    "choices": [
+      "35",
+      "37",
+      "44",
+      "34"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "54 - 17 = 37 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-61": {
+    "id": "g2-wordproblem-gen3-61",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Hùng có 69 quyển vở. Bạn Minh có ít hơn 22 quyển vở. Hỏi bạn đó có bao nhiêu quyển vở?",
+    "choices": [
+      "42",
+      "47",
+      "56",
+      "48"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "69 - 22 = 47 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-62": {
+    "id": "g2-wordproblem-gen3-62",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Hương có 80 cây bút. Bạn Vy có ít hơn 17 cây bút. Hỏi bạn đó có bao nhiêu cây bút?",
+    "choices": [
+      "59",
+      "53",
+      "64",
+      "63"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "80 - 17 = 63 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-63": {
+    "id": "g2-wordproblem-gen3-63",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Minh có 89 cái bánh. Bạn Minh có ít hơn 24 cái bánh. Hỏi bạn đó có bao nhiêu cái bánh?",
+    "choices": [
+      "72",
+      "57",
+      "65",
+      "63"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "89 - 24 = 65 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-64": {
+    "id": "g2-wordproblem-gen3-64",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Nam có 79 cây bút. Bạn Huy có ít hơn 25 cây bút. Hỏi bạn đó có bao nhiêu cây bút?",
+    "choices": [
+      "63",
+      "54",
+      "52",
+      "62"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "79 - 25 = 54 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-65": {
+    "id": "g2-wordproblem-gen3-65",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Mai có 33 bông hoa. Bạn Bình có ít hơn 11 bông hoa. Hỏi bạn đó có bao nhiêu bông hoa?",
+    "choices": [
+      "27",
+      "22",
+      "26",
+      "28"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "33 - 11 = 22 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-66": {
+    "id": "g2-wordproblem-gen3-66",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 2C quyên góp được 61 bông hoa. Lớp 1A quyên góp được nhiều hơn lớp 2C là 8 bông hoa. Hỏi lớp 1A quyên góp được bao nhiêu bông hoa?",
+    "choices": [
+      "69",
+      "63",
+      "59",
+      "74"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "61 + 8 = 69 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-67": {
+    "id": "g2-wordproblem-gen3-67",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Hùng có 90 quả bóng bay. Bạn Mai có ít hơn 22 quả bóng bay. Hỏi bạn đó có bao nhiêu quả bóng bay?",
+    "choices": [
+      "60",
+      "71",
+      "62",
+      "68"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "90 - 22 = 68 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-68": {
+    "id": "g2-wordproblem-gen3-68",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 2A quyên góp được 25 cái bánh. Lớp 3A quyên góp được nhiều hơn lớp 2A là 20 cái bánh. Hỏi lớp 3A quyên góp được bao nhiêu cái bánh?",
+    "choices": [
+      "35",
+      "45",
+      "47",
+      "46"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "25 + 20 = 45 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-69": {
+    "id": "g2-wordproblem-gen3-69",
+    "topicId": "g2-wordproblem",
+    "question": "Bình có 53 quyển vở, Bình cho bạn 11 quyển vở. Hỏi Bình còn lại bao nhiêu quyển vở?",
+    "choices": [
+      "42",
+      "32",
+      "35",
+      "52"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "53 - 11 = 42 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-70": {
+    "id": "g2-wordproblem-gen3-70",
+    "topicId": "g2-wordproblem",
+    "question": "Hoa có 77 quả bóng bay, mẹ cho Hoa thêm 11 quả bóng bay nữa. Hỏi Hoa có tất cả bao nhiêu quả bóng bay?",
+    "choices": [
+      "78",
+      "88",
+      "95",
+      "87"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"thêm\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "77 + 11 = 88 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-71": {
+    "id": "g2-wordproblem-gen3-71",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Vy có 45 cây bút. Bạn Trang có ít hơn 20 cây bút. Hỏi bạn đó có bao nhiêu cây bút?",
+    "choices": [
+      "25",
+      "28",
+      "20",
+      "19"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "45 - 20 = 25 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-72": {
+    "id": "g2-wordproblem-gen3-72",
+    "topicId": "g2-wordproblem",
+    "question": "Phong có 35 quả bóng bay, Phong cho bạn 10 quả bóng bay. Hỏi Phong còn lại bao nhiêu quả bóng bay?",
+    "choices": [
+      "22",
+      "25",
+      "15",
+      "34"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "35 - 10 = 25 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-73": {
+    "id": "g2-wordproblem-gen3-73",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 1A quyên góp được 22 bông hoa. Lớp 3A quyên góp được nhiều hơn lớp 1A là 10 bông hoa. Hỏi lớp 3A quyên góp được bao nhiêu bông hoa?",
+    "choices": [
+      "32",
+      "28",
+      "22",
+      "34"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "22 + 10 = 32 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-74": {
+    "id": "g2-wordproblem-gen3-74",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 3A quyên góp được 36 cái bánh. Lớp 1A quyên góp được nhiều hơn lớp 3A là 25 cái bánh. Hỏi lớp 1A quyên góp được bao nhiêu cái bánh?",
+    "choices": [
+      "54",
+      "61",
+      "51",
+      "55"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "36 + 25 = 61 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-75": {
+    "id": "g2-wordproblem-gen3-75",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 2B quyên góp được 40 cây bút. Lớp 2A quyên góp được nhiều hơn lớp 2B là 18 cây bút. Hỏi lớp 2A quyên góp được bao nhiêu cây bút?",
+    "choices": [
+      "62",
+      "61",
+      "57",
+      "58"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "40 + 18 = 58 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-76": {
+    "id": "g2-wordproblem-gen3-76",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 2A quyên góp được 37 quyển vở. Lớp 3A quyên góp được nhiều hơn lớp 2A là 6 quyển vở. Hỏi lớp 3A quyên góp được bao nhiêu quyển vở?",
+    "choices": [
+      "39",
+      "47",
+      "34",
+      "43"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "37 + 6 = 43 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-77": {
+    "id": "g2-wordproblem-gen3-77",
+    "topicId": "g2-wordproblem",
+    "question": "Phong có 32 cây bút, mẹ cho Phong thêm 6 cây bút nữa. Hỏi Phong có tất cả bao nhiêu cây bút?",
+    "choices": [
+      "35",
+      "30",
+      "38",
+      "44"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"thêm\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "32 + 6 = 38 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-78": {
+    "id": "g2-wordproblem-gen3-78",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Nam có 45 quyển vở. Bạn Nam có ít hơn 19 quyển vở. Hỏi bạn đó có bao nhiêu quyển vở?",
+    "choices": [
+      "26",
+      "20",
+      "28",
+      "34"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "45 - 19 = 26 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-79": {
+    "id": "g2-wordproblem-gen3-79",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Linh có 76 cây bút. Bạn Hương có ít hơn 9 cây bút. Hỏi bạn đó có bao nhiêu cây bút?",
+    "choices": [
+      "67",
+      "60",
+      "73",
+      "77"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "76 - 9 = 67 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-80": {
+    "id": "g2-wordproblem-gen3-80",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 2A quyên góp được 52 quyển sách. Lớp 3A quyên góp được nhiều hơn lớp 2A là 8 quyển sách. Hỏi lớp 3A quyên góp được bao nhiêu quyển sách?",
+    "choices": [
+      "59",
+      "60",
+      "53",
+      "61"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "52 + 8 = 60 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-81": {
+    "id": "g2-wordproblem-gen3-81",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 1A quyên góp được 21 chiếc kẹo. Lớp 2C quyên góp được nhiều hơn lớp 1A là 7 chiếc kẹo. Hỏi lớp 2C quyên góp được bao nhiêu chiếc kẹo?",
+    "choices": [
+      "38",
+      "35",
+      "28",
+      "27"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "21 + 7 = 28 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-82": {
+    "id": "g2-wordproblem-gen3-82",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Bình có 68 chiếc kẹo. Bạn Phong có ít hơn 7 chiếc kẹo. Hỏi bạn đó có bao nhiêu chiếc kẹo?",
+    "choices": [
+      "67",
+      "61",
+      "70",
+      "52"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "68 - 7 = 61 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-83": {
+    "id": "g2-wordproblem-gen3-83",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 3A quyên góp được 58 quyển sách. Lớp 2A quyên góp được nhiều hơn lớp 3A là 26 quyển sách. Hỏi lớp 2A quyên góp được bao nhiêu quyển sách?",
+    "choices": [
+      "89",
+      "84",
+      "92",
+      "94"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "58 + 26 = 84 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-84": {
+    "id": "g2-wordproblem-gen3-84",
+    "topicId": "g2-wordproblem",
+    "question": "Hoa có 32 quyển vở, Hoa cho bạn 17 quyển vở. Hỏi Hoa còn lại bao nhiêu quyển vở?",
+    "choices": [
+      "15",
+      "21",
+      "24",
+      "23"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "32 - 17 = 15 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-85": {
+    "id": "g2-wordproblem-gen3-85",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 2C quyên góp được 53 cái bánh. Lớp 2B quyên góp được nhiều hơn lớp 2C là 21 cái bánh. Hỏi lớp 2B quyên góp được bao nhiêu cái bánh?",
+    "choices": [
+      "68",
+      "79",
+      "82",
+      "74"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "53 + 21 = 74 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-86": {
+    "id": "g2-wordproblem-gen3-86",
+    "topicId": "g2-wordproblem",
+    "question": "Linh có 47 chiếc kẹo, mẹ cho Linh thêm 9 chiếc kẹo nữa. Hỏi Linh có tất cả bao nhiêu chiếc kẹo?",
+    "choices": [
+      "55",
+      "47",
+      "60",
+      "56"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"thêm\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "47 + 9 = 56 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-87": {
+    "id": "g2-wordproblem-gen3-87",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Mai có 42 quyển vở. Bạn Phong có ít hơn 7 quyển vở. Hỏi bạn đó có bao nhiêu quyển vở?",
+    "choices": [
+      "32",
+      "33",
+      "35",
+      "31"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "42 - 7 = 35 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-88": {
+    "id": "g2-wordproblem-gen3-88",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 2B quyên góp được 41 chiếc kẹo. Lớp 2C quyên góp được nhiều hơn lớp 2B là 13 chiếc kẹo. Hỏi lớp 2C quyên góp được bao nhiêu chiếc kẹo?",
+    "choices": [
+      "44",
+      "45",
+      "49",
+      "54"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "41 + 13 = 54 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-89": {
+    "id": "g2-wordproblem-gen3-89",
+    "topicId": "g2-wordproblem",
+    "question": "Phong có 26 quả bóng bay, mẹ cho Phong thêm 13 quả bóng bay nữa. Hỏi Phong có tất cả bao nhiêu quả bóng bay?",
+    "choices": [
+      "44",
+      "33",
+      "38",
+      "39"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"thêm\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "26 + 13 = 39 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-90": {
+    "id": "g2-wordproblem-gen3-90",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Huy có 85 quyển vở. Bạn Mai có ít hơn 18 quyển vở. Hỏi bạn đó có bao nhiêu quyển vở?",
+    "choices": [
+      "68",
+      "58",
+      "67",
+      "66"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "85 - 18 = 67 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-91": {
+    "id": "g2-wordproblem-gen3-91",
+    "topicId": "g2-wordproblem",
+    "question": "Tuấn có 62 cái bánh, mẹ cho Tuấn thêm 11 cái bánh nữa. Hỏi Tuấn có tất cả bao nhiêu cái bánh?",
+    "choices": [
+      "82",
+      "78",
+      "76",
+      "73"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"thêm\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "62 + 11 = 73 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-92": {
+    "id": "g2-wordproblem-gen3-92",
+    "topicId": "g2-wordproblem",
+    "question": "Hùng có 43 quyển sách, mẹ cho Hùng thêm 19 quyển sách nữa. Hỏi Hùng có tất cả bao nhiêu quyển sách?",
+    "choices": [
+      "57",
+      "61",
+      "71",
+      "62"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"thêm\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "43 + 19 = 62 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-93": {
+    "id": "g2-wordproblem-gen3-93",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Lan có 45 chiếc kẹo. Bạn Lan có ít hơn 5 chiếc kẹo. Hỏi bạn đó có bao nhiêu chiếc kẹo?",
+    "choices": [
+      "45",
+      "33",
+      "32",
+      "40"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "45 - 5 = 40 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-94": {
+    "id": "g2-wordproblem-gen3-94",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Hương có 31 quyển vở. Bạn Huy có ít hơn 17 quyển vở. Hỏi bạn đó có bao nhiêu quyển vở?",
+    "choices": [
+      "18",
+      "16",
+      "4",
+      "14"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "31 - 17 = 14 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-95": {
+    "id": "g2-wordproblem-gen3-95",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Tuấn có 78 bông hoa. Bạn Lan có ít hơn 20 bông hoa. Hỏi bạn đó có bao nhiêu bông hoa?",
+    "choices": [
+      "68",
+      "49",
+      "53",
+      "58"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "78 - 20 = 58 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-96": {
+    "id": "g2-wordproblem-gen3-96",
+    "topicId": "g2-wordproblem",
+    "question": "Đức có 77 quyển sách, Đức cho bạn 14 quyển sách. Hỏi Đức còn lại bao nhiêu quyển sách?",
+    "choices": [
+      "73",
+      "58",
+      "63",
+      "62"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "77 - 14 = 63 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-97": {
+    "id": "g2-wordproblem-gen3-97",
+    "topicId": "g2-wordproblem",
+    "question": "Lớp 1A quyên góp được 38 quả bóng bay. Lớp 2A quyên góp được nhiều hơn lớp 1A là 7 quả bóng bay. Hỏi lớp 2A quyên góp được bao nhiêu quả bóng bay?",
+    "choices": [
+      "51",
+      "54",
+      "45",
+      "35"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "38 + 7 = 45 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-98": {
+    "id": "g2-wordproblem-gen3-98",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Phong có 44 quyển vở. Bạn Đức có ít hơn 18 quyển vở. Hỏi bạn đó có bao nhiêu quyển vở?",
+    "choices": [
+      "25",
+      "26",
+      "36",
+      "19"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "44 - 18 = 26 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-99": {
+    "id": "g2-wordproblem-gen3-99",
+    "topicId": "g2-wordproblem",
+    "question": "Hương có 57 cái bánh, Hương cho bạn 17 cái bánh. Hỏi Hương còn lại bao nhiêu cái bánh?",
+    "choices": [
+      "37",
+      "39",
+      "32",
+      "40"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "57 - 17 = 40 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordproblem-gen3-100": {
+    "id": "g2-wordproblem-gen3-100",
+    "topicId": "g2-wordproblem",
+    "question": "Bạn Vy có 86 bông hoa. Bạn Hương có ít hơn 22 bông hoa. Hỏi bạn đó có bao nhiêu bông hoa?",
+    "choices": [
+      "63",
+      "64",
+      "69",
+      "74"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "86 - 22 = 64 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-1": {
+    "id": "g2-clockstats-gen3-1",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 7 và số 8, kim dài chỉ số 11?",
+    "choices": [
+      "7 giờ 15 phút",
+      "7 giờ",
+      "7 giờ 55 phút",
+      "7 giờ 10 phút"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 11 tương ứng 55 phút. Vậy là 7 giờ 55 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-2": {
+    "id": "g2-clockstats-gen3-2",
+    "topicId": "g2-clockstats",
+    "question": "Hộp có cả bóng màu đỏ và bóng màu vàng. Khẳng định nào dưới đây đúng khi lấy ngẫu nhiên 1 quả?",
+    "choices": [
+      "Chắc chắn lấy được bóng màu đỏ.",
+      "Có thể lấy được bóng màu đỏ.",
+      "Chắc chắn không lấy được quả bóng nào.",
+      "Không thể lấy được bóng màu vàng."
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Vì hộp có cả 2 màu nên có thể lấy được bóng màu đỏ hoặc màu vàng. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-3": {
+    "id": "g2-clockstats-gen3-3",
+    "topicId": "g2-clockstats",
+    "question": "Một tuần lễ có bao nhiêu ngày?",
+    "choices": [
+      "5 ngày",
+      "7 ngày",
+      "30 ngày",
+      "10 ngày"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Một tuần lễ có 7 ngày: Thứ Hai, Thứ Ba, Thứ Tư, Thứ Năm, Thứ Sáu, Thứ Bảy, Chủ Nhật. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-4": {
+    "id": "g2-clockstats-gen3-4",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 4 và số 5, kim dài chỉ số 2?",
+    "choices": [
+      "4 giờ 10 phút",
+      "4 giờ 30 phút",
+      "4 giờ 40 phút",
+      "4 giờ 35 phút"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 2 tương ứng 10 phút. Vậy là 4 giờ 10 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-5": {
+    "id": "g2-clockstats-gen3-5",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 10 và số 11, kim dài chỉ số 7?",
+    "choices": [
+      "10 giờ 5 phút",
+      "10 giờ 50 phút",
+      "10 giờ 35 phút",
+      "10 giờ 20 phút"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 7 tương ứng 35 phút. Vậy là 10 giờ 35 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-6": {
+    "id": "g2-clockstats-gen3-6",
+    "topicId": "g2-clockstats",
+    "question": "Một biểu đồ tranh ghi lại số lượng trái cây: chuối: 4; lê: 5; táo: 2. Tổng cộng có bao nhiêu quả?",
+    "choices": [
+      "14",
+      "12",
+      "10",
+      "11"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Cộng tất cả số lượng: 4 + 5 + 2 = 11. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-7": {
+    "id": "g2-clockstats-gen3-7",
+    "topicId": "g2-clockstats",
+    "question": "Một biểu đồ tranh ghi lại số lượng trái cây: cam: 5; chuối: 4; bưởi: 7. Tổng cộng có bao nhiêu quả?",
+    "choices": [
+      "19",
+      "15",
+      "16",
+      "18"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Cộng tất cả số lượng: 5 + 4 + 7 = 16. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-8": {
+    "id": "g2-clockstats-gen3-8",
+    "topicId": "g2-clockstats",
+    "question": "Trong hộp chỉ có toàn bóng màu tím. Khẳng định nào dưới đây đúng?",
+    "choices": [
+      "Không lấy được quả bóng nào.",
+      "Không thể lấy được bóng màu tím.",
+      "Chắc chắn lấy được bóng màu tím.",
+      "Có thể lấy được bóng màu đỏ."
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Vì hộp chỉ toàn bóng màu tím nên chắc chắn lấy được bóng màu tím. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-9": {
+    "id": "g2-clockstats-gen3-9",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 7 và số 8, kim dài chỉ số 2?",
+    "choices": [
+      "7 giờ 10 phút",
+      "7 giờ 5 phút",
+      "7 giờ 30 phút",
+      "7 giờ 20 phút"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 2 tương ứng 10 phút. Vậy là 7 giờ 10 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-10": {
+    "id": "g2-clockstats-gen3-10",
+    "topicId": "g2-clockstats",
+    "question": "Trong hộp chỉ có toàn bóng màu vàng. Khẳng định nào dưới đây đúng?",
+    "choices": [
+      "Không thể lấy được bóng màu vàng.",
+      "Có thể lấy được bóng màu tím.",
+      "Chắc chắn lấy được bóng màu vàng.",
+      "Không lấy được quả bóng nào."
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Vì hộp chỉ toàn bóng màu vàng nên chắc chắn lấy được bóng màu vàng. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-11": {
+    "id": "g2-clockstats-gen3-11",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 3 và số 4, kim dài chỉ số 5?",
+    "choices": [
+      "3 giờ 35 phút",
+      "3 giờ 30 phút",
+      "3 giờ 25 phút",
+      "3 giờ 10 phút"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 5 tương ứng 25 phút. Vậy là 3 giờ 25 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-12": {
+    "id": "g2-clockstats-gen3-12",
+    "topicId": "g2-clockstats",
+    "question": "Kim ngắn chỉ số 3, kim dài chỉ số 12. Đồng hồ đang chỉ mấy giờ?",
+    "choices": [
+      "3 giờ 30 phút",
+      "4 giờ",
+      "12 giờ",
+      "3 giờ"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kim ngắn chỉ số 3 và kim dài chỉ số 12 -> đúng 3 giờ. ✅",
+        "highlight": "xem-gio"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-13": {
+    "id": "g2-clockstats-gen3-13",
+    "topicId": "g2-clockstats",
+    "question": "Kim ngắn chỉ số 4, kim dài chỉ số 12. Đồng hồ đang chỉ mấy giờ?",
+    "choices": [
+      "5 giờ",
+      "4 giờ",
+      "12 giờ",
+      "4 giờ 30 phút"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Kim ngắn chỉ số 4 và kim dài chỉ số 12 -> đúng 4 giờ. ✅",
+        "highlight": "xem-gio"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-14": {
+    "id": "g2-clockstats-gen3-14",
+    "topicId": "g2-clockstats",
+    "question": "Trong hộp chỉ có toàn bóng màu đỏ. Khẳng định nào dưới đây đúng?",
+    "choices": [
+      "Chắc chắn lấy được bóng màu đỏ.",
+      "Không lấy được quả bóng nào.",
+      "Không thể lấy được bóng màu đỏ.",
+      "Có thể lấy được bóng màu tím."
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Vì hộp chỉ toàn bóng màu đỏ nên chắc chắn lấy được bóng màu đỏ. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-15": {
+    "id": "g2-clockstats-gen3-15",
+    "topicId": "g2-clockstats",
+    "question": "Kim ngắn chỉ số 7, kim dài chỉ số 12. Đồng hồ đang chỉ mấy giờ?",
+    "choices": [
+      "12 giờ",
+      "8 giờ",
+      "7 giờ 30 phút",
+      "7 giờ"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kim ngắn chỉ số 7 và kim dài chỉ số 12 -> đúng 7 giờ. ✅",
+        "highlight": "xem-gio"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-16": {
+    "id": "g2-clockstats-gen3-16",
+    "topicId": "g2-clockstats",
+    "question": "Trong hộp chỉ có toàn bóng màu xanh. Khẳng định nào dưới đây đúng?",
+    "choices": [
+      "Không thể lấy được bóng màu xanh.",
+      "Không lấy được quả bóng nào.",
+      "Có thể lấy được bóng màu đỏ.",
+      "Chắc chắn lấy được bóng màu xanh."
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Vì hộp chỉ toàn bóng màu xanh nên chắc chắn lấy được bóng màu xanh. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-17": {
+    "id": "g2-clockstats-gen3-17",
+    "topicId": "g2-clockstats",
+    "question": "Một biểu đồ tranh ghi lại số lượng trái cây: táo: 2; quýt: 9; lê: 5. Loại nào có số lượng ít nhất?",
+    "choices": [
+      "dâu",
+      "quýt",
+      "lê",
+      "táo"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "So sánh số lượng từng loại: táo: 2; quýt: 9; lê: 5. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-18": {
+    "id": "g2-clockstats-gen3-18",
+    "topicId": "g2-clockstats",
+    "question": "Một biểu đồ tranh ghi lại số lượng trái cây: dâu: 3; chuối: 6; quýt: 9. Loại nào có số lượng nhiều nhất?",
+    "choices": [
+      "dâu",
+      "chuối",
+      "quýt",
+      "na"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "So sánh số lượng từng loại: dâu: 3; chuối: 6; quýt: 9. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-19": {
+    "id": "g2-clockstats-gen3-19",
+    "topicId": "g2-clockstats",
+    "question": "Một biểu đồ tranh ghi lại số lượng trái cây: đào: 4; bưởi: 2; lê: 6. Tổng cộng có bao nhiêu quả?",
+    "choices": [
+      "12",
+      "13",
+      "15",
+      "14"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Cộng tất cả số lượng: 4 + 2 + 6 = 12. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-20": {
+    "id": "g2-clockstats-gen3-20",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 8 và số 9, kim dài chỉ số 8?",
+    "choices": [
+      "8 giờ 15 phút",
+      "8 giờ",
+      "8 giờ 35 phút",
+      "8 giờ 40 phút"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 8 tương ứng 40 phút. Vậy là 8 giờ 40 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-21": {
+    "id": "g2-clockstats-gen3-21",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 6 và số 7, kim dài chỉ số 2?",
+    "choices": [
+      "6 giờ 10 phút",
+      "6 giờ 35 phút",
+      "6 giờ",
+      "6 giờ 50 phút"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 2 tương ứng 10 phút. Vậy là 6 giờ 10 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-22": {
+    "id": "g2-clockstats-gen3-22",
+    "topicId": "g2-clockstats",
+    "question": "Hộp có cả bóng màu xanh và bóng màu vàng. Khẳng định nào dưới đây đúng khi lấy ngẫu nhiên 1 quả?",
+    "choices": [
+      "Không thể lấy được bóng màu vàng.",
+      "Chắc chắn lấy được bóng màu xanh.",
+      "Chắc chắn không lấy được quả bóng nào.",
+      "Có thể lấy được bóng màu xanh."
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Vì hộp có cả 2 màu nên có thể lấy được bóng màu xanh hoặc màu vàng. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-23": {
+    "id": "g2-clockstats-gen3-23",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 4 và số 5, kim dài chỉ số 3?",
+    "choices": [
+      "4 giờ 15 phút",
+      "4 giờ 20 phút",
+      "4 giờ 30 phút",
+      "4 giờ 25 phút"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 3 tương ứng 15 phút. Vậy là 4 giờ 15 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-24": {
+    "id": "g2-clockstats-gen3-24",
+    "topicId": "g2-clockstats",
+    "question": "Một biểu đồ tranh ghi lại số lượng trái cây: cam: 5; lê: 6; bưởi: 9. Tổng cộng có bao nhiêu quả?",
+    "choices": [
+      "20",
+      "23",
+      "17",
+      "18"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Cộng tất cả số lượng: 5 + 6 + 9 = 20. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-25": {
+    "id": "g2-clockstats-gen3-25",
+    "topicId": "g2-clockstats",
+    "question": "Một biểu đồ tranh ghi lại số lượng trái cây: cam: 8; lê: 5; chuối: 9. Tổng cộng có bao nhiêu quả?",
+    "choices": [
+      "26",
+      "25",
+      "22",
+      "24"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Cộng tất cả số lượng: 8 + 5 + 9 = 22. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-26": {
+    "id": "g2-clockstats-gen3-26",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 5 và số 6, kim dài chỉ số 4?",
+    "choices": [
+      "5 giờ 25 phút",
+      "5 giờ 35 phút",
+      "5 giờ 20 phút",
+      "5 giờ 45 phút"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 4 tương ứng 20 phút. Vậy là 5 giờ 20 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-27": {
+    "id": "g2-clockstats-gen3-27",
+    "topicId": "g2-clockstats",
+    "question": "Kim ngắn chỉ số 10, kim dài chỉ số 12. Đồng hồ đang chỉ mấy giờ?",
+    "choices": [
+      "10 giờ",
+      "10 giờ 30 phút",
+      "11 giờ",
+      "12 giờ"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Kim ngắn chỉ số 10 và kim dài chỉ số 12 -> đúng 10 giờ. ✅",
+        "highlight": "xem-gio"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-28": {
+    "id": "g2-clockstats-gen3-28",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 8 và số 9, kim dài chỉ số 4?",
+    "choices": [
+      "8 giờ 5 phút",
+      "8 giờ 55 phút",
+      "8 giờ 25 phút",
+      "8 giờ 20 phút"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 4 tương ứng 20 phút. Vậy là 8 giờ 20 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-29": {
+    "id": "g2-clockstats-gen3-29",
+    "topicId": "g2-clockstats",
+    "question": "Kim ngắn chỉ số 1, kim dài chỉ số 12. Đồng hồ đang chỉ mấy giờ?",
+    "choices": [
+      "12 giờ",
+      "1 giờ",
+      "2 giờ",
+      "1 giờ 30 phút"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Kim ngắn chỉ số 1 và kim dài chỉ số 12 -> đúng 1 giờ. ✅",
+        "highlight": "xem-gio"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-30": {
+    "id": "g2-clockstats-gen3-30",
+    "topicId": "g2-clockstats",
+    "question": "Kim ngắn chỉ số 5, kim dài chỉ số 12. Đồng hồ đang chỉ mấy giờ?",
+    "choices": [
+      "6 giờ",
+      "5 giờ 30 phút",
+      "12 giờ",
+      "5 giờ"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kim ngắn chỉ số 5 và kim dài chỉ số 12 -> đúng 5 giờ. ✅",
+        "highlight": "xem-gio"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-31": {
+    "id": "g2-clockstats-gen3-31",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 2 và số 3, kim dài chỉ số 1?",
+    "choices": [
+      "2 giờ 10 phút",
+      "2 giờ 20 phút",
+      "2 giờ 55 phút",
+      "2 giờ 5 phút"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 1 tương ứng 5 phút. Vậy là 2 giờ 5 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-32": {
+    "id": "g2-clockstats-gen3-32",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 11 và số 12, kim dài chỉ số 5?",
+    "choices": [
+      "11 giờ 25 phút",
+      "11 giờ 40 phút",
+      "11 giờ 35 phút",
+      "11 giờ 5 phút"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 5 tương ứng 25 phút. Vậy là 11 giờ 25 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-33": {
+    "id": "g2-clockstats-gen3-33",
+    "topicId": "g2-clockstats",
+    "question": "Kim ngắn chỉ số 8, kim dài chỉ số 12. Đồng hồ đang chỉ mấy giờ?",
+    "choices": [
+      "8 giờ 30 phút",
+      "9 giờ",
+      "12 giờ",
+      "8 giờ"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kim ngắn chỉ số 8 và kim dài chỉ số 12 -> đúng 8 giờ. ✅",
+        "highlight": "xem-gio"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-34": {
+    "id": "g2-clockstats-gen3-34",
+    "topicId": "g2-clockstats",
+    "question": "Một biểu đồ tranh ghi lại số lượng trái cây: chuối: 4; đào: 8; quýt: 6. Loại nào có số lượng ít nhất?",
+    "choices": [
+      "đào",
+      "dâu",
+      "quýt",
+      "chuối"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "So sánh số lượng từng loại: chuối: 4; đào: 8; quýt: 6. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-35": {
+    "id": "g2-clockstats-gen3-35",
+    "topicId": "g2-clockstats",
+    "question": "Một biểu đồ tranh ghi lại số lượng trái cây: cam: 3; táo: 7; quýt: 9. Loại nào có số lượng nhiều nhất?",
+    "choices": [
+      "quýt",
+      "dâu",
+      "táo",
+      "cam"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh số lượng từng loại: cam: 3; táo: 7; quýt: 9. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-36": {
+    "id": "g2-clockstats-gen3-36",
+    "topicId": "g2-clockstats",
+    "question": "Kim ngắn chỉ số 6, kim dài chỉ số 12. Đồng hồ đang chỉ mấy giờ?",
+    "choices": [
+      "6 giờ 30 phút",
+      "6 giờ",
+      "12 giờ",
+      "7 giờ"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Kim ngắn chỉ số 6 và kim dài chỉ số 12 -> đúng 6 giờ. ✅",
+        "highlight": "xem-gio"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-37": {
+    "id": "g2-clockstats-gen3-37",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 9 và số 10, kim dài chỉ số 6?",
+    "choices": [
+      "9 giờ",
+      "9 giờ 30 phút",
+      "9 giờ 45 phút",
+      "9 giờ 40 phút"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 6 tương ứng 30 phút. Vậy là 9 giờ 30 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-38": {
+    "id": "g2-clockstats-gen3-38",
+    "topicId": "g2-clockstats",
+    "question": "Một biểu đồ tranh ghi lại số lượng trái cây: táo: 6; dâu: 9; bưởi: 2. Tổng cộng có bao nhiêu quả?",
+    "choices": [
+      "20",
+      "17",
+      "16",
+      "18"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Cộng tất cả số lượng: 6 + 9 + 2 = 17. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-39": {
+    "id": "g2-clockstats-gen3-39",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 6 và số 7, kim dài chỉ số 6?",
+    "choices": [
+      "6 giờ 45 phút",
+      "6 giờ",
+      "6 giờ 30 phút",
+      "6 giờ 10 phút"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 6 tương ứng 30 phút. Vậy là 6 giờ 30 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-40": {
+    "id": "g2-clockstats-gen3-40",
+    "topicId": "g2-clockstats",
+    "question": "Một biểu đồ tranh ghi lại số lượng trái cây: dâu: 8; quýt: 9; lê: 4. Loại nào có số lượng ít nhất?",
+    "choices": [
+      "lê",
+      "na",
+      "quýt",
+      "dâu"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh số lượng từng loại: dâu: 8; quýt: 9; lê: 4. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-41": {
+    "id": "g2-clockstats-gen3-41",
+    "topicId": "g2-clockstats",
+    "question": "Một biểu đồ tranh ghi lại số lượng trái cây: quýt: 2; bưởi: 4; cam: 6. Loại nào có số lượng ít nhất?",
+    "choices": [
+      "bưởi",
+      "dâu",
+      "cam",
+      "quýt"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "So sánh số lượng từng loại: quýt: 2; bưởi: 4; cam: 6. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-42": {
+    "id": "g2-clockstats-gen3-42",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 8 và số 9, kim dài chỉ số 2?",
+    "choices": [
+      "8 giờ 10 phút",
+      "8 giờ",
+      "8 giờ 35 phút",
+      "8 giờ 20 phút"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 2 tương ứng 10 phút. Vậy là 8 giờ 10 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-43": {
+    "id": "g2-clockstats-gen3-43",
+    "topicId": "g2-clockstats",
+    "question": "Một biểu đồ tranh ghi lại số lượng trái cây: chuối: 9; lê: 7; bưởi: 2. Loại nào có số lượng nhiều nhất?",
+    "choices": [
+      "lê",
+      "bưởi",
+      "dâu",
+      "chuối"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "So sánh số lượng từng loại: chuối: 9; lê: 7; bưởi: 2. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-clockstats-gen3-44": {
+    "id": "g2-clockstats-gen3-44",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 7 và số 8, kim dài chỉ số 1?",
+    "choices": [
+      "7 giờ 25 phút",
+      "7 giờ 10 phút",
+      "7 giờ 5 phút",
+      "7 giờ 20 phút"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 1 tương ứng 5 phút. Vậy là 7 giờ 5 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-clockstats-gen3-45": {
+    "id": "g2-clockstats-gen3-45",
+    "topicId": "g2-clockstats",
+    "question": "Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 5 và số 6, kim dài chỉ số 1?",
+    "choices": [
+      "5 giờ 25 phút",
+      "5 giờ 40 phút",
+      "5 giờ 45 phút",
+      "5 giờ 5 phút"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 1 tương ứng 5 phút. Vậy là 5 giờ 5 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-1": {
+    "id": "g2-muldiv25-gen3-1",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 5 : 5 = 1, số 1 được gọi là gì?",
+    "choices": [
+      "Số bị chia",
+      "Số chia",
+      "Thương",
+      "Tích"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trong phép chia, 5 là số bị chia, 5 là số chia, 1 là thương. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-2": {
+    "id": "g2-muldiv25-gen3-2",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 2 × 7 = 14, số 14 được gọi là gì?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Thương",
+      "Số chia"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trong phép nhân, 2 và 7 là thừa số, 14 là tích. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-3": {
+    "id": "g2-muldiv25-gen3-3",
+    "topicId": "g2-muldiv25",
+    "question": "15 : 5 = ?",
+    "choices": [
+      "3",
+      "5",
+      "6",
+      "2"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "15 : 5 = 3. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-4": {
+    "id": "g2-muldiv25-gen3-4",
+    "topicId": "g2-muldiv25",
+    "question": "Từ phép nhân 2 × 8 = 16, viết được phép chia nào dưới đây?",
+    "choices": [
+      "16 : 3 = 8",
+      "16 : 2 = 8",
+      "24 : 2 = 8",
+      "16 : 8 = 3"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Từ 2 × 8 = 16, suy ra 16 : 2 = 8 (và 16 : 8 = 2). ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-5": {
+    "id": "g2-muldiv25-gen3-5",
+    "topicId": "g2-muldiv25",
+    "question": "Từ phép nhân 5 × 10 = 50, viết được phép chia nào dưới đây?",
+    "choices": [
+      "50 : 10 = 6",
+      "50 : 5 = 10",
+      "60 : 5 = 10",
+      "50 : 6 = 10"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Từ 5 × 10 = 50, suy ra 50 : 5 = 10 (và 50 : 10 = 5). ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-6": {
+    "id": "g2-muldiv25-gen3-6",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 2 × 9 = 18, số 18 được gọi là gì?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Thương",
+      "Số chia"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trong phép nhân, 2 và 9 là thừa số, 18 là tích. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-7": {
+    "id": "g2-muldiv25-gen3-7",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 5 × 6 = 30, số 30 được gọi là gì?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Thương",
+      "Số chia"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trong phép nhân, 5 và 6 là thừa số, 30 là tích. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-8": {
+    "id": "g2-muldiv25-gen3-8",
+    "topicId": "g2-muldiv25",
+    "question": "Từ phép nhân 2 × 3 = 6, viết được phép chia nào dưới đây?",
+    "choices": [
+      "9 : 2 = 3",
+      "6 : 2 = 3",
+      "6 : 3 = 3",
+      "6 : 2 = 5"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Từ 2 × 3 = 6, suy ra 6 : 2 = 3 (và 6 : 3 = 2). ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-9": {
+    "id": "g2-muldiv25-gen3-9",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 20 : 5 = 4, số 4 được gọi là gì?",
+    "choices": [
+      "Số bị chia",
+      "Số chia",
+      "Thương",
+      "Tích"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trong phép chia, 20 là số bị chia, 5 là số chia, 4 là thương. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-10": {
+    "id": "g2-muldiv25-gen3-10",
+    "topicId": "g2-muldiv25",
+    "question": "16 : 2 = ?",
+    "choices": [
+      "7",
+      "5",
+      "9",
+      "8"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "16 : 2 = 8. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-11": {
+    "id": "g2-muldiv25-gen3-11",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 6 : 2 = 3, số 3 được gọi là gì?",
+    "choices": [
+      "Số bị chia",
+      "Số chia",
+      "Thương",
+      "Tích"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trong phép chia, 6 là số bị chia, 2 là số chia, 3 là thương. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-12": {
+    "id": "g2-muldiv25-gen3-12",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 8 : 2 = 4, số 4 được gọi là gì?",
+    "choices": [
+      "Số bị chia",
+      "Số chia",
+      "Thương",
+      "Tích"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trong phép chia, 8 là số bị chia, 2 là số chia, 4 là thương. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-13": {
+    "id": "g2-muldiv25-gen3-13",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 16 : 2 = 8, số 8 được gọi là gì?",
+    "choices": [
+      "Số bị chia",
+      "Số chia",
+      "Thương",
+      "Tích"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trong phép chia, 16 là số bị chia, 2 là số chia, 8 là thương. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-14": {
+    "id": "g2-muldiv25-gen3-14",
+    "topicId": "g2-muldiv25",
+    "question": "40 : 5 = ?",
+    "choices": [
+      "8",
+      "7",
+      "11",
+      "9"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "40 : 5 = 8. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-15": {
+    "id": "g2-muldiv25-gen3-15",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 5 × 8 = 40, số 40 được gọi là gì?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Thương",
+      "Số chia"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trong phép nhân, 5 và 8 là thừa số, 40 là tích. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-16": {
+    "id": "g2-muldiv25-gen3-16",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 35 : 5 = 7, số 7 được gọi là gì?",
+    "choices": [
+      "Số bị chia",
+      "Số chia",
+      "Thương",
+      "Tích"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trong phép chia, 35 là số bị chia, 5 là số chia, 7 là thương. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-17": {
+    "id": "g2-muldiv25-gen3-17",
+    "topicId": "g2-muldiv25",
+    "question": "20 : 5 = ?",
+    "choices": [
+      "1",
+      "6",
+      "7",
+      "4"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "20 : 5 = 4. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-18": {
+    "id": "g2-muldiv25-gen3-18",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 10 : 2 = 5, số 5 được gọi là gì?",
+    "choices": [
+      "Số bị chia",
+      "Số chia",
+      "Thương",
+      "Tích"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trong phép chia, 10 là số bị chia, 2 là số chia, 5 là thương. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-19": {
+    "id": "g2-muldiv25-gen3-19",
+    "topicId": "g2-muldiv25",
+    "question": "Từ phép nhân 2 × 9 = 18, viết được phép chia nào dưới đây?",
+    "choices": [
+      "18 : 2 = 9",
+      "27 : 2 = 9",
+      "18 : 3 = 9",
+      "18 : 9 = 3"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Từ 2 × 9 = 18, suy ra 18 : 2 = 9 (và 18 : 9 = 2). ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-20": {
+    "id": "g2-muldiv25-gen3-20",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 50 : 5 = 10, số 10 được gọi là gì?",
+    "choices": [
+      "Số bị chia",
+      "Số chia",
+      "Thương",
+      "Tích"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trong phép chia, 50 là số bị chia, 5 là số chia, 10 là thương. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-21": {
+    "id": "g2-muldiv25-gen3-21",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 5 × 7 = 35, số 35 được gọi là gì?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Thương",
+      "Số chia"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trong phép nhân, 5 và 7 là thừa số, 35 là tích. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-22": {
+    "id": "g2-muldiv25-gen3-22",
+    "topicId": "g2-muldiv25",
+    "question": "Từ phép nhân 2 × 7 = 14, viết được phép chia nào dưới đây?",
+    "choices": [
+      "14 : 3 = 7",
+      "14 : 2 = 7",
+      "21 : 2 = 7",
+      "14 : 7 = 3"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Từ 2 × 7 = 14, suy ra 14 : 2 = 7 (và 14 : 7 = 2). ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-23": {
+    "id": "g2-muldiv25-gen3-23",
+    "topicId": "g2-muldiv25",
+    "question": "4 : 2 = ?",
+    "choices": [
+      "1",
+      "5",
+      "4",
+      "2"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "4 : 2 = 2. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-24": {
+    "id": "g2-muldiv25-gen3-24",
+    "topicId": "g2-muldiv25",
+    "question": "5 × 9 = ?",
+    "choices": [
+      "40",
+      "46",
+      "45",
+      "44"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "5 × 9 = 45. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-25": {
+    "id": "g2-muldiv25-gen3-25",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 5 × 4 = 20, số 20 được gọi là gì?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Thương",
+      "Số chia"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trong phép nhân, 5 và 4 là thừa số, 20 là tích. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-26": {
+    "id": "g2-muldiv25-gen3-26",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 5 × 3 = 15, số 15 được gọi là gì?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Thương",
+      "Số chia"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trong phép nhân, 5 và 3 là thừa số, 15 là tích. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-27": {
+    "id": "g2-muldiv25-gen3-27",
+    "topicId": "g2-muldiv25",
+    "question": "5 : 5 = ?",
+    "choices": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "5 : 5 = 1. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-28": {
+    "id": "g2-muldiv25-gen3-28",
+    "topicId": "g2-muldiv25",
+    "question": "35 : 5 = ?",
+    "choices": [
+      "8",
+      "9",
+      "4",
+      "7"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "35 : 5 = 7. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-29": {
+    "id": "g2-muldiv25-gen3-29",
+    "topicId": "g2-muldiv25",
+    "question": "5 × 2 = ?",
+    "choices": [
+      "10",
+      "11",
+      "5",
+      "6"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "5 × 2 = 10. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-30": {
+    "id": "g2-muldiv25-gen3-30",
+    "topicId": "g2-muldiv25",
+    "question": "Từ phép nhân 2 × 5 = 10, viết được phép chia nào dưới đây?",
+    "choices": [
+      "15 : 2 = 5",
+      "10 : 5 = 3",
+      "10 : 3 = 5",
+      "10 : 2 = 5"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Từ 2 × 5 = 10, suy ra 10 : 2 = 5 (và 10 : 5 = 2). ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-31": {
+    "id": "g2-muldiv25-gen3-31",
+    "topicId": "g2-muldiv25",
+    "question": "10 : 5 = ?",
+    "choices": [
+      "4",
+      "1",
+      "3",
+      "2"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "10 : 5 = 2. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-32": {
+    "id": "g2-muldiv25-gen3-32",
+    "topicId": "g2-muldiv25",
+    "question": "2 × 2 = ?",
+    "choices": [
+      "4",
+      "7",
+      "9",
+      "3"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "2 × 2 = 4. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-33": {
+    "id": "g2-muldiv25-gen3-33",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 2 × 4 = 8, số 8 được gọi là gì?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Thương",
+      "Số chia"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trong phép nhân, 2 và 4 là thừa số, 8 là tích. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-34": {
+    "id": "g2-muldiv25-gen3-34",
+    "topicId": "g2-muldiv25",
+    "question": "Từ phép nhân 2 × 10 = 20, viết được phép chia nào dưới đây?",
+    "choices": [
+      "20 : 10 = 3",
+      "30 : 2 = 10",
+      "20 : 2 = 10",
+      "20 : 3 = 10"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Từ 2 × 10 = 20, suy ra 20 : 2 = 10 (và 20 : 10 = 2). ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-35": {
+    "id": "g2-muldiv25-gen3-35",
+    "topicId": "g2-muldiv25",
+    "question": "Từ phép nhân 5 × 7 = 35, viết được phép chia nào dưới đây?",
+    "choices": [
+      "35 : 5 = 7",
+      "42 : 5 = 7",
+      "35 : 7 = 6",
+      "35 : 6 = 7"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Từ 5 × 7 = 35, suy ra 35 : 5 = 7 (và 35 : 7 = 5). ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-36": {
+    "id": "g2-muldiv25-gen3-36",
+    "topicId": "g2-muldiv25",
+    "question": "Từ phép nhân 5 × 2 = 10, viết được phép chia nào dưới đây?",
+    "choices": [
+      "12 : 5 = 2",
+      "10 : 6 = 2",
+      "10 : 2 = 6",
+      "10 : 5 = 2"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Từ 5 × 2 = 10, suy ra 10 : 5 = 2 (và 10 : 2 = 5). ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-37": {
+    "id": "g2-muldiv25-gen3-37",
+    "topicId": "g2-muldiv25",
+    "question": "18 : 2 = ?",
+    "choices": [
+      "12",
+      "6",
+      "9",
+      "10"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "18 : 2 = 9. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-38": {
+    "id": "g2-muldiv25-gen3-38",
+    "topicId": "g2-muldiv25",
+    "question": "Từ phép nhân 5 × 5 = 25, viết được phép chia nào dưới đây?",
+    "choices": [
+      "30 : 5 = 5",
+      "25 : 5 = 6",
+      "25 : 6 = 5",
+      "25 : 5 = 5"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Từ 5 × 5 = 25, suy ra 25 : 5 = 5 (và 25 : 5 = 5). ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-39": {
+    "id": "g2-muldiv25-gen3-39",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 5 × 9 = 45, số 45 được gọi là gì?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Thương",
+      "Số chia"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trong phép nhân, 5 và 9 là thừa số, 45 là tích. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-40": {
+    "id": "g2-muldiv25-gen3-40",
+    "topicId": "g2-muldiv25",
+    "question": "Từ phép nhân 2 × 4 = 8, viết được phép chia nào dưới đây?",
+    "choices": [
+      "8 : 2 = 4",
+      "8 : 3 = 4",
+      "8 : 4 = 3",
+      "12 : 2 = 4"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Từ 2 × 4 = 8, suy ra 8 : 2 = 4 (và 8 : 4 = 2). ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-41": {
+    "id": "g2-muldiv25-gen3-41",
+    "topicId": "g2-muldiv25",
+    "question": "Từ phép nhân 5 × 6 = 30, viết được phép chia nào dưới đây?",
+    "choices": [
+      "30 : 5 = 6",
+      "30 : 6 = 6",
+      "36 : 5 = 6",
+      "30 : 5 = 8"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Từ 5 × 6 = 30, suy ra 30 : 5 = 6 (và 30 : 6 = 5). ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-42": {
+    "id": "g2-muldiv25-gen3-42",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 18 : 2 = 9, số 9 được gọi là gì?",
+    "choices": [
+      "Số bị chia",
+      "Số chia",
+      "Thương",
+      "Tích"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trong phép chia, 18 là số bị chia, 2 là số chia, 9 là thương. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-43": {
+    "id": "g2-muldiv25-gen3-43",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 4 : 2 = 2, số 2 được gọi là gì?",
+    "choices": [
+      "Số bị chia",
+      "Số chia",
+      "Thương",
+      "Tích"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trong phép chia, 4 là số bị chia, 2 là số chia, 2 là thương. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-44": {
+    "id": "g2-muldiv25-gen3-44",
+    "topicId": "g2-muldiv25",
+    "question": "Từ phép nhân 5 × 1 = 5, viết được phép chia nào dưới đây?",
+    "choices": [
+      "5 : 1 = 6",
+      "6 : 5 = 1",
+      "5 : 5 = 1",
+      "5 : 6 = 1"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Từ 5 × 1 = 5, suy ra 5 : 5 = 1 (và 5 : 1 = 5). ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-45": {
+    "id": "g2-muldiv25-gen3-45",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 15 : 5 = 3, số 3 được gọi là gì?",
+    "choices": [
+      "Số bị chia",
+      "Số chia",
+      "Thương",
+      "Tích"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trong phép chia, 15 là số bị chia, 5 là số chia, 3 là thương. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-46": {
+    "id": "g2-muldiv25-gen3-46",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 45 : 5 = 9, số 9 được gọi là gì?",
+    "choices": [
+      "Số bị chia",
+      "Số chia",
+      "Thương",
+      "Tích"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trong phép chia, 45 là số bị chia, 5 là số chia, 9 là thương. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-47": {
+    "id": "g2-muldiv25-gen3-47",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 2 × 3 = 6, số 6 được gọi là gì?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Thương",
+      "Số chia"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trong phép nhân, 2 và 3 là thừa số, 6 là tích. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-48": {
+    "id": "g2-muldiv25-gen3-48",
+    "topicId": "g2-muldiv25",
+    "question": "Từ phép nhân 2 × 6 = 12, viết được phép chia nào dưới đây?",
+    "choices": [
+      "12 : 2 = 6",
+      "12 : 6 = 3",
+      "18 : 2 = 6",
+      "12 : 3 = 6"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Từ 2 × 6 = 12, suy ra 12 : 2 = 6 (và 12 : 6 = 2). ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-49": {
+    "id": "g2-muldiv25-gen3-49",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 2 × 1 = 2, số 2 được gọi là gì?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Thương",
+      "Số chia"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trong phép nhân, 2 và 1 là thừa số, 2 là tích. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-50": {
+    "id": "g2-muldiv25-gen3-50",
+    "topicId": "g2-muldiv25",
+    "question": "2 × 8 = ?",
+    "choices": [
+      "13",
+      "21",
+      "20",
+      "16"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "2 × 8 = 16. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-51": {
+    "id": "g2-muldiv25-gen3-51",
+    "topicId": "g2-muldiv25",
+    "question": "Từ phép nhân 5 × 9 = 45, viết được phép chia nào dưới đây?",
+    "choices": [
+      "45 : 6 = 9",
+      "45 : 9 = 6",
+      "45 : 5 = 9",
+      "54 : 5 = 9"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Từ 5 × 9 = 45, suy ra 45 : 5 = 9 (và 45 : 9 = 5). ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-52": {
+    "id": "g2-muldiv25-gen3-52",
+    "topicId": "g2-muldiv25",
+    "question": "20 : 2 = ?",
+    "choices": [
+      "11",
+      "12",
+      "8",
+      "10"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "20 : 2 = 10. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-53": {
+    "id": "g2-muldiv25-gen3-53",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 5 × 2 = 10, số 10 được gọi là gì?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Thương",
+      "Số chia"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trong phép nhân, 5 và 2 là thừa số, 10 là tích. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-54": {
+    "id": "g2-muldiv25-gen3-54",
+    "topicId": "g2-muldiv25",
+    "question": "50 : 5 = ?",
+    "choices": [
+      "8",
+      "9",
+      "7",
+      "10"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "50 : 5 = 10. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-55": {
+    "id": "g2-muldiv25-gen3-55",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 2 × 2 = 4, số 4 được gọi là gì?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Thương",
+      "Số chia"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trong phép nhân, 2 và 2 là thừa số, 4 là tích. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-56": {
+    "id": "g2-muldiv25-gen3-56",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 2 × 6 = 12, số 12 được gọi là gì?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Thương",
+      "Số chia"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trong phép nhân, 2 và 6 là thừa số, 12 là tích. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-57": {
+    "id": "g2-muldiv25-gen3-57",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 5 × 5 = 25, số 25 được gọi là gì?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Thương",
+      "Số chia"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trong phép nhân, 5 và 5 là thừa số, 25 là tích. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-58": {
+    "id": "g2-muldiv25-gen3-58",
+    "topicId": "g2-muldiv25",
+    "question": "10 : 2 = ?",
+    "choices": [
+      "2",
+      "5",
+      "8",
+      "3"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "10 : 2 = 5. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-59": {
+    "id": "g2-muldiv25-gen3-59",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 30 : 5 = 6, số 6 được gọi là gì?",
+    "choices": [
+      "Số bị chia",
+      "Số chia",
+      "Thương",
+      "Tích"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trong phép chia, 30 là số bị chia, 5 là số chia, 6 là thương. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-muldiv25-gen3-60": {
+    "id": "g2-muldiv25-gen3-60",
+    "topicId": "g2-muldiv25",
+    "question": "Trong phép tính 2 × 5 = 10, số 10 được gọi là gì?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Thương",
+      "Số chia"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trong phép nhân, 2 và 5 là thừa số, 10 là tích. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-1": {
+    "id": "g2-numbers1000-gen3-1",
+    "topicId": "g2-numbers1000",
+    "question": "So sánh: 335 ... 566",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 335 < 566. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-2": {
+    "id": "g2-numbers1000-gen3-2",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền trước của số 700 là:",
+    "choices": [
+      "701",
+      "702",
+      "699",
+      "700"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Kết quả là 699. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-3": {
+    "id": "g2-numbers1000-gen3-3",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 6 trăm, 0 chục và 2 đơn vị được viết là:",
+    "choices": [
+      "604",
+      "581",
+      "564",
+      "602"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "6 trăm + 0 chục + 2 đơn vị = 602. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-4": {
+    "id": "g2-numbers1000-gen3-4",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền trước của số 447 là:",
+    "choices": [
+      "445",
+      "448",
+      "446",
+      "447"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Kết quả là 446. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-5": {
+    "id": "g2-numbers1000-gen3-5",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 4 trăm, 3 chục và 9 đơn vị được viết là:",
+    "choices": [
+      "440",
+      "439",
+      "404",
+      "444"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "4 trăm + 3 chục + 9 đơn vị = 439. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-6": {
+    "id": "g2-numbers1000-gen3-6",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 971 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "700 + 30 + 0",
+      "900 + 70 + 1",
+      "600 + 90 + 0",
+      "500 + 60 + 1"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "971 = 900 + 70 + 1. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-7": {
+    "id": "g2-numbers1000-gen3-7",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền sau của số 321 là:",
+    "choices": [
+      "320",
+      "321",
+      "322",
+      "323"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Kết quả là 322. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-8": {
+    "id": "g2-numbers1000-gen3-8",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 198 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "600 + 60 + 9",
+      "100 + 90 + 8",
+      "400 + 0 + 2",
+      "900 + 20 + 3"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "198 = 100 + 90 + 8. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-9": {
+    "id": "g2-numbers1000-gen3-9",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 2 trăm, 7 chục và 0 đơn vị được viết là:",
+    "choices": [
+      "283",
+      "270",
+      "311",
+      "244"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "2 trăm + 7 chục + 0 đơn vị = 270. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-10": {
+    "id": "g2-numbers1000-gen3-10",
+    "topicId": "g2-numbers1000",
+    "question": "So sánh: 428 ... 634",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 428 < 634. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-11": {
+    "id": "g2-numbers1000-gen3-11",
+    "topicId": "g2-numbers1000",
+    "question": "So sánh: 925 ... 305",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 925 > 305. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-12": {
+    "id": "g2-numbers1000-gen3-12",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 603 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "800 + 60 + 4",
+      "200 + 90 + 9",
+      "500 + 60 + 3",
+      "600 + 0 + 3"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "603 = 600 + 0 + 3. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-13": {
+    "id": "g2-numbers1000-gen3-13",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 865 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "300 + 20 + 8",
+      "800 + 60 + 5",
+      "500 + 80 + 8",
+      "500 + 0 + 1"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "865 = 800 + 60 + 5. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-14": {
+    "id": "g2-numbers1000-gen3-14",
+    "topicId": "g2-numbers1000",
+    "question": "So sánh: 173 ... 438",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 173 < 438. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-15": {
+    "id": "g2-numbers1000-gen3-15",
+    "topicId": "g2-numbers1000",
+    "question": "So sánh: 271 ... 310",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 271 < 310. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-16": {
+    "id": "g2-numbers1000-gen3-16",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền sau của số 591 là:",
+    "choices": [
+      "595",
+      "593",
+      "594",
+      "592"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kết quả là 592. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-17": {
+    "id": "g2-numbers1000-gen3-17",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 5 trăm, 2 chục và 8 đơn vị được viết là:",
+    "choices": [
+      "504",
+      "495",
+      "520",
+      "528"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "5 trăm + 2 chục + 8 đơn vị = 528. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-18": {
+    "id": "g2-numbers1000-gen3-18",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền trước của số 204 là:",
+    "choices": [
+      "200",
+      "203",
+      "204",
+      "201"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Kết quả là 203. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-19": {
+    "id": "g2-numbers1000-gen3-19",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 735 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "600 + 60 + 5",
+      "900 + 50 + 0",
+      "700 + 30 + 5",
+      "600 + 20 + 7"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "735 = 700 + 30 + 5. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-20": {
+    "id": "g2-numbers1000-gen3-20",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 398 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "500 + 50 + 8",
+      "500 + 60 + 3",
+      "100 + 60 + 8",
+      "300 + 90 + 8"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "398 = 300 + 90 + 8. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-21": {
+    "id": "g2-numbers1000-gen3-21",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền sau của số 644 là:",
+    "choices": [
+      "645",
+      "643",
+      "642",
+      "647"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Kết quả là 645. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-22": {
+    "id": "g2-numbers1000-gen3-22",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 1 trăm, 8 chục và 1 đơn vị được viết là:",
+    "choices": [
+      "174",
+      "230",
+      "152",
+      "181"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "1 trăm + 8 chục + 1 đơn vị = 181. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-23": {
+    "id": "g2-numbers1000-gen3-23",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 2 trăm, 0 chục và 1 đơn vị được viết là:",
+    "choices": [
+      "235",
+      "216",
+      "219",
+      "201"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "2 trăm + 0 chục + 1 đơn vị = 201. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-24": {
+    "id": "g2-numbers1000-gen3-24",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền trước của số 235 là:",
+    "choices": [
+      "231",
+      "233",
+      "235",
+      "234"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kết quả là 234. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-25": {
+    "id": "g2-numbers1000-gen3-25",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 718 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "600 + 30 + 8",
+      "700 + 10 + 8",
+      "100 + 10 + 4",
+      "400 + 70 + 4"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "718 = 700 + 10 + 8. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-26": {
+    "id": "g2-numbers1000-gen3-26",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền trước của số 230 là:",
+    "choices": [
+      "230",
+      "231",
+      "229",
+      "232"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Kết quả là 229. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-27": {
+    "id": "g2-numbers1000-gen3-27",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 3 trăm, 7 chục và 8 đơn vị được viết là:",
+    "choices": [
+      "378",
+      "354",
+      "397",
+      "345"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "3 trăm + 7 chục + 8 đơn vị = 378. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-28": {
+    "id": "g2-numbers1000-gen3-28",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 894 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "600 + 90 + 0",
+      "300 + 40 + 9",
+      "800 + 90 + 4",
+      "500 + 80 + 0"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "894 = 800 + 90 + 4. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-29": {
+    "id": "g2-numbers1000-gen3-29",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 528 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "500 + 0 + 7",
+      "200 + 50 + 8",
+      "500 + 20 + 8",
+      "400 + 30 + 3"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "528 = 500 + 20 + 8. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-30": {
+    "id": "g2-numbers1000-gen3-30",
+    "topicId": "g2-numbers1000",
+    "question": "So sánh: 666 ... 294",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 666 > 294. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-31": {
+    "id": "g2-numbers1000-gen3-31",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 1 trăm, 9 chục và 1 đơn vị được viết là:",
+    "choices": [
+      "238",
+      "191",
+      "241",
+      "167"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "1 trăm + 9 chục + 1 đơn vị = 191. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-32": {
+    "id": "g2-numbers1000-gen3-32",
+    "topicId": "g2-numbers1000",
+    "question": "So sánh: 653 ... 573",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 653 > 573. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-33": {
+    "id": "g2-numbers1000-gen3-33",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 2 trăm, 7 chục và 4 đơn vị được viết là:",
+    "choices": [
+      "270",
+      "274",
+      "281",
+      "249"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "2 trăm + 7 chục + 4 đơn vị = 274. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-34": {
+    "id": "g2-numbers1000-gen3-34",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền sau của số 887 là:",
+    "choices": [
+      "885",
+      "891",
+      "890",
+      "888"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kết quả là 888. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-35": {
+    "id": "g2-numbers1000-gen3-35",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 720 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "700 + 20 + 0",
+      "100 + 30 + 0",
+      "400 + 40 + 8",
+      "100 + 60 + 4"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "720 = 700 + 20 + 0. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-36": {
+    "id": "g2-numbers1000-gen3-36",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 626 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "100 + 20 + 1",
+      "100 + 90 + 7",
+      "600 + 10 + 1",
+      "600 + 20 + 6"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "626 = 600 + 20 + 6. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-37": {
+    "id": "g2-numbers1000-gen3-37",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 4 trăm, 0 chục và 2 đơn vị được viết là:",
+    "choices": [
+      "406",
+      "423",
+      "371",
+      "402"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "4 trăm + 0 chục + 2 đơn vị = 402. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-38": {
+    "id": "g2-numbers1000-gen3-38",
+    "topicId": "g2-numbers1000",
+    "question": "So sánh: 245 ... 253",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 245 < 253. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-39": {
+    "id": "g2-numbers1000-gen3-39",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền sau của số 562 là:",
+    "choices": [
+      "563",
+      "564",
+      "566",
+      "565"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Kết quả là 563. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-40": {
+    "id": "g2-numbers1000-gen3-40",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền trước của số 546 là:",
+    "choices": [
+      "546",
+      "547",
+      "545",
+      "543"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Kết quả là 545. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-41": {
+    "id": "g2-numbers1000-gen3-41",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 150 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "100 + 50 + 0",
+      "100 + 50 + 3",
+      "800 + 20 + 3",
+      "800 + 10 + 6"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "150 = 100 + 50 + 0. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-42": {
+    "id": "g2-numbers1000-gen3-42",
+    "topicId": "g2-numbers1000",
+    "question": "So sánh: 965 ... 450",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 965 > 450. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-43": {
+    "id": "g2-numbers1000-gen3-43",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 9 trăm, 9 chục và 1 đơn vị được viết là:",
+    "choices": [
+      "991",
+      "1016",
+      "1005",
+      "978"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "9 trăm + 9 chục + 1 đơn vị = 991. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-44": {
+    "id": "g2-numbers1000-gen3-44",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 5 trăm, 1 chục và 7 đơn vị được viết là:",
+    "choices": [
+      "516",
+      "517",
+      "514",
+      "533"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "5 trăm + 1 chục + 7 đơn vị = 517. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-45": {
+    "id": "g2-numbers1000-gen3-45",
+    "topicId": "g2-numbers1000",
+    "question": "So sánh: 937 ... 889",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 937 > 889. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-46": {
+    "id": "g2-numbers1000-gen3-46",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 6 trăm, 1 chục và 7 đơn vị được viết là:",
+    "choices": [
+      "652",
+      "617",
+      "582",
+      "639"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "6 trăm + 1 chục + 7 đơn vị = 617. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-47": {
+    "id": "g2-numbers1000-gen3-47",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 417 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "400 + 60 + 1",
+      "700 + 40 + 8",
+      "400 + 10 + 7",
+      "400 + 80 + 4"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "417 = 400 + 10 + 7. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-48": {
+    "id": "g2-numbers1000-gen3-48",
+    "topicId": "g2-numbers1000",
+    "question": "So sánh: 227 ... 682",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 227 < 682. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-49": {
+    "id": "g2-numbers1000-gen3-49",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 9 trăm, 4 chục và 8 đơn vị được viết là:",
+    "choices": [
+      "971",
+      "981",
+      "909",
+      "948"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "9 trăm + 4 chục + 8 đơn vị = 948. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-50": {
+    "id": "g2-numbers1000-gen3-50",
+    "topicId": "g2-numbers1000",
+    "question": "So sánh: 692 ... 730",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 692 < 730. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-51": {
+    "id": "g2-numbers1000-gen3-51",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 402 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "500 + 70 + 5",
+      "700 + 90 + 1",
+      "400 + 0 + 2",
+      "100 + 30 + 2"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "402 = 400 + 0 + 2. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-52": {
+    "id": "g2-numbers1000-gen3-52",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 788 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "300 + 30 + 9",
+      "200 + 60 + 1",
+      "700 + 80 + 8",
+      "500 + 90 + 4"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "788 = 700 + 80 + 8. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-53": {
+    "id": "g2-numbers1000-gen3-53",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền trước của số 136 là:",
+    "choices": [
+      "133",
+      "132",
+      "135",
+      "134"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Kết quả là 135. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-54": {
+    "id": "g2-numbers1000-gen3-54",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền sau của số 216 là:",
+    "choices": [
+      "214",
+      "216",
+      "220",
+      "217"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kết quả là 217. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-55": {
+    "id": "g2-numbers1000-gen3-55",
+    "topicId": "g2-numbers1000",
+    "question": "So sánh: 876 ... 275",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 876 > 275. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-56": {
+    "id": "g2-numbers1000-gen3-56",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền sau của số 278 là:",
+    "choices": [
+      "282",
+      "280",
+      "278",
+      "279"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kết quả là 279. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-57": {
+    "id": "g2-numbers1000-gen3-57",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền trước của số 158 là:",
+    "choices": [
+      "159",
+      "160",
+      "157",
+      "154"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Kết quả là 157. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-58": {
+    "id": "g2-numbers1000-gen3-58",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền sau của số 702 là:",
+    "choices": [
+      "706",
+      "700",
+      "704",
+      "703"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kết quả là 703. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-59": {
+    "id": "g2-numbers1000-gen3-59",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 8 trăm, 1 chục và 1 đơn vị được viết là:",
+    "choices": [
+      "861",
+      "842",
+      "816",
+      "811"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "8 trăm + 1 chục + 1 đơn vị = 811. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-60": {
+    "id": "g2-numbers1000-gen3-60",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền trước của số 228 là:",
+    "choices": [
+      "229",
+      "225",
+      "226",
+      "227"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kết quả là 227. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-61": {
+    "id": "g2-numbers1000-gen3-61",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 1 trăm, 7 chục và 8 đơn vị được viết là:",
+    "choices": [
+      "178",
+      "158",
+      "143",
+      "197"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "1 trăm + 7 chục + 8 đơn vị = 178. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-62": {
+    "id": "g2-numbers1000-gen3-62",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 4 trăm, 9 chục và 7 đơn vị được viết là:",
+    "choices": [
+      "494",
+      "497",
+      "547",
+      "510"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "4 trăm + 9 chục + 7 đơn vị = 497. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-63": {
+    "id": "g2-numbers1000-gen3-63",
+    "topicId": "g2-numbers1000",
+    "question": "So sánh: 923 ... 983",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 923 < 983. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-64": {
+    "id": "g2-numbers1000-gen3-64",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền sau của số 663 là:",
+    "choices": [
+      "664",
+      "665",
+      "662",
+      "661"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Kết quả là 664. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-65": {
+    "id": "g2-numbers1000-gen3-65",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 393 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "500 + 90 + 6",
+      "300 + 90 + 3",
+      "500 + 60 + 1",
+      "100 + 10 + 5"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "393 = 300 + 90 + 3. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-66": {
+    "id": "g2-numbers1000-gen3-66",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền trước của số 509 là:",
+    "choices": [
+      "506",
+      "508",
+      "507",
+      "505"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Kết quả là 508. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-67": {
+    "id": "g2-numbers1000-gen3-67",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền sau của số 582 là:",
+    "choices": [
+      "584",
+      "581",
+      "582",
+      "583"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kết quả là 583. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-68": {
+    "id": "g2-numbers1000-gen3-68",
+    "topicId": "g2-numbers1000",
+    "question": "So sánh: 873 ... 931",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 873 < 931. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-69": {
+    "id": "g2-numbers1000-gen3-69",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 7 trăm, 8 chục và 6 đơn vị được viết là:",
+    "choices": [
+      "818",
+      "736",
+      "833",
+      "786"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "7 trăm + 8 chục + 6 đơn vị = 786. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-70": {
+    "id": "g2-numbers1000-gen3-70",
+    "topicId": "g2-numbers1000",
+    "question": "So sánh: 172 ... 539",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 172 < 539. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-71": {
+    "id": "g2-numbers1000-gen3-71",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 4 trăm, 7 chục và 1 đơn vị được viết là:",
+    "choices": [
+      "425",
+      "449",
+      "455",
+      "471"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "4 trăm + 7 chục + 1 đơn vị = 471. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-72": {
+    "id": "g2-numbers1000-gen3-72",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền sau của số 247 là:",
+    "choices": [
+      "247",
+      "248",
+      "249",
+      "251"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Kết quả là 248. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-73": {
+    "id": "g2-numbers1000-gen3-73",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 6 trăm, 5 chục và 4 đơn vị được viết là:",
+    "choices": [
+      "636",
+      "621",
+      "654",
+      "607"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "6 trăm + 5 chục + 4 đơn vị = 654. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-74": {
+    "id": "g2-numbers1000-gen3-74",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền sau của số 613 là:",
+    "choices": [
+      "613",
+      "614",
+      "615",
+      "617"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Kết quả là 614. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-75": {
+    "id": "g2-numbers1000-gen3-75",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền trước của số 630 là:",
+    "choices": [
+      "632",
+      "630",
+      "627",
+      "629"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kết quả là 629. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-76": {
+    "id": "g2-numbers1000-gen3-76",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 243 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "700 + 40 + 0",
+      "800 + 90 + 0",
+      "200 + 40 + 3",
+      "400 + 0 + 5"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "243 = 200 + 40 + 3. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-77": {
+    "id": "g2-numbers1000-gen3-77",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 169 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "800 + 0 + 8",
+      "500 + 50 + 7",
+      "800 + 40 + 9",
+      "100 + 60 + 9"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "169 = 100 + 60 + 9. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-78": {
+    "id": "g2-numbers1000-gen3-78",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền sau của số 630 là:",
+    "choices": [
+      "631",
+      "634",
+      "630",
+      "632"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Kết quả là 631. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-79": {
+    "id": "g2-numbers1000-gen3-79",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 8 trăm, 7 chục và 7 đơn vị được viết là:",
+    "choices": [
+      "840",
+      "841",
+      "837",
+      "877"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "8 trăm + 7 chục + 7 đơn vị = 877. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-80": {
+    "id": "g2-numbers1000-gen3-80",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 701 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "800 + 80 + 5",
+      "500 + 40 + 7",
+      "700 + 0 + 1",
+      "200 + 90 + 4"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "701 = 700 + 0 + 1. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-81": {
+    "id": "g2-numbers1000-gen3-81",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 6 trăm, 5 chục và 6 đơn vị được viết là:",
+    "choices": [
+      "656",
+      "645",
+      "678",
+      "702"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "6 trăm + 5 chục + 6 đơn vị = 656. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-82": {
+    "id": "g2-numbers1000-gen3-82",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền trước của số 461 là:",
+    "choices": [
+      "457",
+      "460",
+      "461",
+      "459"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Kết quả là 460. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-83": {
+    "id": "g2-numbers1000-gen3-83",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 4 trăm, 4 chục và 9 đơn vị được viết là:",
+    "choices": [
+      "471",
+      "449",
+      "415",
+      "491"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "4 trăm + 4 chục + 9 đơn vị = 449. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-84": {
+    "id": "g2-numbers1000-gen3-84",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 746 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "700 + 40 + 6",
+      "200 + 60 + 8",
+      "900 + 80 + 7",
+      "800 + 60 + 5"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "746 = 700 + 40 + 6. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-85": {
+    "id": "g2-numbers1000-gen3-85",
+    "topicId": "g2-numbers1000",
+    "question": "So sánh: 943 ... 382",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 943 > 382. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-86": {
+    "id": "g2-numbers1000-gen3-86",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 4 trăm, 9 chục và 2 đơn vị được viết là:",
+    "choices": [
+      "492",
+      "460",
+      "444",
+      "480"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "4 trăm + 9 chục + 2 đơn vị = 492. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-87": {
+    "id": "g2-numbers1000-gen3-87",
+    "topicId": "g2-numbers1000",
+    "question": "So sánh: 993 ... 260",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 993 > 260. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-88": {
+    "id": "g2-numbers1000-gen3-88",
+    "topicId": "g2-numbers1000",
+    "question": "So sánh: 159 ... 608",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 159 < 608. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-89": {
+    "id": "g2-numbers1000-gen3-89",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 924 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "300 + 30 + 1",
+      "700 + 70 + 2",
+      "900 + 20 + 4",
+      "600 + 70 + 3"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "924 = 900 + 20 + 4. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-90": {
+    "id": "g2-numbers1000-gen3-90",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền trước của số 807 là:",
+    "choices": [
+      "808",
+      "806",
+      "807",
+      "803"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Kết quả là 806. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-91": {
+    "id": "g2-numbers1000-gen3-91",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 808 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "800 + 0 + 8",
+      "500 + 30 + 7",
+      "300 + 80 + 4",
+      "600 + 20 + 0"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "808 = 800 + 0 + 8. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-92": {
+    "id": "g2-numbers1000-gen3-92",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 8 trăm, 7 chục và 1 đơn vị được viết là:",
+    "choices": [
+      "906",
+      "871",
+      "920",
+      "849"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "8 trăm + 7 chục + 1 đơn vị = 871. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-93": {
+    "id": "g2-numbers1000-gen3-93",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 550 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "600 + 50 + 3",
+      "600 + 70 + 0",
+      "800 + 10 + 6",
+      "500 + 50 + 0"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "550 = 500 + 50 + 0. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-94": {
+    "id": "g2-numbers1000-gen3-94",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 6 trăm, 5 chục và 0 đơn vị được viết là:",
+    "choices": [
+      "650",
+      "698",
+      "695",
+      "607"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "6 trăm + 5 chục + 0 đơn vị = 650. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-95": {
+    "id": "g2-numbers1000-gen3-95",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 5 trăm, 9 chục và 1 đơn vị được viết là:",
+    "choices": [
+      "628",
+      "573",
+      "591",
+      "641"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "5 trăm + 9 chục + 1 đơn vị = 591. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-96": {
+    "id": "g2-numbers1000-gen3-96",
+    "topicId": "g2-numbers1000",
+    "question": "Số liền trước của số 141 là:",
+    "choices": [
+      "140",
+      "139",
+      "142",
+      "138"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Kết quả là 140. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-97": {
+    "id": "g2-numbers1000-gen3-97",
+    "topicId": "g2-numbers1000",
+    "question": "Số gồm 1 trăm, 8 chục và 9 đơn vị được viết là:",
+    "choices": [
+      "162",
+      "160",
+      "189",
+      "164"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "1 trăm + 8 chục + 9 đơn vị = 189. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-98": {
+    "id": "g2-numbers1000-gen3-98",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 666 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "200 + 10 + 5",
+      "600 + 60 + 6",
+      "400 + 40 + 5",
+      "800 + 0 + 5"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "666 = 600 + 60 + 6. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-99": {
+    "id": "g2-numbers1000-gen3-99",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 638 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "100 + 0 + 4",
+      "100 + 30 + 1",
+      "600 + 30 + 6",
+      "600 + 30 + 8"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "638 = 600 + 30 + 8. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-numbers1000-gen3-100": {
+    "id": "g2-numbers1000-gen3-100",
+    "topicId": "g2-numbers1000",
+    "question": "Phân tích số 107 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "800 + 0 + 8",
+      "200 + 30 + 3",
+      "100 + 0 + 7",
+      "200 + 10 + 3"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "107 = 100 + 0 + 7. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-1": {
+    "id": "g2-addsub1000-gen3-1",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 865 - 629",
+    "choices": [
+      "242",
+      "222",
+      "236",
+      "246"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 236 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-2": {
+    "id": "g2-addsub1000-gen3-2",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 471 + 153",
+    "choices": [
+      "636",
+      "624",
+      "631",
+      "630"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 1 + 3 = 4, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 624 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-3": {
+    "id": "g2-addsub1000-gen3-3",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 790 + 121",
+    "choices": [
+      "907",
+      "902",
+      "916",
+      "911"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 0 + 1 = 1, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 911 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-4": {
+    "id": "g2-addsub1000-gen3-4",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 611 - 142",
+    "choices": [
+      "482",
+      "469",
+      "459",
+      "458"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 469 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-5": {
+    "id": "g2-addsub1000-gen3-5",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 558 - 241 = ?",
+    "choices": [
+      "303",
+      "317",
+      "322",
+      "330"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 317 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-6": {
+    "id": "g2-addsub1000-gen3-6",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 660 - 289",
+    "choices": [
+      "362",
+      "382",
+      "371",
+      "385"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 371 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-7": {
+    "id": "g2-addsub1000-gen3-7",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 255 + 437",
+    "choices": [
+      "692",
+      "679",
+      "689",
+      "697"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 5 + 7 = 12, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 692 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-8": {
+    "id": "g2-addsub1000-gen3-8",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 772 - 693 = ?",
+    "choices": [
+      "91",
+      "81",
+      "79",
+      "74"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 79 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-9": {
+    "id": "g2-addsub1000-gen3-9",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 220 + 601",
+    "choices": [
+      "817",
+      "811",
+      "821",
+      "807"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 0 + 1 = 1, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 821 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-10": {
+    "id": "g2-addsub1000-gen3-10",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 197 + 411",
+    "choices": [
+      "594",
+      "608",
+      "611",
+      "619"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 7 + 1 = 8, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 608 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-11": {
+    "id": "g2-addsub1000-gen3-11",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 254 + 513",
+    "choices": [
+      "767",
+      "763",
+      "765",
+      "753"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 4 + 3 = 7, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 767 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-12": {
+    "id": "g2-addsub1000-gen3-12",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 518 - 318 = ?",
+    "choices": [
+      "198",
+      "200",
+      "188",
+      "196"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 200 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-13": {
+    "id": "g2-addsub1000-gen3-13",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 625 - 508 = ?",
+    "choices": [
+      "113",
+      "112",
+      "123",
+      "117"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 117 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-14": {
+    "id": "g2-addsub1000-gen3-14",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 919 - 356",
+    "choices": [
+      "562",
+      "577",
+      "574",
+      "563"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 563 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-15": {
+    "id": "g2-addsub1000-gen3-15",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 438 + 477 = ?",
+    "choices": [
+      "921",
+      "908",
+      "915",
+      "914"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 8 + 7 = 15, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 915 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-16": {
+    "id": "g2-addsub1000-gen3-16",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 777 - 101",
+    "choices": [
+      "688",
+      "679",
+      "664",
+      "676"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 676 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-17": {
+    "id": "g2-addsub1000-gen3-17",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 932 - 765",
+    "choices": [
+      "163",
+      "167",
+      "162",
+      "178"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 167 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-18": {
+    "id": "g2-addsub1000-gen3-18",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 312 + 378",
+    "choices": [
+      "690",
+      "694",
+      "698",
+      "702"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 2 + 8 = 10, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 690 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-19": {
+    "id": "g2-addsub1000-gen3-19",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 359 + 181 = ?",
+    "choices": [
+      "540",
+      "555",
+      "529",
+      "542"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 9 + 1 = 10, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 540 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-20": {
+    "id": "g2-addsub1000-gen3-20",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 837 - 505 = ?",
+    "choices": [
+      "323",
+      "329",
+      "334",
+      "332"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 332 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-21": {
+    "id": "g2-addsub1000-gen3-21",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 732 - 285 = ?",
+    "choices": [
+      "453",
+      "460",
+      "447",
+      "446"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 447 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-22": {
+    "id": "g2-addsub1000-gen3-22",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 474 - 119",
+    "choices": [
+      "356",
+      "365",
+      "357",
+      "355"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 355 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-23": {
+    "id": "g2-addsub1000-gen3-23",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 737 - 154",
+    "choices": [
+      "587",
+      "583",
+      "591",
+      "588"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 583 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-24": {
+    "id": "g2-addsub1000-gen3-24",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 686 - 647 = ?",
+    "choices": [
+      "32",
+      "48",
+      "39",
+      "45"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 39 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-25": {
+    "id": "g2-addsub1000-gen3-25",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 501 + 249",
+    "choices": [
+      "750",
+      "737",
+      "757",
+      "761"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 1 + 9 = 10, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 750 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-26": {
+    "id": "g2-addsub1000-gen3-26",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 625 - 171 = ?",
+    "choices": [
+      "443",
+      "454",
+      "455",
+      "441"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 454 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-27": {
+    "id": "g2-addsub1000-gen3-27",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 210 + 538 = ?",
+    "choices": [
+      "748",
+      "740",
+      "743",
+      "739"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 0 + 8 = 8, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 748 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-28": {
+    "id": "g2-addsub1000-gen3-28",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 668 + 260 = ?",
+    "choices": [
+      "940",
+      "939",
+      "924",
+      "928"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 8 + 0 = 8, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 928 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-29": {
+    "id": "g2-addsub1000-gen3-29",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 430 - 107 = ?",
+    "choices": [
+      "330",
+      "327",
+      "323",
+      "332"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 323 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-30": {
+    "id": "g2-addsub1000-gen3-30",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 784 - 196 = ?",
+    "choices": [
+      "588",
+      "575",
+      "578",
+      "590"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 588 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-31": {
+    "id": "g2-addsub1000-gen3-31",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 816 - 162 = ?",
+    "choices": [
+      "661",
+      "644",
+      "647",
+      "654"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 654 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-32": {
+    "id": "g2-addsub1000-gen3-32",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 493 - 281",
+    "choices": [
+      "222",
+      "223",
+      "208",
+      "212"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 212 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-33": {
+    "id": "g2-addsub1000-gen3-33",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 795 - 265",
+    "choices": [
+      "535",
+      "522",
+      "542",
+      "530"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 530 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-34": {
+    "id": "g2-addsub1000-gen3-34",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 947 - 114",
+    "choices": [
+      "841",
+      "837",
+      "844",
+      "833"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 833 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-35": {
+    "id": "g2-addsub1000-gen3-35",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 938 - 778",
+    "choices": [
+      "155",
+      "170",
+      "160",
+      "175"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 160 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-36": {
+    "id": "g2-addsub1000-gen3-36",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 504 - 438 = ?",
+    "choices": [
+      "66",
+      "71",
+      "56",
+      "72"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 66 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-37": {
+    "id": "g2-addsub1000-gen3-37",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 505 + 237 = ?",
+    "choices": [
+      "737",
+      "745",
+      "729",
+      "742"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 5 + 7 = 12, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 742 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-38": {
+    "id": "g2-addsub1000-gen3-38",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 339 + 159",
+    "choices": [
+      "490",
+      "498",
+      "504",
+      "483"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 9 + 9 = 18, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 498 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-39": {
+    "id": "g2-addsub1000-gen3-39",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 530 - 130",
+    "choices": [
+      "387",
+      "410",
+      "400",
+      "388"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 400 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-40": {
+    "id": "g2-addsub1000-gen3-40",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 900 - 224",
+    "choices": [
+      "676",
+      "688",
+      "661",
+      "680"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 676 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-41": {
+    "id": "g2-addsub1000-gen3-41",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 272 + 128 = ?",
+    "choices": [
+      "409",
+      "400",
+      "407",
+      "387"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 2 + 8 = 10, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 400 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-42": {
+    "id": "g2-addsub1000-gen3-42",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 687 + 191 = ?",
+    "choices": [
+      "878",
+      "881",
+      "874",
+      "887"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 7 + 1 = 8, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 878 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-43": {
+    "id": "g2-addsub1000-gen3-43",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 711 - 677 = ?",
+    "choices": [
+      "33",
+      "27",
+      "21",
+      "34"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 34 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-44": {
+    "id": "g2-addsub1000-gen3-44",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 910 - 770 = ?",
+    "choices": [
+      "146",
+      "140",
+      "131",
+      "154"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 140 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-45": {
+    "id": "g2-addsub1000-gen3-45",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 218 + 152",
+    "choices": [
+      "385",
+      "374",
+      "370",
+      "375"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 8 + 2 = 10, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 370 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-46": {
+    "id": "g2-addsub1000-gen3-46",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 319 - 206 = ?",
+    "choices": [
+      "112",
+      "113",
+      "99",
+      "121"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 113 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-47": {
+    "id": "g2-addsub1000-gen3-47",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 559 - 155 = ?",
+    "choices": [
+      "418",
+      "404",
+      "410",
+      "393"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 404 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-48": {
+    "id": "g2-addsub1000-gen3-48",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 379 + 439",
+    "choices": [
+      "827",
+      "803",
+      "818",
+      "831"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 9 + 9 = 18, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 818 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-49": {
+    "id": "g2-addsub1000-gen3-49",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 700 + 160 = ?",
+    "choices": [
+      "848",
+      "860",
+      "852",
+      "853"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 0 + 0 = 0, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 860 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-50": {
+    "id": "g2-addsub1000-gen3-50",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 777 - 402",
+    "choices": [
+      "375",
+      "365",
+      "374",
+      "378"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 375 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-51": {
+    "id": "g2-addsub1000-gen3-51",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 387 - 292 = ?",
+    "choices": [
+      "83",
+      "95",
+      "108",
+      "88"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 95 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-52": {
+    "id": "g2-addsub1000-gen3-52",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 666 - 205 = ?",
+    "choices": [
+      "449",
+      "452",
+      "466",
+      "461"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 461 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-53": {
+    "id": "g2-addsub1000-gen3-53",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 413 - 147",
+    "choices": [
+      "278",
+      "269",
+      "266",
+      "251"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 266 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-54": {
+    "id": "g2-addsub1000-gen3-54",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 342 + 191 = ?",
+    "choices": [
+      "531",
+      "548",
+      "533",
+      "532"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 2 + 1 = 3, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 533 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-55": {
+    "id": "g2-addsub1000-gen3-55",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 609 + 243 = ?",
+    "choices": [
+      "847",
+      "858",
+      "863",
+      "852"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 9 + 3 = 12, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 852 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-56": {
+    "id": "g2-addsub1000-gen3-56",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 473 - 365",
+    "choices": [
+      "101",
+      "97",
+      "108",
+      "118"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 108 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-57": {
+    "id": "g2-addsub1000-gen3-57",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 507 + 415",
+    "choices": [
+      "936",
+      "922",
+      "920",
+      "915"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 7 + 5 = 12, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 922 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-58": {
+    "id": "g2-addsub1000-gen3-58",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 662 - 321",
+    "choices": [
+      "341",
+      "329",
+      "345",
+      "354"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 341 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-59": {
+    "id": "g2-addsub1000-gen3-59",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 163 + 416 = ?",
+    "choices": [
+      "568",
+      "589",
+      "577",
+      "579"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 3 + 6 = 9, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 579 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-60": {
+    "id": "g2-addsub1000-gen3-60",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 470 - 271 = ?",
+    "choices": [
+      "203",
+      "186",
+      "195",
+      "199"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 199 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-61": {
+    "id": "g2-addsub1000-gen3-61",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 572 - 185 = ?",
+    "choices": [
+      "387",
+      "374",
+      "393",
+      "398"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 387 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-62": {
+    "id": "g2-addsub1000-gen3-62",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 429 - 374",
+    "choices": [
+      "55",
+      "70",
+      "69",
+      "44"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 55 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-63": {
+    "id": "g2-addsub1000-gen3-63",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 359 + 128",
+    "choices": [
+      "491",
+      "487",
+      "474",
+      "498"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 9 + 8 = 17, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 487 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-64": {
+    "id": "g2-addsub1000-gen3-64",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 658 - 300 = ?",
+    "choices": [
+      "353",
+      "358",
+      "366",
+      "347"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 358 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-65": {
+    "id": "g2-addsub1000-gen3-65",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 222 + 108",
+    "choices": [
+      "323",
+      "338",
+      "328",
+      "330"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 2 + 8 = 10, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 330 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-66": {
+    "id": "g2-addsub1000-gen3-66",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 563 - 176 = ?",
+    "choices": [
+      "388",
+      "387",
+      "386",
+      "390"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 387 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-67": {
+    "id": "g2-addsub1000-gen3-67",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 509 + 251 = ?",
+    "choices": [
+      "760",
+      "763",
+      "762",
+      "772"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 9 + 1 = 10, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 760 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-68": {
+    "id": "g2-addsub1000-gen3-68",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 484 - 230",
+    "choices": [
+      "254",
+      "243",
+      "250",
+      "242"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 254 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-69": {
+    "id": "g2-addsub1000-gen3-69",
+    "topicId": "g2-addsub1000",
+    "question": "Đặt tính rồi tính: 814 - 231",
+    "choices": [
+      "577",
+      "592",
+      "583",
+      "593"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 583 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-addsub1000-gen3-70": {
+    "id": "g2-addsub1000-gen3-70",
+    "topicId": "g2-addsub1000",
+    "question": "Tính: 739 + 177 = ?",
+    "choices": [
+      "913",
+      "916",
+      "920",
+      "910"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 9 + 7 = 16, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 916 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-1": {
+    "id": "g2-measureadv-gen3-1",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 6000 m = ... km",
+    "choices": [
+      "5",
+      "8",
+      "7",
+      "6"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Ta biết 1 km = 1000 m.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 6. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-2": {
+    "id": "g2-measureadv-gen3-2",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 1000 m = ... km",
+    "choices": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Ta biết 1 km = 1000 m.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 1. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-3": {
+    "id": "g2-measureadv-gen3-3",
+    "topicId": "g2-measureadv",
+    "question": "Cây cột nhà thường có dạng hình khối nào?",
+    "choices": [
+      "khối trụ",
+      "khối cầu",
+      "hình tứ giác",
+      "khối lập phương"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Cây cột nhà có dạng khối trụ. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-4": {
+    "id": "g2-measureadv-gen3-4",
+    "topicId": "g2-measureadv",
+    "question": "So sánh giá trị: tờ 100 đồng và tờ 200 đồng, tờ nào có mệnh giá lớn hơn?",
+    "choices": [
+      "Tờ 100 đồng",
+      "Tờ 200 đồng",
+      "Bằng nhau",
+      "Tờ 500 đồng"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "200 > 100 nên tờ 200 đồng có giá trị lớn hơn. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-5": {
+    "id": "g2-measureadv-gen3-5",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 7 km = ... m",
+    "choices": [
+      "6897",
+      "7000",
+      "7157",
+      "7297"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Ta biết 1 km = 1000 m.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 7000. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-6": {
+    "id": "g2-measureadv-gen3-6",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 9000 m = ... km",
+    "choices": [
+      "9",
+      "11",
+      "10",
+      "12"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Ta biết 1 km = 1000 m.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 9. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-7": {
+    "id": "g2-measureadv-gen3-7",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 300 cm = ... m",
+    "choices": [
+      "3",
+      "4",
+      "6",
+      "2"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Ta biết 1 m = 100 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 3. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-8": {
+    "id": "g2-measureadv-gen3-8",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 1 m = ... cm",
+    "choices": [
+      "124",
+      "100",
+      "113",
+      "88"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Ta biết 1 m = 100 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 100. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-9": {
+    "id": "g2-measureadv-gen3-9",
+    "topicId": "g2-measureadv",
+    "question": "Viên gạch lát nền thường có dạng hình khối nào?",
+    "choices": [
+      "hình tứ giác",
+      "khối trụ",
+      "khối lập phương",
+      "khối cầu"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Viên gạch lát nền có dạng hình tứ giác. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-10": {
+    "id": "g2-measureadv-gen3-10",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 4000 m = ... km",
+    "choices": [
+      "4",
+      "1",
+      "5",
+      "7"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Ta biết 1 km = 1000 m.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 4. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-11": {
+    "id": "g2-measureadv-gen3-11",
+    "topicId": "g2-measureadv",
+    "question": "Con gà cân nặng 2kg, con vịt nhẹ hơn gà 1kg. Hỏi con vịt cân nặng bao nhiêu?",
+    "choices": [
+      "7kg",
+      "4kg",
+      "1kg",
+      "8kg"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "2 - 1 = 1 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-12": {
+    "id": "g2-measureadv-gen3-12",
+    "topicId": "g2-measureadv",
+    "question": "Viên bi thường có dạng hình khối nào?",
+    "choices": [
+      "hình tứ giác",
+      "khối cầu",
+      "khối lập phương",
+      "khối trụ"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Viên bi có dạng khối cầu. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-13": {
+    "id": "g2-measureadv-gen3-13",
+    "topicId": "g2-measureadv",
+    "question": "So sánh giá trị: tờ 200 đồng và tờ 100 đồng, tờ nào có mệnh giá lớn hơn?",
+    "choices": [
+      "Tờ 200 đồng",
+      "Tờ 100 đồng",
+      "Bằng nhau",
+      "Tờ 500 đồng"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "200 > 100 nên tờ 200 đồng có giá trị lớn hơn. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-14": {
+    "id": "g2-measureadv-gen3-14",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 500 cm = ... m",
+    "choices": [
+      "2",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Ta biết 1 m = 100 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 5. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-15": {
+    "id": "g2-measureadv-gen3-15",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 2000 m = ... km",
+    "choices": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Ta biết 1 km = 1000 m.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 2. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-16": {
+    "id": "g2-measureadv-gen3-16",
+    "topicId": "g2-measureadv",
+    "question": "Lon nước ngọt thường có dạng hình khối nào?",
+    "choices": [
+      "khối lập phương",
+      "khối trụ",
+      "hình tứ giác",
+      "khối cầu"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Lon nước ngọt có dạng khối trụ. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-17": {
+    "id": "g2-measureadv-gen3-17",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 4 km = ... m",
+    "choices": [
+      "3712",
+      "3738",
+      "4000",
+      "4203"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Ta biết 1 km = 1000 m.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 4000. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-18": {
+    "id": "g2-measureadv-gen3-18",
+    "topicId": "g2-measureadv",
+    "question": "So sánh giá trị: tờ 200 đồng và tờ 500 đồng, tờ nào có mệnh giá lớn hơn?",
+    "choices": [
+      "Tờ 200 đồng",
+      "Tờ 500 đồng",
+      "Bằng nhau",
+      "Tờ 1000 đồng"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "500 > 200 nên tờ 500 đồng có giá trị lớn hơn. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-19": {
+    "id": "g2-measureadv-gen3-19",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 6 km = ... m",
+    "choices": [
+      "6285",
+      "6121",
+      "5867",
+      "6000"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Ta biết 1 km = 1000 m.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 6000. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-20": {
+    "id": "g2-measureadv-gen3-20",
+    "topicId": "g2-measureadv",
+    "question": "Mặt bàn học thường có dạng hình khối nào?",
+    "choices": [
+      "khối cầu",
+      "khối trụ",
+      "khối lập phương",
+      "hình tứ giác"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Mặt bàn học có dạng hình tứ giác. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-21": {
+    "id": "g2-measureadv-gen3-21",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 2 km = ... m",
+    "choices": [
+      "2021",
+      "2000",
+      "1923",
+      "2135"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Ta biết 1 km = 1000 m.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 2000. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-22": {
+    "id": "g2-measureadv-gen3-22",
+    "topicId": "g2-measureadv",
+    "question": "Con lợn cân nặng 21kg, con chó nhẹ hơn lợn 14kg. Hỏi con chó cân nặng bao nhiêu?",
+    "choices": [
+      "7kg",
+      "15kg",
+      "8kg",
+      "12kg"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "21 - 14 = 7 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-23": {
+    "id": "g2-measureadv-gen3-23",
+    "topicId": "g2-measureadv",
+    "question": "Con ngựa cân nặng 189kg, con dê nhẹ hơn ngựa 11kg. Hỏi con dê cân nặng bao nhiêu?",
+    "choices": [
+      "176kg",
+      "183kg",
+      "182kg",
+      "178kg"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "189 - 11 = 178 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-24": {
+    "id": "g2-measureadv-gen3-24",
+    "topicId": "g2-measureadv",
+    "question": "Con lợn cân nặng 43kg, con chó nhẹ hơn lợn 9kg. Hỏi con chó cân nặng bao nhiêu?",
+    "choices": [
+      "35kg",
+      "34kg",
+      "38kg",
+      "39kg"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "43 - 9 = 34 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-25": {
+    "id": "g2-measureadv-gen3-25",
+    "topicId": "g2-measureadv",
+    "question": "Con lợn cân nặng 36kg, con chó nhẹ hơn lợn 8kg. Hỏi con chó cân nặng bao nhiêu?",
+    "choices": [
+      "28kg",
+      "24kg",
+      "27kg",
+      "29kg"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "36 - 8 = 28 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-26": {
+    "id": "g2-measureadv-gen3-26",
+    "topicId": "g2-measureadv",
+    "question": "So sánh giá trị: tờ 100 đồng và tờ 500 đồng, tờ nào có mệnh giá lớn hơn?",
+    "choices": [
+      "Tờ 100 đồng",
+      "Tờ 500 đồng",
+      "Bằng nhau",
+      "Tờ 200 đồng"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "500 > 100 nên tờ 500 đồng có giá trị lớn hơn. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-27": {
+    "id": "g2-measureadv-gen3-27",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 100 cm = ... m",
+    "choices": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Ta biết 1 m = 100 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 1. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-28": {
+    "id": "g2-measureadv-gen3-28",
+    "topicId": "g2-measureadv",
+    "question": "So sánh giá trị: tờ 500 đồng và tờ 100 đồng, tờ nào có mệnh giá lớn hơn?",
+    "choices": [
+      "Tờ 500 đồng",
+      "Tờ 100 đồng",
+      "Bằng nhau",
+      "Tờ 1000 đồng"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "500 > 100 nên tờ 500 đồng có giá trị lớn hơn. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-29": {
+    "id": "g2-measureadv-gen3-29",
+    "topicId": "g2-measureadv",
+    "question": "Con ngựa cân nặng 128kg, con dê nhẹ hơn ngựa 51kg. Hỏi con dê cân nặng bao nhiêu?",
+    "choices": [
+      "78kg",
+      "75kg",
+      "77kg",
+      "83kg"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "128 - 51 = 77 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-30": {
+    "id": "g2-measureadv-gen3-30",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 700 cm = ... m",
+    "choices": [
+      "7",
+      "8",
+      "10",
+      "5"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Ta biết 1 m = 100 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 7. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-31": {
+    "id": "g2-measureadv-gen3-31",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 800 cm = ... m",
+    "choices": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Ta biết 1 m = 100 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 8. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-32": {
+    "id": "g2-measureadv-gen3-32",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 600 cm = ... m",
+    "choices": [
+      "7",
+      "8",
+      "6",
+      "9"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Ta biết 1 m = 100 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 6. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-33": {
+    "id": "g2-measureadv-gen3-33",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 4 m = ... cm",
+    "choices": [
+      "387",
+      "378",
+      "400",
+      "415"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Ta biết 1 m = 100 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 400. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-34": {
+    "id": "g2-measureadv-gen3-34",
+    "topicId": "g2-measureadv",
+    "question": "Con trâu cân nặng 224kg, con bò nhẹ hơn trâu 88kg. Hỏi con bò cân nặng bao nhiêu?",
+    "choices": [
+      "136kg",
+      "128kg",
+      "140kg",
+      "141kg"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "224 - 88 = 136 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-35": {
+    "id": "g2-measureadv-gen3-35",
+    "topicId": "g2-measureadv",
+    "question": "So sánh giá trị: tờ 500 đồng và tờ 200 đồng, tờ nào có mệnh giá lớn hơn?",
+    "choices": [
+      "Tờ 500 đồng",
+      "Tờ 200 đồng",
+      "Bằng nhau",
+      "Tờ 1000 đồng"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "500 > 200 nên tờ 500 đồng có giá trị lớn hơn. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-36": {
+    "id": "g2-measureadv-gen3-36",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 3 km = ... m",
+    "choices": [
+      "2771",
+      "2966",
+      "2824",
+      "3000"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Ta biết 1 km = 1000 m.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 3000. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-37": {
+    "id": "g2-measureadv-gen3-37",
+    "topicId": "g2-measureadv",
+    "question": "Con lợn cân nặng 49kg, con chó nhẹ hơn lợn 6kg. Hỏi con chó cân nặng bao nhiêu?",
+    "choices": [
+      "49kg",
+      "43kg",
+      "41kg",
+      "46kg"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "49 - 6 = 43 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-38": {
+    "id": "g2-measureadv-gen3-38",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 6 m = ... cm",
+    "choices": [
+      "629",
+      "615",
+      "592",
+      "600"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Ta biết 1 m = 100 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 600. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-39": {
+    "id": "g2-measureadv-gen3-39",
+    "topicId": "g2-measureadv",
+    "question": "Con ngựa cân nặng 162kg, con dê nhẹ hơn ngựa 43kg. Hỏi con dê cân nặng bao nhiêu?",
+    "choices": [
+      "121kg",
+      "124kg",
+      "119kg",
+      "117kg"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "162 - 43 = 119 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-40": {
+    "id": "g2-measureadv-gen3-40",
+    "topicId": "g2-measureadv",
+    "question": "So sánh giá trị: tờ 1000 đồng và tờ 200 đồng, tờ nào có mệnh giá lớn hơn?",
+    "choices": [
+      "Tờ 1000 đồng",
+      "Tờ 200 đồng",
+      "Bằng nhau",
+      "Tờ 100 đồng"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "1000 > 200 nên tờ 1000 đồng có giá trị lớn hơn. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-41": {
+    "id": "g2-measureadv-gen3-41",
+    "topicId": "g2-measureadv",
+    "question": "Con ngựa cân nặng 80kg, con dê nhẹ hơn ngựa 37kg. Hỏi con dê cân nặng bao nhiêu?",
+    "choices": [
+      "46kg",
+      "47kg",
+      "49kg",
+      "43kg"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "80 - 37 = 43 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-42": {
+    "id": "g2-measureadv-gen3-42",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 7 m = ... cm",
+    "choices": [
+      "686",
+      "700",
+      "720",
+      "696"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Ta biết 1 m = 100 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 700. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-43": {
+    "id": "g2-measureadv-gen3-43",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 9 m = ... cm",
+    "choices": [
+      "922",
+      "924",
+      "914",
+      "900"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Ta biết 1 m = 100 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 900. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-44": {
+    "id": "g2-measureadv-gen3-44",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 9 km = ... m",
+    "choices": [
+      "9000",
+      "8887",
+      "9188",
+      "8815"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Ta biết 1 km = 1000 m.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 9000. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-45": {
+    "id": "g2-measureadv-gen3-45",
+    "topicId": "g2-measureadv",
+    "question": "Quả bóng đá thường có dạng hình khối nào?",
+    "choices": [
+      "khối trụ",
+      "khối lập phương",
+      "khối cầu",
+      "hình tứ giác"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Quả bóng đá có dạng khối cầu. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-46": {
+    "id": "g2-measureadv-gen3-46",
+    "topicId": "g2-measureadv",
+    "question": "Quả địa cầu thường có dạng hình khối nào?",
+    "choices": [
+      "khối cầu",
+      "khối lập phương",
+      "hình tứ giác",
+      "khối trụ"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Quả địa cầu có dạng khối cầu. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-47": {
+    "id": "g2-measureadv-gen3-47",
+    "topicId": "g2-measureadv",
+    "question": "Con gà cân nặng 3kg, con vịt nhẹ hơn gà 1kg. Hỏi con vịt cân nặng bao nhiêu?",
+    "choices": [
+      "2kg",
+      "5kg",
+      "6kg",
+      "10kg"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "3 - 1 = 2 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-48": {
+    "id": "g2-measureadv-gen3-48",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 8 km = ... m",
+    "choices": [
+      "8017",
+      "7785",
+      "7892",
+      "8000"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Ta biết 1 km = 1000 m.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 8000. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-49": {
+    "id": "g2-measureadv-gen3-49",
+    "topicId": "g2-measureadv",
+    "question": "So sánh giá trị: tờ 100 đồng và tờ 1000 đồng, tờ nào có mệnh giá lớn hơn?",
+    "choices": [
+      "Tờ 100 đồng",
+      "Tờ 1000 đồng",
+      "Bằng nhau",
+      "Tờ 200 đồng"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "1000 > 100 nên tờ 1000 đồng có giá trị lớn hơn. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-50": {
+    "id": "g2-measureadv-gen3-50",
+    "topicId": "g2-measureadv",
+    "question": "Con trâu cân nặng 379kg, con bò nhẹ hơn trâu 99kg. Hỏi con bò cân nặng bao nhiêu?",
+    "choices": [
+      "283kg",
+      "280kg",
+      "288kg",
+      "279kg"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "379 - 99 = 280 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-51": {
+    "id": "g2-measureadv-gen3-51",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 1 km = ... m",
+    "choices": [
+      "705",
+      "1000",
+      "1024",
+      "1127"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Ta biết 1 km = 1000 m.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 1000. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-52": {
+    "id": "g2-measureadv-gen3-52",
+    "topicId": "g2-measureadv",
+    "question": "Con trâu cân nặng 186kg, con bò nhẹ hơn trâu 81kg. Hỏi con bò cân nặng bao nhiêu?",
+    "choices": [
+      "113kg",
+      "108kg",
+      "105kg",
+      "102kg"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "186 - 81 = 105 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-53": {
+    "id": "g2-measureadv-gen3-53",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 2 m = ... cm",
+    "choices": [
+      "218",
+      "188",
+      "180",
+      "200"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Ta biết 1 m = 100 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 200. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-54": {
+    "id": "g2-measureadv-gen3-54",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 7000 m = ... km",
+    "choices": [
+      "6",
+      "7",
+      "4",
+      "10"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Ta biết 1 km = 1000 m.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 7. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-55": {
+    "id": "g2-measureadv-gen3-55",
+    "topicId": "g2-measureadv",
+    "question": "Con lợn cân nặng 48kg, con chó nhẹ hơn lợn 8kg. Hỏi con chó cân nặng bao nhiêu?",
+    "choices": [
+      "44kg",
+      "40kg",
+      "36kg",
+      "43kg"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "48 - 8 = 40 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-56": {
+    "id": "g2-measureadv-gen3-56",
+    "topicId": "g2-measureadv",
+    "question": "Đổi đơn vị: 3 m = ... cm",
+    "choices": [
+      "270",
+      "296",
+      "300",
+      "295"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Ta biết 1 m = 100 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 300. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-57": {
+    "id": "g2-measureadv-gen3-57",
+    "topicId": "g2-measureadv",
+    "question": "So sánh giá trị: tờ 1000 đồng và tờ 500 đồng, tờ nào có mệnh giá lớn hơn?",
+    "choices": [
+      "Tờ 1000 đồng",
+      "Tờ 500 đồng",
+      "Bằng nhau",
+      "Tờ 100 đồng"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "1000 > 500 nên tờ 1000 đồng có giá trị lớn hơn. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-58": {
+    "id": "g2-measureadv-gen3-58",
+    "topicId": "g2-measureadv",
+    "question": "Ô cửa sổ thường có dạng hình khối nào?",
+    "choices": [
+      "khối lập phương",
+      "khối trụ",
+      "khối cầu",
+      "hình tứ giác"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Ô cửa sổ có dạng hình tứ giác. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-59": {
+    "id": "g2-measureadv-gen3-59",
+    "topicId": "g2-measureadv",
+    "question": "Con trâu cân nặng 287kg, con bò nhẹ hơn trâu 26kg. Hỏi con bò cân nặng bao nhiêu?",
+    "choices": [
+      "264kg",
+      "253kg",
+      "261kg",
+      "268kg"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "287 - 26 = 261 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-measureadv-gen3-60": {
+    "id": "g2-measureadv-gen3-60",
+    "topicId": "g2-measureadv",
+    "question": "Con lợn cân nặng 27kg, con chó nhẹ hơn lợn 13kg. Hỏi con chó cân nặng bao nhiêu?",
+    "choices": [
+      "13kg",
+      "14kg",
+      "7kg",
+      "6kg"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "27 - 13 = 14 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-1": {
+    "id": "g2-wordmuldiv-gen3-1",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 12 quyển sách chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu quyển sách?",
+    "choices": [
+      "9 quyển sách",
+      "5 quyển sách",
+      "8 quyển sách",
+      "6 quyển sách"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "12 : 2 = 6 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-2": {
+    "id": "g2-wordmuldiv-gen3-2",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 24 quả bóng bay chia đều cho 3 bạn. Hỏi mỗi bạn được bao nhiêu quả bóng bay?",
+    "choices": [
+      "5 quả bóng bay",
+      "9 quả bóng bay",
+      "8 quả bóng bay",
+      "10 quả bóng bay"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "24 : 3 = 8 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-3": {
+    "id": "g2-wordmuldiv-gen3-3",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 63 quyển sách chia đều cho 9 bạn. Hỏi mỗi bạn được bao nhiêu quyển sách?",
+    "choices": [
+      "4 quyển sách",
+      "9 quyển sách",
+      "5 quyển sách",
+      "7 quyển sách"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "63 : 9 = 7 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-4": {
+    "id": "g2-wordmuldiv-gen3-4",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 24 bông hoa chia đều cho 3 bạn. Hỏi mỗi bạn được bao nhiêu bông hoa?",
+    "choices": [
+      "9 bông hoa",
+      "10 bông hoa",
+      "7 bông hoa",
+      "8 bông hoa"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "24 : 3 = 8 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-5": {
+    "id": "g2-wordmuldiv-gen3-5",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 18 cây bút chia đều cho 3 bạn. Hỏi mỗi bạn được bao nhiêu cây bút?",
+    "choices": [
+      "7 cây bút",
+      "6 cây bút",
+      "4 cây bút",
+      "5 cây bút"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "18 : 3 = 6 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-6": {
+    "id": "g2-wordmuldiv-gen3-6",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi thùng có 5 quả dâu 🍓. Có 2 thùng. Hỏi tất cả có bao nhiêu dâu?",
+    "choices": [
+      "13",
+      "6",
+      "10",
+      "5"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Có 2 thùng, mỗi thùng 5 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "5 × 2 = 10 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-7": {
+    "id": "g2-wordmuldiv-gen3-7",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 24 cái bánh chia đều cho 6 bạn. Hỏi mỗi bạn được bao nhiêu cái bánh?",
+    "choices": [
+      "4 cái bánh",
+      "6 cái bánh",
+      "3 cái bánh",
+      "5 cái bánh"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "24 : 6 = 4 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-8": {
+    "id": "g2-wordmuldiv-gen3-8",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi hộp có 4 quả đào 🍑. Có 3 hộp. Hỏi tất cả có bao nhiêu đào?",
+    "choices": [
+      "13",
+      "17",
+      "15",
+      "12"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Có 3 hộp, mỗi hộp 4 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "4 × 3 = 12 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-9": {
+    "id": "g2-wordmuldiv-gen3-9",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi túi có 9 quả lê 🍐. Có 7 túi. Hỏi tất cả có bao nhiêu lê?",
+    "choices": [
+      "61",
+      "69",
+      "58",
+      "63"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Có 7 túi, mỗi túi 9 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "9 × 7 = 63 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-10": {
+    "id": "g2-wordmuldiv-gen3-10",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 14 quyển vở chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu quyển vở?",
+    "choices": [
+      "9 quyển vở",
+      "7 quyển vở",
+      "5 quyển vở",
+      "8 quyển vở"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "14 : 2 = 7 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-11": {
+    "id": "g2-wordmuldiv-gen3-11",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi rổ có 7 quả quýt 🍊. Có 9 rổ. Hỏi tất cả có bao nhiêu quýt?",
+    "choices": [
+      "67",
+      "63",
+      "57",
+      "58"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Có 9 rổ, mỗi rổ 7 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "7 × 9 = 63 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-12": {
+    "id": "g2-wordmuldiv-gen3-12",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 42 quyển sách chia đều cho 6 bạn. Hỏi mỗi bạn được bao nhiêu quyển sách?",
+    "choices": [
+      "10 quyển sách",
+      "7 quyển sách",
+      "9 quyển sách",
+      "4 quyển sách"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "42 : 6 = 7 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-13": {
+    "id": "g2-wordmuldiv-gen3-13",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi túi có 5 quả dâu 🍓. Có 9 túi. Hỏi tất cả có bao nhiêu dâu?",
+    "choices": [
+      "39",
+      "45",
+      "49",
+      "51"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Có 9 túi, mỗi túi 5 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "5 × 9 = 45 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-14": {
+    "id": "g2-wordmuldiv-gen3-14",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi giỏ có 7 quả lê 🍐. Có 8 giỏ. Hỏi tất cả có bao nhiêu lê?",
+    "choices": [
+      "53",
+      "57",
+      "56",
+      "58"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Có 8 giỏ, mỗi giỏ 7 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "7 × 8 = 56 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-15": {
+    "id": "g2-wordmuldiv-gen3-15",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi giỏ có 5 quả bưởi 🍈. Có 5 giỏ. Hỏi tất cả có bao nhiêu bưởi?",
+    "choices": [
+      "22",
+      "28",
+      "19",
+      "25"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Có 5 giỏ, mỗi giỏ 5 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "5 × 5 = 25 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-16": {
+    "id": "g2-wordmuldiv-gen3-16",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi rổ có 6 quả bưởi 🍈. Có 7 rổ. Hỏi tất cả có bao nhiêu bưởi?",
+    "choices": [
+      "48",
+      "42",
+      "40",
+      "39"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Có 7 rổ, mỗi rổ 6 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "6 × 7 = 42 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-17": {
+    "id": "g2-wordmuldiv-gen3-17",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi giỏ có 4 quả táo 🍎. Có 7 giỏ. Hỏi tất cả có bao nhiêu táo?",
+    "choices": [
+      "29",
+      "34",
+      "28",
+      "23"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Có 7 giỏ, mỗi giỏ 4 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "4 × 7 = 28 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-18": {
+    "id": "g2-wordmuldiv-gen3-18",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi rổ có 8 quả chuối 🍌. Có 9 rổ. Hỏi tất cả có bao nhiêu chuối?",
+    "choices": [
+      "70",
+      "76",
+      "72",
+      "74"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Có 9 rổ, mỗi rổ 8 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "8 × 9 = 72 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-19": {
+    "id": "g2-wordmuldiv-gen3-19",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi giỏ có 5 quả dâu 🍓. Có 3 giỏ. Hỏi tất cả có bao nhiêu dâu?",
+    "choices": [
+      "15",
+      "13",
+      "18",
+      "9"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 3 giỏ, mỗi giỏ 5 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "5 × 3 = 15 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-20": {
+    "id": "g2-wordmuldiv-gen3-20",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi giỏ có 5 quả cam 🍊. Có 4 giỏ. Hỏi tất cả có bao nhiêu cam?",
+    "choices": [
+      "20",
+      "14",
+      "22",
+      "21"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 4 giỏ, mỗi giỏ 5 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "5 × 4 = 20 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-21": {
+    "id": "g2-wordmuldiv-gen3-21",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 48 quyển sách chia đều cho 8 bạn. Hỏi mỗi bạn được bao nhiêu quyển sách?",
+    "choices": [
+      "8 quyển sách",
+      "9 quyển sách",
+      "7 quyển sách",
+      "6 quyển sách"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "48 : 8 = 6 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-22": {
+    "id": "g2-wordmuldiv-gen3-22",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi túi có 9 quả lê 🍐. Có 5 túi. Hỏi tất cả có bao nhiêu lê?",
+    "choices": [
+      "45",
+      "47",
+      "41",
+      "48"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 5 túi, mỗi túi 9 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "9 × 5 = 45 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-23": {
+    "id": "g2-wordmuldiv-gen3-23",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 63 cái bánh chia đều cho 9 bạn. Hỏi mỗi bạn được bao nhiêu cái bánh?",
+    "choices": [
+      "5 cái bánh",
+      "6 cái bánh",
+      "7 cái bánh",
+      "8 cái bánh"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "63 : 9 = 7 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-24": {
+    "id": "g2-wordmuldiv-gen3-24",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 12 quả bóng bay chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu quả bóng bay?",
+    "choices": [
+      "6 quả bóng bay",
+      "4 quả bóng bay",
+      "8 quả bóng bay",
+      "7 quả bóng bay"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "12 : 2 = 6 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-25": {
+    "id": "g2-wordmuldiv-gen3-25",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 24 cây bút chia đều cho 3 bạn. Hỏi mỗi bạn được bao nhiêu cây bút?",
+    "choices": [
+      "11 cây bút",
+      "8 cây bút",
+      "9 cây bút",
+      "7 cây bút"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "24 : 3 = 8 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-26": {
+    "id": "g2-wordmuldiv-gen3-26",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi túi có 3 quả táo 🍎. Có 4 túi. Hỏi tất cả có bao nhiêu táo?",
+    "choices": [
+      "7",
+      "8",
+      "12",
+      "10"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Có 4 túi, mỗi túi 3 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "3 × 4 = 12 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-27": {
+    "id": "g2-wordmuldiv-gen3-27",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi thùng có 5 quả táo 🍎. Có 7 thùng. Hỏi tất cả có bao nhiêu táo?",
+    "choices": [
+      "30",
+      "35",
+      "40",
+      "29"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Có 7 thùng, mỗi thùng 5 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "5 × 7 = 35 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-28": {
+    "id": "g2-wordmuldiv-gen3-28",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 56 quyển sách chia đều cho 7 bạn. Hỏi mỗi bạn được bao nhiêu quyển sách?",
+    "choices": [
+      "11 quyển sách",
+      "8 quyển sách",
+      "10 quyển sách",
+      "7 quyển sách"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "56 : 7 = 8 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-29": {
+    "id": "g2-wordmuldiv-gen3-29",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi túi có 6 quả táo 🍎. Có 8 túi. Hỏi tất cả có bao nhiêu táo?",
+    "choices": [
+      "53",
+      "52",
+      "48",
+      "43"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Có 8 túi, mỗi túi 6 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "6 × 8 = 48 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-30": {
+    "id": "g2-wordmuldiv-gen3-30",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 36 quyển sách chia đều cho 4 bạn. Hỏi mỗi bạn được bao nhiêu quyển sách?",
+    "choices": [
+      "8 quyển sách",
+      "12 quyển sách",
+      "9 quyển sách",
+      "7 quyển sách"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "36 : 4 = 9 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-31": {
+    "id": "g2-wordmuldiv-gen3-31",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 36 bông hoa chia đều cho 4 bạn. Hỏi mỗi bạn được bao nhiêu bông hoa?",
+    "choices": [
+      "8 bông hoa",
+      "10 bông hoa",
+      "9 bông hoa",
+      "7 bông hoa"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "36 : 4 = 9 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-32": {
+    "id": "g2-wordmuldiv-gen3-32",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi thùng có 2 quả cam 🍊. Có 8 thùng. Hỏi tất cả có bao nhiêu cam?",
+    "choices": [
+      "19",
+      "14",
+      "16",
+      "15"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Có 8 thùng, mỗi thùng 2 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "2 × 8 = 16 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-33": {
+    "id": "g2-wordmuldiv-gen3-33",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 32 quả bóng bay chia đều cho 4 bạn. Hỏi mỗi bạn được bao nhiêu quả bóng bay?",
+    "choices": [
+      "11 quả bóng bay",
+      "10 quả bóng bay",
+      "8 quả bóng bay",
+      "7 quả bóng bay"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "32 : 4 = 8 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-34": {
+    "id": "g2-wordmuldiv-gen3-34",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 42 cây bút chia đều cho 6 bạn. Hỏi mỗi bạn được bao nhiêu cây bút?",
+    "choices": [
+      "4 cây bút",
+      "10 cây bút",
+      "8 cây bút",
+      "7 cây bút"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "42 : 6 = 7 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-35": {
+    "id": "g2-wordmuldiv-gen3-35",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 24 quả bóng bay chia đều cho 6 bạn. Hỏi mỗi bạn được bao nhiêu quả bóng bay?",
+    "choices": [
+      "3 quả bóng bay",
+      "4 quả bóng bay",
+      "2 quả bóng bay",
+      "5 quả bóng bay"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "24 : 6 = 4 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-36": {
+    "id": "g2-wordmuldiv-gen3-36",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 36 cái bánh chia đều cho 4 bạn. Hỏi mỗi bạn được bao nhiêu cái bánh?",
+    "choices": [
+      "8 cái bánh",
+      "9 cái bánh",
+      "11 cái bánh",
+      "10 cái bánh"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "36 : 4 = 9 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-37": {
+    "id": "g2-wordmuldiv-gen3-37",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi thùng có 4 quả đào 🍑. Có 7 thùng. Hỏi tất cả có bao nhiêu đào?",
+    "choices": [
+      "28",
+      "25",
+      "31",
+      "24"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 7 thùng, mỗi thùng 4 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "4 × 7 = 28 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-38": {
+    "id": "g2-wordmuldiv-gen3-38",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi giỏ có 2 quả dâu 🍓. Có 8 giỏ. Hỏi tất cả có bao nhiêu dâu?",
+    "choices": [
+      "11",
+      "16",
+      "14",
+      "19"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Có 8 giỏ, mỗi giỏ 2 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "2 × 8 = 16 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-39": {
+    "id": "g2-wordmuldiv-gen3-39",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 18 bông hoa chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu bông hoa?",
+    "choices": [
+      "9 bông hoa",
+      "12 bông hoa",
+      "10 bông hoa",
+      "8 bông hoa"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "18 : 2 = 9 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-40": {
+    "id": "g2-wordmuldiv-gen3-40",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 10 cái bánh chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu cái bánh?",
+    "choices": [
+      "3 cái bánh",
+      "7 cái bánh",
+      "4 cái bánh",
+      "5 cái bánh"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "10 : 2 = 5 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-41": {
+    "id": "g2-wordmuldiv-gen3-41",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 45 cái bánh chia đều cho 9 bạn. Hỏi mỗi bạn được bao nhiêu cái bánh?",
+    "choices": [
+      "7 cái bánh",
+      "3 cái bánh",
+      "5 cái bánh",
+      "2 cái bánh"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "45 : 9 = 5 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-42": {
+    "id": "g2-wordmuldiv-gen3-42",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 20 quyển sách chia đều cho 4 bạn. Hỏi mỗi bạn được bao nhiêu quyển sách?",
+    "choices": [
+      "3 quyển sách",
+      "5 quyển sách",
+      "2 quyển sách",
+      "7 quyển sách"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "20 : 4 = 5 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-43": {
+    "id": "g2-wordmuldiv-gen3-43",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi túi có 7 quả cam 🍊. Có 5 túi. Hỏi tất cả có bao nhiêu cam?",
+    "choices": [
+      "36",
+      "31",
+      "30",
+      "35"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Có 5 túi, mỗi túi 7 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "7 × 5 = 35 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-44": {
+    "id": "g2-wordmuldiv-gen3-44",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi túi có 8 quả quýt 🍊. Có 4 túi. Hỏi tất cả có bao nhiêu quýt?",
+    "choices": [
+      "32",
+      "30",
+      "36",
+      "35"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 4 túi, mỗi túi 8 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "8 × 4 = 32 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-45": {
+    "id": "g2-wordmuldiv-gen3-45",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 4 cái bánh chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu cái bánh?",
+    "choices": [
+      "5 cái bánh",
+      "2 cái bánh",
+      "3 cái bánh",
+      "4 cái bánh"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "4 : 2 = 2 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-46": {
+    "id": "g2-wordmuldiv-gen3-46",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 63 bông hoa chia đều cho 7 bạn. Hỏi mỗi bạn được bao nhiêu bông hoa?",
+    "choices": [
+      "9 bông hoa",
+      "12 bông hoa",
+      "6 bông hoa",
+      "11 bông hoa"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "63 : 7 = 9 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-47": {
+    "id": "g2-wordmuldiv-gen3-47",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi rổ có 3 quả đào 🍑. Có 2 rổ. Hỏi tất cả có bao nhiêu đào?",
+    "choices": [
+      "6",
+      "12",
+      "10",
+      "9"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 2 rổ, mỗi rổ 3 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "3 × 2 = 6 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-48": {
+    "id": "g2-wordmuldiv-gen3-48",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 28 quyển vở chia đều cho 7 bạn. Hỏi mỗi bạn được bao nhiêu quyển vở?",
+    "choices": [
+      "3 quyển vở",
+      "4 quyển vở",
+      "6 quyển vở",
+      "7 quyển vở"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "28 : 7 = 4 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-49": {
+    "id": "g2-wordmuldiv-gen3-49",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi hộp có 9 quả quýt 🍊. Có 3 hộp. Hỏi tất cả có bao nhiêu quýt?",
+    "choices": [
+      "26",
+      "25",
+      "29",
+      "27"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Có 3 hộp, mỗi hộp 9 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "9 × 3 = 27 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-50": {
+    "id": "g2-wordmuldiv-gen3-50",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 49 cây bút chia đều cho 7 bạn. Hỏi mỗi bạn được bao nhiêu cây bút?",
+    "choices": [
+      "6 cây bút",
+      "7 cây bút",
+      "8 cây bút",
+      "4 cây bút"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "49 : 7 = 7 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-51": {
+    "id": "g2-wordmuldiv-gen3-51",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi rổ có 2 quả quýt 🍊. Có 2 rổ. Hỏi tất cả có bao nhiêu quýt?",
+    "choices": [
+      "4",
+      "10",
+      "9",
+      "8"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 2 rổ, mỗi rổ 2 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "2 × 2 = 4 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-52": {
+    "id": "g2-wordmuldiv-gen3-52",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi túi có 5 quả cam 🍊. Có 6 túi. Hỏi tất cả có bao nhiêu cam?",
+    "choices": [
+      "24",
+      "36",
+      "27",
+      "30"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Có 6 túi, mỗi túi 5 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "5 × 6 = 30 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-53": {
+    "id": "g2-wordmuldiv-gen3-53",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 27 cây bút chia đều cho 3 bạn. Hỏi mỗi bạn được bao nhiêu cây bút?",
+    "choices": [
+      "12 cây bút",
+      "7 cây bút",
+      "11 cây bút",
+      "9 cây bút"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "27 : 3 = 9 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-54": {
+    "id": "g2-wordmuldiv-gen3-54",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 12 chiếc kẹo chia đều cho 6 bạn. Hỏi mỗi bạn được bao nhiêu chiếc kẹo?",
+    "choices": [
+      "3 chiếc kẹo",
+      "4 chiếc kẹo",
+      "1 chiếc kẹo",
+      "2 chiếc kẹo"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "12 : 6 = 2 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-55": {
+    "id": "g2-wordmuldiv-gen3-55",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 40 cây bút chia đều cho 8 bạn. Hỏi mỗi bạn được bao nhiêu cây bút?",
+    "choices": [
+      "5 cây bút",
+      "2 cây bút",
+      "8 cây bút",
+      "3 cây bút"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "40 : 8 = 5 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-56": {
+    "id": "g2-wordmuldiv-gen3-56",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 9 quyển vở chia đều cho 3 bạn. Hỏi mỗi bạn được bao nhiêu quyển vở?",
+    "choices": [
+      "2 quyển vở",
+      "4 quyển vở",
+      "1 quyển vở",
+      "3 quyển vở"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "9 : 3 = 3 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-57": {
+    "id": "g2-wordmuldiv-gen3-57",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 72 quyển sách chia đều cho 9 bạn. Hỏi mỗi bạn được bao nhiêu quyển sách?",
+    "choices": [
+      "5 quyển sách",
+      "10 quyển sách",
+      "8 quyển sách",
+      "7 quyển sách"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "72 : 9 = 8 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-58": {
+    "id": "g2-wordmuldiv-gen3-58",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 12 quyển vở chia đều cho 4 bạn. Hỏi mỗi bạn được bao nhiêu quyển vở?",
+    "choices": [
+      "3 quyển vở",
+      "6 quyển vở",
+      "4 quyển vở",
+      "5 quyển vở"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "12 : 4 = 3 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-59": {
+    "id": "g2-wordmuldiv-gen3-59",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi giỏ có 2 quả táo 🍎. Có 2 giỏ. Hỏi tất cả có bao nhiêu táo?",
+    "choices": [
+      "5",
+      "8",
+      "4",
+      "7"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Có 2 giỏ, mỗi giỏ 2 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "2 × 2 = 4 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-60": {
+    "id": "g2-wordmuldiv-gen3-60",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi hộp có 7 quả quýt 🍊. Có 8 hộp. Hỏi tất cả có bao nhiêu quýt?",
+    "choices": [
+      "60",
+      "56",
+      "53",
+      "55"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Có 8 hộp, mỗi hộp 7 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "7 × 8 = 56 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-61": {
+    "id": "g2-wordmuldiv-gen3-61",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi rổ có 3 quả lê 🍐. Có 8 rổ. Hỏi tất cả có bao nhiêu lê?",
+    "choices": [
+      "18",
+      "23",
+      "21",
+      "24"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Có 8 rổ, mỗi rổ 3 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "3 × 8 = 24 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-62": {
+    "id": "g2-wordmuldiv-gen3-62",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi túi có 2 quả lê 🍐. Có 9 túi. Hỏi tất cả có bao nhiêu lê?",
+    "choices": [
+      "21",
+      "12",
+      "18",
+      "22"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Có 9 túi, mỗi túi 2 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "2 × 9 = 18 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-63": {
+    "id": "g2-wordmuldiv-gen3-63",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi giỏ có 7 quả dâu 🍓. Có 5 giỏ. Hỏi tất cả có bao nhiêu dâu?",
+    "choices": [
+      "39",
+      "30",
+      "29",
+      "35"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Có 5 giỏ, mỗi giỏ 7 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "7 × 5 = 35 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-64": {
+    "id": "g2-wordmuldiv-gen3-64",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi hộp có 5 quả cam 🍊. Có 5 hộp. Hỏi tất cả có bao nhiêu cam?",
+    "choices": [
+      "27",
+      "25",
+      "28",
+      "23"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Có 5 hộp, mỗi hộp 5 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "5 × 5 = 25 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-65": {
+    "id": "g2-wordmuldiv-gen3-65",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 12 bông hoa chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu bông hoa?",
+    "choices": [
+      "7 bông hoa",
+      "4 bông hoa",
+      "6 bông hoa",
+      "5 bông hoa"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "12 : 2 = 6 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-66": {
+    "id": "g2-wordmuldiv-gen3-66",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi hộp có 4 quả cam 🍊. Có 2 hộp. Hỏi tất cả có bao nhiêu cam?",
+    "choices": [
+      "7",
+      "10",
+      "8",
+      "5"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Có 2 hộp, mỗi hộp 4 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "4 × 2 = 8 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-67": {
+    "id": "g2-wordmuldiv-gen3-67",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 14 chiếc kẹo chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu chiếc kẹo?",
+    "choices": [
+      "5 chiếc kẹo",
+      "6 chiếc kẹo",
+      "9 chiếc kẹo",
+      "7 chiếc kẹo"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "14 : 2 = 7 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-68": {
+    "id": "g2-wordmuldiv-gen3-68",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 6 bông hoa chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu bông hoa?",
+    "choices": [
+      "5 bông hoa",
+      "4 bông hoa",
+      "3 bông hoa",
+      "6 bông hoa"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "6 : 2 = 3 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-69": {
+    "id": "g2-wordmuldiv-gen3-69",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi hộp có 4 quả bưởi 🍈. Có 3 hộp. Hỏi tất cả có bao nhiêu bưởi?",
+    "choices": [
+      "14",
+      "16",
+      "12",
+      "10"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Có 3 hộp, mỗi hộp 4 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "4 × 3 = 12 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-70": {
+    "id": "g2-wordmuldiv-gen3-70",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 28 chiếc kẹo chia đều cho 4 bạn. Hỏi mỗi bạn được bao nhiêu chiếc kẹo?",
+    "choices": [
+      "4 chiếc kẹo",
+      "6 chiếc kẹo",
+      "7 chiếc kẹo",
+      "9 chiếc kẹo"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "28 : 4 = 7 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-71": {
+    "id": "g2-wordmuldiv-gen3-71",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi hộp có 9 quả dâu 🍓. Có 3 hộp. Hỏi tất cả có bao nhiêu dâu?",
+    "choices": [
+      "23",
+      "31",
+      "27",
+      "30"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Có 3 hộp, mỗi hộp 9 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "9 × 3 = 27 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-72": {
+    "id": "g2-wordmuldiv-gen3-72",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi giỏ có 9 quả chuối 🍌. Có 3 giỏ. Hỏi tất cả có bao nhiêu chuối?",
+    "choices": [
+      "24",
+      "30",
+      "31",
+      "27"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Có 3 giỏ, mỗi giỏ 9 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "9 × 3 = 27 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-73": {
+    "id": "g2-wordmuldiv-gen3-73",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 30 bông hoa chia đều cho 6 bạn. Hỏi mỗi bạn được bao nhiêu bông hoa?",
+    "choices": [
+      "5 bông hoa",
+      "3 bông hoa",
+      "8 bông hoa",
+      "7 bông hoa"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "30 : 6 = 5 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-74": {
+    "id": "g2-wordmuldiv-gen3-74",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 27 quả bóng bay chia đều cho 3 bạn. Hỏi mỗi bạn được bao nhiêu quả bóng bay?",
+    "choices": [
+      "7 quả bóng bay",
+      "8 quả bóng bay",
+      "9 quả bóng bay",
+      "11 quả bóng bay"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "27 : 3 = 9 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-75": {
+    "id": "g2-wordmuldiv-gen3-75",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi hộp có 8 quả chuối 🍌. Có 3 hộp. Hỏi tất cả có bao nhiêu chuối?",
+    "choices": [
+      "27",
+      "24",
+      "21",
+      "25"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Có 3 hộp, mỗi hộp 8 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "8 × 3 = 24 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-76": {
+    "id": "g2-wordmuldiv-gen3-76",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi túi có 7 quả chuối 🍌. Có 9 túi. Hỏi tất cả có bao nhiêu chuối?",
+    "choices": [
+      "68",
+      "63",
+      "66",
+      "61"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Có 9 túi, mỗi túi 7 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "7 × 9 = 63 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-77": {
+    "id": "g2-wordmuldiv-gen3-77",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi giỏ có 7 quả bưởi 🍈. Có 5 giỏ. Hỏi tất cả có bao nhiêu bưởi?",
+    "choices": [
+      "35",
+      "34",
+      "38",
+      "31"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 5 giỏ, mỗi giỏ 7 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "7 × 5 = 35 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-78": {
+    "id": "g2-wordmuldiv-gen3-78",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 18 bông hoa chia đều cho 6 bạn. Hỏi mỗi bạn được bao nhiêu bông hoa?",
+    "choices": [
+      "2 bông hoa",
+      "6 bông hoa",
+      "4 bông hoa",
+      "3 bông hoa"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "18 : 6 = 3 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-79": {
+    "id": "g2-wordmuldiv-gen3-79",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi rổ có 3 quả dâu 🍓. Có 6 rổ. Hỏi tất cả có bao nhiêu dâu?",
+    "choices": [
+      "18",
+      "20",
+      "24",
+      "14"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 6 rổ, mỗi rổ 3 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "3 × 6 = 18 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-80": {
+    "id": "g2-wordmuldiv-gen3-80",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi túi có 4 quả bưởi 🍈. Có 4 túi. Hỏi tất cả có bao nhiêu bưởi?",
+    "choices": [
+      "20",
+      "22",
+      "16",
+      "15"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Có 4 túi, mỗi túi 4 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "4 × 4 = 16 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-81": {
+    "id": "g2-wordmuldiv-gen3-81",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi giỏ có 2 quả quýt 🍊. Có 5 giỏ. Hỏi tất cả có bao nhiêu quýt?",
+    "choices": [
+      "10",
+      "16",
+      "14",
+      "15"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 5 giỏ, mỗi giỏ 2 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "2 × 5 = 10 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-82": {
+    "id": "g2-wordmuldiv-gen3-82",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 8 cây bút chia đều cho 4 bạn. Hỏi mỗi bạn được bao nhiêu cây bút?",
+    "choices": [
+      "2 cây bút",
+      "1 cây bút",
+      "4 cây bút",
+      "3 cây bút"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "8 : 4 = 2 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-83": {
+    "id": "g2-wordmuldiv-gen3-83",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi hộp có 8 quả đào 🍑. Có 6 hộp. Hỏi tất cả có bao nhiêu đào?",
+    "choices": [
+      "52",
+      "51",
+      "47",
+      "48"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Có 6 hộp, mỗi hộp 8 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "8 × 6 = 48 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-84": {
+    "id": "g2-wordmuldiv-gen3-84",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi giỏ có 9 quả bưởi 🍈. Có 3 giỏ. Hỏi tất cả có bao nhiêu bưởi?",
+    "choices": [
+      "27",
+      "30",
+      "28",
+      "23"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 3 giỏ, mỗi giỏ 9 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "9 × 3 = 27 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-85": {
+    "id": "g2-wordmuldiv-gen3-85",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 72 quả bóng bay chia đều cho 8 bạn. Hỏi mỗi bạn được bao nhiêu quả bóng bay?",
+    "choices": [
+      "12 quả bóng bay",
+      "9 quả bóng bay",
+      "8 quả bóng bay",
+      "6 quả bóng bay"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "72 : 8 = 9 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-86": {
+    "id": "g2-wordmuldiv-gen3-86",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi hộp có 9 quả lê 🍐. Có 3 hộp. Hỏi tất cả có bao nhiêu lê?",
+    "choices": [
+      "21",
+      "33",
+      "27",
+      "28"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Có 3 hộp, mỗi hộp 9 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "9 × 3 = 27 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-87": {
+    "id": "g2-wordmuldiv-gen3-87",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi giỏ có 7 quả bưởi 🍈. Có 4 giỏ. Hỏi tất cả có bao nhiêu bưởi?",
+    "choices": [
+      "28",
+      "29",
+      "25",
+      "34"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 4 giỏ, mỗi giỏ 7 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "7 × 4 = 28 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-88": {
+    "id": "g2-wordmuldiv-gen3-88",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi túi có 6 quả táo 🍎. Có 2 túi. Hỏi tất cả có bao nhiêu táo?",
+    "choices": [
+      "12",
+      "18",
+      "16",
+      "8"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 2 túi, mỗi túi 6 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "6 × 2 = 12 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-89": {
+    "id": "g2-wordmuldiv-gen3-89",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 30 chiếc kẹo chia đều cho 6 bạn. Hỏi mỗi bạn được bao nhiêu chiếc kẹo?",
+    "choices": [
+      "4 chiếc kẹo",
+      "5 chiếc kẹo",
+      "7 chiếc kẹo",
+      "6 chiếc kẹo"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "30 : 6 = 5 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-90": {
+    "id": "g2-wordmuldiv-gen3-90",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 18 quả bóng bay chia đều cho 6 bạn. Hỏi mỗi bạn được bao nhiêu quả bóng bay?",
+    "choices": [
+      "2 quả bóng bay",
+      "3 quả bóng bay",
+      "6 quả bóng bay",
+      "5 quả bóng bay"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "18 : 6 = 3 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-91": {
+    "id": "g2-wordmuldiv-gen3-91",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 48 cái bánh chia đều cho 8 bạn. Hỏi mỗi bạn được bao nhiêu cái bánh?",
+    "choices": [
+      "9 cái bánh",
+      "3 cái bánh",
+      "6 cái bánh",
+      "5 cái bánh"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "48 : 8 = 6 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-92": {
+    "id": "g2-wordmuldiv-gen3-92",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 12 cây bút chia đều cho 4 bạn. Hỏi mỗi bạn được bao nhiêu cây bút?",
+    "choices": [
+      "3 cây bút",
+      "6 cây bút",
+      "5 cây bút",
+      "1 cây bút"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "12 : 4 = 3 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-93": {
+    "id": "g2-wordmuldiv-gen3-93",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 16 cây bút chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu cây bút?",
+    "choices": [
+      "11 cây bút",
+      "9 cây bút",
+      "5 cây bút",
+      "8 cây bút"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "16 : 2 = 8 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-94": {
+    "id": "g2-wordmuldiv-gen3-94",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi rổ có 3 quả cam 🍊. Có 3 rổ. Hỏi tất cả có bao nhiêu cam?",
+    "choices": [
+      "9",
+      "8",
+      "7",
+      "12"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 3 rổ, mỗi rổ 3 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "3 × 3 = 9 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-95": {
+    "id": "g2-wordmuldiv-gen3-95",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi giỏ có 4 quả đào 🍑. Có 2 giỏ. Hỏi tất cả có bao nhiêu đào?",
+    "choices": [
+      "8",
+      "11",
+      "9",
+      "13"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 2 giỏ, mỗi giỏ 4 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "4 × 2 = 8 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-96": {
+    "id": "g2-wordmuldiv-gen3-96",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi thùng có 7 quả dâu 🍓. Có 8 thùng. Hỏi tất cả có bao nhiêu dâu?",
+    "choices": [
+      "57",
+      "58",
+      "56",
+      "52"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Có 8 thùng, mỗi thùng 7 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "7 × 8 = 56 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-97": {
+    "id": "g2-wordmuldiv-gen3-97",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi thùng có 8 quả cam 🍊. Có 2 thùng. Hỏi tất cả có bao nhiêu cam?",
+    "choices": [
+      "18",
+      "19",
+      "12",
+      "16"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Có 2 thùng, mỗi thùng 8 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "8 × 2 = 16 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-98": {
+    "id": "g2-wordmuldiv-gen3-98",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 12 cây bút chia đều cho 3 bạn. Hỏi mỗi bạn được bao nhiêu cây bút?",
+    "choices": [
+      "3 cây bút",
+      "5 cây bút",
+      "7 cây bút",
+      "4 cây bút"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "12 : 3 = 4 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-99": {
+    "id": "g2-wordmuldiv-gen3-99",
+    "topicId": "g2-wordmuldiv",
+    "question": "Có 12 cây bút chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu cây bút?",
+    "choices": [
+      "6 cây bút",
+      "9 cây bút",
+      "8 cây bút",
+      "7 cây bút"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "12 : 2 = 6 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-wordmuldiv-gen3-100": {
+    "id": "g2-wordmuldiv-gen3-100",
+    "topicId": "g2-wordmuldiv",
+    "question": "Mỗi túi có 7 quả quýt 🍊. Có 7 túi. Hỏi tất cả có bao nhiêu quýt?",
+    "choices": [
+      "53",
+      "49",
+      "54",
+      "44"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Có 7 túi, mỗi túi 7 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "7 × 7 = 49 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-1": {
+    "id": "g2-midterm-gen3-1",
     "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 6 quyển vở, chia đều thành 3 tổ. Hỏi mỗi tổ có bao nhiêu quyển vở?",
+    "question": "Đề Giữa Kỳ: ... gồm 40 và 7?",
+    "choices": [
+      "47",
+      "46",
+      "49",
+      "45"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "47 = 40 + 7. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-2": {
+    "id": "g2-midterm-gen3-2",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Bạn Nam có 45 quyển sách. Bạn Vy có ít hơn 12 quyển sách. Hỏi bạn đó có bao nhiêu quyển sách?",
+    "choices": [
+      "35",
+      "39",
+      "40",
+      "33"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "45 - 12 = 33 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-3": {
+    "id": "g2-midterm-gen3-3",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Linh có 25 cái bánh, mẹ cho Linh thêm 15 cái bánh nữa. Hỏi Linh có tất cả bao nhiêu cái bánh?",
+    "choices": [
+      "40",
+      "42",
+      "35",
+      "46"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"thêm\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "25 + 15 = 40 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-4": {
+    "id": "g2-midterm-gen3-4",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: 93 - 86 = ?",
+    "choices": [
+      "5",
+      "3",
+      "13",
+      "7"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Hàng đơn vị: 3 < 6 nên mượn 1 từ hàng chục. 13 - 6 = 7.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Hàng chục: 9 - 1(mượn) - 8 = 0.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả: 7 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-5": {
+    "id": "g2-midterm-gen3-5",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Tìm M: M = 57 - 39",
+    "choices": [
+      "18",
+      "24",
+      "23",
+      "13"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Hàng đơn vị: 7 < 9 nên mượn 1 từ hàng chục. 17 - 9 = 8.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Hàng chục: 5 - 1(mượn) - 3 = 1.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả: 18 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-6": {
+    "id": "g2-midterm-gen3-6",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: ... gồm 90 và 1?",
+    "choices": [
+      "96",
+      "91",
+      "93",
+      "92"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "91 = 90 + 1. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-7": {
+    "id": "g2-midterm-gen3-7",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Một biểu đồ tranh ghi lại số lượng trái cây: cam: 9; đào: 4; chuối: 7. Loại nào có số lượng ít nhất?",
+    "choices": [
+      "cam",
+      "đào",
+      "chuối",
+      "dâu"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh số lượng từng loại: cam: 9; đào: 4; chuối: 7. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-8": {
+    "id": "g2-midterm-gen3-8",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Số liền trước của số 50 là:",
+    "choices": [
+      "47",
+      "46",
+      "49",
+      "51"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Số liền trước kém số đã cho 1 đơn vị: 50 - 1 = 49. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-9": {
+    "id": "g2-midterm-gen3-9",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Lớp 1A quyên góp được 35 cây bút. Lớp 2C quyên góp được nhiều hơn lớp 1A là 29 cây bút. Hỏi lớp 2C quyên góp được bao nhiêu cây bút?",
+    "choices": [
+      "74",
+      "64",
+      "66",
+      "56"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "35 + 29 = 64 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-10": {
+    "id": "g2-midterm-gen3-10",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đoạn thẳng AB dài 27cm, đoạn thẳng BC dài 6cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "28 cm",
+      "33 cm",
+      "39 cm",
+      "29 cm"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 27 + 6 = 33 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-11": {
+    "id": "g2-midterm-gen3-11",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Có 18 lít dầu ăn chia đều vào 6 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "6 lít",
+      "1 lít",
+      "2 lít",
+      "3 lít"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "18 ÷ 6 = 3 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-12": {
+    "id": "g2-midterm-gen3-12",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Có 54 lít nước cam chia đều vào 6 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "6 lít",
+      "9 lít",
+      "10 lít",
+      "12 lít"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "54 ÷ 6 = 9 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-13": {
+    "id": "g2-midterm-gen3-13",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Số liền trước của số 83 là:",
+    "choices": [
+      "82",
+      "85",
+      "81",
+      "84"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Số liền trước kém số đã cho 1 đơn vị: 83 - 1 = 82. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-14": {
+    "id": "g2-midterm-gen3-14",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Có 6 lít dầu ăn chia đều vào 3 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "3 lít",
+      "1 lít",
+      "4 lít",
+      "2 lít"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "6 ÷ 3 = 2 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-15": {
+    "id": "g2-midterm-gen3-15",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: 70 + 84 = ?",
+    "choices": [
+      "154",
+      "151",
+      "149",
+      "160"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Cộng hàng đơn vị: 0 + 4 = 4. Viết 4, nhớ 0.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Cộng hàng chục: 7 + 8 + 0(nhớ) = 15.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 154 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-16": {
+    "id": "g2-midterm-gen3-16",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Số \"Bốn mươi\" được viết là:",
+    "choices": [
+      "36",
+      "40",
+      "39",
+      "46"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "\"Bốn mươi\" viết bằng số là 40. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-17": {
+    "id": "g2-midterm-gen3-17",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đặt tính rồi tính: 49 - 30 = ?",
+    "choices": [
+      "22",
+      "19",
+      "27",
+      "21"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Hàng đơn vị: 9 < 0 nên mượn 1 từ hàng chục. 19 - 0 = 19.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Hàng chục: 4 - 1(mượn) - 3 = 1.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả: 19 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-18": {
+    "id": "g2-midterm-gen3-18",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 7 và số 8, kim dài chỉ số 7?",
+    "choices": [
+      "7 giờ 25 phút",
+      "7 giờ 35 phút",
+      "7 giờ 5 phút",
+      "7 giờ"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 7 tương ứng 35 phút. Vậy là 7 giờ 35 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-midterm-gen3-19": {
+    "id": "g2-midterm-gen3-19",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Tính: 55 + 85 = ?",
+    "choices": [
+      "139",
+      "141",
+      "140",
+      "138"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Cộng hàng đơn vị: 5 + 5 = 10. Viết 0, nhớ 1.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Cộng hàng chục: 5 + 8 + 1(nhớ) = 14.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 140 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-20": {
+    "id": "g2-midterm-gen3-20",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Kim ngắn chỉ số 9, kim dài chỉ số 12. Đồng hồ đang chỉ mấy giờ?",
+    "choices": [
+      "9 giờ 30 phút",
+      "12 giờ",
+      "9 giờ",
+      "10 giờ"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Kim ngắn chỉ số 9 và kim dài chỉ số 12 -> đúng 9 giờ. ✅",
+        "highlight": "xem-gio"
+      }
+    ]
+  },
+  "g2-midterm-gen3-21": {
+    "id": "g2-midterm-gen3-21",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Một biểu đồ tranh ghi lại số lượng trái cây: dâu: 4; đào: 3; lê: 6. Loại nào có số lượng ít nhất?",
+    "choices": [
+      "dâu",
+      "lê",
+      "na",
+      "đào"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "So sánh số lượng từng loại: dâu: 4; đào: 3; lê: 6. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-22": {
+    "id": "g2-midterm-gen3-22",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Dãy số nào dưới đây được sắp xếp theo thứ tự từ bé đến lớn: 39, 48, 82, 93?",
+    "choices": [
+      "35, 57, 67, 73",
+      "93, 82, 48, 39",
+      "39, 48, 82, 93",
+      "48, 39, 82, 93"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ bé đến lớn: 39, 48, 82, 93. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-23": {
+    "id": "g2-midterm-gen3-23",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Số liền trước của số 85 là:",
+    "choices": [
+      "83",
+      "82",
+      "84",
+      "85"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Số liền trước kém số đã cho 1 đơn vị: 85 - 1 = 84. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-24": {
+    "id": "g2-midterm-gen3-24",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Có 8 lít dầu ăn chia đều vào 2 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "1 lít",
+      "4 lít",
+      "7 lít",
+      "3 lít"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "8 ÷ 2 = 4 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-25": {
+    "id": "g2-midterm-gen3-25",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đặt tính rồi tính: 64 - 25 = ?",
+    "choices": [
+      "39",
+      "37",
+      "34",
+      "44"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Hàng đơn vị: 4 < 5 nên mượn 1 từ hàng chục. 14 - 5 = 9.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Hàng chục: 6 - 1(mượn) - 2 = 3.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả: 39 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-26": {
+    "id": "g2-midterm-gen3-26",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đoạn thẳng AB dài 31cm, đoạn thẳng BC dài 36cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "65 cm",
+      "70 cm",
+      "67 cm",
+      "62 cm"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 31 + 36 = 67 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-27": {
+    "id": "g2-midterm-gen3-27",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Một biểu đồ tranh ghi lại số lượng trái cây: dâu: 2; đào: 4; bưởi: 6. Loại nào có số lượng ít nhất?",
+    "choices": [
+      "đào",
+      "bưởi",
+      "dâu",
+      "na"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "So sánh số lượng từng loại: dâu: 2; đào: 4; bưởi: 6. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-28": {
+    "id": "g2-midterm-gen3-28",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 7 và số 8, kim dài chỉ số 9?",
+    "choices": [
+      "7 giờ",
+      "7 giờ 35 phút",
+      "7 giờ 25 phút",
+      "7 giờ 45 phút"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 9 tương ứng 45 phút. Vậy là 7 giờ 45 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-midterm-gen3-29": {
+    "id": "g2-midterm-gen3-29",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 10 và số 11, kim dài chỉ số 8?",
+    "choices": [
+      "10 giờ",
+      "10 giờ 55 phút",
+      "10 giờ 40 phút",
+      "10 giờ 5 phút"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 8 tương ứng 40 phút. Vậy là 10 giờ 40 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-midterm-gen3-30": {
+    "id": "g2-midterm-gen3-30",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Số liền trước của số 51 là:",
+    "choices": [
+      "48",
+      "53",
+      "52",
+      "50"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Số liền trước kém số đã cho 1 đơn vị: 51 - 1 = 50. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-31": {
+    "id": "g2-midterm-gen3-31",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Tính độ dài đường gấp khúc ABCD có các đoạn thẳng: AB = 6cm, BC = 6cm, CD = 6cm.",
+    "choices": [
+      "20 cm",
+      "17 cm",
+      "18 cm",
+      "22 cm"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 6 + 6 + 6 = 18 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-32": {
+    "id": "g2-midterm-gen3-32",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Kim ngắn chỉ số 11, kim dài chỉ số 12. Đồng hồ đang chỉ mấy giờ?",
+    "choices": [
+      "11 giờ 30 phút",
+      "12 giờ",
+      "11 giờ",
+      "4 giờ"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Kim ngắn chỉ số 11 và kim dài chỉ số 12 -> đúng 11 giờ. ✅",
+        "highlight": "xem-gio"
+      }
+    ]
+  },
+  "g2-midterm-gen3-33": {
+    "id": "g2-midterm-gen3-33",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: So sánh: 78 ... 28",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh hàng chục trước, rồi đến hàng đơn vị. Vậy 78 > 28. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-34": {
+    "id": "g2-midterm-gen3-34",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 6 và số 7, kim dài chỉ số 5?",
+    "choices": [
+      "6 giờ 20 phút",
+      "6 giờ 25 phút",
+      "6 giờ 5 phút",
+      "6 giờ 45 phút"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 5 tương ứng 25 phút. Vậy là 6 giờ 25 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-midterm-gen3-35": {
+    "id": "g2-midterm-gen3-35",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Tính độ dài đường gấp khúc MNPQ có các đoạn thẳng: MN = 8cm, NP = 7cm, PQ = 6cm.",
+    "choices": [
+      "24 cm",
+      "20 cm",
+      "21 cm",
+      "23 cm"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 8 + 7 + 6 = 21 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-36": {
+    "id": "g2-midterm-gen3-36",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đoạn thẳng AB dài 12cm, đoạn thẳng BC dài 13cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "31 cm",
+      "28 cm",
+      "25 cm",
+      "27 cm"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 12 + 13 = 25 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-37": {
+    "id": "g2-midterm-gen3-37",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Tính độ dài đường gấp khúc MNPQ có các đoạn thẳng: MN = 9cm, NP = 6cm, PQ = 8cm.",
+    "choices": [
+      "23 cm",
+      "20 cm",
+      "27 cm",
+      "25 cm"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 9 + 6 + 8 = 23 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-38": {
+    "id": "g2-midterm-gen3-38",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Lớp 1A quyên góp được 24 quyển sách. Lớp 2C quyên góp được nhiều hơn lớp 1A là 28 quyển sách. Hỏi lớp 2C quyên góp được bao nhiêu quyển sách?",
+    "choices": [
+      "49",
+      "56",
+      "52",
+      "44"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "24 + 28 = 52 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-39": {
+    "id": "g2-midterm-gen3-39",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: 67 - 48 = ?",
+    "choices": [
+      "13",
+      "14",
+      "18",
+      "19"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Hàng đơn vị: 7 < 8 nên mượn 1 từ hàng chục. 17 - 8 = 9.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Hàng chục: 6 - 1(mượn) - 4 = 1.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả: 19 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-40": {
+    "id": "g2-midterm-gen3-40",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Mai có 34 bông hoa, mẹ cho Mai thêm 19 bông hoa nữa. Hỏi Mai có tất cả bao nhiêu bông hoa?",
+    "choices": [
+      "48",
+      "43",
+      "53",
+      "63"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"thêm\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "34 + 19 = 53 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-41": {
+    "id": "g2-midterm-gen3-41",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Trang có 80 chiếc kẹo, Trang cho bạn 11 chiếc kẹo. Hỏi Trang còn lại bao nhiêu chiếc kẹo?",
+    "choices": [
+      "68",
+      "71",
+      "69",
+      "61"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "80 - 11 = 69 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-42": {
+    "id": "g2-midterm-gen3-42",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: 53 - 38 = ?",
+    "choices": [
+      "12",
+      "17",
+      "15",
+      "14"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Hàng đơn vị: 3 < 8 nên mượn 1 từ hàng chục. 13 - 8 = 5.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Hàng chục: 5 - 1(mượn) - 3 = 1.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả: 15 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-43": {
+    "id": "g2-midterm-gen3-43",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 1 và số 2, kim dài chỉ số 3?",
+    "choices": [
+      "1 giờ 15 phút",
+      "1 giờ 20 phút",
+      "1 giờ 30 phút",
+      "1 giờ 50 phút"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 3 tương ứng 15 phút. Vậy là 1 giờ 15 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-midterm-gen3-44": {
+    "id": "g2-midterm-gen3-44",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Kim ngắn chỉ số 2, kim dài chỉ số 12. Đồng hồ đang chỉ mấy giờ?",
+    "choices": [
+      "3 giờ",
+      "2 giờ 30 phút",
+      "2 giờ",
+      "12 giờ"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Kim ngắn chỉ số 2 và kim dài chỉ số 12 -> đúng 2 giờ. ✅",
+        "highlight": "xem-gio"
+      }
+    ]
+  },
+  "g2-midterm-gen3-45": {
+    "id": "g2-midterm-gen3-45",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Một biểu đồ tranh ghi lại số lượng trái cây: cam: 5; dâu: 7; đào: 9. Loại nào có số lượng ít nhất?",
+    "choices": [
+      "cam",
+      "dâu",
+      "na",
+      "đào"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh số lượng từng loại: cam: 5; dâu: 7; đào: 9. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-46": {
+    "id": "g2-midterm-gen3-46",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Lớp 1A quyên góp được 35 chiếc kẹo. Lớp 2B quyên góp được nhiều hơn lớp 1A là 19 chiếc kẹo. Hỏi lớp 2B quyên góp được bao nhiêu chiếc kẹo?",
+    "choices": [
+      "46",
+      "54",
+      "49",
+      "64"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "35 + 19 = 54 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-47": {
+    "id": "g2-midterm-gen3-47",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đoạn thẳng AB dài 21cm, đoạn thẳng BC dài 34cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "58 cm",
+      "55 cm",
+      "49 cm",
+      "60 cm"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 21 + 34 = 55 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-48": {
+    "id": "g2-midterm-gen3-48",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: 49 + 21 = ?",
+    "choices": [
+      "78",
+      "70",
+      "65",
+      "75"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Cộng hàng đơn vị: 9 + 1 = 10. Viết 0, nhớ 1.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Cộng hàng chục: 4 + 2 + 1(nhớ) = 7.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 70 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-49": {
+    "id": "g2-midterm-gen3-49",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Tìm M: M = 31 - 18",
+    "choices": [
+      "16",
+      "8",
+      "15",
+      "13"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Hàng đơn vị: 1 < 8 nên mượn 1 từ hàng chục. 11 - 8 = 3.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Hàng chục: 3 - 1(mượn) - 1 = 1.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả: 13 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-50": {
+    "id": "g2-midterm-gen3-50",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Một biểu đồ tranh ghi lại số lượng trái cây: quýt: 2; dâu: 5; chuối: 7. Loại nào có số lượng nhiều nhất?",
+    "choices": [
+      "na",
+      "dâu",
+      "chuối",
+      "quýt"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "So sánh số lượng từng loại: quýt: 2; dâu: 5; chuối: 7. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-51": {
+    "id": "g2-midterm-gen3-51",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: 18 + 75 = ?",
+    "choices": [
+      "88",
+      "91",
+      "98",
+      "93"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Cộng hàng đơn vị: 8 + 5 = 13. Viết 3, nhớ 1.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Cộng hàng chục: 1 + 7 + 1(nhớ) = 9.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 93 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-52": {
+    "id": "g2-midterm-gen3-52",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: 70 - 31 = ?",
+    "choices": [
+      "40",
+      "37",
+      "39",
+      "42"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Hàng đơn vị: 0 < 1 nên mượn 1 từ hàng chục. 10 - 1 = 9.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Hàng chục: 7 - 1(mượn) - 3 = 3.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả: 39 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-53": {
+    "id": "g2-midterm-gen3-53",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đồng hồ chỉ mấy giờ khi kim ngắn chỉ giữa số 1 và số 2, kim dài chỉ số 1?",
+    "choices": [
+      "1 giờ 55 phút",
+      "1 giờ 30 phút",
+      "1 giờ 35 phút",
+      "1 giờ 5 phút"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kim dài chỉ số 1 tương ứng 5 phút. Vậy là 1 giờ 5 phút. ✅",
+        "highlight": "kim-dong-ho"
+      }
+    ]
+  },
+  "g2-midterm-gen3-54": {
+    "id": "g2-midterm-gen3-54",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đoạn thẳng AB dài 28cm, đoạn thẳng BC dài 27cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "55 cm",
+      "59 cm",
+      "49 cm",
+      "60 cm"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 28 + 27 = 55 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-55": {
+    "id": "g2-midterm-gen3-55",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Một biểu đồ tranh ghi lại số lượng trái cây: dâu: 5; chuối: 4; táo: 3. Loại nào có số lượng ít nhất?",
+    "choices": [
+      "chuối",
+      "táo",
+      "na",
+      "dâu"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh số lượng từng loại: dâu: 5; chuối: 4; táo: 3. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-56": {
+    "id": "g2-midterm-gen3-56",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đặt tính rồi tính: 63 - 44 = ?",
+    "choices": [
+      "25",
+      "19",
+      "13",
+      "18"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Hàng đơn vị: 3 < 4 nên mượn 1 từ hàng chục. 13 - 4 = 9.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Hàng chục: 6 - 1(mượn) - 4 = 1.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả: 19 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-57": {
+    "id": "g2-midterm-gen3-57",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đặt tính rồi tính: 63 - 16 = ?",
+    "choices": [
+      "54",
+      "48",
+      "47",
+      "43"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Hàng đơn vị: 3 < 6 nên mượn 1 từ hàng chục. 13 - 6 = 7.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Hàng chục: 6 - 1(mượn) - 1 = 4.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả: 47 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-58": {
+    "id": "g2-midterm-gen3-58",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Tính độ dài đường gấp khúc ABCD có các đoạn thẳng: AB = 3cm, BC = 4cm, CD = 8cm.",
+    "choices": [
+      "18 cm",
+      "13 cm",
+      "12 cm",
+      "15 cm"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 3 + 4 + 8 = 15 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-59": {
+    "id": "g2-midterm-gen3-59",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Tính: 83 + 29 = ?",
+    "choices": [
+      "112",
+      "119",
+      "109",
+      "107"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Cộng hàng đơn vị: 3 + 9 = 12. Viết 2, nhớ 1.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Cộng hàng chục: 8 + 2 + 1(nhớ) = 11.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 112 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-60": {
+    "id": "g2-midterm-gen3-60",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Số \"Sáu mươi hai\" được viết là:",
+    "choices": [
+      "66",
+      "65",
+      "69",
+      "62"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "\"Sáu mươi hai\" viết bằng số là 62. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-61": {
+    "id": "g2-midterm-gen3-61",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Tính độ dài đường gấp khúc ABCD có các đoạn thẳng: AB = 4cm, BC = 6cm, CD = 3cm.",
+    "choices": [
+      "12 cm",
+      "15 cm",
+      "13 cm",
+      "17 cm"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 4 + 6 + 3 = 13 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-62": {
+    "id": "g2-midterm-gen3-62",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đoạn thẳng AB dài 7cm, đoạn thẳng BC dài 27cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "31 cm",
+      "34 cm",
+      "29 cm",
+      "36 cm"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 7 + 27 = 34 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-63": {
+    "id": "g2-midterm-gen3-63",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Có 6 lít sữa chia đều vào 2 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "5 lít",
+      "3 lít",
+      "4 lít",
+      "6 lít"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "6 ÷ 2 = 3 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-64": {
+    "id": "g2-midterm-gen3-64",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Huy có 48 bông hoa, Huy cho bạn 18 bông hoa. Hỏi Huy còn lại bao nhiêu bông hoa?",
+    "choices": [
+      "30",
+      "23",
+      "29",
+      "28"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "48 - 18 = 30 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-65": {
+    "id": "g2-midterm-gen3-65",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Có 12 lít nước chia đều vào 2 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "9 lít",
+      "4 lít",
+      "6 lít",
+      "7 lít"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "12 ÷ 2 = 6 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-66": {
+    "id": "g2-midterm-gen3-66",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Một biểu đồ tranh ghi lại số lượng trái cây: cam: 9; lê: 4; bưởi: 5. Loại nào có số lượng ít nhất?",
+    "choices": [
+      "lê",
+      "dâu",
+      "cam",
+      "bưởi"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh số lượng từng loại: cam: 9; lê: 4; bưởi: 5. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-67": {
+    "id": "g2-midterm-gen3-67",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Lớp 1A quyên góp được 15 quyển sách. Lớp 2B quyên góp được nhiều hơn lớp 1A là 13 quyển sách. Hỏi lớp 2B quyên góp được bao nhiêu quyển sách?",
+    "choices": [
+      "27",
+      "28",
+      "37",
+      "31"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "15 + 13 = 28 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-68": {
+    "id": "g2-midterm-gen3-68",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Tính: 62 + 58 = ?",
+    "choices": [
+      "127",
+      "123",
+      "120",
+      "113"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Cộng hàng đơn vị: 2 + 8 = 10. Viết 0, nhớ 1.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Cộng hàng chục: 6 + 5 + 1(nhớ) = 12.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 120 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-69": {
+    "id": "g2-midterm-gen3-69",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đổi đơn vị: 7 dm = ... cm",
+    "choices": [
+      "75",
+      "71",
+      "70",
+      "68"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Ta biết 1 dm = 10 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Vậy kết quả là 70. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-70": {
+    "id": "g2-midterm-gen3-70",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đặt tính rồi tính: 64 - 17 = ?",
+    "choices": [
+      "47",
+      "44",
+      "42",
+      "48"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Hàng đơn vị: 4 < 7 nên mượn 1 từ hàng chục. 14 - 7 = 7.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Hàng chục: 6 - 1(mượn) - 1 = 4.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả: 47 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-71": {
+    "id": "g2-midterm-gen3-71",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Số liền trước của số 69 là:",
+    "choices": [
+      "70",
+      "67",
+      "71",
+      "68"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Số liền trước kém số đã cho 1 đơn vị: 69 - 1 = 68. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-72": {
+    "id": "g2-midterm-gen3-72",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Lớp 2B quyên góp được 66 quyển sách. Lớp 2A quyên góp được nhiều hơn lớp 2B là 16 quyển sách. Hỏi lớp 2A quyên góp được bao nhiêu quyển sách?",
+    "choices": [
+      "76",
+      "73",
+      "82",
+      "79"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"nhiều hơn\" -> dùng phép cộng.",
+        "highlight": "phep-cong"
+      },
+      {
+        "text": "66 + 16 = 82 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-73": {
+    "id": "g2-midterm-gen3-73",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Tính độ dài đường gấp khúc ABCD có các đoạn thẳng: AB = 4cm, BC = 9cm, CD = 8cm.",
+    "choices": [
+      "18 cm",
+      "17 cm",
+      "21 cm",
+      "25 cm"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 4 + 9 + 8 = 21 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-74": {
+    "id": "g2-midterm-gen3-74",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: So sánh: 63 ... 94",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng chục trước, rồi đến hàng đơn vị. Vậy 63 < 94. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-75": {
+    "id": "g2-midterm-gen3-75",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Một biểu đồ tranh ghi lại số lượng trái cây: cam: 4; dâu: 3; chuối: 7. Loại nào có số lượng ít nhất?",
+    "choices": [
+      "cam",
+      "dâu",
+      "chuối",
+      "na"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh số lượng từng loại: cam: 4; dâu: 3; chuối: 7. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-76": {
+    "id": "g2-midterm-gen3-76",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Có 27 lít nước chia đều vào 3 can. Mỗi can có bao nhiêu lít?",
+    "choices": [
+      "6 lít",
+      "11 lít",
+      "10 lít",
+      "9 lít"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều thì dùng phép chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "27 ÷ 3 = 9 (lít) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-77": {
+    "id": "g2-midterm-gen3-77",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Tuấn có 30 cây bút, Tuấn cho bạn 6 cây bút. Hỏi Tuấn còn lại bao nhiêu cây bút?",
+    "choices": [
+      "22",
+      "28",
+      "27",
+      "24"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "30 - 6 = 24 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-78": {
+    "id": "g2-midterm-gen3-78",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Bạn Hùng có 84 cây bút. Bạn Nam có ít hơn 16 cây bút. Hỏi bạn đó có bao nhiêu cây bút?",
+    "choices": [
+      "67",
+      "69",
+      "68",
+      "61"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "84 - 16 = 68 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-79": {
+    "id": "g2-midterm-gen3-79",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Dãy số nào dưới đây được sắp xếp theo thứ tự từ lớn đến bé: 16, 31, 71, 90?",
+    "choices": [
+      "20, 28, 55, 62",
+      "16, 31, 71, 90",
+      "90, 71, 31, 16",
+      "16, 71, 90, 31"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Sắp xếp các số theo thứ tự từ lớn đến bé: 90, 71, 31, 16. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-80": {
+    "id": "g2-midterm-gen3-80",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Số \"Năm mươi ba\" được viết là:",
+    "choices": [
+      "53",
+      "56",
+      "57",
+      "54"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "\"Năm mươi ba\" viết bằng số là 53. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-81": {
+    "id": "g2-midterm-gen3-81",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: 28 + 87 = ?",
+    "choices": [
+      "112",
+      "108",
+      "115",
+      "119"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Cộng hàng đơn vị: 8 + 7 = 15. Viết 5, nhớ 1.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Cộng hàng chục: 2 + 8 + 1(nhớ) = 11.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 115 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-82": {
+    "id": "g2-midterm-gen3-82",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Bạn Hùng có 90 quyển sách. Bạn Hoa có ít hơn 6 quyển sách. Hỏi bạn đó có bao nhiêu quyển sách?",
+    "choices": [
+      "75",
+      "81",
+      "74",
+      "84"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "90 - 6 = 84 (quyển sách) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-83": {
+    "id": "g2-midterm-gen3-83",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Một biểu đồ tranh ghi lại số lượng trái cây: lê: 5; cam: 8; dâu: 6. Tổng cộng có bao nhiêu quả?",
+    "choices": [
+      "20",
+      "22",
+      "19",
+      "16"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Cộng tất cả số lượng: 5 + 8 + 6 = 19. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-84": {
+    "id": "g2-midterm-gen3-84",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Một biểu đồ tranh ghi lại số lượng trái cây: chuối: 9; lê: 8; đào: 5. Loại nào có số lượng ít nhất?",
+    "choices": [
+      "lê",
+      "dâu",
+      "chuối",
+      "đào"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "So sánh số lượng từng loại: chuối: 9; lê: 8; đào: 5. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-85": {
+    "id": "g2-midterm-gen3-85",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đoạn thẳng AB dài 28cm, đoạn thẳng BC dài 35cm. Nếu A, B, C thẳng hàng, đoạn thẳng AC dài bao nhiêu?",
+    "choices": [
+      "67 cm",
+      "63 cm",
+      "57 cm",
+      "60 cm"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Vì A, B, C thẳng hàng nên AC = AB + BC = 28 + 35 = 63 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-86": {
+    "id": "g2-midterm-gen3-86",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Đổi đơn vị: 4 dm = ... cm",
+    "choices": [
+      "45",
+      "44",
+      "37",
+      "40"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Ta biết 1 dm = 10 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Vậy kết quả là 40. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-87": {
+    "id": "g2-midterm-gen3-87",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Tính độ dài đường gấp khúc ABCD có các đoạn thẳng: AB = 3cm, BC = 3cm, CD = 2cm.",
+    "choices": [
+      "4 cm",
+      "6 cm",
+      "8 cm",
+      "7 cm"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 3 + 3 + 2 = 8 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-88": {
+    "id": "g2-midterm-gen3-88",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Vy có 68 chiếc kẹo, Vy cho bạn 20 chiếc kẹo. Hỏi Vy còn lại bao nhiêu chiếc kẹo?",
+    "choices": [
+      "40",
+      "48",
+      "53",
+      "46"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "68 - 20 = 48 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-89": {
+    "id": "g2-midterm-gen3-89",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Một biểu đồ tranh ghi lại số lượng trái cây: bưởi: 5; quýt: 3; cam: 4. Tổng cộng có bao nhiêu quả?",
+    "choices": [
+      "13",
+      "9",
+      "12",
+      "10"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Cộng tất cả số lượng: 5 + 3 + 4 = 12. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-90": {
+    "id": "g2-midterm-gen3-90",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Tìm M: M = 78 - 59",
+    "choices": [
+      "13",
+      "17",
+      "19",
+      "18"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Hàng đơn vị: 8 < 9 nên mượn 1 từ hàng chục. 18 - 9 = 9.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Hàng chục: 7 - 1(mượn) - 5 = 1.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả: 19 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-91": {
+    "id": "g2-midterm-gen3-91",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: 83 + 87 = ?",
+    "choices": [
+      "169",
+      "170",
+      "168",
+      "174"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Cộng hàng đơn vị: 3 + 7 = 10. Viết 0, nhớ 1.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Cộng hàng chục: 8 + 8 + 1(nhớ) = 17.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 170 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-92": {
+    "id": "g2-midterm-gen3-92",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Bạn Bình có 62 chiếc kẹo. Bạn Lan có ít hơn 20 chiếc kẹo. Hỏi bạn đó có bao nhiêu chiếc kẹo?",
+    "choices": [
+      "39",
+      "35",
+      "38",
+      "42"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"ít hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "62 - 20 = 42 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-93": {
+    "id": "g2-midterm-gen3-93",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Tính: 16 + 54 = ?",
+    "choices": [
+      "70",
+      "77",
+      "68",
+      "78"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Cộng hàng đơn vị: 6 + 4 = 10. Viết 0, nhớ 1.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Cộng hàng chục: 1 + 5 + 1(nhớ) = 7.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 70 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-94": {
+    "id": "g2-midterm-gen3-94",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Tính: 40 + 47 = ?",
+    "choices": [
+      "87",
+      "93",
+      "89",
+      "79"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Cộng hàng đơn vị: 0 + 7 = 7. Viết 7, nhớ 0.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Cộng hàng chục: 4 + 4 + 0(nhớ) = 8.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 87 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-95": {
+    "id": "g2-midterm-gen3-95",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Hùng có 53 cái bánh, Hùng cho bạn 17 cái bánh. Hỏi Hùng còn lại bao nhiêu cái bánh?",
+    "choices": [
+      "34",
+      "43",
+      "30",
+      "36"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"bớt\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "53 - 17 = 36 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-96": {
+    "id": "g2-midterm-gen3-96",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: 46 - 27 = ?",
+    "choices": [
+      "24",
+      "19",
+      "11",
+      "25"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Hàng đơn vị: 6 < 7 nên mượn 1 từ hàng chục. 16 - 7 = 9.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Hàng chục: 4 - 1(mượn) - 2 = 1.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả: 19 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-97": {
+    "id": "g2-midterm-gen3-97",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Số \"Ba mươi mốt\" được viết là:",
+    "choices": [
+      "31",
+      "38",
+      "27",
+      "30"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "\"Ba mươi mốt\" viết bằng số là 31. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-98": {
+    "id": "g2-midterm-gen3-98",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: So sánh: 96 ... 56",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh hàng chục trước, rồi đến hàng đơn vị. Vậy 96 > 56. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-99": {
+    "id": "g2-midterm-gen3-99",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: Tính độ dài đường gấp khúc ABCD có các đoạn thẳng: AB = 3cm, BC = 1cm, CD = 6cm.",
+    "choices": [
+      "8 cm",
+      "11 cm",
+      "9 cm",
+      "10 cm"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Độ dài đường gấp khúc = tổng độ dài các đoạn thẳng: 3 + 1 + 6 = 10 (cm). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-midterm-gen3-100": {
+    "id": "g2-midterm-gen3-100",
+    "topicId": "g2-midterm",
+    "question": "Đề Giữa Kỳ: 34 + 86 = ?",
+    "choices": [
+      "125",
+      "113",
+      "118",
+      "120"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Cộng hàng đơn vị: 4 + 6 = 10. Viết 0, nhớ 1.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Cộng hàng chục: 3 + 8 + 1(nhớ) = 12.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 120 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-1": {
+    "id": "g2-final-gen3-1",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Có 42 cái bánh chia đều cho 7 bạn. Hỏi mỗi bạn được bao nhiêu cái bánh?",
+    "choices": [
+      "7 cái bánh",
+      "9 cái bánh",
+      "4 cái bánh",
+      "6 cái bánh"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "42 : 7 = 6 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-2": {
+    "id": "g2-final-gen3-2",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Con lợn cân nặng 35kg, con chó nhẹ hơn lợn 15kg. Hỏi con chó cân nặng bao nhiêu?",
+    "choices": [
+      "20kg",
+      "23kg",
+      "14kg",
+      "27kg"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "35 - 15 = 20 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-3": {
+    "id": "g2-final-gen3-3",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: 8 : 2 = ?",
+    "choices": [
+      "6",
+      "4",
+      "7",
+      "3"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "8 : 2 = 4. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-final-gen3-4": {
+    "id": "g2-final-gen3-4",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Số liền trước của số 976 là:",
+    "choices": [
+      "977",
+      "976",
+      "978",
+      "975"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kết quả là 975. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-5": {
+    "id": "g2-final-gen3-5",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Trong phép tính 2 × 10 = 20, số 20 được gọi là gì?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Thương",
+      "Số chia"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trong phép nhân, 2 và 10 là thừa số, 20 là tích. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-final-gen3-6": {
+    "id": "g2-final-gen3-6",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Tính: 779 - 431 = ?",
+    "choices": [
+      "348",
+      "344",
+      "363",
+      "346"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 348 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-7": {
+    "id": "g2-final-gen3-7",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Đổi đơn vị: 8 m = ... cm",
+    "choices": [
+      "824",
+      "800",
+      "771",
+      "830"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Ta biết 1 m = 100 cm.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 800. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-8": {
+    "id": "g2-final-gen3-8",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: So sánh: 290 ... 544",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 290 < 544. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-9": {
+    "id": "g2-final-gen3-9",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Tính: 539 - 278 = ?",
+    "choices": [
+      "274",
+      "259",
+      "266",
+      "261"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 261 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-10": {
+    "id": "g2-final-gen3-10",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Từ phép nhân 2 × 1 = 2, viết được phép chia nào dưới đây?",
+    "choices": [
+      "2 : 2 = 1",
+      "2 : 1 = 3",
+      "3 : 2 = 1",
+      "2 : 3 = 1"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Từ 2 × 1 = 2, suy ra 2 : 2 = 1 (và 2 : 1 = 2). ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-final-gen3-11": {
+    "id": "g2-final-gen3-11",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Đặt tính rồi tính: 564 + 296",
+    "choices": [
+      "849",
+      "865",
+      "871",
+      "860"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 4 + 6 = 10, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 860 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-12": {
+    "id": "g2-final-gen3-12",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Tính: 560 - 304 = ?",
+    "choices": [
+      "256",
+      "264",
+      "258",
+      "271"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 256 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-13": {
+    "id": "g2-final-gen3-13",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Trong phép tính 2 × 8 = 16, số 16 được gọi là gì?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Thương",
+      "Số chia"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trong phép nhân, 2 và 8 là thừa số, 16 là tích. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-final-gen3-14": {
+    "id": "g2-final-gen3-14",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Trong phép tính 2 : 2 = 1, số 1 được gọi là gì?",
+    "choices": [
+      "Số bị chia",
+      "Số chia",
+      "Thương",
+      "Tích"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trong phép chia, 2 là số bị chia, 2 là số chia, 1 là thương. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-final-gen3-15": {
+    "id": "g2-final-gen3-15",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Tính: 745 - 713 = ?",
+    "choices": [
+      "34",
+      "30",
+      "40",
+      "32"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 32 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-16": {
+    "id": "g2-final-gen3-16",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Mỗi thùng có 8 quả táo 🍎. Có 9 thùng. Hỏi tất cả có bao nhiêu táo?",
+    "choices": [
+      "73",
+      "72",
+      "70",
+      "66"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Có 9 thùng, mỗi thùng 8 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "8 × 9 = 72 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-17": {
+    "id": "g2-final-gen3-17",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Phân tích số 261 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "800 + 30 + 9",
+      "200 + 60 + 1",
+      "300 + 30 + 7",
+      "900 + 50 + 3"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "261 = 200 + 60 + 1. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-18": {
+    "id": "g2-final-gen3-18",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Phân tích số 441 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "400 + 40 + 1",
+      "300 + 80 + 6",
+      "100 + 50 + 8",
+      "500 + 70 + 0"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "441 = 400 + 40 + 1. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-19": {
+    "id": "g2-final-gen3-19",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Tính: 222 + 421 = ?",
+    "choices": [
+      "655",
+      "648",
+      "646",
+      "643"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 2 + 1 = 3, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 643 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-20": {
+    "id": "g2-final-gen3-20",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Có 27 quyển vở chia đều cho 3 bạn. Hỏi mỗi bạn được bao nhiêu quyển vở?",
+    "choices": [
+      "10 quyển vở",
+      "9 quyển vở",
+      "7 quyển vở",
+      "12 quyển vở"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "27 : 3 = 9 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-21": {
+    "id": "g2-final-gen3-21",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Mỗi thùng có 9 quả dâu 🍓. Có 2 thùng. Hỏi tất cả có bao nhiêu dâu?",
+    "choices": [
+      "14",
+      "17",
+      "18",
+      "15"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Có 2 thùng, mỗi thùng 9 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "9 × 2 = 18 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-22": {
+    "id": "g2-final-gen3-22",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Trong phép tính 10 : 5 = 2, số 2 được gọi là gì?",
+    "choices": [
+      "Số bị chia",
+      "Số chia",
+      "Thương",
+      "Tích"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trong phép chia, 10 là số bị chia, 5 là số chia, 2 là thương. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-final-gen3-23": {
+    "id": "g2-final-gen3-23",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Từ phép nhân 5 × 3 = 15, viết được phép chia nào dưới đây?",
+    "choices": [
+      "18 : 5 = 3",
+      "15 : 3 = 6",
+      "15 : 5 = 3",
+      "15 : 6 = 3"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Từ 5 × 3 = 15, suy ra 15 : 5 = 3 (và 15 : 3 = 5). ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-final-gen3-24": {
+    "id": "g2-final-gen3-24",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: 5 × 1 = ?",
+    "choices": [
+      "5",
+      "6",
+      "9",
+      "8"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "5 × 1 = 5. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-final-gen3-25": {
+    "id": "g2-final-gen3-25",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Phân tích số 556 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "500 + 50 + 6",
+      "200 + 60 + 4",
+      "700 + 80 + 8",
+      "700 + 10 + 3"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "556 = 500 + 50 + 6. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-26": {
+    "id": "g2-final-gen3-26",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Từ phép nhân 5 × 4 = 20, viết được phép chia nào dưới đây?",
+    "choices": [
+      "20 : 5 = 4",
+      "20 : 4 = 6",
+      "24 : 5 = 4",
+      "20 : 6 = 4"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Từ 5 × 4 = 20, suy ra 20 : 5 = 4 (và 20 : 4 = 5). ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-final-gen3-27": {
+    "id": "g2-final-gen3-27",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Có 12 quả bóng bay chia đều cho 4 bạn. Hỏi mỗi bạn được bao nhiêu quả bóng bay?",
+    "choices": [
+      "3 quả bóng bay",
+      "1 quả bóng bay",
+      "6 quả bóng bay",
+      "2 quả bóng bay"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "12 : 4 = 3 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-28": {
+    "id": "g2-final-gen3-28",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Trong phép tính 20 : 2 = 10, số 10 được gọi là gì?",
+    "choices": [
+      "Số bị chia",
+      "Số chia",
+      "Thương",
+      "Tích"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trong phép chia, 20 là số bị chia, 2 là số chia, 10 là thương. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-final-gen3-29": {
+    "id": "g2-final-gen3-29",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Trong phép tính 14 : 2 = 7, số 7 được gọi là gì?",
+    "choices": [
+      "Số bị chia",
+      "Số chia",
+      "Thương",
+      "Tích"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trong phép chia, 14 là số bị chia, 2 là số chia, 7 là thương. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-final-gen3-30": {
+    "id": "g2-final-gen3-30",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Đặt tính rồi tính: 752 - 253",
+    "choices": [
+      "507",
+      "485",
+      "484",
+      "499"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 499 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-31": {
+    "id": "g2-final-gen3-31",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Số gồm 5 trăm, 7 chục và 3 đơn vị được viết là:",
+    "choices": [
+      "571",
+      "616",
+      "523",
+      "573"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "5 trăm + 7 chục + 3 đơn vị = 573. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-32": {
+    "id": "g2-final-gen3-32",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Có 35 bông hoa chia đều cho 7 bạn. Hỏi mỗi bạn được bao nhiêu bông hoa?",
+    "choices": [
+      "3 bông hoa",
+      "5 bông hoa",
+      "7 bông hoa",
+      "2 bông hoa"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "35 : 7 = 5 (bông hoa) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-33": {
+    "id": "g2-final-gen3-33",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Con trâu cân nặng 204kg, con bò nhẹ hơn trâu 91kg. Hỏi con bò cân nặng bao nhiêu?",
+    "choices": [
+      "113kg",
+      "119kg",
+      "110kg",
+      "109kg"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "204 - 91 = 113 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-34": {
+    "id": "g2-final-gen3-34",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Con gà cân nặng 4kg, con vịt nhẹ hơn gà 2kg. Hỏi con vịt cân nặng bao nhiêu?",
+    "choices": [
+      "2kg",
+      "9kg",
+      "7kg",
+      "6kg"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "4 - 2 = 2 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-35": {
+    "id": "g2-final-gen3-35",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: So sánh: 925 ... 735",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 925 > 735. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-36": {
+    "id": "g2-final-gen3-36",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Đặt tính rồi tính: 533 - 342",
+    "choices": [
+      "194",
+      "206",
+      "191",
+      "198"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 191 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-37": {
+    "id": "g2-final-gen3-37",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Có 56 chiếc kẹo chia đều cho 7 bạn. Hỏi mỗi bạn được bao nhiêu chiếc kẹo?",
+    "choices": [
+      "6 chiếc kẹo",
+      "11 chiếc kẹo",
+      "8 chiếc kẹo",
+      "9 chiếc kẹo"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "56 : 7 = 8 (chiếc kẹo) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-38": {
+    "id": "g2-final-gen3-38",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: 2 × 3 = ?",
+    "choices": [
+      "11",
+      "2",
+      "6",
+      "8"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "2 × 3 = 6. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-final-gen3-39": {
+    "id": "g2-final-gen3-39",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Có 49 cái bánh chia đều cho 7 bạn. Hỏi mỗi bạn được bao nhiêu cái bánh?",
+    "choices": [
+      "7 cái bánh",
+      "6 cái bánh",
+      "10 cái bánh",
+      "4 cái bánh"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "49 : 7 = 7 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-40": {
+    "id": "g2-final-gen3-40",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Trong phép tính 25 : 5 = 5, số 5 được gọi là gì?",
+    "choices": [
+      "Số bị chia",
+      "Số chia",
+      "Thương",
+      "Tích"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trong phép chia, 25 là số bị chia, 5 là số chia, 5 là thương. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-final-gen3-41": {
+    "id": "g2-final-gen3-41",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: 5 × 5 = ?",
+    "choices": [
+      "26",
+      "25",
+      "28",
+      "19"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "5 × 5 = 25. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-final-gen3-42": {
+    "id": "g2-final-gen3-42",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Đặt tính rồi tính: 159 + 286",
+    "choices": [
+      "448",
+      "445",
+      "455",
+      "431"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 9 + 6 = 15, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 445 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-43": {
+    "id": "g2-final-gen3-43",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Tính: 156 + 701 = ?",
+    "choices": [
+      "869",
+      "857",
+      "863",
+      "862"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 6 + 1 = 7, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 857 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-44": {
+    "id": "g2-final-gen3-44",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: 2 × 7 = ?",
+    "choices": [
+      "19",
+      "20",
+      "15",
+      "14"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "2 × 7 = 14. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-final-gen3-45": {
+    "id": "g2-final-gen3-45",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Con lợn cân nặng 20kg, con chó nhẹ hơn lợn 1kg. Hỏi con chó cân nặng bao nhiêu?",
+    "choices": [
+      "13kg",
+      "16kg",
+      "19kg",
+      "11kg"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "20 - 1 = 19 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-46": {
+    "id": "g2-final-gen3-46",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: 2 : 2 = ?",
+    "choices": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "2 : 2 = 1. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-final-gen3-47": {
+    "id": "g2-final-gen3-47",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Con ngựa cân nặng 155kg, con dê nhẹ hơn ngựa 49kg. Hỏi con dê cân nặng bao nhiêu?",
+    "choices": [
+      "108kg",
+      "114kg",
+      "113kg",
+      "106kg"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "155 - 49 = 106 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-48": {
+    "id": "g2-final-gen3-48",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: 5 × 7 = ?",
+    "choices": [
+      "31",
+      "35",
+      "40",
+      "36"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "5 × 7 = 35. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-final-gen3-49": {
+    "id": "g2-final-gen3-49",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Đặt tính rồi tính: 377 - 164",
+    "choices": [
+      "205",
+      "225",
+      "213",
+      "219"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 213 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-50": {
+    "id": "g2-final-gen3-50",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Mỗi giỏ có 6 quả chuối 🍌. Có 8 giỏ. Hỏi tất cả có bao nhiêu chuối?",
+    "choices": [
+      "48",
+      "43",
+      "47",
+      "51"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 8 giỏ, mỗi giỏ 6 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "6 × 8 = 48 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-51": {
+    "id": "g2-final-gen3-51",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Mỗi giỏ có 2 quả đào 🍑. Có 8 giỏ. Hỏi tất cả có bao nhiêu đào?",
+    "choices": [
+      "11",
+      "17",
+      "15",
+      "16"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Có 8 giỏ, mỗi giỏ 2 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "2 × 8 = 16 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-52": {
+    "id": "g2-final-gen3-52",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Tính: 417 + 464 = ?",
+    "choices": [
+      "892",
+      "868",
+      "882",
+      "881"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 7 + 4 = 11, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 881 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-53": {
+    "id": "g2-final-gen3-53",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Đổi đơn vị: 5000 m = ... km",
+    "choices": [
+      "7",
+      "6",
+      "5",
+      "2"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Ta biết 1 km = 1000 m.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 5. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-54": {
+    "id": "g2-final-gen3-54",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Đặt tính rồi tính: 306 - 174",
+    "choices": [
+      "129",
+      "132",
+      "142",
+      "140"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 132 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-55": {
+    "id": "g2-final-gen3-55",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Mỗi hộp có 3 quả quýt 🍊. Có 9 hộp. Hỏi tất cả có bao nhiêu quýt?",
+    "choices": [
+      "31",
+      "33",
+      "28",
+      "27"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Có 9 hộp, mỗi hộp 3 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "3 × 9 = 27 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-56": {
+    "id": "g2-final-gen3-56",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: 2 × 1 = ?",
+    "choices": [
+      "3",
+      "5",
+      "6",
+      "2"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "2 × 1 = 2. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-final-gen3-57": {
+    "id": "g2-final-gen3-57",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Mỗi hộp có 2 quả lê 🍐. Có 8 hộp. Hỏi tất cả có bao nhiêu lê?",
+    "choices": [
+      "16",
+      "17",
+      "15",
+      "13"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 8 hộp, mỗi hộp 2 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "2 × 8 = 16 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-58": {
+    "id": "g2-final-gen3-58",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Con trâu cân nặng 359kg, con bò nhẹ hơn trâu 58kg. Hỏi con bò cân nặng bao nhiêu?",
+    "choices": [
+      "298kg",
+      "301kg",
+      "308kg",
+      "296kg"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "359 - 58 = 301 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-59": {
+    "id": "g2-final-gen3-59",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: 25 : 5 = ?",
+    "choices": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "25 : 5 = 5. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-final-gen3-60": {
+    "id": "g2-final-gen3-60",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: So sánh giá trị: tờ 1000 đồng và tờ 100 đồng, tờ nào có mệnh giá lớn hơn?",
+    "choices": [
+      "Tờ 1000 đồng",
+      "Tờ 100 đồng",
+      "Bằng nhau",
+      "Tờ 200 đồng"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "1000 > 100 nên tờ 1000 đồng có giá trị lớn hơn. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-61": {
+    "id": "g2-final-gen3-61",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Có 45 cây bút chia đều cho 5 bạn. Hỏi mỗi bạn được bao nhiêu cây bút?",
+    "choices": [
+      "11 cây bút",
+      "8 cây bút",
+      "9 cây bút",
+      "12 cây bút"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "45 : 5 = 9 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-62": {
+    "id": "g2-final-gen3-62",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Có 14 quả bóng bay chia đều cho 7 bạn. Hỏi mỗi bạn được bao nhiêu quả bóng bay?",
+    "choices": [
+      "1 quả bóng bay",
+      "5 quả bóng bay",
+      "4 quả bóng bay",
+      "2 quả bóng bay"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "14 : 7 = 2 (quả bóng bay) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-63": {
+    "id": "g2-final-gen3-63",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: So sánh: 698 ... 901",
+    "choices": [
+      ">",
+      "<",
+      "=",
+      "?"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "So sánh hàng trăm trước, rồi đến hàng chục, hàng đơn vị. Vậy 698 < 901. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-64": {
+    "id": "g2-final-gen3-64",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Số gồm 6 trăm, 2 chục và 2 đơn vị được viết là:",
+    "choices": [
+      "622",
+      "598",
+      "585",
+      "649"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "6 trăm + 2 chục + 2 đơn vị = 622. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-65": {
+    "id": "g2-final-gen3-65",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: 12 : 2 = ?",
+    "choices": [
+      "5",
+      "8",
+      "6",
+      "4"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "12 : 2 = 6. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-final-gen3-66": {
+    "id": "g2-final-gen3-66",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: 30 : 5 = ?",
+    "choices": [
+      "4",
+      "3",
+      "9",
+      "6"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "30 : 5 = 6. ✅",
+        "highlight": "phep-chia"
+      }
+    ]
+  },
+  "g2-final-gen3-67": {
+    "id": "g2-final-gen3-67",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Mỗi giỏ có 8 quả lê 🍐. Có 6 giỏ. Hỏi tất cả có bao nhiêu lê?",
+    "choices": [
+      "44",
+      "42",
+      "48",
+      "43"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Có 6 giỏ, mỗi giỏ 8 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "8 × 6 = 48 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-68": {
+    "id": "g2-final-gen3-68",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Số gồm 5 trăm, 7 chục và 5 đơn vị được viết là:",
+    "choices": [
+      "575",
+      "533",
+      "589",
+      "580"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "5 trăm + 7 chục + 5 đơn vị = 575. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-69": {
+    "id": "g2-final-gen3-69",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Mỗi giỏ có 5 quả lê 🍐. Có 2 giỏ. Hỏi tất cả có bao nhiêu lê?",
+    "choices": [
+      "10",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 2 giỏ, mỗi giỏ 5 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "5 × 2 = 10 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-70": {
+    "id": "g2-final-gen3-70",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Mỗi hộp có 5 quả dâu 🍓. Có 9 hộp. Hỏi tất cả có bao nhiêu dâu?",
+    "choices": [
+      "45",
+      "49",
+      "47",
+      "43"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 9 hộp, mỗi hộp 5 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "5 × 9 = 45 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-71": {
+    "id": "g2-final-gen3-71",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Phân tích số 109 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "900 + 90 + 9",
+      "700 + 90 + 6",
+      "500 + 40 + 2",
+      "100 + 0 + 9"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "109 = 100 + 0 + 9. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-72": {
+    "id": "g2-final-gen3-72",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Mỗi thùng có 4 quả quýt 🍊. Có 2 thùng. Hỏi tất cả có bao nhiêu quýt?",
+    "choices": [
+      "8",
+      "9",
+      "11",
+      "13"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 2 thùng, mỗi thùng 4 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "4 × 2 = 8 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-73": {
+    "id": "g2-final-gen3-73",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Đổi đơn vị: 8000 m = ... km",
+    "choices": [
+      "6",
+      "10",
+      "9",
+      "8"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Ta biết 1 km = 1000 m.",
+        "highlight": null
+      },
+      {
+        "text": "Kết quả là 8. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-74": {
+    "id": "g2-final-gen3-74",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Mỗi túi có 8 quả táo 🍎. Có 9 túi. Hỏi tất cả có bao nhiêu táo?",
+    "choices": [
+      "73",
+      "72",
+      "76",
+      "78"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Có 9 túi, mỗi túi 8 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "8 × 9 = 72 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-75": {
+    "id": "g2-final-gen3-75",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Số liền sau của số 578 là:",
+    "choices": [
+      "580",
+      "578",
+      "579",
+      "577"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Kết quả là 579. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-76": {
+    "id": "g2-final-gen3-76",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Có 8 cây bút chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu cây bút?",
+    "choices": [
+      "3 cây bút",
+      "5 cây bút",
+      "7 cây bút",
+      "4 cây bút"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "8 : 2 = 4 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-77": {
+    "id": "g2-final-gen3-77",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Tính: 340 - 117 = ?",
+    "choices": [
+      "223",
+      "238",
+      "232",
+      "209"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 223 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-78": {
+    "id": "g2-final-gen3-78",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Trong phép tính 5 × 1 = 5, số 5 được gọi là gì?",
+    "choices": [
+      "Thừa số",
+      "Tích",
+      "Thương",
+      "Số chia"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Trong phép nhân, 5 và 1 là thừa số, 5 là tích. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-final-gen3-79": {
+    "id": "g2-final-gen3-79",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Số liền sau của số 356 là:",
+    "choices": [
+      "355",
+      "356",
+      "354",
+      "357"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kết quả là 357. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-80": {
+    "id": "g2-final-gen3-80",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Con ngựa cân nặng 89kg, con dê nhẹ hơn ngựa 48kg. Hỏi con dê cân nặng bao nhiêu?",
+    "choices": [
+      "42kg",
+      "47kg",
+      "39kg",
+      "41kg"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "89 - 48 = 41 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-81": {
+    "id": "g2-final-gen3-81",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Mỗi túi có 4 quả quýt 🍊. Có 6 túi. Hỏi tất cả có bao nhiêu quýt?",
+    "choices": [
+      "24",
+      "18",
+      "28",
+      "29"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 6 túi, mỗi túi 4 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "4 × 6 = 24 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-82": {
+    "id": "g2-final-gen3-82",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Đặt tính rồi tính: 530 - 263",
+    "choices": [
+      "263",
+      "270",
+      "267",
+      "259"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Trừ lần lượt từ hàng đơn vị, mượn khi cần.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "Kết quả: 267 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-83": {
+    "id": "g2-final-gen3-83",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Đặt tính rồi tính: 196 + 342",
+    "choices": [
+      "538",
+      "541",
+      "545",
+      "527"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Cộng lần lượt từ hàng đơn vị: 6 + 2 = 8, viết và nhớ.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Thực hiện tương tự với hàng chục và hàng trăm.",
+        "highlight": "co-nho"
+      },
+      {
+        "text": "Kết quả: 538 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-84": {
+    "id": "g2-final-gen3-84",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Mỗi thùng có 3 quả dâu 🍓. Có 7 thùng. Hỏi tất cả có bao nhiêu dâu?",
+    "choices": [
+      "26",
+      "21",
+      "23",
+      "15"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "Có 7 thùng, mỗi thùng 3 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "3 × 7 = 21 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-85": {
+    "id": "g2-final-gen3-85",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Có 21 cái bánh chia đều cho 7 bạn. Hỏi mỗi bạn được bao nhiêu cái bánh?",
+    "choices": [
+      "1 cái bánh",
+      "5 cái bánh",
+      "2 cái bánh",
+      "3 cái bánh"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "21 : 7 = 3 (cái bánh) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-86": {
+    "id": "g2-final-gen3-86",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Phân tích số 271 thành tổng các trăm, chục, đơn vị:",
+    "choices": [
+      "200 + 70 + 1",
+      "900 + 50 + 9",
+      "500 + 30 + 0",
+      "800 + 70 + 5"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "271 = 200 + 70 + 1. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-87": {
+    "id": "g2-final-gen3-87",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Mỗi thùng có 3 quả đào 🍑. Có 6 thùng. Hỏi tất cả có bao nhiêu đào?",
+    "choices": [
+      "18",
+      "23",
+      "17",
+      "12"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Có 6 thùng, mỗi thùng 3 quả -> dùng phép nhân.",
+        "highlight": "phep-nhan"
+      },
+      {
+        "text": "3 × 6 = 18 ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-88": {
+    "id": "g2-final-gen3-88",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Hộp sữa hình ống thường có dạng hình khối nào?",
+    "choices": [
+      "khối trụ",
+      "khối cầu",
+      "hình tứ giác",
+      "khối lập phương"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Hộp sữa hình ống có dạng khối trụ. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-89": {
+    "id": "g2-final-gen3-89",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: So sánh giá trị: tờ 200 đồng và tờ 1000 đồng, tờ nào có mệnh giá lớn hơn?",
+    "choices": [
+      "Tờ 200 đồng",
+      "Tờ 1000 đồng",
+      "Bằng nhau",
+      "Tờ 500 đồng"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "1000 > 200 nên tờ 1000 đồng có giá trị lớn hơn. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-90": {
+    "id": "g2-final-gen3-90",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Có 49 quyển vở chia đều cho 7 bạn. Hỏi mỗi bạn được bao nhiêu quyển vở?",
+    "choices": [
+      "7 quyển vở",
+      "6 quyển vở",
+      "9 quyển vở",
+      "8 quyển vở"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "49 : 7 = 7 (quyển vở) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-91": {
+    "id": "g2-final-gen3-91",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Số liền trước của số 884 là:",
+    "choices": [
+      "880",
+      "884",
+      "881",
+      "883"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Kết quả là 883. ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-92": {
+    "id": "g2-final-gen3-92",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Con trâu cân nặng 222kg, con bò nhẹ hơn trâu 97kg. Hỏi con bò cân nặng bao nhiêu?",
+    "choices": [
+      "130kg",
+      "127kg",
+      "123kg",
+      "125kg"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "222 - 97 = 125 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-93": {
+    "id": "g2-final-gen3-93",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Con trâu cân nặng 270kg, con bò nhẹ hơn trâu 31kg. Hỏi con bò cân nặng bao nhiêu?",
+    "choices": [
+      "242kg",
+      "232kg",
+      "239kg",
+      "245kg"
+    ],
+    "answer": 2,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "270 - 31 = 239 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-94": {
+    "id": "g2-final-gen3-94",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Có 4 cây bút chia đều cho 2 bạn. Hỏi mỗi bạn được bao nhiêu cây bút?",
+    "choices": [
+      "2 cây bút",
+      "1 cây bút",
+      "3 cây bút",
+      "5 cây bút"
+    ],
+    "answer": 0,
+    "steps": [
+      {
+        "text": "Chia đều là thực hiện phép tính chia.",
+        "highlight": "phep-chia"
+      },
+      {
+        "text": "4 : 2 = 2 (cây bút) ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-95": {
+    "id": "g2-final-gen3-95",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: 5 × 10 = ?",
+    "choices": [
+      "48",
+      "56",
+      "47",
+      "50"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "5 × 10 = 50. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-final-gen3-96": {
+    "id": "g2-final-gen3-96",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Con lợn cân nặng 19kg, con chó nhẹ hơn lợn 13kg. Hỏi con chó cân nặng bao nhiêu?",
+    "choices": [
+      "14kg",
+      "13kg",
+      "7kg",
+      "6kg"
+    ],
+    "answer": 3,
+    "steps": [
+      {
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "19 - 13 = 6 (kg). ✅",
+        "highlight": null
+      }
+    ]
+  },
+  "g2-final-gen3-97": {
+    "id": "g2-final-gen3-97",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: 5 × 8 = ?",
+    "choices": [
+      "44",
+      "40",
+      "39",
+      "46"
+    ],
+    "answer": 1,
+    "steps": [
+      {
+        "text": "5 × 8 = 40. ✅",
+        "highlight": "phep-nhan"
+      }
+    ]
+  },
+  "g2-final-gen3-98": {
+    "id": "g2-final-gen3-98",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Có 14 quyển vở chia đều cho 7 bạn. Hỏi mỗi bạn được bao nhiêu quyển vở?",
     "choices": [
       "2 quyển vở",
       "1 quyển vở",
@@ -29631,662 +40731,42 @@ export const problems = {
         "highlight": "phep-chia"
       },
       {
-        "text": "Phép tính: 6 ÷ 3 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 2 quyển vở ✅",
+        "text": "14 : 7 = 2 (quyển vở) ✅",
         "highlight": null
       }
     ]
   },
-  "g2-midterm-gen2-12": {
-    "id": "g2-midterm-gen2-12",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Đổi đơn vị: 2000g = ... kg",
+  "g2-final-gen3-99": {
+    "id": "g2-final-gen3-99",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Con lợn cân nặng 58kg, con chó nhẹ hơn lợn 9kg. Hỏi con chó cân nặng bao nhiêu?",
     "choices": [
-      "20 kg",
-      "2 kg",
-      "0.2 kg",
-      "200 kg"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Ta biết 1000g = 1kg.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 2000g = 2000 ÷ 1000 = 2kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-13": {
-    "id": "g2-midterm-gen2-13",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Dãy số nào gồm các số từ 282 đến 292?",
-    "choices": [
-      "282, 284, 286, 288, 290, 292",
-      "282, 292",
-      "282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292",
-      "281, 282, 283, 284"
+      "50kg",
+      "51kg",
+      "49kg",
+      "56kg"
     ],
     "answer": 2,
     "steps": [
       {
-        "text": "Đếm lần lượt từng đơn vị từ 282 đến 292.",
+        "text": "Bài toán \"nhẹ hơn\" -> dùng phép trừ.",
+        "highlight": "phep-tru"
+      },
+      {
+        "text": "58 - 9 = 49 (kg). ✅",
         "highlight": null
       }
     ]
   },
-  "g2-midterm-gen2-14": {
-    "id": "g2-midterm-gen2-14",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: So sánh: 997 ... 1007",
+  "g2-final-gen3-100": {
+    "id": "g2-final-gen3-100",
+    "topicId": "g2-final",
+    "question": "Đề Cuối Kỳ: Có 81 cái bánh chia đều cho 9 bạn. Hỏi mỗi bạn được bao nhiêu cái bánh?",
     "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 997 và 1007 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 997 < 1007 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-15": {
-    "id": "g2-midterm-gen2-15",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: So sánh: 553 ... 535",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 553 và 535 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 553 > 535 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-16": {
-    "id": "g2-midterm-gen2-16",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 7 kg nho, mỗi kg giá 18.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "180.000 đồng",
-      "108.000 đồng",
-      "126.000 đồng",
-      "72.000 đồng"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 18.000 đồng × 7 = 126.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 126.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-17": {
-    "id": "g2-midterm-gen2-17",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Tính: 463 + 349 = ?",
-    "choices": [
-      "821",
-      "811",
-      "812",
-      "804"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "3 + 9 = 12, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 812 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-18": {
-    "id": "g2-midterm-gen2-18",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Tính: 617 + 187 = ?",
-    "choices": [
-      "807",
-      "816",
-      "814",
-      "804"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "7 + 7 = 14, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 804 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-19": {
-    "id": "g2-midterm-gen2-19",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Đổi đơn vị: 4000g = ... kg",
-    "choices": [
-      "40 kg",
-      "400 kg",
-      "4 kg",
-      "0.4 kg"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Ta biết 1000g = 1kg.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 4000g = 4000 ÷ 1000 = 4kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-20": {
-    "id": "g2-midterm-gen2-20",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Dãy số nào gồm các số từ 898 đến 908?",
-    "choices": [
-      "898, 900, 902, 904, 906, 908",
-      "898, 908",
-      "898, 899, 900, 901, 902, 903, 904, 905, 906, 907, 908",
-      "897, 898, 899, 900"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 898 đến 908.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-21": {
-    "id": "g2-midterm-gen2-21",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 3 kg xoài, mỗi kg giá 14.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "42.000 đồng",
-      "84.000 đồng",
-      "14.000 đồng",
-      "56.000 đồng"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 14.000 đồng × 3 = 42.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 42.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-22": {
-    "id": "g2-midterm-gen2-22",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Đổi đơn vị: 1000g = ... kg",
-    "choices": [
-      "0.1 kg",
-      "1 kg",
-      "10 kg",
-      "100 kg"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Ta biết 1000g = 1kg.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 1000g = 1000 ÷ 1000 = 1kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-23": {
-    "id": "g2-midterm-gen2-23",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 10 chiếc kẹo, chia đều thành 2 tổ. Hỏi mỗi tổ có bao nhiêu chiếc kẹo?",
-    "choices": [
-      "6 chiếc kẹo",
-      "4 chiếc kẹo",
-      "5 chiếc kẹo",
-      "3 chiếc kẹo"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 10 ÷ 2 = 5.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 5 chiếc kẹo ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-24": {
-    "id": "g2-midterm-gen2-24",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 24 quyển vở, chia đều thành 4 tổ. Hỏi mỗi tổ có bao nhiêu quyển vở?",
-    "choices": [
-      "6 quyển vở",
-      "5 quyển vở",
-      "7 quyển vở",
-      "9 quyển vở"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 24 ÷ 4 = 6.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 6 quyển vở ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-25": {
-    "id": "g2-midterm-gen2-25",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Dãy số nào gồm các số từ 236 đến 246?",
-    "choices": [
-      "236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246",
-      "236, 246",
-      "235, 236, 237, 238",
-      "236, 238, 240, 242, 244, 246"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 236 đến 246.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-26": {
-    "id": "g2-midterm-gen2-26",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 72 quyển vở, chia đều thành 9 tổ. Hỏi mỗi tổ có bao nhiêu quyển vở?",
-    "choices": [
-      "11 quyển vở",
-      "7 quyển vở",
-      "8 quyển vở",
-      "10 quyển vở"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 72 ÷ 9 = 8.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 8 quyển vở ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-27": {
-    "id": "g2-midterm-gen2-27",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: So sánh: 127 ... 147",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 127 và 147 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 127 < 147 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-28": {
-    "id": "g2-midterm-gen2-28",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: So sánh: 646 ... 620",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 646 và 620 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 646 > 620 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-29": {
-    "id": "g2-midterm-gen2-29",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Tính: 325 + 624 = ?",
-    "choices": [
-      "959",
-      "949",
-      "939",
-      "950"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "5 + 4 = 9, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 949 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-30": {
-    "id": "g2-midterm-gen2-30",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: So sánh: 568 ... 594",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 568 và 594 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 568 < 594 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-31": {
-    "id": "g2-midterm-gen2-31",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Dãy số nào gồm các số từ 566 đến 576?",
-    "choices": [
-      "566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576",
-      "566, 576",
-      "566, 568, 570, 572, 574, 576",
-      "565, 566, 567, 568"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 566 đến 576.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-32": {
-    "id": "g2-midterm-gen2-32",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 8 kg ổi, mỗi kg giá 28.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "168.000 đồng",
-      "224.000 đồng",
-      "308.000 đồng",
-      "196.000 đồng"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 28.000 đồng × 8 = 224.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 224.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-33": {
-    "id": "g2-midterm-gen2-33",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Dãy số nào gồm các số từ 371 đến 381?",
-    "choices": [
-      "371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381",
-      "371, 373, 375, 377, 379, 381",
-      "370, 371, 372, 373",
-      "371, 381"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 371 đến 381.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-34": {
-    "id": "g2-midterm-gen2-34",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Dãy số nào gồm các số từ 497 đến 507?",
-    "choices": [
-      "496, 497, 498, 499",
-      "497, 499, 501, 503, 505, 507",
-      "497, 507",
-      "497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 497 đến 507.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-35": {
-    "id": "g2-midterm-gen2-35",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 5 kg cam, mỗi kg giá 20.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "160.000 đồng",
-      "100.000 đồng",
-      "140.000 đồng",
-      "60.000 đồng"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 20.000 đồng × 5 = 100.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 100.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-36": {
-    "id": "g2-midterm-gen2-36",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Dãy số nào gồm các số từ 569 đến 579?",
-    "choices": [
-      "569, 579",
-      "569, 571, 573, 575, 577, 579",
-      "569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579",
-      "568, 569, 570, 571"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 569 đến 579.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-37": {
-    "id": "g2-midterm-gen2-37",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Dãy số nào gồm các số từ 892 đến 902?",
-    "choices": [
-      "892, 893, 894, 895, 896, 897, 898, 899, 900, 901, 902",
-      "892, 894, 896, 898, 900, 902",
-      "891, 892, 893, 894",
-      "892, 902"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 892 đến 902.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-38": {
-    "id": "g2-midterm-gen2-38",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 54 chiếc kẹo, chia đều thành 9 tổ. Hỏi mỗi tổ có bao nhiêu chiếc kẹo?",
-    "choices": [
-      "6 chiếc kẹo",
-      "9 chiếc kẹo",
-      "8 chiếc kẹo",
-      "4 chiếc kẹo"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 54 ÷ 9 = 6.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 6 chiếc kẹo ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-39": {
-    "id": "g2-midterm-gen2-39",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Tính: 756 + 674 = ?",
-    "choices": [
-      "1424",
-      "1426",
-      "1442",
-      "1430"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "6 + 4 = 10, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 1430 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-40": {
-    "id": "g2-midterm-gen2-40",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Tính: 548 + 196 = ?",
-    "choices": [
-      "752",
-      "738",
-      "750",
-      "744"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "8 + 6 = 14, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 744 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-41": {
-    "id": "g2-midterm-gen2-41",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 28 cây bút, chia đều thành 7 tổ. Hỏi mỗi tổ có bao nhiêu cây bút?",
-    "choices": [
-      "1 cây bút",
-      "4 cây bút",
-      "2 cây bút",
-      "3 cây bút"
+      "10 cái bánh",
+      "9 cái bánh",
+      "7 cái bánh",
+      "6 cái bánh"
     ],
     "answer": 1,
     "steps": [
@@ -30295,3611 +40775,7 @@ export const problems = {
         "highlight": "phep-chia"
       },
       {
-        "text": "Phép tính: 28 ÷ 7 = 4.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 4 cây bút ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-42": {
-    "id": "g2-midterm-gen2-42",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 8 kg cam, mỗi kg giá 30.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "210.000 đồng",
-      "240.000 đồng",
-      "270.000 đồng",
-      "150.000 đồng"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 30.000 đồng × 8 = 240.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 240.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-43": {
-    "id": "g2-midterm-gen2-43",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Đổi đơn vị: 8000g = ... kg",
-    "choices": [
-      "80 kg",
-      "800 kg",
-      "8 kg",
-      "0.8 kg"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Ta biết 1000g = 1kg.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 8000g = 8000 ÷ 1000 = 8kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-44": {
-    "id": "g2-midterm-gen2-44",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Tính: 161 + 728 = ?",
-    "choices": [
-      "886",
-      "889",
-      "884",
-      "893"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "1 + 8 = 9, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 889 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-45": {
-    "id": "g2-midterm-gen2-45",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 48 chiếc kẹo, chia đều thành 6 tổ. Hỏi mỗi tổ có bao nhiêu chiếc kẹo?",
-    "choices": [
-      "10 chiếc kẹo",
-      "11 chiếc kẹo",
-      "8 chiếc kẹo",
-      "6 chiếc kẹo"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 48 ÷ 6 = 8.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 8 chiếc kẹo ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-46": {
-    "id": "g2-midterm-gen2-46",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: So sánh: 498 ... 487",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 498 và 487 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 498 > 487 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-47": {
-    "id": "g2-midterm-gen2-47",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 12 học sinh, chia đều thành 3 tổ. Hỏi mỗi tổ có bao nhiêu học sinh?",
-    "choices": [
-      "6 học sinh",
-      "5 học sinh",
-      "3 học sinh",
-      "4 học sinh"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 12 ÷ 3 = 4.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 4 học sinh ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-48": {
-    "id": "g2-midterm-gen2-48",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 6 kg cam, mỗi kg giá 24.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "168.000 đồng",
-      "216.000 đồng",
-      "72.000 đồng",
-      "144.000 đồng"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 24.000 đồng × 6 = 144.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 144.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-49": {
-    "id": "g2-midterm-gen2-49",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 8 kg ổi, mỗi kg giá 17.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "153.000 đồng",
-      "170.000 đồng",
-      "102.000 đồng",
-      "136.000 đồng"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 17.000 đồng × 8 = 136.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 136.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-50": {
-    "id": "g2-midterm-gen2-50",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Tính: 386 + 470 = ?",
-    "choices": [
-      "859",
-      "856",
-      "854",
-      "846"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "6 + 0 = 6, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 856 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-51": {
-    "id": "g2-midterm-gen2-51",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 6 kg xoài, mỗi kg giá 24.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "144.000 đồng",
-      "120.000 đồng",
-      "192.000 đồng",
-      "216.000 đồng"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 24.000 đồng × 6 = 144.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 144.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-52": {
-    "id": "g2-midterm-gen2-52",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Đổi đơn vị: 9000g = ... kg",
-    "choices": [
-      "9 kg",
-      "0.9 kg",
-      "900 kg",
-      "90 kg"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Ta biết 1000g = 1kg.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 9000g = 9000 ÷ 1000 = 9kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-53": {
-    "id": "g2-midterm-gen2-53",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: So sánh: 537 ... 531",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 537 và 531 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 537 > 531 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-54": {
-    "id": "g2-midterm-gen2-54",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Dãy số nào gồm các số từ 680 đến 690?",
-    "choices": [
-      "680, 682, 684, 686, 688, 690",
-      "680, 690",
-      "679, 680, 681, 682",
-      "680, 681, 682, 683, 684, 685, 686, 687, 688, 689, 690"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 680 đến 690.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-55": {
-    "id": "g2-midterm-gen2-55",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 9 kg cam, mỗi kg giá 26.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "234.000 đồng",
-      "312.000 đồng",
-      "208.000 đồng",
-      "260.000 đồng"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 26.000 đồng × 9 = 234.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 234.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-56": {
-    "id": "g2-midterm-gen2-56",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Tính: 775 + 570 = ?",
-    "choices": [
-      "1335",
-      "1349",
-      "1345",
-      "1351"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "5 + 0 = 5, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 1345 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-57": {
-    "id": "g2-midterm-gen2-57",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 16 cây bút, chia đều thành 2 tổ. Hỏi mỗi tổ có bao nhiêu cây bút?",
-    "choices": [
-      "8 cây bút",
-      "6 cây bút",
-      "9 cây bút",
-      "10 cây bút"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 16 ÷ 2 = 8.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 8 cây bút ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-58": {
-    "id": "g2-midterm-gen2-58",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Tính: 654 + 460 = ?",
-    "choices": [
-      "1112",
-      "1118",
-      "1114",
-      "1109"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "4 + 0 = 4, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 1114 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-59": {
-    "id": "g2-midterm-gen2-59",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 63 chiếc kẹo, chia đều thành 7 tổ. Hỏi mỗi tổ có bao nhiêu chiếc kẹo?",
-    "choices": [
-      "9 chiếc kẹo",
-      "11 chiếc kẹo",
-      "6 chiếc kẹo",
-      "7 chiếc kẹo"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 63 ÷ 7 = 9.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 9 chiếc kẹo ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-60": {
-    "id": "g2-midterm-gen2-60",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Tính: 176 + 183 = ?",
-    "choices": [
-      "347",
-      "349",
-      "363",
-      "359"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "6 + 3 = 9, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 359 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-61": {
-    "id": "g2-midterm-gen2-61",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Tính: 181 + 406 = ?",
-    "choices": [
-      "583",
-      "587",
-      "578",
-      "599"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "1 + 6 = 7, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 587 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-62": {
-    "id": "g2-midterm-gen2-62",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 3 kg ổi, mỗi kg giá 15.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "15.000 đồng",
-      "45.000 đồng",
-      "75.000 đồng",
-      "60.000 đồng"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 15.000 đồng × 3 = 45.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 45.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-63": {
-    "id": "g2-midterm-gen2-63",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 25 cây bút, chia đều thành 5 tổ. Hỏi mỗi tổ có bao nhiêu cây bút?",
-    "choices": [
-      "6 cây bút",
-      "2 cây bút",
-      "4 cây bút",
-      "5 cây bút"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 25 ÷ 5 = 5.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 5 cây bút ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-64": {
-    "id": "g2-midterm-gen2-64",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 48 quyển vở, chia đều thành 6 tổ. Hỏi mỗi tổ có bao nhiêu quyển vở?",
-    "choices": [
-      "8 quyển vở",
-      "7 quyển vở",
-      "10 quyển vở",
-      "9 quyển vở"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 48 ÷ 6 = 8.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 8 quyển vở ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-65": {
-    "id": "g2-midterm-gen2-65",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Dãy số nào gồm các số từ 801 đến 811?",
-    "choices": [
-      "801, 803, 805, 807, 809, 811",
-      "801, 811",
-      "801, 802, 803, 804, 805, 806, 807, 808, 809, 810, 811",
-      "800, 801, 802, 803"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 801 đến 811.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-66": {
-    "id": "g2-midterm-gen2-66",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 3 kg cam, mỗi kg giá 21.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "63.000 đồng",
-      "105.000 đồng",
-      "42.000 đồng",
-      "126.000 đồng"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 21.000 đồng × 3 = 63.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 63.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-67": {
-    "id": "g2-midterm-gen2-67",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 32 cây bút, chia đều thành 8 tổ. Hỏi mỗi tổ có bao nhiêu cây bút?",
-    "choices": [
-      "3 cây bút",
-      "4 cây bút",
-      "2 cây bút",
-      "1 cây bút"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 32 ÷ 8 = 4.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 4 cây bút ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-68": {
-    "id": "g2-midterm-gen2-68",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 5 kg táo, mỗi kg giá 9.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "45.000 đồng",
-      "63.000 đồng",
-      "27.000 đồng",
-      "18.000 đồng"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 9.000 đồng × 5 = 45.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 45.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-69": {
-    "id": "g2-midterm-gen2-69",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 49 chiếc kẹo, chia đều thành 7 tổ. Hỏi mỗi tổ có bao nhiêu chiếc kẹo?",
-    "choices": [
-      "7 chiếc kẹo",
-      "5 chiếc kẹo",
-      "10 chiếc kẹo",
-      "9 chiếc kẹo"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 49 ÷ 7 = 7.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 7 chiếc kẹo ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-70": {
-    "id": "g2-midterm-gen2-70",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Dãy số nào gồm các số từ 907 đến 917?",
-    "choices": [
-      "907, 917",
-      "906, 907, 908, 909",
-      "907, 908, 909, 910, 911, 912, 913, 914, 915, 916, 917",
-      "907, 909, 911, 913, 915, 917"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 907 đến 917.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-71": {
-    "id": "g2-midterm-gen2-71",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 2 kg ổi, mỗi kg giá 13.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "13.000 đồng",
-      "26.000 đồng",
-      "39.000 đồng",
-      "65.000 đồng"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 13.000 đồng × 2 = 26.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 26.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-72": {
-    "id": "g2-midterm-gen2-72",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 10 chiếc kẹo, chia đều thành 5 tổ. Hỏi mỗi tổ có bao nhiêu chiếc kẹo?",
-    "choices": [
-      "2 chiếc kẹo",
-      "5 chiếc kẹo",
-      "1 chiếc kẹo",
-      "4 chiếc kẹo"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 10 ÷ 5 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 2 chiếc kẹo ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-73": {
-    "id": "g2-midterm-gen2-73",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Đổi đơn vị: 3000g = ... kg",
-    "choices": [
-      "300 kg",
-      "0.3 kg",
-      "30 kg",
-      "3 kg"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Ta biết 1000g = 1kg.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 3000g = 3000 ÷ 1000 = 3kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-74": {
-    "id": "g2-midterm-gen2-74",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Dãy số nào gồm các số từ 735 đến 745?",
-    "choices": [
-      "735, 745",
-      "734, 735, 736, 737",
-      "735, 737, 739, 741, 743, 745",
-      "735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 735 đến 745.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-75": {
-    "id": "g2-midterm-gen2-75",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Dãy số nào gồm các số từ 331 đến 341?",
-    "choices": [
-      "331, 341",
-      "330, 331, 332, 333",
-      "331, 333, 335, 337, 339, 341",
-      "331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 331 đến 341.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-76": {
-    "id": "g2-midterm-gen2-76",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Dãy số nào gồm các số từ 178 đến 188?",
-    "choices": [
-      "178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188",
-      "178, 188",
-      "178, 180, 182, 184, 186, 188",
-      "177, 178, 179, 180"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 178 đến 188.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-77": {
-    "id": "g2-midterm-gen2-77",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 8 cây bút, chia đều thành 2 tổ. Hỏi mỗi tổ có bao nhiêu cây bút?",
-    "choices": [
-      "2 cây bút",
-      "3 cây bút",
-      "5 cây bút",
-      "4 cây bút"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 8 ÷ 2 = 4.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 4 cây bút ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-78": {
-    "id": "g2-midterm-gen2-78",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: So sánh: 484 ... 468",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 484 và 468 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 484 > 468 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-79": {
-    "id": "g2-midterm-gen2-79",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: So sánh: 436 ... 459",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 436 và 459 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 436 < 459 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-80": {
-    "id": "g2-midterm-gen2-80",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 16 chiếc kẹo, chia đều thành 8 tổ. Hỏi mỗi tổ có bao nhiêu chiếc kẹo?",
-    "choices": [
-      "2 chiếc kẹo",
-      "1 chiếc kẹo",
-      "3 chiếc kẹo",
-      "5 chiếc kẹo"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 16 ÷ 8 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 2 chiếc kẹo ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-81": {
-    "id": "g2-midterm-gen2-81",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 40 cây bút, chia đều thành 8 tổ. Hỏi mỗi tổ có bao nhiêu cây bút?",
-    "choices": [
-      "4 cây bút",
-      "5 cây bút",
-      "7 cây bút",
-      "3 cây bút"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 40 ÷ 8 = 5.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 5 cây bút ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-82": {
-    "id": "g2-midterm-gen2-82",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Dãy số nào gồm các số từ 831 đến 841?",
-    "choices": [
-      "831, 832, 833, 834, 835, 836, 837, 838, 839, 840, 841",
-      "831, 833, 835, 837, 839, 841",
-      "831, 841",
-      "830, 831, 832, 833"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 831 đến 841.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-83": {
-    "id": "g2-midterm-gen2-83",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: So sánh: 471 ... 500",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 471 và 500 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 471 < 500 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-84": {
-    "id": "g2-midterm-gen2-84",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Tính: 347 + 154 = ?",
-    "choices": [
-      "501",
-      "500",
-      "502",
-      "509"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "7 + 4 = 11, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 501 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-85": {
-    "id": "g2-midterm-gen2-85",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 42 quyển vở, chia đều thành 6 tổ. Hỏi mỗi tổ có bao nhiêu quyển vở?",
-    "choices": [
-      "9 quyển vở",
-      "6 quyển vở",
-      "7 quyển vở",
-      "8 quyển vở"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 42 ÷ 6 = 7.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 7 quyển vở ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-86": {
-    "id": "g2-midterm-gen2-86",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 3 kg cam, mỗi kg giá 13.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "13.000 đồng",
-      "39.000 đồng",
-      "65.000 đồng",
-      "52.000 đồng"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 13.000 đồng × 3 = 39.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 39.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-87": {
-    "id": "g2-midterm-gen2-87",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 4 kg nho, mỗi kg giá 22.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "132.000 đồng",
-      "88.000 đồng",
-      "22.000 đồng",
-      "154.000 đồng"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 22.000 đồng × 4 = 88.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 88.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-88": {
-    "id": "g2-midterm-gen2-88",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Tính: 720 + 522 = ?",
-    "choices": [
-      "1243",
-      "1242",
-      "1234",
-      "1244"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "0 + 2 = 2, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 1242 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-89": {
-    "id": "g2-midterm-gen2-89",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 9 kg xoài, mỗi kg giá 15.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "120.000 đồng",
-      "165.000 đồng",
-      "135.000 đồng",
-      "180.000 đồng"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 15.000 đồng × 9 = 135.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 135.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-90": {
-    "id": "g2-midterm-gen2-90",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 7 kg nho, mỗi kg giá 15.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "135.000 đồng",
-      "60.000 đồng",
-      "105.000 đồng",
-      "90.000 đồng"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 15.000 đồng × 7 = 105.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 105.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-91": {
-    "id": "g2-midterm-gen2-91",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: So sánh: 820 ... 836",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 820 và 836 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 820 < 836 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-92": {
-    "id": "g2-midterm-gen2-92",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Tính: 586 + 699 = ?",
-    "choices": [
-      "1296",
-      "1285",
-      "1280",
-      "1273"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "6 + 9 = 15, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 1285 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-93": {
-    "id": "g2-midterm-gen2-93",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 2 kg ổi, mỗi kg giá 28.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "84.000 đồng",
-      "56.000 đồng",
-      "112.000 đồng",
-      "140.000 đồng"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 28.000 đồng × 2 = 56.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 56.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-94": {
-    "id": "g2-midterm-gen2-94",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Tính: 185 + 652 = ?",
-    "choices": [
-      "830",
-      "831",
-      "837",
-      "841"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "5 + 2 = 7, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 837 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-95": {
-    "id": "g2-midterm-gen2-95",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Một lớp có 24 chiếc kẹo, chia đều thành 8 tổ. Hỏi mỗi tổ có bao nhiêu chiếc kẹo?",
-    "choices": [
-      "3 chiếc kẹo",
-      "1 chiếc kẹo",
-      "6 chiếc kẹo",
-      "4 chiếc kẹo"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 24 ÷ 8 = 3.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 3 chiếc kẹo ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-96": {
-    "id": "g2-midterm-gen2-96",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Tính: 671 + 640 = ?",
-    "choices": [
-      "1306",
-      "1316",
-      "1311",
-      "1304"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "1 + 0 = 1, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 1311 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-97": {
-    "id": "g2-midterm-gen2-97",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Tính: 716 + 147 = ?",
-    "choices": [
-      "870",
-      "871",
-      "863",
-      "867"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "6 + 7 = 13, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 863 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-98": {
-    "id": "g2-midterm-gen2-98",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Dãy số nào gồm các số từ 972 đến 982?",
-    "choices": [
-      "972, 973, 974, 975, 976, 977, 978, 979, 980, 981, 982",
-      "972, 982",
-      "972, 974, 976, 978, 980, 982",
-      "971, 972, 973, 974"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 972 đến 982.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-99": {
-    "id": "g2-midterm-gen2-99",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 8 kg cam, mỗi kg giá 25.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "275.000 đồng",
-      "200.000 đồng",
-      "250.000 đồng",
-      "225.000 đồng"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 25.000 đồng × 8 = 200.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 200.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-midterm-gen2-100": {
-    "id": "g2-midterm-gen2-100",
-    "topicId": "g2-midterm",
-    "question": "Đề Kiểm Tra Giữa Kỳ: Mẹ mua 6 kg ổi, mỗi kg giá 30.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "150.000 đồng",
-      "210.000 đồng",
-      "240.000 đồng",
-      "180.000 đồng"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 30.000 đồng × 6 = 180.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 180.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-4": {
-    "id": "g2-final-gen2-4",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 782 ... 786",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 782 và 786 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 782 < 786 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-5": {
-    "id": "g2-final-gen2-5",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 341 ... 342",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 341 và 342 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 341 < 342 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-6": {
-    "id": "g2-final-gen2-6",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Tính: 319 + 637 = ?",
-    "choices": [
-      "958",
-      "954",
-      "956",
-      "955"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "9 + 7 = 16, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 956 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-7": {
-    "id": "g2-final-gen2-7",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Một lớp có 64 cây bút, chia đều thành 8 tổ. Hỏi mỗi tổ có bao nhiêu cây bút?",
-    "choices": [
-      "5 cây bút",
-      "8 cây bút",
-      "6 cây bút",
-      "11 cây bút"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 64 ÷ 8 = 8.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 8 cây bút ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-8": {
-    "id": "g2-final-gen2-8",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Mẹ mua 9 kg nho, mỗi kg giá 12.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "144.000 đồng",
-      "96.000 đồng",
-      "108.000 đồng",
-      "120.000 đồng"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 12.000 đồng × 9 = 108.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 108.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-9": {
-    "id": "g2-final-gen2-9",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 258 ... 266",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 258 và 266 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 258 < 266 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-10": {
-    "id": "g2-final-gen2-10",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Mẹ mua 7 kg ổi, mỗi kg giá 30.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "150.000 đồng",
-      "120.000 đồng",
-      "240.000 đồng",
-      "210.000 đồng"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 30.000 đồng × 7 = 210.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 210.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-11": {
-    "id": "g2-final-gen2-11",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Đổi đơn vị: 3000g = ... kg",
-    "choices": [
-      "0.3 kg",
-      "300 kg",
-      "3 kg",
-      "30 kg"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Ta biết 1000g = 1kg.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 3000g = 3000 ÷ 1000 = 3kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-12": {
-    "id": "g2-final-gen2-12",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Tính: 294 + 730 = ?",
-    "choices": [
-      "1013",
-      "1032",
-      "1022",
-      "1024"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "4 + 0 = 4, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 1024 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-13": {
-    "id": "g2-final-gen2-13",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Đổi đơn vị: 4000g = ... kg",
-    "choices": [
-      "40 kg",
-      "400 kg",
-      "0.4 kg",
-      "4 kg"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Ta biết 1000g = 1kg.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 4000g = 4000 ÷ 1000 = 4kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-14": {
-    "id": "g2-final-gen2-14",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 240 ... 243",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 240 và 243 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 240 < 243 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-15": {
-    "id": "g2-final-gen2-15",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Một lớp có 21 chiếc kẹo, chia đều thành 7 tổ. Hỏi mỗi tổ có bao nhiêu chiếc kẹo?",
-    "choices": [
-      "2 chiếc kẹo",
-      "3 chiếc kẹo",
-      "4 chiếc kẹo",
-      "6 chiếc kẹo"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 21 ÷ 7 = 3.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 3 chiếc kẹo ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-16": {
-    "id": "g2-final-gen2-16",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Mẹ mua 8 kg cam, mỗi kg giá 12.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "60.000 đồng",
-      "96.000 đồng",
-      "72.000 đồng",
-      "120.000 đồng"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 12.000 đồng × 8 = 96.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 96.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-17": {
-    "id": "g2-final-gen2-17",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Mẹ mua 4 kg xoài, mỗi kg giá 26.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "130.000 đồng",
-      "78.000 đồng",
-      "52.000 đồng",
-      "104.000 đồng"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 26.000 đồng × 4 = 104.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 104.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-18": {
-    "id": "g2-final-gen2-18",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Một lớp có 54 học sinh, chia đều thành 9 tổ. Hỏi mỗi tổ có bao nhiêu học sinh?",
-    "choices": [
-      "9 học sinh",
-      "5 học sinh",
-      "6 học sinh",
-      "4 học sinh"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 54 ÷ 9 = 6.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 6 học sinh ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-19": {
-    "id": "g2-final-gen2-19",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 364 ... 379",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 364 và 379 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 364 < 379 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-20": {
-    "id": "g2-final-gen2-20",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 241 ... 262",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 241 và 262 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 241 < 262 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-21": {
-    "id": "g2-final-gen2-21",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Mẹ mua 7 kg nho, mỗi kg giá 29.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "174.000 đồng",
-      "232.000 đồng",
-      "261.000 đồng",
-      "203.000 đồng"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 29.000 đồng × 7 = 203.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 203.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-22": {
-    "id": "g2-final-gen2-22",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Mẹ mua 5 kg cam, mỗi kg giá 11.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "33.000 đồng",
-      "77.000 đồng",
-      "55.000 đồng",
-      "66.000 đồng"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 11.000 đồng × 5 = 55.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 55.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-23": {
-    "id": "g2-final-gen2-23",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Đổi đơn vị: 5000g = ... kg",
-    "choices": [
-      "50 kg",
-      "5 kg",
-      "0.5 kg",
-      "500 kg"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Ta biết 1000g = 1kg.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 5000g = 5000 ÷ 1000 = 5kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-24": {
-    "id": "g2-final-gen2-24",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 510 ... 502",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 510 và 502 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 510 > 502 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-25": {
-    "id": "g2-final-gen2-25",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Đổi đơn vị: 1000g = ... kg",
-    "choices": [
-      "1 kg",
-      "10 kg",
-      "0.1 kg",
-      "100 kg"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Ta biết 1000g = 1kg.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 1000g = 1000 ÷ 1000 = 1kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-26": {
-    "id": "g2-final-gen2-26",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Một lớp có 8 cây bút, chia đều thành 2 tổ. Hỏi mỗi tổ có bao nhiêu cây bút?",
-    "choices": [
-      "4 cây bút",
-      "3 cây bút",
-      "1 cây bút",
-      "7 cây bút"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 8 ÷ 2 = 4.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 4 cây bút ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-27": {
-    "id": "g2-final-gen2-27",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Dãy số nào gồm các số từ 695 đến 705?",
-    "choices": [
-      "694, 695, 696, 697",
-      "695, 697, 699, 701, 703, 705",
-      "695, 705",
-      "695, 696, 697, 698, 699, 700, 701, 702, 703, 704, 705"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 695 đến 705.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-28": {
-    "id": "g2-final-gen2-28",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Tính: 537 + 720 = ?",
-    "choices": [
-      "1257",
-      "1249",
-      "1248",
-      "1267"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "7 + 0 = 7, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 1257 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-29": {
-    "id": "g2-final-gen2-29",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Tính: 661 + 302 = ?",
-    "choices": [
-      "953",
-      "963",
-      "965",
-      "952"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "1 + 2 = 3, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 963 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-30": {
-    "id": "g2-final-gen2-30",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Một lớp có 8 học sinh, chia đều thành 4 tổ. Hỏi mỗi tổ có bao nhiêu học sinh?",
-    "choices": [
-      "3 học sinh",
-      "1 học sinh",
-      "4 học sinh",
-      "2 học sinh"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 8 ÷ 4 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 2 học sinh ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-31": {
-    "id": "g2-final-gen2-31",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Dãy số nào gồm các số từ 321 đến 331?",
-    "choices": [
-      "321, 331",
-      "320, 321, 322, 323",
-      "321, 323, 325, 327, 329, 331",
-      "321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 321 đến 331.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-32": {
-    "id": "g2-final-gen2-32",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Dãy số nào gồm các số từ 602 đến 612?",
-    "choices": [
-      "601, 602, 603, 604",
-      "602, 603, 604, 605, 606, 607, 608, 609, 610, 611, 612",
-      "602, 612",
-      "602, 604, 606, 608, 610, 612"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 602 đến 612.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-33": {
-    "id": "g2-final-gen2-33",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 817 ... 803",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 817 và 803 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 817 > 803 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-34": {
-    "id": "g2-final-gen2-34",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 388 ... 389",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 388 và 389 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 388 < 389 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-35": {
-    "id": "g2-final-gen2-35",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 381 ... 397",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 381 và 397 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 381 < 397 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-36": {
-    "id": "g2-final-gen2-36",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 593 ... 566",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 593 và 566 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 593 > 566 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-37": {
-    "id": "g2-final-gen2-37",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 646 ... 657",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 646 và 657 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 646 < 657 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-38": {
-    "id": "g2-final-gen2-38",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Dãy số nào gồm các số từ 535 đến 545?",
-    "choices": [
-      "535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545",
-      "535, 545",
-      "535, 537, 539, 541, 543, 545",
-      "534, 535, 536, 537"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 535 đến 545.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-39": {
-    "id": "g2-final-gen2-39",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Dãy số nào gồm các số từ 679 đến 689?",
-    "choices": [
-      "679, 680, 681, 682, 683, 684, 685, 686, 687, 688, 689",
-      "679, 689",
-      "678, 679, 680, 681",
-      "679, 681, 683, 685, 687, 689"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 679 đến 689.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-40": {
-    "id": "g2-final-gen2-40",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Tính: 742 + 334 = ?",
-    "choices": [
-      "1085",
-      "1080",
-      "1067",
-      "1076"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "2 + 4 = 6, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 1076 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-41": {
-    "id": "g2-final-gen2-41",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Mẹ mua 6 kg ổi, mỗi kg giá 26.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "78.000 đồng",
-      "208.000 đồng",
-      "156.000 đồng",
-      "104.000 đồng"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 26.000 đồng × 6 = 156.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 156.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-42": {
-    "id": "g2-final-gen2-42",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Một lớp có 36 chiếc kẹo, chia đều thành 4 tổ. Hỏi mỗi tổ có bao nhiêu chiếc kẹo?",
-    "choices": [
-      "9 chiếc kẹo",
-      "8 chiếc kẹo",
-      "11 chiếc kẹo",
-      "10 chiếc kẹo"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 36 ÷ 4 = 9.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 9 chiếc kẹo ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-43": {
-    "id": "g2-final-gen2-43",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 832 ... 850",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 832 và 850 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 832 < 850 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-44": {
-    "id": "g2-final-gen2-44",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Đổi đơn vị: 2000g = ... kg",
-    "choices": [
-      "0.2 kg",
-      "200 kg",
-      "2 kg",
-      "20 kg"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Ta biết 1000g = 1kg.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 2000g = 2000 ÷ 1000 = 2kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-45": {
-    "id": "g2-final-gen2-45",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 248 ... 257",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 248 và 257 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 248 < 257 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-46": {
-    "id": "g2-final-gen2-46",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Dãy số nào gồm các số từ 801 đến 811?",
-    "choices": [
-      "800, 801, 802, 803",
-      "801, 803, 805, 807, 809, 811",
-      "801, 802, 803, 804, 805, 806, 807, 808, 809, 810, 811",
-      "801, 811"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 801 đến 811.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-47": {
-    "id": "g2-final-gen2-47",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 118 ... 148",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 118 và 148 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 118 < 148 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-48": {
-    "id": "g2-final-gen2-48",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Một lớp có 81 cây bút, chia đều thành 9 tổ. Hỏi mỗi tổ có bao nhiêu cây bút?",
-    "choices": [
-      "9 cây bút",
-      "12 cây bút",
-      "10 cây bút",
-      "6 cây bút"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 81 ÷ 9 = 9.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 9 cây bút ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-49": {
-    "id": "g2-final-gen2-49",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Một lớp có 8 quyển vở, chia đều thành 2 tổ. Hỏi mỗi tổ có bao nhiêu quyển vở?",
-    "choices": [
-      "4 quyển vở",
-      "6 quyển vở",
-      "2 quyển vở",
-      "1 quyển vở"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 8 ÷ 2 = 4.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 4 quyển vở ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-50": {
-    "id": "g2-final-gen2-50",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Một lớp có 42 quyển vở, chia đều thành 6 tổ. Hỏi mỗi tổ có bao nhiêu quyển vở?",
-    "choices": [
-      "10 quyển vở",
-      "7 quyển vở",
-      "8 quyển vở",
-      "6 quyển vở"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 42 ÷ 6 = 7.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 7 quyển vở ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-51": {
-    "id": "g2-final-gen2-51",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Mẹ mua 7 kg cam, mỗi kg giá 14.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "84.000 đồng",
-      "98.000 đồng",
-      "126.000 đồng",
-      "70.000 đồng"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 14.000 đồng × 7 = 98.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 98.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-52": {
-    "id": "g2-final-gen2-52",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Mẹ mua 2 kg táo, mỗi kg giá 17.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "85.000 đồng",
-      "17.000 đồng",
-      "34.000 đồng",
-      "51.000 đồng"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 17.000 đồng × 2 = 34.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 34.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-53": {
-    "id": "g2-final-gen2-53",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Đổi đơn vị: 8000g = ... kg",
-    "choices": [
-      "8 kg",
-      "0.8 kg",
-      "80 kg",
-      "800 kg"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Ta biết 1000g = 1kg.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 8000g = 8000 ÷ 1000 = 8kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-54": {
-    "id": "g2-final-gen2-54",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Một lớp có 12 quyển vở, chia đều thành 4 tổ. Hỏi mỗi tổ có bao nhiêu quyển vở?",
-    "choices": [
-      "6 quyển vở",
-      "3 quyển vở",
-      "2 quyển vở",
-      "4 quyển vở"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 12 ÷ 4 = 3.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 3 quyển vở ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-55": {
-    "id": "g2-final-gen2-55",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Dãy số nào gồm các số từ 546 đến 556?",
-    "choices": [
-      "546, 548, 550, 552, 554, 556",
-      "545, 546, 547, 548",
-      "546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556",
-      "546, 556"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 546 đến 556.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-56": {
-    "id": "g2-final-gen2-56",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Tính: 573 + 730 = ?",
-    "choices": [
-      "1301",
-      "1303",
-      "1291",
-      "1313"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "3 + 0 = 3, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 1303 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-57": {
-    "id": "g2-final-gen2-57",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Tính: 455 + 387 = ?",
-    "choices": [
-      "842",
-      "843",
-      "831",
-      "852"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "5 + 7 = 12, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 842 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-58": {
-    "id": "g2-final-gen2-58",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Dãy số nào gồm các số từ 107 đến 117?",
-    "choices": [
-      "107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117",
-      "107, 117",
-      "106, 107, 108, 109",
-      "107, 109, 111, 113, 115, 117"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 107 đến 117.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-59": {
-    "id": "g2-final-gen2-59",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Mẹ mua 6 kg cam, mỗi kg giá 21.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "126.000 đồng",
-      "63.000 đồng",
-      "105.000 đồng",
-      "189.000 đồng"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 21.000 đồng × 6 = 126.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 126.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-60": {
-    "id": "g2-final-gen2-60",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Một lớp có 18 học sinh, chia đều thành 3 tổ. Hỏi mỗi tổ có bao nhiêu học sinh?",
-    "choices": [
-      "3 học sinh",
-      "5 học sinh",
-      "6 học sinh",
-      "4 học sinh"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 18 ÷ 3 = 6.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 6 học sinh ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-61": {
-    "id": "g2-final-gen2-61",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Tính: 669 + 404 = ?",
-    "choices": [
-      "1080",
-      "1073",
-      "1076",
-      "1066"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "9 + 4 = 13, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 1073 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-62": {
-    "id": "g2-final-gen2-62",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Dãy số nào gồm các số từ 796 đến 806?",
-    "choices": [
-      "796, 798, 800, 802, 804, 806",
-      "795, 796, 797, 798",
-      "796, 806",
-      "796, 797, 798, 799, 800, 801, 802, 803, 804, 805, 806"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 796 đến 806.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-63": {
-    "id": "g2-final-gen2-63",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 666 ... 678",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 666 và 678 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 666 < 678 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-64": {
-    "id": "g2-final-gen2-64",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Mẹ mua 3 kg cam, mỗi kg giá 8.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "8.000 đồng",
-      "32.000 đồng",
-      "24.000 đồng",
-      "48.000 đồng"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 8.000 đồng × 3 = 24.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 24.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-65": {
-    "id": "g2-final-gen2-65",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Một lớp có 6 quyển vở, chia đều thành 3 tổ. Hỏi mỗi tổ có bao nhiêu quyển vở?",
-    "choices": [
-      "3 quyển vở",
-      "2 quyển vở",
-      "4 quyển vở",
-      "5 quyển vở"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 6 ÷ 3 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 2 quyển vở ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-66": {
-    "id": "g2-final-gen2-66",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Dãy số nào gồm các số từ 844 đến 854?",
-    "choices": [
-      "844, 845, 846, 847, 848, 849, 850, 851, 852, 853, 854",
-      "843, 844, 845, 846",
-      "844, 854",
-      "844, 846, 848, 850, 852, 854"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 844 đến 854.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-67": {
-    "id": "g2-final-gen2-67",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Dãy số nào gồm các số từ 659 đến 669?",
-    "choices": [
-      "659, 669",
-      "659, 660, 661, 662, 663, 664, 665, 666, 667, 668, 669",
-      "658, 659, 660, 661",
-      "659, 661, 663, 665, 667, 669"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 659 đến 669.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-68": {
-    "id": "g2-final-gen2-68",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Một lớp có 4 quyển vở, chia đều thành 2 tổ. Hỏi mỗi tổ có bao nhiêu quyển vở?",
-    "choices": [
-      "5 quyển vở",
-      "4 quyển vở",
-      "2 quyển vở",
-      "3 quyển vở"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 4 ÷ 2 = 2.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 2 quyển vở ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-69": {
-    "id": "g2-final-gen2-69",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Mẹ mua 4 kg ổi, mỗi kg giá 27.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "108.000 đồng",
-      "189.000 đồng",
-      "27.000 đồng",
-      "81.000 đồng"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 27.000 đồng × 4 = 108.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 108.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-70": {
-    "id": "g2-final-gen2-70",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Tính: 440 + 420 = ?",
-    "choices": [
-      "860",
-      "864",
-      "849",
-      "858"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "0 + 0 = 0, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 860 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-71": {
-    "id": "g2-final-gen2-71",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Dãy số nào gồm các số từ 309 đến 319?",
-    "choices": [
-      "309, 311, 313, 315, 317, 319",
-      "309, 319",
-      "308, 309, 310, 311",
-      "309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 309 đến 319.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-72": {
-    "id": "g2-final-gen2-72",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 574 ... 585",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 574 và 585 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 574 < 585 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-73": {
-    "id": "g2-final-gen2-73",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Tính: 727 + 782 = ?",
-    "choices": [
-      "1497",
-      "1504",
-      "1509",
-      "1505"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "7 + 2 = 9, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 1509 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-74": {
-    "id": "g2-final-gen2-74",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Đổi đơn vị: 7000g = ... kg",
-    "choices": [
-      "700 kg",
-      "70 kg",
-      "0.7 kg",
-      "7 kg"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Ta biết 1000g = 1kg.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 7000g = 7000 ÷ 1000 = 7kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-75": {
-    "id": "g2-final-gen2-75",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 651 ... 668",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 651 và 668 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 651 < 668 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-76": {
-    "id": "g2-final-gen2-76",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Dãy số nào gồm các số từ 566 đến 576?",
-    "choices": [
-      "566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576",
-      "566, 568, 570, 572, 574, 576",
-      "566, 576",
-      "565, 566, 567, 568"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 566 đến 576.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-77": {
-    "id": "g2-final-gen2-77",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Một lớp có 72 cây bút, chia đều thành 9 tổ. Hỏi mỗi tổ có bao nhiêu cây bút?",
-    "choices": [
-      "8 cây bút",
-      "9 cây bút",
-      "5 cây bút",
-      "7 cây bút"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 72 ÷ 9 = 8.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 8 cây bút ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-78": {
-    "id": "g2-final-gen2-78",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Một lớp có 30 học sinh, chia đều thành 5 tổ. Hỏi mỗi tổ có bao nhiêu học sinh?",
-    "choices": [
-      "6 học sinh",
-      "3 học sinh",
-      "9 học sinh",
-      "8 học sinh"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 30 ÷ 5 = 6.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 6 học sinh ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-79": {
-    "id": "g2-final-gen2-79",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 205 ... 199",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 205 và 199 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 205 > 199 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-80": {
-    "id": "g2-final-gen2-80",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Mẹ mua 6 kg ổi, mỗi kg giá 22.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "176.000 đồng",
-      "132.000 đồng",
-      "154.000 đồng",
-      "88.000 đồng"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 22.000 đồng × 6 = 132.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 132.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-81": {
-    "id": "g2-final-gen2-81",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Tính: 537 + 521 = ?",
-    "choices": [
-      "1062",
-      "1068",
-      "1058",
-      "1063"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "7 + 1 = 8, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 1058 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-82": {
-    "id": "g2-final-gen2-82",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Một lớp có 56 học sinh, chia đều thành 8 tổ. Hỏi mỗi tổ có bao nhiêu học sinh?",
-    "choices": [
-      "5 học sinh",
-      "8 học sinh",
-      "7 học sinh",
-      "6 học sinh"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 56 ÷ 8 = 7.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 7 học sinh ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-83": {
-    "id": "g2-final-gen2-83",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Dãy số nào gồm các số từ 126 đến 136?",
-    "choices": [
-      "125, 126, 127, 128",
-      "126, 128, 130, 132, 134, 136",
-      "126, 136",
-      "126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 126 đến 136.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-84": {
-    "id": "g2-final-gen2-84",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 815 ... 838",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 815 và 838 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 815 < 838 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-85": {
-    "id": "g2-final-gen2-85",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Mẹ mua 3 kg ổi, mỗi kg giá 28.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "168.000 đồng",
-      "140.000 đồng",
-      "56.000 đồng",
-      "84.000 đồng"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 28.000 đồng × 3 = 84.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 84.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-86": {
-    "id": "g2-final-gen2-86",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Đổi đơn vị: 9000g = ... kg",
-    "choices": [
-      "900 kg",
-      "90 kg",
-      "0.9 kg",
-      "9 kg"
-    ],
-    "answer": 3,
-    "steps": [
-      {
-        "text": "Ta biết 1000g = 1kg.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 9000g = 9000 ÷ 1000 = 9kg ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-87": {
-    "id": "g2-final-gen2-87",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Một lớp có 20 cây bút, chia đều thành 5 tổ. Hỏi mỗi tổ có bao nhiêu cây bút?",
-    "choices": [
-      "4 cây bút",
-      "1 cây bút",
-      "7 cây bút",
-      "3 cây bút"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 20 ÷ 5 = 4.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 4 cây bút ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-88": {
-    "id": "g2-final-gen2-88",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Mẹ mua 8 kg ổi, mỗi kg giá 20.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "180.000 đồng",
-      "200.000 đồng",
-      "160.000 đồng",
-      "120.000 đồng"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 20.000 đồng × 8 = 160.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 160.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-89": {
-    "id": "g2-final-gen2-89",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Tính: 732 + 125 = ?",
-    "choices": [
-      "857",
-      "856",
-      "852",
-      "846"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "2 + 5 = 7, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 857 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-90": {
-    "id": "g2-final-gen2-90",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Tính: 733 + 587 = ?",
-    "choices": [
-      "1323",
-      "1319",
-      "1320",
-      "1317"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "3 + 7 = 10, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 1320 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-91": {
-    "id": "g2-final-gen2-91",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 441 ... 438",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 441 và 438 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 441 > 438 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-92": {
-    "id": "g2-final-gen2-92",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Mẹ mua 7 kg táo, mỗi kg giá 24.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "120.000 đồng",
-      "144.000 đồng",
-      "168.000 đồng",
-      "240.000 đồng"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 24.000 đồng × 7 = 168.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 168.000 đồng ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-93": {
-    "id": "g2-final-gen2-93",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Tính: 444 + 315 = ?",
-    "choices": [
-      "765",
-      "763",
-      "759",
-      "764"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "4 + 5 = 9, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 759 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-94": {
-    "id": "g2-final-gen2-94",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: So sánh: 280 ... 278",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "?"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "So sánh từng hàng của 280 và 278 từ trái sang phải.",
-        "highlight": null
-      },
-      {
-        "text": "Vậy 280 > 278 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-95": {
-    "id": "g2-final-gen2-95",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Một lớp có 72 quyển vở, chia đều thành 8 tổ. Hỏi mỗi tổ có bao nhiêu quyển vở?",
-    "choices": [
-      "11 quyển vở",
-      "10 quyển vở",
-      "9 quyển vở",
-      "7 quyển vở"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 72 ÷ 8 = 9.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 9 quyển vở ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-96": {
-    "id": "g2-final-gen2-96",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Dãy số nào gồm các số từ 642 đến 652?",
-    "choices": [
-      "641, 642, 643, 644",
-      "642, 643, 644, 645, 646, 647, 648, 649, 650, 651, 652",
-      "642, 644, 646, 648, 650, 652",
-      "642, 652"
-    ],
-    "answer": 1,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 642 đến 652.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-97": {
-    "id": "g2-final-gen2-97",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Một lớp có 24 chiếc kẹo, chia đều thành 3 tổ. Hỏi mỗi tổ có bao nhiêu chiếc kẹo?",
-    "choices": [
-      "8 chiếc kẹo",
-      "5 chiếc kẹo",
-      "9 chiếc kẹo",
-      "11 chiếc kẹo"
-    ],
-    "answer": 0,
-    "steps": [
-      {
-        "text": "Chia đều là thực hiện phép tính chia.",
-        "highlight": "phep-chia"
-      },
-      {
-        "text": "Phép tính: 24 ÷ 3 = 8.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 8 chiếc kẹo ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-98": {
-    "id": "g2-final-gen2-98",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Tính: 359 + 272 = ?",
-    "choices": [
-      "621",
-      "622",
-      "631",
-      "641"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "9 + 2 = 11, viết và nhớ như cộng có nhớ.",
-        "highlight": "co-nho"
-      },
-      {
-        "text": "Kết quả: 631 ✅",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-99": {
-    "id": "g2-final-gen2-99",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Dãy số nào gồm các số từ 609 đến 619?",
-    "choices": [
-      "609, 611, 613, 615, 617, 619",
-      "609, 619",
-      "609, 610, 611, 612, 613, 614, 615, 616, 617, 618, 619",
-      "608, 609, 610, 611"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Đếm lần lượt từng đơn vị từ 609 đến 619.",
-        "highlight": null
-      }
-    ]
-  },
-  "g2-final-gen2-100": {
-    "id": "g2-final-gen2-100",
-    "topicId": "g2-final",
-    "question": "Đề thi Cuối Kỳ: Mẹ mua 6 kg táo, mỗi kg giá 6.000 đồng. Hỏi mẹ phải trả bao nhiêu tiền?",
-    "choices": [
-      "30.000 đồng",
-      "42.000 đồng",
-      "36.000 đồng",
-      "48.000 đồng"
-    ],
-    "answer": 2,
-    "steps": [
-      {
-        "text": "Mua nhiều món cùng giá ta dùng phép nhân.",
-        "highlight": "phep-nhan"
-      },
-      {
-        "text": "Phép tính: 6.000 đồng × 6 = 36.000 đồng.",
-        "highlight": null
-      },
-      {
-        "text": "Đáp số: 36.000 đồng ✅",
+        "text": "81 : 9 = 9 (cái bánh) ✅",
         "highlight": null
       }
     ]
