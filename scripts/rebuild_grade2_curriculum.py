@@ -752,18 +752,18 @@ def gen_final(pid, topic_id):
 # ĐỊNH NGHĨA 12 CHỦ ĐỀ MỚI + CẤU HÌNH DI TRÚ TỪ CHỦ ĐỀ CŨ
 # ==================================================================
 NEW_TOPICS = [
-    {"id": "g2-numbers100", "name": "Số Đến 100", "generator": gen_numbers100},
-    {"id": "g2-addsub100", "name": "Cộng Trừ Có Nhớ (Phạm Vi 100)", "generator": gen_addsub100},
-    {"id": "g2-geomeasure", "name": "Hình Học & Đo Lường (cm, dm, lít)", "generator": gen_geomeasure},
-    {"id": "g2-wordproblem", "name": "Giải Toán Có Lời Văn (Nhiều Hơn - Ít Hơn)", "generator": gen_wordproblem},
-    {"id": "g2-clockstats", "name": "Xem Giờ & Thống Kê Xác Suất", "generator": gen_clockstats},
-    {"id": "g2-muldiv25", "name": "Bảng Nhân Chia 2 và 5", "generator": gen_muldiv25},
-    {"id": "g2-numbers1000", "name": "Các Số Đến 1000", "generator": gen_numbers1000},
-    {"id": "g2-addsub1000", "name": "Cộng Trừ Trong Phạm Vi 1000", "generator": gen_addsub1000},
-    {"id": "g2-measureadv", "name": "Đo Lường Nâng Cao (m, km, kg, Tiền, Hình Khối)", "generator": gen_measureadv},
-    {"id": "g2-wordmuldiv", "name": "Giải Toán Nhân Chia", "generator": gen_wordmuldiv},
-    {"id": "g2-midterm", "name": "Đề Giữa Kỳ (Ôn Tập Học Kỳ 1)", "generator": gen_midterm},
-    {"id": "g2-final", "name": "Đề Cuối Kỳ (Ôn Tập Học Kỳ 2)", "generator": gen_final},
+    {"id": "g2-numbers100", "name": "Số Đến 100", "emoji": "🔢", "color": "#54A0FF", "generator": gen_numbers100},
+    {"id": "g2-addsub100", "name": "Cộng Trừ Có Nhớ (Phạm Vi 100)", "emoji": "➕", "color": "#FF6B6B", "generator": gen_addsub100},
+    {"id": "g2-geomeasure", "name": "Hình Học & Đo Lường (cm, dm, lít)", "emoji": "📏", "color": "#00B894", "generator": gen_geomeasure},
+    {"id": "g2-wordproblem", "name": "Giải Toán Có Lời Văn (Nhiều Hơn - Ít Hơn)", "emoji": "📖", "color": "#FF9F43", "generator": gen_wordproblem},
+    {"id": "g2-clockstats", "name": "Xem Giờ & Thống Kê Xác Suất", "emoji": "🕒", "color": "#FFD32A", "generator": gen_clockstats},
+    {"id": "g2-muldiv25", "name": "Bảng Nhân Chia 2 và 5", "emoji": "✖️", "color": "#5F27CD", "generator": gen_muldiv25},
+    {"id": "g2-numbers1000", "name": "Các Số Đến 1000", "emoji": "💯", "color": "#00CEC9", "generator": gen_numbers1000},
+    {"id": "g2-addsub1000", "name": "Cộng Trừ Trong Phạm Vi 1000", "emoji": "➖", "color": "#FF6B6B", "generator": gen_addsub1000},
+    {"id": "g2-measureadv", "name": "Đo Lường Nâng Cao (m, km, kg, Tiền, Hình Khối)", "emoji": "⚖️", "color": "#FF9F43", "generator": gen_measureadv},
+    {"id": "g2-wordmuldiv", "name": "Giải Toán Nhân Chia", "emoji": "🧩", "color": "#5F27CD", "generator": gen_wordmuldiv},
+    {"id": "g2-midterm", "name": "Đề Giữa Kỳ (Ôn Tập Học Kỳ 1)", "emoji": "📝", "color": "#FF6B6B", "generator": gen_midterm},
+    {"id": "g2-final", "name": "Đề Cuối Kỳ (Ôn Tập Học Kỳ 2)", "emoji": "🎓", "color": "#00B894", "generator": gen_final},
 ]
 
 def old_add_filter(p):
@@ -825,7 +825,7 @@ def main():
     new_topic_list = []
     new_topics_map = {}
     for t in NEW_TOPICS:
-        entry = {"id": t["id"], "name": t["name"], "problemIds": []}
+        entry = {"id": t["id"], "gradeId": 2, "name": t["name"], "emoji": t["emoji"], "color": t["color"], "problemIds": []}
         new_topic_list.append(entry)
         new_topics_map[t["id"]] = entry
     topics['2'] = new_topic_list

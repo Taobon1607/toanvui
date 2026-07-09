@@ -696,7 +696,10 @@ export const topics = {
         "g2-numbers100-gen3-98",
         "g2-numbers100-gen3-99",
         "g2-numbers100-gen3-100"
-      ]
+      ],
+      "gradeId": 2,
+      "emoji": "🔢",
+      "color": "#54A0FF"
     },
     {
       "id": "g2-addsub100",
@@ -802,7 +805,10 @@ export const topics = {
         "g2-addsub100-migrated-153",
         "g2-addsub100-migrated-154",
         "g2-addsub100-migrated-155"
-      ]
+      ],
+      "gradeId": 2,
+      "emoji": "➕",
+      "color": "#FF6B6B"
     },
     {
       "id": "g2-geomeasure",
@@ -908,7 +914,10 @@ export const topics = {
         "g2-geomeasure-gen3-79",
         "g2-geomeasure-gen3-80",
         "g2-geomeasure-gen3-81"
-      ]
+      ],
+      "gradeId": 2,
+      "emoji": "📏",
+      "color": "#00B894"
     },
     {
       "id": "g2-wordproblem",
@@ -1014,7 +1023,10 @@ export const topics = {
         "g2-wordproblem-gen3-98",
         "g2-wordproblem-gen3-99",
         "g2-wordproblem-gen3-100"
-      ]
+      ],
+      "gradeId": 2,
+      "emoji": "📖",
+      "color": "#FF9F43"
     },
     {
       "id": "g2-clockstats",
@@ -1120,7 +1132,10 @@ export const topics = {
         "g2-clockstats-gen3-43",
         "g2-clockstats-gen3-44",
         "g2-clockstats-gen3-45"
-      ]
+      ],
+      "gradeId": 2,
+      "emoji": "🕒",
+      "color": "#FFD32A"
     },
     {
       "id": "g2-muldiv25",
@@ -1226,7 +1241,10 @@ export const topics = {
         "g2-muldiv25-gen3-58",
         "g2-muldiv25-gen3-59",
         "g2-muldiv25-gen3-60"
-      ]
+      ],
+      "gradeId": 2,
+      "emoji": "✖️",
+      "color": "#5F27CD"
     },
     {
       "id": "g2-numbers1000",
@@ -1332,7 +1350,10 @@ export const topics = {
         "g2-numbers1000-gen3-98",
         "g2-numbers1000-gen3-99",
         "g2-numbers1000-gen3-100"
-      ]
+      ],
+      "gradeId": 2,
+      "emoji": "💯",
+      "color": "#00CEC9"
     },
     {
       "id": "g2-addsub1000",
@@ -1438,7 +1459,10 @@ export const topics = {
         "g2-addsub1000-gen3-68",
         "g2-addsub1000-gen3-69",
         "g2-addsub1000-gen3-70"
-      ]
+      ],
+      "gradeId": 2,
+      "emoji": "➖",
+      "color": "#FF6B6B"
     },
     {
       "id": "g2-measureadv",
@@ -1544,7 +1568,10 @@ export const topics = {
         "g2-measureadv-gen3-58",
         "g2-measureadv-gen3-59",
         "g2-measureadv-gen3-60"
-      ]
+      ],
+      "gradeId": 2,
+      "emoji": "⚖️",
+      "color": "#FF9F43"
     },
     {
       "id": "g2-wordmuldiv",
@@ -1650,7 +1677,10 @@ export const topics = {
         "g2-wordmuldiv-gen3-98",
         "g2-wordmuldiv-gen3-99",
         "g2-wordmuldiv-gen3-100"
-      ]
+      ],
+      "gradeId": 2,
+      "emoji": "🧩",
+      "color": "#5F27CD"
     },
     {
       "id": "g2-midterm",
@@ -1756,7 +1786,10 @@ export const topics = {
         "g2-midterm-gen3-98",
         "g2-midterm-gen3-99",
         "g2-midterm-gen3-100"
-      ]
+      ],
+      "gradeId": 2,
+      "emoji": "📝",
+      "color": "#FF6B6B"
     },
     {
       "id": "g2-final",
@@ -1862,7 +1895,10 @@ export const topics = {
         "g2-final-gen3-98",
         "g2-final-gen3-99",
         "g2-final-gen3-100"
-      ]
+      ],
+      "gradeId": 2,
+      "emoji": "🎓",
+      "color": "#00B894"
     }
   ],
   "3": [
